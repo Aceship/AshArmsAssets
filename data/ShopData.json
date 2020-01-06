@@ -1,16 +1,4 @@
 [{
-        "TypeNum": "103",
-        "TypeName": "資源補給",
-        "StoreType": 3,
-        "UseRes": "Icon_Res_6",
-        "Lock": 0,
-        "ShowRes": 1,
-        "CanBuyMore": 0,
-        "TagName": "Shop_Tag_RF",
-        "ShowType": 1,
-        "ResDes": ""
-    },
-    {
         "TypeNum": "102",
         "TypeName": "軍備交換",
         "StoreType": 3,
@@ -19,6 +7,18 @@
         "ShowRes": 1,
         "CanBuyMore": 1,
         "TagName": "Shop_Tag_RF",
+        "ShowType": 1,
+        "ResDes": ""
+    },
+    {
+        "TypeNum": "103",
+        "TypeName": "奇跡の苗木",
+        "StoreType": 3,
+        "UseRes": "IM99994",
+        "Lock": 0,
+        "ShowRes": 1,
+        "CanBuyMore": 1,
+        "TagName": "",
         "ShowType": 1,
         "ResDes": ""
     },
@@ -68,7 +68,7 @@
         "CanBuyMore": 1,
         "TagName": "Shop_Tag_RF",
         "ShowType": 1,
-        "ResDes": "居住区から遠く離れた未開の地域への「<color=#00aab9>空挺遠征</color>」に従事した者に贈られる勲章。\nショップにて様々なアイテムと交換可能。\n<color=#7C7C7CFF>空挺遠征部隊は長時間主力部隊から離れ、孤軍で未知なる区域の奥地まで探索を行うことが多い。時たま豊富な資源を獲得するものの、危険極まる任務であることに変わりはない。\n故にこの勲章を持つのは誇るべきこと。</color>"
+        "ResDes": "居住区から遠く離れた未開の地域への「<color=#00aab9>空挺遠征</color>」に従事した者に贈られる勲章。\\nショップにて様々なアイテムと交換可能。\\n<color=#7C7C7CFF>空挺遠征部隊は長時間主力部隊から離れ、孤軍で未知なる区域の奥地まで探索を行うことが多い。時たま豊富な資源を獲得するものの、危険極まる任務であることに変わりはない。\\n故にこの勲章を持つのは誇るべきこと。</color>"
     },
     {
         "TypeNum": "299",

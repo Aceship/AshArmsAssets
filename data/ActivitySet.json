@@ -1,4 +1,15 @@
 [{
+    "activityContent": "期間限定イベント 「大空の嚮導者」",
+    "activityId": "1",
+    "activityType": "3",
+    "activityTypeId": "93",
+    "endDatetimeT": "1579651199000",
+    "gachaboxs": "",
+    "imgIndex": "Event_Quest03",
+    "index": "1",
+    "position": "",
+    "startDatetimeT": "1578513599000"
+}, {
     "activityContent": "期間限定イベント 「零戦のうた」",
     "activityId": "2",
     "activityType": "3",
@@ -6,20 +17,9 @@
     "endDatetimeT": "1579132799000",
     "gachaboxs": "",
     "imgIndex": "Event_Quest04",
-    "index": "1",
-    "position": "",
-    "startDatetimeT": "1576785600000"
-}, {
-    "activityContent": "期間限定イベント 「空を落とす者」",
-    "activityId": "1",
-    "activityType": "3",
-    "activityTypeId": "96",
-    "endDatetimeT": "1578268799000",
-    "gachaboxs": "",
-    "imgIndex": "Event_Quest03",
     "index": "2",
     "position": "",
-    "startDatetimeT": "1564603200000"
+    "startDatetimeT": "1576785600000"
 }, {
     "activityContent": "     「お正月」         ログインボーナス",
     "activityId": "53",
@@ -32,17 +32,6 @@
     "position": "",
     "startDatetimeT": "1574193600000"
 }, {
-    "activityContent": "  「聖夜の贈り物」   ログインボーナス",
-    "activityId": "52",
-    "activityType": "1",
-    "activityTypeId": "SC6",
-    "endDatetimeT": "1578254399000",
-    "gachaboxs": "",
-    "imgIndex": "Event_LoginXM",
-    "index": "4",
-    "position": "",
-    "startDatetimeT": "1574193600000"
-}, {
     "activityContent": "事前登録報酬",
     "activityId": "51",
     "activityType": "1",
@@ -50,7 +39,7 @@
     "endDatetimeT": "0",
     "gachaboxs": "",
     "imgIndex": "Event_LoginBeginer",
-    "index": "5",
+    "index": "4",
     "position": "",
     "startDatetimeT": "0"
 }, {
@@ -1165,31 +1154,9 @@
         "step": "8"
     }],
     "imgIndex": "",
-    "index": "6",
+    "index": "5",
     "position": "",
     "startDatetimeT": "1575144000000"
-}, {
-    "activityContent": "       「月間」          ログインボーナス",
-    "activityId": "101",
-    "activityType": "1",
-    "activityTypeId": "SM1910",
-    "endDatetimeT": "1572551999000",
-    "gachaboxs": "",
-    "imgIndex": "Home_Banner_Default",
-    "index": "99",
-    "position": "",
-    "startDatetimeT": "1569873600000"
-}, {
-    "activityContent": "       「月間」          ログインボーナス",
-    "activityId": "102",
-    "activityType": "1",
-    "activityTypeId": "SM1911",
-    "endDatetimeT": "1575143999000",
-    "gachaboxs": "",
-    "imgIndex": "Home_Banner_Default",
-    "index": "99",
-    "position": "",
-    "startDatetimeT": "1572552000000"
 }, {
     "activityContent": "       「月間」          ログインボーナス",
     "activityId": "103",

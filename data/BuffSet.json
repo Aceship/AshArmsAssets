@@ -6230,8 +6230,8 @@
     "count": "0",
     "effectType": "powerAG,powerAA",
     "groupName": "",
-    "groupid": "0",
-    "grouplevel": "0",
+    "groupid": "40",
+    "grouplevel": "1",
     "icon": "Buff_power+,Buff_power+",
     "time": "2",
     "type": "1"
@@ -8738,8 +8738,8 @@
     "count": "0",
     "effectType": "powerAG,powerAA",
     "groupName": "",
-    "groupid": "0",
-    "grouplevel": "0",
+    "groupid": "38",
+    "grouplevel": "1",
     "icon": "Buff_power+,Buff_power+",
     "time": "2",
     "type": "1"
@@ -8749,8 +8749,8 @@
     "count": "0",
     "effectType": "powerAG,powerAA",
     "groupName": "",
-    "groupid": "0",
-    "grouplevel": "0",
+    "groupid": "39",
+    "grouplevel": "1",
     "icon": "Buff_power+,Buff_power+",
     "time": "2",
     "type": "1"
@@ -8782,8 +8782,8 @@
     "count": "0",
     "effectType": "powerAG,powerAA",
     "groupName": "",
-    "groupid": "0",
-    "grouplevel": "0",
+    "groupid": "37",
+    "grouplevel": "1",
     "icon": "Buff_power+,Buff_power+",
     "time": "2",
     "type": "1"
