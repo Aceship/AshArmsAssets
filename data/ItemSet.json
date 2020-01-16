@@ -1,7 +1,7 @@
 {
     "itempremiums": [{
         "itemid": "IP0001",
-        "name": "月卡",
+        "name": "月間戦略支援要請書",
         "description": "月間戦略支援要請書",
         "icon": "IP0001",
         "upicon": "",
@@ -13,6 +13,21 @@
         "itemRewardStr": "",
         "priceRewardStr": "1000,0,5000,0,0,150,0",
         "shopid": "9990001",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "IP0002",
+        "name": "週間委託作戦支援",
+        "description": "週間委託作戦支援",
+        "icon": "IP0002",
+        "upicon": "",
+        "rarity": "",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "periodDay": "7",
+        "itemRewardStr": "",
+        "priceRewardStr": "300,0,0,0,0,0,0",
+        "shopid": "9990002",
         "itemMiniType": "0"
     }],
     "itemconsumables": [{
@@ -29,6 +44,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC0100,1"
     }, {
         "itemid": "IC0101",
@@ -44,6 +61,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC0101,1"
     }, {
         "itemid": "IC0102",
@@ -59,6 +78,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC0102,1"
     }, {
         "itemid": "IC0200",
@@ -74,6 +95,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC0200,1"
     }, {
         "itemid": "IC0201",
@@ -89,6 +112,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC0201,1"
     }, {
         "itemid": "IC0202",
@@ -104,11 +129,13 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC0202,1"
     }, {
         "itemid": "IC3999",
         "name": "開発計画書",
-        "description": "新型ARMSの開発に関する計画書。「開発許可書」へ合成可能。\n中身を伴わない机上の空論は意味を成さず、堅実な企画設計案のみ上層部を説得できる",
+        "description": "新型ARMSの開発に関する計画書。「開発許可書」へ合成可能。中身を伴わない机上の空論は意味を成さず、堅実な企画設計案のみ上層部を説得できる",
         "icon": "IC3999",
         "upicon": "IM3999",
         "rarity": "3",
@@ -116,25 +143,29 @@
         "sellPriceStr": "0,0,0,0,0,0",
         "maxStack": "2147483647",
         "itemType": "2",
-        "playerLevelReq": "1",
+        "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC3999,10"
     }, {
-        "itemid": "IC5000",
-        "name": "IC5000",
-        "description": "これは素材です",
-        "icon": "IC1001",
-        "upicon": "IM0002",
-        "rarity": "1",
+        "itemid": "IC5001",
+        "name": "情報箱",
+        "description": "開封する度にランダムでDOLLS1体の「情報構成体」を獲得可能。\\n(出現確率：★1DOLLS35%、★2DOLLS40%、★3DOLLS25%、未所持のDOLLSの「情報構成体」も出現します)\\n※「情報箱の鍵」×1、或いは結晶石×50を消費することで開封可能\\n※結晶石を消費する場合、(無償)結晶石から優先して消費されます",
+        "icon": "IC5001",
+        "upicon": "IC5001",
+        "rarity": "5",
         "dropFrom": "",
         "sellPriceStr": "0,0,0,0,0,0",
         "maxStack": "2147483647",
-        "itemType": "2",
-        "playerLevelReq": "1",
+        "itemType": "3",
+        "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
-        "itemcostlist": "IC5000,10"
+        "priceReqStr": "0,0,0,0,0,50,0",
+        "itemReqStr": "IM99992,1",
+        "itemcostlist": "IC5001,1"
     }, {
         "itemid": "IC6001",
         "name": "通常改造素材",
@@ -149,6 +180,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6001,1"
     }, {
         "itemid": "IC6002",
@@ -164,6 +197,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6002,1"
     }, {
         "itemid": "IC6003",
@@ -179,6 +214,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6003,1"
     }, {
         "itemid": "IC6004",
@@ -194,6 +231,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6004,1"
     }, {
         "itemid": "IC6005",
@@ -209,6 +248,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6005,1"
     }, {
         "itemid": "IC6006",
@@ -224,6 +265,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6006,1"
     }, {
         "itemid": "IC6007",
@@ -239,6 +282,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6007,1"
     }, {
         "itemid": "IC6011",
@@ -254,6 +299,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6011,1"
     }, {
         "itemid": "IC6012",
@@ -269,6 +316,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6012,1"
     }, {
         "itemid": "IC6013",
@@ -284,6 +333,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6013,1"
     }, {
         "itemid": "IC6014",
@@ -299,6 +350,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6014,1"
     }, {
         "itemid": "IC6015",
@@ -314,6 +367,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6015,1"
     }, {
         "itemid": "IC6016",
@@ -329,6 +384,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6016,1"
     }, {
         "itemid": "IC6017",
@@ -344,6 +401,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6017,1"
     }, {
         "itemid": "IC6021",
@@ -359,6 +418,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6021,1"
     }, {
         "itemid": "IC6022",
@@ -374,6 +435,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6022,1"
     }, {
         "itemid": "IC6023",
@@ -389,6 +452,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6023,1"
     }, {
         "itemid": "IC6024",
@@ -404,6 +469,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6024,1"
     }, {
         "itemid": "IC6025",
@@ -419,6 +486,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6025,1"
     }, {
         "itemid": "IC6026",
@@ -434,6 +503,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6026,1"
     }, {
         "itemid": "IC6027",
@@ -449,6 +520,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC6027,1"
     }, {
         "itemid": "IC7001",
@@ -464,6 +537,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC7001,1"
     }, {
         "itemid": "IC7002",
@@ -479,6 +554,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC7002,1"
     }, {
         "itemid": "IC7003",
@@ -494,6 +571,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC7003,1"
     }, {
         "itemid": "IC7011",
@@ -509,6 +588,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC7011,1"
     }, {
         "itemid": "IC7012",
@@ -524,6 +605,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC7012,1"
     }, {
         "itemid": "IC7013",
@@ -539,6 +622,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC7013,1"
     }, {
         "itemid": "IC7021",
@@ -554,6 +639,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC7021,1"
     }, {
         "itemid": "IC7022",
@@ -569,6 +656,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC7022,1"
     }, {
         "itemid": "IC7023",
@@ -584,6 +673,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC7023,1"
     }, {
         "itemid": "IC9001",
@@ -599,6 +690,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC9001,1"
     }, {
         "itemid": "IC9002",
@@ -614,6 +707,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC9002,1"
     }, {
         "itemid": "IC9003",
@@ -629,6 +724,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC9003,1"
     }, {
         "itemid": "IC9004",
@@ -644,6 +741,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC9004,1"
     }, {
         "itemid": "IC9005",
@@ -659,6 +758,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC9005,1"
     }, {
         "itemid": "IC9011",
@@ -674,6 +775,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC9011,1"
     }, {
         "itemid": "IC9012",
@@ -689,6 +792,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC9012,1"
     }, {
         "itemid": "IC9013",
@@ -704,6 +809,8 @@
         "playerLevelReq": "0",
         "goldReward": "0",
         "tokenReward": "0",
+        "priceReqStr": "",
+        "itemReqStr": "",
         "itemcostlist": "IC9013,1"
     }],
     "itemintensives": [{
@@ -1585,6 +1692,32 @@
         "maxStack": "0",
         "armsids": "ARM104501,ARM104502",
         "shopad": "Skin_ARM10459001",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10460101",
+        "name": "M26 パーシング",
+        "description": "M26 パーシング",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM104601,ARM104602",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10460201",
+        "name": "T26E4 スーパーパーシング",
+        "description": "T26E4 スーパーパーシング",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM104602",
+        "shopad": "",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10470101",
@@ -10134,6 +10267,19 @@
         "constructionFormula": "",
         "constructionGoldCost": "0",
         "bluePrintType": "4"
+    }, {
+        "itemid": "IM99992",
+        "name": "情報箱の鍵",
+        "description": "繊細な故に1度しか使用できない鍵。\\n情報箱を開けるのに必要とされるアイテム。使用後、当該アイテムは消耗される。",
+        "icon": "IM99992",
+        "upicon": "IM99992",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
     }, {
         "itemid": "IM99993",
         "name": "投票券",

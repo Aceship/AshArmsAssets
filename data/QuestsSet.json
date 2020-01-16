@@ -24,8 +24,8 @@
     "questsid": "1010002",
     "state": "1",
     "type": "1",
-    "userItems": "",
-    "userItemsBack": ""
+    "userItems": "IM99992,1",
+    "userItemsBack": "[[IM99992,1]]"
 }, {
     "charid": "",
     "content": "偵察を行い、限定ステージで1回勝利する",
@@ -39,7 +39,7 @@
     "state": "1",
     "type": "1",
     "userItems": "IC9001,5",
-    "userItemsBack": "[[IC9001,5]"
+    "userItemsBack": "[[IC9001,5]]"
 }, {
     "charid": "",
     "content": "偵察を行い、限定ステージで2回勝利する",
@@ -52,8 +52,8 @@
     "questsid": "1010004",
     "state": "1",
     "type": "1",
-    "userItems": "IM90003,1",
-    "userItemsBack": "[[IM90003,1]]"
+    "userItems": "IM90003,1|IM99992,1",
+    "userItemsBack": "[[IM90003,1],[IM99992,1]]"
 }, {
     "charid": "",
     "content": "メインステージで3回勝利する",
@@ -80,8 +80,8 @@
     "questsid": "1010006",
     "state": "1",
     "type": "1",
-    "userItems": "IM0008,1",
-    "userItemsBack": "[[IM0008,1]]"
+    "userItems": "IM0008,1|IM99992,1",
+    "userItemsBack": "[[IM0008,1],[IM99992,1]]"
 }, {
     "charid": "",
     "content": "任意のステージでS勝利を3回達成する",
@@ -108,8 +108,8 @@
     "questsid": "1010008",
     "state": "1",
     "type": "1",
-    "userItems": "IM0008,1",
-    "userItemsBack": "[[IM0008,1]]"
+    "userItems": "IM0008,1|IM99992,1",
+    "userItemsBack": "[[IM0008,1],[IM99992,1]]"
 }, {
     "charid": "",
     "content": "量産工場でDOLLSを3回量産する",
@@ -136,8 +136,8 @@
     "questsid": "1010010",
     "state": "1",
     "type": "1",
-    "userItems": "IM0006,2",
-    "userItemsBack": "[[IM0006,2]]"
+    "userItems": "IM0006,2|IM99992,3",
+    "userItemsBack": "[[IM0006,2],[IM99992,3]]"
 }, {
     "charid": "",
     "content": "訓練所で15回勝利する",
@@ -150,8 +150,8 @@
     "questsid": "2010001",
     "state": "1",
     "type": "2",
-    "userItems": "",
-    "userItemsBack": ""
+    "userItems": "IM99992,5",
+    "userItemsBack": "[[IM99992,5]]"
 }, {
     "charid": "",
     "content": "偵察を行い、限定ステージで10回勝利する",
@@ -178,8 +178,8 @@
     "questsid": "2010003",
     "state": "1",
     "type": "2",
-    "userItems": "",
-    "userItemsBack": ""
+    "userItems": "IM99992,5",
+    "userItemsBack": "[[IM99992,5]]"
 }, {
     "charid": "",
     "content": "任意のステージでS勝利を15回達成する",
@@ -192,8 +192,8 @@
     "questsid": "2010004",
     "state": "1",
     "type": "2",
-    "userItems": "II10003,5",
-    "userItemsBack": "[[II10003,5]]"
+    "userItems": "II10003,5|IM99992,5",
+    "userItemsBack": "[[II10003,5],[IM99992,5]]"
 }, {
     "charid": "",
     "content": "任意の敵を100体撃破する",
@@ -206,8 +206,8 @@
     "questsid": "2010005",
     "state": "1",
     "type": "2",
-    "userItems": "IC3999,2",
-    "userItemsBack": "[[IC3999,2]]"
+    "userItems": "IC3999,2|IM99992,5",
+    "userItemsBack": "[[IC3999,2],[IM99992,5]]"
 }, {
     "charid": "",
     "content": "戦闘で共生種を10回撃破する",
@@ -4592,7 +4592,7 @@
     "userItemsBack": "[IM99995,700]"
 }, {
     "charid": "",
-    "content": "メイン任務を30回達成する",
+    "content": "メインステージを30回クリア",
     "cycle": "0",
     "exp": "0",
     "name": "event",

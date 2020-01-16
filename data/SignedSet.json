@@ -47,136 +47,94 @@
         "signedCode": "SC1"
     }]
 }, {
-    "dateBeginLong": "1574175600000",
-    "dateEndLong": "1578236400000",
-    "signedCode": "SC6",
-    "signedName": "圣诞签到",
+    "dateBeginLong": "1579186800000",
+    "dateEndLong": "1580828400000",
+    "signedCode": "SC8",
+    "signedName": "配信3ヶ月記念ログインボーナス",
     "signeds": [{
         "charid": "",
         "day": "1",
-        "itemReward": "IM0008,3",
-        "priceRewardStr": "0,0,0,0,0,0,0",
-        "signedCode": "SC6"
+        "itemReward": "IC5001,20",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC8"
     }, {
         "charid": "",
         "day": "2",
-        "itemReward": "IM99994,50",
-        "priceRewardStr": "0,0,0,0,0,0,0",
-        "signedCode": "SC6"
+        "itemReward": "IM99992,20",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC8"
     }, {
         "charid": "",
         "day": "3",
         "itemReward": "",
-        "priceRewardStr": "1000,0,0,0,0,0,0",
-        "signedCode": "SC6"
-    }, {
-        "charid": "",
-        "day": "4",
-        "itemReward": "IM0008,3",
-        "priceRewardStr": "0,0,0,0,0,0,0",
-        "signedCode": "SC6"
-    }, {
-        "charid": "",
-        "day": "5",
-        "itemReward": "IM99994,50",
-        "priceRewardStr": "0,0,0,0,0,0,0",
-        "signedCode": "SC6"
-    }, {
-        "charid": "",
-        "day": "6",
-        "itemReward": "",
-        "priceRewardStr": "1000,0,0,0,0,0,0",
-        "signedCode": "SC6"
-    }, {
-        "charid": "",
-        "day": "7",
-        "itemReward": "IM0008,3",
-        "priceRewardStr": "0,0,0,0,0,0,0",
-        "signedCode": "SC6"
-    }, {
-        "charid": "",
-        "day": "8",
-        "itemReward": "IM99994,50",
-        "priceRewardStr": "0,0,0,0,0,0,0",
-        "signedCode": "SC6"
-    }, {
-        "charid": "",
-        "day": "9",
-        "itemReward": "IM9001,1",
-        "priceRewardStr": "0,0,0,0,0,0,0",
-        "signedCode": "SC6"
-    }, {
-        "charid": "",
-        "day": "10",
-        "itemReward": "",
-        "priceRewardStr": "0,0,0,0,0,500,0",
-        "signedCode": "SC6"
-    }]
-}, {
-    "dateBeginLong": "1574175600000",
-    "dateEndLong": "1579100400000",
-    "signedCode": "SC7",
-    "signedName": "新年签到",
-    "signeds": [{
-        "charid": "",
-        "day": "1",
-        "itemReward": "",
-        "priceRewardStr": "0,0,20000,0,0,0,0",
-        "signedCode": "SC7"
-    }, {
-        "charid": "",
-        "day": "2",
-        "itemReward": "IM99993,10",
-        "priceRewardStr": "0,0,0,0,0,0,0",
-        "signedCode": "SC7"
-    }, {
-        "charid": "",
-        "day": "3",
-        "itemReward": "",
-        "priceRewardStr": "1000,0,0,0,0,0,0",
-        "signedCode": "SC7"
+        "priceRewardStr": "0,0,0,0,0,200",
+        "signedCode": "SC8"
     }, {
         "charid": "",
         "day": "4",
         "itemReward": "",
-        "priceRewardStr": "0,0,20000,0,0,0,0",
-        "signedCode": "SC7"
+        "priceRewardStr": "0,0,30000,0,0,0",
+        "signedCode": "SC8"
     }, {
         "charid": "",
         "day": "5",
-        "itemReward": "IM99993,10",
-        "priceRewardStr": "0,0,0,0,0,0,0",
-        "signedCode": "SC7"
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,10,0,0",
+        "signedCode": "SC8"
     }, {
         "charid": "",
         "day": "6",
-        "itemReward": "",
-        "priceRewardStr": "1000,0,0,0,0,0,0",
-        "signedCode": "SC7"
+        "itemReward": "IM90003,2",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC8"
     }, {
         "charid": "",
         "day": "7",
         "itemReward": "",
-        "priceRewardStr": "0,0,20000,0,0,0,0",
-        "signedCode": "SC7"
+        "priceRewardStr": "0,0,0,0,0,200",
+        "signedCode": "SC8"
     }, {
         "charid": "",
         "day": "8",
-        "itemReward": "IM99993,10",
-        "priceRewardStr": "0,0,0,0,0,0,0",
-        "signedCode": "SC7"
+        "itemReward": "IC5001,20",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC8"
     }, {
         "charid": "",
         "day": "9",
-        "itemReward": "IM9001,1",
-        "priceRewardStr": "0,0,0,0,0,0,0",
-        "signedCode": "SC7"
+        "itemReward": "IM99992,20",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC8"
     }, {
         "charid": "",
         "day": "10",
         "itemReward": "",
-        "priceRewardStr": "0,0,0,0,0,500,0",
-        "signedCode": "SC7"
+        "priceRewardStr": "0,0,0,0,0,300",
+        "signedCode": "SC8"
+    }, {
+        "charid": "",
+        "day": "11",
+        "itemReward": "",
+        "priceRewardStr": "0,0,30000,0,0,0",
+        "signedCode": "SC8"
+    }, {
+        "charid": "",
+        "day": "12",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,10,0,0",
+        "signedCode": "SC8"
+    }, {
+        "charid": "",
+        "day": "13",
+        "itemReward": "IM90003,2",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC8"
+    }, {
+        "charid": "",
+        "day": "14",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,300",
+        "signedCode": "SC8"
     }]
 }, {
     "dateBeginLong": "1577804400000",

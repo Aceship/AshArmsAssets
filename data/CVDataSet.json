@@ -4235,6 +4235,166 @@
         ]
     },
     {
+        "ARMSID": "ARM104601",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "オープンファイア！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "主砲発射！元気注入！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "レッツ、ゴー！ずんずん進むよー！"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "オケ、オケ！守り抜くよ！"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "ごめんね、みんな……。アタシ、ダメみたい……。"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "資源回収部隊のみんな、美味しいドリンクを用意して待ってるね。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "きゃっ！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "うぅ。"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "オーケー！"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "ダメみたいだよ？"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "ハ～イ♪"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "ゴー！ファイト！"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "ＯＫ♪頑張っちゃうぞー！"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "ハーイ！星屑連邦学連所属の重戦車型DOLLLS、M26パーシングよ！アタシが来たからにはもう安心！どんなに強い災獣が相手でも、絶対に負けないわ！よろしくね！"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "出撃するよ！ヒアウイゴー！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "ゴー！ファイト！ウイン！みんな、勝ちに行くよ！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "みんな、無事？……よかった。"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "レベルアーップ！どんどん強くなっちゃうからね！見てて！"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "電文が届いたよー。ここに置いておくね。"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "ふぅー。"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "代理人！Ｔ２６Ｅ４スーパーパーシングに改造完了したよ！主砲を換装して火力がアップしたの！この力でアタシ、みんなのためにもっともっと頑張れちゃうね！改めてよろしく、代理人！\r\n"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "改造が可能になったよ！ワクワクするね！"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "アタシがＭＶＰ！？いやー、それはまことにおそれおおいにゃあ。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "おー、アタシがいっぱい。増えたみんなとチアしたら楽しそー。見たい？"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "ありがと！（チュッ！）……ふふ、キスは余計だった？"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "ありがとう。これでもっと頑張れるね！"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "サンキュ！強くなっちゃった！"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "ハーイ！今日も元気に頑張ろう！ゴー！ファイト！"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "おかえり、資源回収部隊のみんな！ドリンクたくさん用意したから、好きなの持っていって！"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "帰還しました―。代理人、シャワー浴びてきていい？報告書はその後出すね。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "元気があれば何だってできるよ♪"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "元気出して！ハッピーシェル、ファイア！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "落ち込まないで！いつかきっと良いことが起きるよ！だから、笑って！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "アタシは黒十字帝国学連のタイガーたちを倒すため造られたんだけど……。……うん、あの子たちは強敵。もっともっと、頑張らないと。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "パーシングの嫌いなもの？うーん……お硬い融通効かない人や、偉ぶったりする人とかかなあ。あ、でも、マジメな人は好き！見栄っ張りな人も可愛くて好きだよ。"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "パーシングの好きなものは、ポテトチップスと、あとコーヒーかな。ミルクと砂糖、たっぷりのやつ！あと、チアダンスも好きかな。今度、みせてあげるね。"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "アタシの頭を撫でてくれるの？はい、どーぞ。"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "イエス！やったね、代理人！"
+            }
+        ]
+    },
+    {
         "ARMSID": "ARM104701",
         "CVDesArray": [{
                 "CVType": "Attack1",

@@ -31,6 +31,7 @@
         "powerAGs": "71,194",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -45,6 +46,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "3.53,3.53,3.53,3.53,3.53",
+    "reformDegree": "130",
     "synthesizePiece": "IM91001,100"
 }, {
     "armorGrowthStr": "0.21,0.21,0.21,0.21,0.21",
@@ -79,6 +81,7 @@
         "powerAGs": "42,99,188,341",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -93,6 +96,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "2.68,2.68,2.68,2.68,2.68",
+    "reformDegree": "75",
     "synthesizePiece": "IM91002,10"
 }, {
     "armorGrowthStr": "0.33,0.33,0.33,0.33,0.33",
@@ -127,6 +131,7 @@
         "powerAGs": "78,212",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -141,6 +146,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "3.86,3.86,3.86,3.86,3.86",
+    "reformDegree": "130",
     "synthesizePiece": "IM91003,100"
 }, {
     "armorGrowthStr": "0.3,0.3,0.3,0.3,0.3",
@@ -175,6 +181,7 @@
         "powerAGs": "73,198",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -189,6 +196,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "3.62,3.62,3.62,3.62,3.62",
+    "reformDegree": "130",
     "synthesizePiece": "IM91004,100"
 }, {
     "armorGrowthStr": "0.19,0.19,0.19,0.19,0.19",
@@ -223,6 +231,7 @@
         "powerAGs": "26,64,131",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -237,6 +246,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.48,1.48,1.48,1.48,1.48",
+    "reformDegree": "100",
     "synthesizePiece": "IM91005,40"
 }, {
     "armorGrowthStr": "0.18,0.18,0.18,0.18,0.18",
@@ -271,6 +281,7 @@
         "powerAGs": "17,41,77,140",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -285,6 +296,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.1,1.1,1.1,1.1,1.1",
+    "reformDegree": "75",
     "synthesizePiece": "IM91006,10"
 }, {
     "armorGrowthStr": "0.18,0.18,0.18,0.18,0.18",
@@ -319,6 +331,7 @@
         "powerAGs": "31,77,158",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -333,6 +346,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.78,1.78,1.78,1.78,1.78",
+    "reformDegree": "100",
     "synthesizePiece": "IM91007,40"
 }, {
     "armorGrowthStr": "0.22,0.22,0.22,0.22,0.22",
@@ -367,6 +381,7 @@
         "powerAGs": "30,76,154",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -381,6 +396,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.74,1.74,1.74,1.74,1.74",
+    "reformDegree": "100",
     "synthesizePiece": "IM91008,40"
 }, {
     "armorGrowthStr": "0.21,0.21,0.21,0.21,0.21",
@@ -415,6 +431,7 @@
         "powerAGs": "28,72,146",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -429,6 +446,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.65,1.65,1.65,1.65,1.65",
+    "reformDegree": "100",
     "synthesizePiece": "IM91009,40"
 }, {
     "armorGrowthStr": "0.16,0.16,0.16,0.16,0.16",
@@ -463,6 +481,7 @@
         "powerAGs": "19,44,83,150",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -477,6 +496,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.18,1.18,1.18,1.18,1.18",
+    "reformDegree": "75",
     "synthesizePiece": "IM91010,10"
 }, {
     "armorGrowthStr": "0.18,0.18,0.18,0.18,0.18",
@@ -511,6 +531,7 @@
         "powerAGs": "24,61,123",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -525,6 +546,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.39,1.39,1.39,1.39,1.39",
+    "reformDegree": "100",
     "synthesizePiece": "IM91012,40"
 }, {
     "armorGrowthStr": "0.18,0.18,0.18,0.18,0.18",
@@ -559,6 +581,7 @@
         "powerAGs": "32,80,163",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -573,6 +596,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.84,1.84,1.84,1.84,1.84",
+    "reformDegree": "100",
     "synthesizePiece": "IM91015,40"
 }, {
     "armorGrowthStr": "0.19,0.19,0.19,0.19,0.19",
@@ -607,6 +631,7 @@
         "powerAGs": "16,37,70,126",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -621,6 +646,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "0.99,0.99,0.99,0.99,0.99",
+    "reformDegree": "75",
     "synthesizePiece": "IM91016,10"
 }, {
     "armorGrowthStr": "0.16,0.16,0.16,0.16,0.16",
@@ -655,6 +681,7 @@
         "powerAGs": "17,41,78,141",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -669,6 +696,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.11,1.11,1.11,1.11,1.11",
+    "reformDegree": "75",
     "synthesizePiece": "IM91017,10"
 }, {
     "armorGrowthStr": "0.17,0.17,0.17,0.17,0.17",
@@ -703,6 +731,7 @@
         "powerAGs": "17,40,77,139",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -717,6 +746,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.09,1.09,1.09,1.09,1.09",
+    "reformDegree": "75",
     "synthesizePiece": "IM91020,10"
 }, {
     "armorGrowthStr": "0.16,0.16,0.16,0.16,0.16",
@@ -751,6 +781,7 @@
         "powerAGs": "15,36,68,124",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -765,6 +796,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "0.97,0.97,0.97,0.97,0.97",
+    "reformDegree": "75",
     "synthesizePiece": "IM91021,10"
 }, {
     "armorGrowthStr": "0.22,0.22,0.22,0.22,0.22",
@@ -799,6 +831,7 @@
         "powerAGs": "58,145,296",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -813,6 +846,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "3.34,3.34,3.34,3.34,3.34",
+    "reformDegree": "100",
     "synthesizePiece": "IM91023,40"
 }, {
     "armorGrowthStr": "0.2,0.2,0.2,0.2,0.2",
@@ -847,6 +881,7 @@
         "powerAGs": "52,130,265",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -861,6 +896,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "2.99,2.99,2.99,2.99,2.99",
+    "reformDegree": "100",
     "synthesizePiece": "IM91024,40"
 }, {
     "armorGrowthStr": "0.28,0.28,0.28,0.28,0.28",
@@ -895,6 +931,7 @@
         "powerAGs": "75,203",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -909,6 +946,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "3.71,3.71,3.71,3.71,3.71",
+    "reformDegree": "130",
     "synthesizePiece": "IM91028,100"
 }, {
     "armorGrowthStr": "0.16,0.16,0.16,0.16,0.16",
@@ -943,6 +981,7 @@
         "powerAGs": "37,87,165,299",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -957,6 +996,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "2.35,2.35,2.35,2.35,2.35",
+    "reformDegree": "75",
     "synthesizePiece": "IM91033,10"
 }, {
     "armorGrowthStr": "0.2,0.2,0.2,0.2,0.2",
@@ -991,6 +1031,7 @@
         "powerAGs": "80,216",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -1005,6 +1046,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "3.94,3.94,3.94,3.94,3.94",
+    "reformDegree": "130",
     "synthesizePiece": "IM91037,100"
 }, {
     "armorGrowthStr": "0.16,0.16,0.16,0.16,0.16",
@@ -1039,6 +1081,7 @@
         "powerAGs": "21,54,109",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -1053,6 +1096,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.9,0.9,0.9,0.9,0.9",
     "powerAGGrowthStr": "1.23,1.23,1.23,1.23,1.23",
+    "reformDegree": "100",
     "synthesizePiece": "IM91040,40"
 }, {
     "armorGrowthStr": "0.22,0.22,0.22,0.22,0.22",
@@ -1087,6 +1131,7 @@
         "powerAGs": "32,87",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -1101,6 +1146,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.58,1.58,1.58,1.58,1.58",
+    "reformDegree": "130",
     "synthesizePiece": "IM91044,100"
 }, {
     "armorGrowthStr": "0.23,0.23,0.23,0.23,0.23",
@@ -1135,6 +1181,7 @@
         "powerAGs": "88,237",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -1149,7 +1196,58 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "2.51,2.51,2.51,2.51,2.51",
     "powerAGGrowthStr": "4.33,4.33,4.33,4.33,4.33",
+    "reformDegree": "130",
     "synthesizePiece": "IM91045,100"
+}, {
+    "armorGrowthStr": "0.28,0.28,0.28,0.28,0.28",
+    "armorPenetrationGrowthStr": "0.22,0.22,0.22,0.22,0.22",
+    "armsid": "ARM104601",
+    "charDescription": "M26 パーシングを獲得\\nすでに入手しているDOLLSは情報ノ断片に自動変換されます",
+    "charName": "M26 パーシング",
+    "charRarity": "3",
+    "charStar": "3",
+    "charType": "1",
+    "charUpgrade": {
+        "armorPenetrations": "7,17",
+        "armorRatings": "9,22",
+        "charLevelReqs": "35,70",
+        "charid": "DOL1046",
+        "cmdValues": "6,12",
+        "critDamages": "0,0",
+        "criticals": "0,0",
+        "description": "测试文本",
+        "dodges": "5,11",
+        "goldCosts": "0,0",
+        "hits": "5,12",
+        "hps": "69,186",
+        "icon": "DOL1046",
+        "itemCosts": "IM91046,IM91046",
+        "itemNumbers": "120,150",
+        "itemSubs": "IM99998,IM99998",
+        "lucks": "7,14",
+        "maxLevel": "2",
+        "name": "M26 パーシング",
+        "powerAAs": "0,0",
+        "powerAGs": "74,199",
+        "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
+        "reacs": "0,0",
+        "reformDegrees": "170,390",
+        "skillUps": "1|2",
+        "targetWeights": "0,0"
+    },
+    "charid": "DOL1046",
+    "cmdGrowthStr": "0.0,0.0,0.0,0.0,0.0",
+    "combatSkillListStr": "DOL1046",
+    "dodgeGrowthStr": "0.14,0.14,0.14,0.14,0.14",
+    "hitGrowthStr": "0.16,0.16,0.16,0.16,0.16",
+    "hpGrowthStr": "3.4,3.4,3.4,3.4,3.4",
+    "luckGrowthStr": "0.0,0.0,0.0,0.0,0.0",
+    "piecesItemid": "IM91046",
+    "piecesNum": "100",
+    "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
+    "powerAGGrowthStr": "3.63,3.63,3.63,3.63,3.63",
+    "reformDegree": "130",
+    "synthesizePiece": "IM91046,100"
 }, {
     "armorGrowthStr": "0.23,0.23,0.23,0.23,0.23",
     "armorPenetrationGrowthStr": "0.19,0.19,0.19,0.19,0.19",
@@ -1183,6 +1281,7 @@
         "powerAGs": "38,102",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -1197,6 +1296,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.86,1.86,1.86,1.86,1.86",
+    "reformDegree": "130",
     "synthesizePiece": "IM91047,100"
 }, {
     "armorGrowthStr": "0.23,0.23,0.23,0.23,0.23",
@@ -1231,6 +1331,7 @@
         "powerAGs": "76,206",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -1245,6 +1346,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "3.76,3.76,3.76,3.76,3.76",
+    "reformDegree": "130",
     "synthesizePiece": "IM91052,100"
 }, {
     "armorGrowthStr": "0.16,0.16,0.16,0.16,0.16",
@@ -1279,6 +1381,7 @@
         "powerAGs": "18,43,81,146",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -1293,6 +1396,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.15,1.15,1.15,1.15,1.15",
+    "reformDegree": "75",
     "synthesizePiece": "IM91053,10"
 }, {
     "armorGrowthStr": "0.18,0.18,0.18,0.18,0.18",
@@ -1327,6 +1431,7 @@
         "powerAGs": "53,135,274",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -1341,6 +1446,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "3.09,3.09,3.09,3.09,3.09",
+    "reformDegree": "100",
     "synthesizePiece": "IM91054,40"
 }, {
     "armorGrowthStr": "0.18,0.18,0.18,0.18,0.18",
@@ -1375,6 +1481,7 @@
         "powerAGs": "19,44,83,150",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -1389,6 +1496,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.18,1.18,1.18,1.18,1.18",
+    "reformDegree": "75",
     "synthesizePiece": "IM91055,10"
 }, {
     "armorGrowthStr": "0.27,0.27,0.27,0.27,0.27",
@@ -1423,6 +1531,7 @@
         "powerAGs": "82,221",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -1437,6 +1546,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "4.03,4.03,4.03,4.03,4.03",
+    "reformDegree": "130",
     "synthesizePiece": "IM91056,100"
 }, {
     "armorGrowthStr": "0.32,0.32,0.32,0.32,0.32",
@@ -1471,6 +1581,7 @@
         "powerAGs": "82,223",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -1485,6 +1596,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "4.07,4.07,4.07,4.07,4.07",
+    "reformDegree": "130",
     "synthesizePiece": "IM91057,100"
 }, {
     "armorGrowthStr": "0.16,0.16,0.16,0.16,0.16",
@@ -1519,6 +1631,7 @@
         "powerAGs": "15,36,68,124",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -1533,6 +1646,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.71,0.71,0.71,0.71,0.71",
     "powerAGGrowthStr": "0.97,0.97,0.97,0.97,0.97",
+    "reformDegree": "75",
     "synthesizePiece": "IM91058,10"
 }, {
     "armorGrowthStr": "0.21,0.21,0.21,0.21,0.21",
@@ -1567,6 +1681,7 @@
         "powerAGs": "49,123,250",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -1581,6 +1696,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "2.82,2.82,2.82,2.82,2.82",
+    "reformDegree": "100",
     "synthesizePiece": "IM91059,40"
 }, {
     "armorGrowthStr": "0.22,0.22,0.22,0.22,0.22",
@@ -1615,6 +1731,7 @@
         "powerAGs": "28,70,143",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -1629,6 +1746,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.61,1.61,1.61,1.61,1.61",
+    "reformDegree": "100",
     "synthesizePiece": "IM91060,40"
 }, {
     "armorGrowthStr": "0.18,0.18,0.18,0.18,0.18",
@@ -1663,6 +1781,7 @@
         "powerAGs": "24,61,124",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -1677,6 +1796,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "1.4,1.4,1.4,1.4,1.4",
+    "reformDegree": "100",
     "synthesizePiece": "IM91061,40"
 }, {
     "armorGrowthStr": "0.22,0.22,0.22,0.22,0.22",
@@ -1711,6 +1831,7 @@
         "powerAGs": "43,115",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -1725,6 +1846,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.0,0.0,0.0,0.0,0.0",
     "powerAGGrowthStr": "2.1,2.1,2.1,2.1,2.1",
+    "reformDegree": "130",
     "synthesizePiece": "IM91079,100"
 }, {
     "armorGrowthStr": "0.24,0.24,0.24,0.24,0.24",
@@ -1759,6 +1881,7 @@
         "powerAGs": "69,188",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -1773,6 +1896,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "2.23,2.23,2.23,2.23,2.23",
     "powerAGGrowthStr": "3.43,3.43,3.43,3.43,3.43",
+    "reformDegree": "130",
     "synthesizePiece": "IM92001,100"
 }, {
     "armorGrowthStr": "0.22,0.22,0.22,0.22,0.22",
@@ -1807,6 +1931,7 @@
         "powerAGs": "51,129,262",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -1821,6 +1946,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "2.06,2.06,2.06,2.06,2.06",
     "powerAGGrowthStr": "2.96,2.96,2.96,2.96,2.96",
+    "reformDegree": "100",
     "synthesizePiece": "IM92002,40"
 }, {
     "armorGrowthStr": "0.19,0.19,0.19,0.19,0.19",
@@ -1855,6 +1981,7 @@
         "powerAGs": "28,76",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -1869,6 +1996,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "1.06,1.06,1.06,1.06,1.06",
     "powerAGGrowthStr": "1.38,1.38,1.38,1.38,1.38",
+    "reformDegree": "130",
     "synthesizePiece": "IM92006,100"
 }, {
     "armorGrowthStr": "0.17,0.17,0.17,0.17,0.17",
@@ -1903,6 +2031,7 @@
         "powerAGs": "20,50,102",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -1917,6 +2046,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.76,0.76,0.76,0.76,0.76",
     "powerAGGrowthStr": "1.15,1.15,1.15,1.15,1.15",
+    "reformDegree": "100",
     "synthesizePiece": "IM92007,40"
 }, {
     "armorGrowthStr": "0.19,0.19,0.19,0.19,0.19",
@@ -1951,6 +2081,7 @@
         "powerAGs": "31,84",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -1965,6 +2096,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.94,0.94,0.94,0.94,0.94",
     "powerAGGrowthStr": "1.54,1.54,1.54,1.54,1.54",
+    "reformDegree": "130",
     "synthesizePiece": "IM92008,100"
 }, {
     "armorGrowthStr": "0.19,0.19,0.19,0.19,0.19",
@@ -1999,6 +2131,7 @@
         "powerAGs": "20,47,90,163",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -2013,6 +2146,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.76,0.76,0.76,0.76,0.76",
     "powerAGGrowthStr": "1.28,1.28,1.28,1.28,1.28",
+    "reformDegree": "75",
     "synthesizePiece": "IM92013,10"
 }, {
     "armorGrowthStr": "0.27,0.27,0.27,0.27,0.27",
@@ -2047,6 +2181,7 @@
         "powerAGs": "57,145,295",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -2061,6 +2196,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "1.58,1.58,1.58,1.58,1.58",
     "powerAGGrowthStr": "3.33,3.33,3.33,3.33,3.33",
+    "reformDegree": "100",
     "synthesizePiece": "IM92015,40"
 }, {
     "armorGrowthStr": "0.24,0.24,0.24,0.24,0.24",
@@ -2095,6 +2231,7 @@
         "powerAGs": "41,110",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -2109,6 +2246,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "1.34,1.34,1.34,1.34,1.34",
     "powerAGGrowthStr": "2.01,2.01,2.01,2.01,2.01",
+    "reformDegree": "130",
     "synthesizePiece": "IM92016,100"
 }, {
     "armorGrowthStr": "0.2,0.2,0.2,0.2,0.2",
@@ -2143,6 +2281,7 @@
         "powerAGs": "22,51,96,174",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -2157,6 +2296,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.69,0.69,0.69,0.69,0.69",
     "powerAGGrowthStr": "1.37,1.37,1.37,1.37,1.37",
+    "reformDegree": "75",
     "synthesizePiece": "IM92018,10"
 }, {
     "armorGrowthStr": "0.14,0.14,0.14,0.14,0.14",
@@ -2191,6 +2331,7 @@
         "powerAGs": "17,41,77,140",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -2205,6 +2346,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.62,0.62,0.62,0.62,0.62",
     "powerAGGrowthStr": "1.1,1.1,1.1,1.1,1.1",
+    "reformDegree": "75",
     "synthesizePiece": "IM92020,10"
 }, {
     "armorGrowthStr": "0.15,0.15,0.15,0.15,0.15",
@@ -2239,6 +2381,7 @@
         "powerAGs": "23,58,118",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -2253,6 +2396,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.72,0.72,0.72,0.72,0.72",
     "powerAGGrowthStr": "1.33,1.33,1.33,1.33,1.33",
+    "reformDegree": "100",
     "synthesizePiece": "IM92021,40"
 }, {
     "armorGrowthStr": "0.16,0.16,0.16,0.16,0.16",
@@ -2287,6 +2431,7 @@
         "powerAGs": "14,33,62,112",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -2301,6 +2446,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.74,0.74,0.74,0.74,0.74",
     "powerAGGrowthStr": "0.88,0.88,0.88,0.88,0.88",
+    "reformDegree": "75",
     "synthesizePiece": "IM92023,10"
 }, {
     "armorGrowthStr": "0.17,0.17,0.17,0.17,0.17",
@@ -2335,6 +2481,7 @@
         "powerAGs": "14,34,65,117",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -2349,6 +2496,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.65,0.65,0.65,0.65,0.65",
     "powerAGGrowthStr": "0.92,0.92,0.92,0.92,0.92",
+    "reformDegree": "75",
     "synthesizePiece": "IM92024,10"
 }, {
     "armorGrowthStr": "0.2,0.2,0.2,0.2,0.2",
@@ -2383,6 +2531,7 @@
         "powerAGs": "30,82",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -2397,6 +2546,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "1.01,1.01,1.01,1.01,1.01",
     "powerAGGrowthStr": "1.5,1.5,1.5,1.5,1.5",
+    "reformDegree": "130",
     "synthesizePiece": "IM92025,100"
 }, {
     "armorGrowthStr": "0.16,0.16,0.16,0.16,0.16",
@@ -2431,6 +2581,7 @@
         "powerAGs": "15,35,67,121",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -2445,6 +2596,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.63,0.63,0.63,0.63,0.63",
     "powerAGGrowthStr": "0.95,0.95,0.95,0.95,0.95",
+    "reformDegree": "75",
     "synthesizePiece": "IM92027,10"
 }, {
     "armorGrowthStr": "0.17,0.17,0.17,0.17,0.17",
@@ -2479,6 +2631,7 @@
         "powerAGs": "34,91",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -2493,6 +2646,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.92,0.92,0.92,0.92,0.92",
     "powerAGGrowthStr": "1.66,1.66,1.66,1.66,1.66",
+    "reformDegree": "130",
     "synthesizePiece": "IM92031,100"
 }, {
     "armorGrowthStr": "0.21,0.21,0.21,0.21,0.21",
@@ -2527,6 +2681,7 @@
         "powerAGs": "51,128,260",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -2541,6 +2696,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "2.05,2.05,2.05,2.05,2.05",
     "powerAGGrowthStr": "2.94,2.94,2.94,2.94,2.94",
+    "reformDegree": "100",
     "synthesizePiece": "IM92032,40"
 }, {
     "armorGrowthStr": "0.18,0.18,0.18,0.18,0.18",
@@ -2575,6 +2731,7 @@
         "powerAGs": "21,52,106",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -2589,6 +2746,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.79,0.79,0.79,0.79,0.79",
     "powerAGGrowthStr": "1.2,1.2,1.2,1.2,1.2",
+    "reformDegree": "100",
     "synthesizePiece": "IM92033,40"
 }, {
     "armorGrowthStr": "0.17,0.17,0.17,0.17,0.17",
@@ -2623,6 +2781,7 @@
         "powerAGs": "14,33,62,112",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -2637,6 +2796,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "0.6,0.6,0.6,0.6,0.6",
     "powerAGGrowthStr": "0.88,0.88,0.88,0.88,0.88",
+    "reformDegree": "75",
     "synthesizePiece": "IM92034,10"
 }, {
     "armorGrowthStr": "0.17,0.17,0.17,0.17,0.17",
@@ -2671,6 +2831,7 @@
         "powerAGs": "17,43,88",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -2685,6 +2846,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "0.84,0.84,0.84,0.84,0.84",
     "powerAGGrowthStr": "0.99,0.99,0.99,0.99,0.99",
+    "reformDegree": "100",
     "synthesizePiece": "IM92035,40"
 }, {
     "armorGrowthStr": "0.18,0.18,0.18,0.18,0.18",
@@ -2719,6 +2881,7 @@
         "powerAGs": "29,78",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -2733,6 +2896,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "0.98,0.98,0.98,0.98,0.98",
     "powerAGGrowthStr": "1.42,1.42,1.42,1.42,1.42",
+    "reformDegree": "130",
     "synthesizePiece": "IM92036,100"
 }, {
     "armorGrowthStr": "0.22,0.22,0.22,0.22,0.22",
@@ -2767,6 +2931,7 @@
         "powerAGs": "56,141,287",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0",
+        "reformDegrees": "15,165,355",
         "skillUps": "1|2|3",
         "targetWeights": "0,0,0"
     },
@@ -2781,6 +2946,7 @@
     "piecesNum": "40",
     "powerAAGrowthStr": "2.07,2.07,2.07,2.07,2.07",
     "powerAGGrowthStr": "3.24,3.24,3.24,3.24,3.24",
+    "reformDegree": "100",
     "synthesizePiece": "IM92038,40"
 }, {
     "armorGrowthStr": "0.2,0.2,0.2,0.2,0.2",
@@ -2815,6 +2981,7 @@
         "powerAGs": "32,87",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -2829,6 +2996,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "1.07,1.07,1.07,1.07,1.07",
     "powerAGGrowthStr": "1.59,1.59,1.59,1.59,1.59",
+    "reformDegree": "130",
     "synthesizePiece": "IM92039,100"
 }, {
     "armorGrowthStr": "0.27,0.27,0.27,0.27,0.27",
@@ -2863,6 +3031,7 @@
         "powerAGs": "69,186",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -2877,6 +3046,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "2.59,2.59,2.59,2.59,2.59",
     "powerAGGrowthStr": "3.4,3.4,3.4,3.4,3.4",
+    "reformDegree": "130",
     "synthesizePiece": "IM92040,100"
 }, {
     "armorGrowthStr": "0.29,0.29,0.29,0.29,0.29",
@@ -2911,6 +3081,7 @@
         "powerAGs": "82,222",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -2925,6 +3096,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "2.48,2.48,2.48,2.48,2.48",
     "powerAGGrowthStr": "4.05,4.05,4.05,4.05,4.05",
+    "reformDegree": "130",
     "synthesizePiece": "IM92041,100"
 }, {
     "armorGrowthStr": "0.19,0.19,0.19,0.19,0.19",
@@ -2959,6 +3131,7 @@
         "powerAGs": "42,100,189,343",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0,0,0",
+        "reformDegrees": "10,25,155,325",
         "skillUps": "0|1|2|3",
         "targetWeights": "0,0,0,0"
     },
@@ -2973,6 +3146,7 @@
     "piecesNum": "10",
     "powerAAGrowthStr": "1.46,1.46,1.46,1.46,1.46",
     "powerAGGrowthStr": "2.69,2.69,2.69,2.69,2.69",
+    "reformDegree": "75",
     "synthesizePiece": "IM92042,10"
 }, {
     "armorGrowthStr": "0.27,0.27,0.27,0.27,0.27",
@@ -3007,6 +3181,7 @@
         "powerAGs": "78,211",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -3021,6 +3196,7 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "2.33,2.33,2.33,2.33,2.33",
     "powerAGGrowthStr": "3.85,3.85,3.85,3.85,3.85",
+    "reformDegree": "130",
     "synthesizePiece": "IM92046,100"
 }, {
     "armorGrowthStr": "0.23,0.23,0.23,0.23,0.23",
@@ -3055,6 +3231,7 @@
         "powerAGs": "68,183",
         "powerATs": "0.0,0.0,0.0,0.0|0.0,0.0,0.0,0.0",
         "reacs": "0,0",
+        "reformDegrees": "170,390",
         "skillUps": "1|2",
         "targetWeights": "0,0"
     },
@@ -3069,5 +3246,6 @@
     "piecesNum": "100",
     "powerAAGrowthStr": "2.55,2.55,2.55,2.55,2.55",
     "powerAGGrowthStr": "3.34,3.34,3.34,3.34,3.34",
+    "reformDegree": "130",
     "synthesizePiece": "IM92075,100"
 }]

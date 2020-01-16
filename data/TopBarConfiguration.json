@@ -107,6 +107,30 @@
         "BGM": "103_Team"
     },
     {
+        "SceneName": "SetTeamScene",
+        "PanelName": "SetTeamMopView",
+        "ShowTopBar": "1",
+        "DisplayName": "委託作戦編成",
+        "ShowResModule": "1",
+        "ResSlot3": "0,0,0",
+        "ResSlot2": "0,0,0",
+        "ResSlot1": "1,0,1",
+        "HelpPPT": "NONE",
+        "BGM": "103_Team"
+    },
+    {
+        "SceneName": "SetTeamScene",
+        "PanelName": "SetTeamMopSelectCharView",
+        "ShowTopBar": "1",
+        "DisplayName": "DOLLS選択",
+        "ShowResModule": "0",
+        "ResSlot3": "",
+        "ResSlot2": "",
+        "ResSlot1": "",
+        "HelpPPT": "NONE",
+        "BGM": "103_Team"
+    },
+    {
         "SceneName": "StoreScene",
         "PanelName": "ShopMainView",
         "ShowTopBar": "1",

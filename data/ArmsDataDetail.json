@@ -740,6 +740,32 @@
         "CV": "渕上舞"
     },
     {
+        "ArmsID": "ARM104601",
+        "ArmsName": "M26 パーシング",
+        "CharName": "M26 パーシング",
+        "CharNameSh": "パーシング",
+        "ArmsNo": "43A31",
+        "FullName": "M26 Pershing",
+        "Academy": "デルト・アーセナル学院",
+        "BackData": "チアリーダーのような陽気な戦車型DOLLSでナイスバディ。他人を進んで励まし元気を与える優しい心の持つせいか、周りからの人気も高い。どのような相手にでも手を差し伸べたり、誰とでも友達になれる。ただし規律、規則、一切合切のがお堅い制度や役所仕事のような決まりきった物事の流れ等うを極度に嫌う。",
+        "PrototypeID": "ARM104601",
+        "ArmsType": "重戦車",
+        "CV": "佐倉綾音"
+    },
+    {
+        "ArmsID": "ARM104602",
+        "ArmsName": "T26E4 スーパーパーシング",
+        "CharName": "T26E4 スーパーパーシング",
+        "CharNameSh": "スーパーパーシング",
+        "ArmsNo": "43A32",
+        "FullName": "T26E4 SuperPershing",
+        "Academy": "デルト・アーセナル学院",
+        "BackData": "長砲身90mm戦車砲と増加装甲を追加したM26 パーシングの改良型",
+        "PrototypeID": "ARM104601",
+        "ArmsType": "重戦車",
+        "CV": "佐倉綾音"
+    },
+    {
         "ArmsID": "ARM104701",
         "ArmsName": "センチュリオンMK.Ⅰ",
         "CharName": "センチュリオンMK.Ⅰ",
