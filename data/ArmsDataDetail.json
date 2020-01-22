@@ -1052,6 +1052,32 @@
         "CV": "斎藤千和"
     },
     {
+        "ArmsID": "ARM106501",
+        "ArmsName": "M41 ウォーカー・ブルドッグ",
+        "CharName": "M41 ウォーカー・ブルドッグ",
+        "CharNameSh": "M41 ウォーカー・ブルドッグ",
+        "ArmsNo": "41A51",
+        "FullName": "M41 Walker Bulldog",
+        "Academy": "カーデーラルク学院",
+        "BackData": "負けず嫌いで戦いを一切避けず、戦闘だけに没頭するDOLLS。敵相手に自分一人で十分だと思い、助けられる、守られる、子供扱いされることが大嫌い。しかし、正義感溢れる熱い心を持っていて、戦友のためならたとえ火の中水の中でもひたすら進む。疲れも痛みもすべて心に隠し、次の戦場に向かうのが彼女の流儀だ。",
+        "PrototypeID": "ARM106501",
+        "ArmsType": "軽戦車",
+        "CV": "???"
+    },
+    {
+        "ArmsID": "ARM106502",
+        "ArmsName": "M41D",
+        "CharName": "M41D",
+        "CharNameSh": "M41D",
+        "ArmsNo": "41A52",
+        "FullName": "M41D",
+        "Academy": "カーデーラルク学院",
+        "BackData": "原型ARMSに基づき、機関砲や通信システム、走行駆動装置などを更新し、新型FCSを実装し、大幅に改修した結果はM41Dである。DOLLS本人の評価だと「元のARMSの操縦方法を全部忘れるぐらい便利である」。便利故の怠け癖を防ぐために、M41Dの訓練を必ず督促してください。",
+        "PrototypeID": "ARM106501",
+        "ArmsType": "軽戦車",
+        "CV": "???"
+    },
+    {
         "ArmsID": "ARM107901",
         "ArmsName": "九七式中戦車 チハ",
         "CharName": "九七式中戦車 チハ",
@@ -1817,6 +1843,32 @@
         "PrototypeID": "ARM204601",
         "ArmsType": "重攻撃機",
         "CV": "紡木吏佐"
+    },
+    {
+        "ArmsID": "ARM205601",
+        "ArmsName": "P-40B トマホーク",
+        "CharName": "P-40B トマホーク",
+        "CharNameSh": "P-40B トマホーク",
+        "ArmsNo": "11A11",
+        "FullName": "P-40B Tomahawk",
+        "Academy": "カーチス・ライト学院",
+        "BackData": "多くの学連に転戦し、戦いがあれば赴く豪快な傭兵。報酬やボーナスを要求することが多いが、本人はそれほど金銭に対して執着はなく、金を貰う度に全額豪遊等に費やし宴を挙げることも。本人はあまり自慢気に語ることはないが、周囲からは芸術の才のある画家だと認識される。よく自分の装備するARMSに様々な塗装を施したり、時には他のDOLLSから直筆のイラストの執筆や宿舎の壁への落書き等を依頼されることも。",
+        "PrototypeID": "ARM205601",
+        "ArmsType": "軽戦闘機",
+        "CV": "野水伊織"
+    },
+    {
+        "ArmsID": "ARM205602",
+        "ArmsName": "P-40E キティホーク",
+        "CharName": "P-40E キティホーク",
+        "CharNameSh": "P-40E キティホーク",
+        "ArmsNo": "11A12",
+        "FullName": "P-40E Kittyhawk",
+        "Academy": "カーチス・ライト学院",
+        "BackData": "翼内機銃増設による火力上昇。愛称は「キティホーク」へ変更された",
+        "PrototypeID": "ARM205601",
+        "ArmsType": "軽戦闘機",
+        "CV": "野水伊織"
     },
     {
         "ArmsID": "ARM207501",

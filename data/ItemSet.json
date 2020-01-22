@@ -979,6 +979,19 @@
         "shopad": "Skin_ARM10039001",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10039002",
+        "name": "子年の超重鼠",
+        "description": "VIII号戦車マウス試作A0型·子年の超重鼠",
+        "icon": "ARM10039002",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198*1989988",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM100301,ARM100302",
+        "shopad": "Skin_ARM10039002",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10040101",
         "name": "VI号戦車ティーガー初期型",
         "description": "VI号戦車ティーガー初期型",
@@ -1016,6 +1029,19 @@
         "maxStack": "0",
         "armsids": "ARM100401,ARM100402",
         "shopad": "Skin_ARM10049001",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10049002",
+        "name": "猛虎招福の獅子舞",
+        "description": "VI号戦車ティーガー初期型·猛虎招福の獅子舞",
+        "icon": "ARM10049002",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198*1989989",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM100401,ARM100402",
+        "shopad": "Skin_ARM10049002",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10050101",
@@ -2019,6 +2045,32 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10650101",
+        "name": "M41 ウォーカー・ブルドッグ",
+        "description": "M41 ウォーカー・ブルドッグ",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM106501,ARM106502",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10650201",
+        "name": "M41D",
+        "description": "M41D",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM106502",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10790101",
         "name": "九七式中戦車チハ",
         "description": "九七式中戦車チハ",
@@ -2874,6 +2926,32 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM204602",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20560101",
+        "name": "P-40B トマホーク",
+        "description": "P-40B トマホーク",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM205601,ARM205602",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20560201",
+        "name": "P-40E キティホーク",
+        "description": "P-40E キティホーク",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM205602",
         "shopad": "",
         "itemMiniType": "0"
     }, {
@@ -9865,6 +9943,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "4"
     }, {
+        "itemid": "IM91065",
+        "name": "M41ウォーカー・ブルドッグの情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nM41ウォーカー・ブルドッグの機体突破に使用可能。",
+        "icon": "DOL1065",
+        "upicon": "DOL1065",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
         "itemid": "IM91079",
         "name": "九七式中坦の情報構成体",
         "description": "実戦経験に基いて開発した情報構造体。\\n九七式中坦の機体突破に使用可能。",
@@ -10255,6 +10346,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "4"
     }, {
+        "itemid": "IM92056",
+        "name": "P-40Bトマホークの情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nP-40Bトマホークの機体突破に使用可能。",
+        "icon": "DOL2056",
+        "upicon": "DOL2056",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
         "itemid": "IM92075",
         "name": "Me262A-1a の情報構成体",
         "description": "実戦経験に基いて開発した情報構造体。\\nMe262A-1a シュヴァルべの機体突破に使用可能。",
@@ -10267,6 +10371,19 @@
         "constructionFormula": "",
         "constructionGoldCost": "0",
         "bluePrintType": "4"
+    }, {
+        "itemid": "IM99991",
+        "name": "爆竹",
+        "description": "火薬が詰め込まれ、導火線に火を付けると爆ぜ続ける花火の一種。\\n特設ショップにて様々なアイテムと交換可能。\\nこのような小さく連なった赤い爆竹の歴史は2000年前まで遡ることができる。世界がこの様になるまで、我々人類はただ単に祝祭日を盛大に迎える為にこれを点火し、轟かせた。\\n決して敵を撃破する為ではなく…",
+        "icon": "IM99991",
+        "upicon": "IM99991",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
     }, {
         "itemid": "IM99992",
         "name": "情報箱の鍵",

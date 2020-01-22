@@ -25,7 +25,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE101",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -35,7 +35,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE101",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -45,7 +45,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE101",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -55,7 +55,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE101",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -65,7 +65,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE101",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -75,7 +75,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE101",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -85,7 +85,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE111",
         "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -95,7 +95,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE111",
         "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -105,7 +105,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE111",
         "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -115,7 +115,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE111",
         "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -125,7 +125,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE111",
         "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -135,7 +135,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE111",
         "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10001",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -145,7 +145,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE106",
         "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0100,IC0200,IEE0101,II10001",
+        "EventDrop": "IM99991,IC0100,IC0200,IEE0101,II10001",
         "bgm": "303_BGM_Crytal_Throne_A"
     },
     {
@@ -155,7 +155,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -165,7 +165,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3101,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3101,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -175,7 +175,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -185,7 +185,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3101,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3101,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -195,7 +195,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0101,IC0201,II10002",
+        "EventDrop": "IM99991,IC0101,IC0201,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -205,7 +205,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -215,7 +215,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3101,II10002",
+        "EventDrop": "IM99991,IM3011,IM3101,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -225,7 +225,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -235,7 +235,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3101,II10002",
+        "EventDrop": "IM99991,IM3011,IM3101,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -245,7 +245,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0101,IC0201,IM3202,IEE0102,II10002",
+        "EventDrop": "IM99991,IC0101,IC0201,IM3202,IEE0102,II10002",
         "bgm": "301_BGM_Dark_Bride_Full"
     },
     {
@@ -255,7 +255,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3101,II10002",
+        "EventDrop": "IM99991,IM3011,IM3101,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -265,7 +265,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3101,IM3111,II10002",
+        "EventDrop": "IM99991,IM99997,IM3101,IM3111,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -275,7 +275,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3111,IM3121,II10002",
+        "EventDrop": "IM99991,IM3111,IM3121,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -285,7 +285,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3121,IM3131,II10002",
+        "EventDrop": "IM99991,IM99997,IM3121,IM3131,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -295,7 +295,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0101,IC0201,II10002",
+        "EventDrop": "IM99991,IC0101,IC0201,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -305,7 +305,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3101,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3101,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -315,7 +315,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3101,IM3111,II10002",
+        "EventDrop": "IM99991,IM3101,IM3111,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -325,7 +325,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3111,IM3121,II10002",
+        "EventDrop": "IM99991,IM99997,IM3111,IM3121,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -335,7 +335,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3121,IM3131,II10002",
+        "EventDrop": "IM99991,IM3121,IM3131,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -345,7 +345,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0101,IC0201,IM3202,IEE0102,II10002",
+        "EventDrop": "IM99991,IM99997,IC0101,IC0201,IM3202,IEE0102,II10002",
         "bgm": "301_BGM_Dark_Bride_Full"
     },
     {
@@ -355,7 +355,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -365,7 +365,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3102,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3102,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -375,7 +375,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -385,7 +385,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3102,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3102,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -395,7 +395,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0101,IC0201,II10002",
+        "EventDrop": "IM99991,IC0101,IC0201,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -405,7 +405,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -415,7 +415,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3102,II10002",
+        "EventDrop": "IM99991,IM3011,IM3102,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -425,7 +425,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -435,7 +435,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3102,II10002",
+        "EventDrop": "IM99991,IM3011,IM3102,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -445,7 +445,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0101,IC0201,IM3203,IEE0103,II10002",
+        "EventDrop": "IM99991,IC0101,IC0201,IM3203,IEE0103,II10002",
         "bgm": "302_BGM_Snow_Bride_Full"
     },
     {
@@ -455,7 +455,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3102,II10002",
+        "EventDrop": "IM99991,IM3011,IM3102,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -465,7 +465,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3102,IM3112,II10002",
+        "EventDrop": "IM99991,IM99997,IM3102,IM3112,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -475,7 +475,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3112,IM3122,II10002",
+        "EventDrop": "IM99991,IM3112,IM3122,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -485,7 +485,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3122,IM3132,II10002",
+        "EventDrop": "IM99991,IM99997,IM3122,IM3132,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -495,7 +495,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0101,IC0201,II10002",
+        "EventDrop": "IM99991,IC0101,IC0201,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -505,7 +505,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3102,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3102,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -515,7 +515,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3102,IM3112,II10002",
+        "EventDrop": "IM99991,IM3102,IM3112,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -525,7 +525,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3112,IM3122,II10002",
+        "EventDrop": "IM99991,IM99997,IM3112,IM3122,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -535,7 +535,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3122,IM3132,II10002",
+        "EventDrop": "IM99991,IM3122,IM3132,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -545,7 +545,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0101,IC0201,IM3203,IEE0103,II10002",
+        "EventDrop": "IM99991,IM99997,IC0101,IC0201,IM3203,IEE0103,II10002",
         "bgm": "302_BGM_Snow_Bride_Full"
     },
     {
@@ -555,7 +555,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -565,7 +565,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3103,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3103,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -575,7 +575,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -585,7 +585,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3103,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3103,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -595,7 +595,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0102,IC0202,II10002",
+        "EventDrop": "IM99991,IC0102,IC0202,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -605,7 +605,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -615,7 +615,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3103,II10002",
+        "EventDrop": "IM99991,IM3011,IM3103,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -625,7 +625,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -635,7 +635,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3103,II10002",
+        "EventDrop": "IM99991,IM3011,IM3103,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -645,7 +645,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0102,IC0202,IM3204,IEE0104,II10002",
+        "EventDrop": "IM99991,IC0102,IC0202,IM3204,IEE0104,II10002",
         "bgm": "305_BGM_Sword_Tyrant_Full"
     },
     {
@@ -655,7 +655,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3103,II10002",
+        "EventDrop": "IM99991,IM3011,IM3103,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -665,7 +665,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3103,IM3113,II10002",
+        "EventDrop": "IM99991,IM99997,IM3103,IM3113,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -675,7 +675,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3113,IM3123,II10002",
+        "EventDrop": "IM99991,IM3113,IM3123,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -685,7 +685,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3123,IM3133,II10002",
+        "EventDrop": "IM99991,IM99997,IM3123,IM3133,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -695,7 +695,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0102,IC0202,II10002",
+        "EventDrop": "IM99991,IC0102,IC0202,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -705,7 +705,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3103,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3103,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -715,7 +715,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3103,IM3113,II10002",
+        "EventDrop": "IM99991,IM3103,IM3113,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -725,7 +725,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3113,IM3123,II10002",
+        "EventDrop": "IM99991,IM99997,IM3113,IM3123,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -735,7 +735,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3123,IM3133,II10002",
+        "EventDrop": "IM99991,IM3123,IM3133,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -745,7 +745,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0102,IC0202,IM3204,IEE0104,II10002",
+        "EventDrop": "IM99991,IM99997,IC0102,IC0202,IM3204,IEE0104,II10002",
         "bgm": "305_BGM_Sword_Tyrant_Full"
     },
     {
@@ -755,7 +755,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -765,7 +765,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3104,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3104,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -775,7 +775,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -785,7 +785,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3104,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3104,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -795,7 +795,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0102,IC0202,II10002",
+        "EventDrop": "IM99991,IC0102,IC0202,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -805,7 +805,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -815,7 +815,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3104,II10002",
+        "EventDrop": "IM99991,IM3011,IM3104,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -825,7 +825,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -835,7 +835,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3104,II10002",
+        "EventDrop": "IM99991,IM3011,IM3104,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -845,7 +845,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0102,IC0202,IM3205,IEE0105,II10002",
+        "EventDrop": "IM99991,IC0102,IC0202,IM3205,IEE0105,II10002",
         "bgm": "306_BGM_Despair_Corridor_Full"
     },
     {
@@ -855,7 +855,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3104,II10002",
+        "EventDrop": "IM99991,IM3011,IM3104,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -865,7 +865,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3104,IM3114,II10002",
+        "EventDrop": "IM99991,IM99997,IM3104,IM3114,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -875,7 +875,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3114,IM3124,II10002",
+        "EventDrop": "IM99991,IM3114,IM3124,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -885,7 +885,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3124,IM3134,II10002",
+        "EventDrop": "IM99991,IM99997,IM3124,IM3134,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -895,7 +895,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0102,IC0202,II10002",
+        "EventDrop": "IM99991,IC0102,IC0202,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -905,7 +905,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3104,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3104,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -915,7 +915,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3104,IM3114,II10002",
+        "EventDrop": "IM99991,IM3104,IM3114,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -925,7 +925,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3114,IM3124,II10002",
+        "EventDrop": "IM99991,IM99997,IM3114,IM3124,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -935,7 +935,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3124,IM3134,II10002",
+        "EventDrop": "IM99991,IM3124,IM3134,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -945,7 +945,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0102,IC0202,IM3205,IEE0105,II10002",
+        "EventDrop": "IM99991,IM99997,IC0102,IC0202,IM3205,IEE0105,II10002",
         "bgm": "306_BGM_Despair_Corridor_Full"
     },
     {
@@ -955,7 +955,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -965,7 +965,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3101,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3101,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -975,7 +975,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3101,IM3111,II10002",
+        "EventDrop": "IM99991,IM3101,IM3111,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -985,7 +985,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3111,IM3121,II10002",
+        "EventDrop": "IM99991,IM99997,IM3111,IM3121,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -995,7 +995,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0101,IC0201,II10002",
+        "EventDrop": "IM99991,IC0101,IC0201,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1005,7 +1005,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1015,7 +1015,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3101,II10002",
+        "EventDrop": "IM99991,IM3011,IM3101,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1025,7 +1025,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3101,IM3111,II10002",
+        "EventDrop": "IM99991,IM99997,IM3101,IM3111,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1035,7 +1035,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3111,IM3121,II10002",
+        "EventDrop": "IM99991,IM3111,IM3121,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1045,7 +1045,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0101,IC0201,IM3202,IEE0102,II10002",
+        "EventDrop": "IM99991,IM99997,IC0101,IC0201,IM3202,IEE0102,II10002",
         "bgm": "301_BGM_Dark_Bride_Full"
     },
     {
@@ -1055,7 +1055,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3101,IM3111,II10003",
+        "EventDrop": "IM99991,IM3101,IM3111,II10003",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1065,7 +1065,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3111,IM3121,II10003",
+        "EventDrop": "IM99991,IM99997,IM3111,IM3121,II10003",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1075,7 +1075,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3121,IM3131,II10003",
+        "EventDrop": "IM99991,IM3121,IM3131,II10003",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1085,7 +1085,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3101,IM3111,II10003",
+        "EventDrop": "IM99991,IM99997,IM3101,IM3111,II10003",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1095,7 +1095,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0101,IC0201,IM3111,IM3121,II10003",
+        "EventDrop": "IM99991,IC0101,IC0201,IM3111,IM3121,II10003",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1105,7 +1105,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3121,IM3131,II10003",
+        "EventDrop": "IM99991,IM99997,IM3121,IM3131,II10003",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1115,7 +1115,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE102",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3101,IM3111,II10003",
+        "EventDrop": "IM99991,IM3101,IM3111,II10003",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1125,7 +1125,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3111,IM3121,II10003",
+        "EventDrop": "IM99991,IM99997,IM3111,IM3121,II10003",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1135,7 +1135,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3121,IM3131,II10003",
+        "EventDrop": "IM99991,IM3121,IM3131,II10003",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -1145,7 +1145,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE112",
         "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0101,IC0201,IM3202,IEE0102,II10003",
+        "EventDrop": "IM99991,IM99997,IC0101,IC0201,IM3202,IEE0102,II10003",
         "bgm": "301_BGM_Dark_Bride_Full"
     },
     {
@@ -1155,7 +1155,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1165,7 +1165,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3102,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3102,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1175,7 +1175,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3102,IM3112,II10002",
+        "EventDrop": "IM99991,IM3102,IM3112,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1185,7 +1185,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3112,IM3122,II10002",
+        "EventDrop": "IM99991,IM99997,IM3112,IM3122,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1195,7 +1195,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0101,IC0201,II10002",
+        "EventDrop": "IM99991,IC0101,IC0201,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1205,7 +1205,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1215,7 +1215,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3102,II10002",
+        "EventDrop": "IM99991,IM3011,IM3102,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1225,7 +1225,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3102,IM3112,II10002",
+        "EventDrop": "IM99991,IM99997,IM3102,IM3112,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1235,7 +1235,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3112,IM3122,II10002",
+        "EventDrop": "IM99991,IM3112,IM3122,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1245,7 +1245,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0101,IC0201,IM3203,IEE0103,II10002",
+        "EventDrop": "IM99991,IM99997,IC0101,IC0201,IM3203,IEE0103,II10002",
         "bgm": "302_BGM_Snow_Bride_Full"
     },
     {
@@ -1255,7 +1255,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3102,IM3112,II10003",
+        "EventDrop": "IM99991,IM3102,IM3112,II10003",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1265,7 +1265,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3112,IM3122,II10003",
+        "EventDrop": "IM99991,IM99997,IM3112,IM3122,II10003",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1275,7 +1275,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3122,IM3132,II10003",
+        "EventDrop": "IM99991,IM3122,IM3132,II10003",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1285,7 +1285,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3102,IM3112,II10003",
+        "EventDrop": "IM99991,IM99997,IM3102,IM3112,II10003",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1295,7 +1295,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0101,IC0201,IM3112,IM3122,II10003",
+        "EventDrop": "IM99991,IC0101,IC0201,IM3112,IM3122,II10003",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1305,7 +1305,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3122,IM3132,II10003",
+        "EventDrop": "IM99991,IM99997,IM3122,IM3132,II10003",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1315,7 +1315,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE103",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3102,IM3112,II10003",
+        "EventDrop": "IM99991,IM3102,IM3112,II10003",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1325,7 +1325,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3112,IM3122,II10003",
+        "EventDrop": "IM99991,IM99997,IM3112,IM3122,II10003",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1335,7 +1335,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3122,IM3132,II10003",
+        "EventDrop": "IM99991,IM3122,IM3132,II10003",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -1345,7 +1345,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE113",
         "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0101,IC0201,IM3203,IEE0103,II10003",
+        "EventDrop": "IM99991,IM99997,IC0101,IC0201,IM3203,IEE0103,II10003",
         "bgm": "302_BGM_Snow_Bride_Full"
     },
     {
@@ -1355,7 +1355,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1365,7 +1365,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3103,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3103,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1375,7 +1375,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3103,IM3113,II10002",
+        "EventDrop": "IM99991,IM3103,IM3113,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1385,7 +1385,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3113,IM3123,II10002",
+        "EventDrop": "IM99991,IM99997,IM3113,IM3123,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1395,7 +1395,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0102,IC0202,II10002",
+        "EventDrop": "IM99991,IC0102,IC0202,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1405,7 +1405,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1415,7 +1415,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3103,II10002",
+        "EventDrop": "IM99991,IM3011,IM3103,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1425,7 +1425,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3103,IM3113,II10002",
+        "EventDrop": "IM99991,IM99997,IM3103,IM3113,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1435,7 +1435,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3113,IM3123,II10002",
+        "EventDrop": "IM99991,IM3113,IM3123,II10002",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1445,7 +1445,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0102,IC0202,IM3204,IEE0104,II10002",
+        "EventDrop": "IM99991,IM99997,IC0102,IC0202,IM3204,IEE0104,II10002",
         "bgm": "305_BGM_Sword_Tyrant_Full"
     },
     {
@@ -1455,7 +1455,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3103,IM3113,II10003",
+        "EventDrop": "IM99991,IM3103,IM3113,II10003",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1465,7 +1465,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3113,IM3123,II10003",
+        "EventDrop": "IM99991,IM99997,IM3113,IM3123,II10003",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1475,7 +1475,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3123,IM3133,II10003",
+        "EventDrop": "IM99991,IM3123,IM3133,II10003",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1485,7 +1485,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3103,IM3113,II10003",
+        "EventDrop": "IM99991,IM99997,IM3103,IM3113,II10003",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1495,7 +1495,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0102,IC0202,IM3113,IM3123,II10003",
+        "EventDrop": "IM99991,IC0102,IC0202,IM3113,IM3123,II10003",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1505,7 +1505,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3123,IM3133,II10003",
+        "EventDrop": "IM99991,IM99997,IM3123,IM3133,II10003",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1515,7 +1515,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE104",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3103,IM3113,II10003",
+        "EventDrop": "IM99991,IM3103,IM3113,II10003",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1525,7 +1525,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3113,IM3123,II10003",
+        "EventDrop": "IM99991,IM99997,IM3113,IM3123,II10003",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1535,7 +1535,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3123,IM3133,II10003",
+        "EventDrop": "IM99991,IM3123,IM3133,II10003",
         "bgm": "201_Battle_Fused"
     },
     {
@@ -1545,7 +1545,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE114",
         "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0102,IC0202,IM3204,IEE0104,II10003",
+        "EventDrop": "IM99991,IM99997,IC0102,IC0202,IM3204,IEE0104,II10003",
         "bgm": "305_BGM_Sword_Tyrant_Full"
     },
     {
@@ -1555,7 +1555,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1565,7 +1565,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3011,IM3104,II10002",
+        "EventDrop": "IM99991,IM99997,IM3011,IM3104,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1575,7 +1575,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3104,IM3114,II10002",
+        "EventDrop": "IM99991,IM3104,IM3114,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1585,7 +1585,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3114,IM3124,II10002",
+        "EventDrop": "IM99991,IM99997,IM3114,IM3124,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1595,7 +1595,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0102,IC0202,II10002",
+        "EventDrop": "IM99991,IC0102,IC0202,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1605,7 +1605,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "EventDrop": "IM99991,IM99997,IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1615,7 +1615,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3011,IM3104,II10002",
+        "EventDrop": "IM99991,IM3011,IM3104,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1625,7 +1625,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3104,IM3114,II10002",
+        "EventDrop": "IM99991,IM99997,IM3104,IM3114,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1635,7 +1635,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3114,IM3124,II10002",
+        "EventDrop": "IM99991,IM3114,IM3124,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1645,7 +1645,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0102,IC0202,IM3205,IEE0105,II10002",
+        "EventDrop": "IM99991,IM99997,IC0102,IC0202,IM3205,IEE0105,II10002",
         "bgm": "306_BGM_Despair_Corridor_Full"
     },
     {
@@ -1655,7 +1655,7 @@
         "eventTypeCN": "第一节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3104,IM3114,II10003",
+        "EventDrop": "IM99991,IM3104,IM3114,II10003",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1665,7 +1665,7 @@
         "eventTypeCN": "第二节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3114,IM3124,II10003",
+        "EventDrop": "IM99991,IM99997,IM3114,IM3124,II10003",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1675,7 +1675,7 @@
         "eventTypeCN": "第三节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3124,IM3134,II10003",
+        "EventDrop": "IM99991,IM3124,IM3134,II10003",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1685,7 +1685,7 @@
         "eventTypeCN": "第四节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3104,IM3114,II10003",
+        "EventDrop": "IM99991,IM99997,IM3104,IM3114,II10003",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1695,7 +1695,7 @@
         "eventTypeCN": "第五节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IC0102,IC0202,IM3114,IM3124,II10003",
+        "EventDrop": "IM99991,IC0102,IC0202,IM3114,IM3124,II10003",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1705,7 +1705,7 @@
         "eventTypeCN": "第六节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3124,IM3134,II10003",
+        "EventDrop": "IM99991,IM99997,IM3124,IM3134,II10003",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1715,7 +1715,7 @@
         "eventTypeCN": "第七节",
         "landEsid": "SE105",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3104,IM3114,II10003",
+        "EventDrop": "IM99991,IM3104,IM3114,II10003",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1725,7 +1725,7 @@
         "eventTypeCN": "第八节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IM3114,IM3124,II10003",
+        "EventDrop": "IM99991,IM99997,IM3114,IM3124,II10003",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1735,7 +1735,7 @@
         "eventTypeCN": "第九节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM3124,IM3134,II10003",
+        "EventDrop": "IM99991,IM3124,IM3134,II10003",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1745,7 +1745,7 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0102,IC0202,IM3205,IEE0105,II10003",
+        "EventDrop": "IM99991,IM99997,IC0102,IC0202,IM3205,IEE0105,II10003",
         "bgm": "306_BGM_Despair_Corridor_Full"
     }
 ]

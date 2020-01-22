@@ -4318,7 +4318,7 @@
             },
             {
                 "CVType": "ModificationChange",
-                "CVDetail": "代理人！Ｔ２６Ｅ４スーパーパーシングに改造完了したよ！主砲を換装して火力がアップしたの！この力でアタシ、みんなのためにもっともっと頑張れちゃうね！改めてよろしく、代理人！\r\n"
+                "CVDetail": "代理人！Ｔ２６Ｅ４スーパーパーシングに改造完了したよ！主砲を換装して火力がアップしたの！この力でアタシ、みんなのためにもっともっと頑張れちゃうね！改めてよろしく、代理人！\r\\n"
             },
             {
                 "CVType": "ModificationRockOn",
@@ -6151,6 +6151,166 @@
             {
                 "CVType": "Win",
                 "CVDetail": "やった！とっておきのロッソで乾杯しましょ！"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM106501",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "照準よし、射撃開始！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "恰好の的がわんさかと！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "本領発揮と行こうか！"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "面白いじゃないか、付き合ってやるよ！"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "ここで...倒れるわけにはいかないんだよ！"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "戦場のゴミ掃除は任せろって！"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "ただのかすり傷だ。"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "この程度か、雑魚どもが！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "任せとけって！"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "おいおい、正気か？"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "ヤッホー"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "ヒュー"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "アタイの出番？よっしゃ！前衛はわたしに任せな！"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "M41ウォーカー・ブルドック、ただいま入隊！天候とか地形とかどうでもいい、戦闘任務でもそれ以外でも何でも任せな！このアタイをどんどん使ってもいいんだぜ、へへっ。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "ワクワクが止まらない...！M41、出るぞ！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "全員、アタイに続け！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "...これは撤退じゃない、転進だ！敵の後方に向かって進め！"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "ARMSが使いやすくなったぜ！いや、アタイが使いこなしたわけか。"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "新しい命令のようだ。新しい作戦があるかもしれない、早く確認を、エージェント。"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "バーカ！どこに向かって撃ってんだぁ？"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "手応えがあるね、このARMS、気に入ったぜ！"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "何を言っているのかサッパリ分からんが、とりあえずこうすれば強くなるってことだな！んじゃっ、早速試してみるか！"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "アタイがいれば勝利なんて当たり前の結果だろ？"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "あれ？アタイ一人で十分だと思うんだが...まあ、出来るヤツが増えるのも良いことだ。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "すげぇ！目がもっと鋭くなった気がするぜ！"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "あれ？本当に強化されたのか？何も感じないのだが。"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "これで敵を簡単に仕留めるね、そうでしょ？"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "進め進め！攻撃こそ最大の防御だ！さっさと次の作戦に出撃させろ、エージェント！"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "豊作だね、へへっ。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "イェーイ！勝利からの帰還だぜ！"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "邪魔だ、どけ！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "本気を出すぞ！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "邪魔する奴は消えな！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "DOLLSって戦うための存在だろ？だから遠慮せず命令を出しな。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "侵略者を撃退し、化物を殲滅する！熱く熾烈な戦いに身を投じることが、アタイの誇りなのさ。"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "う～ん、暇になると体が錆びてしまうな。何でもいいから仕事くれよ、エージェント～"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "子供扱いすんなって！もう..."
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "追うぞ！チャンスを逃すな、エージェント！"
             }
         ]
     },
@@ -10763,6 +10923,166 @@
             {
                 "CVType": "Win",
                 "CVDetail": "もう終わりか？随分呆気ないな"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM205601",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "ぶっ殺してやらぁ！！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "そこを動くな、弾は自腹だからな！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "行くぞコラぁ！"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "かかってこいクソッタレども！"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "クソ、もっと稼がせろよ畜生！"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "ちゃんと稼いで来いよー"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "クソがっ！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "ざけんなっ！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "あいよ！"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "無理だっつの！！"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "よお！"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "ああん？"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "任せな、報酬分はしっかり働いてやる。"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "P-40Bトマホーク。一応は星屑連邦学連所属だが、あちこちで色々やってんだ。どんな仕事も報酬次第で引き受けてやるぜ。よろしく頼むぞ、代理人のダンナ。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "仕事の時間だ、やるぜ野郎ども！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "高くつくぞ、俺のギャラはな！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "報酬分の仕事はした、責任は持たねえぞ"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "まあもうちょっと働いてやるかな？"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "おい、メール届いてるみたいだぞ。早く確認した方が良いんじゃねえか？"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "あっぶねぇだろ畜生！"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "ダンナから貰った報酬で装備改良だ！P-40Eキティホーク、これからもよろしく頼むぜ、代理人のダンナ！"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "おい、俺を改造しな！大丈夫だって、先行投資ってやつだ！損はさせねえ！"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "おいおい、こんなもん寄越されても報酬は負けねえぞ？いや、いらねえとは言ってねえ！"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "傭兵ってのは数合わせだからな。正しい運用法だぜダンナ。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "気分いいぜ！もっと戦えるな！"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "まだまだこんなもんじゃねえ！"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "よっしゃ、もっと稼げるぜ！"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "よお、遅かったじゃねえか。早いとこ仕事を済ませちまおうぜ"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "どうだ？しっかり給料分働いたか？"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "おう帰ったぞ。報酬はいつも通り振り込んどけよ。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "まだまだ給料分にはちょいと足りねえな"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "契約範囲だ、安心しな"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "おっと、こっから先は別料金だ。しっかり振り込んどけよ！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "趣味？そうだなぁ、暇なときは自分の得物に塗装したりとかしてるぜ。中々評判が良くてな、結構他の奴にも頼まれたりするんだ。まぁ、物珍しいのかもな。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "金を何に使ってんのか？そりゃ酒だよ酒！いつ死ぬかもわからん傭兵稼業、貯金なんてまどろっこしい真似が出来るかってんだ"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "金の切れ目が縁の切れ目、とは言うがダンナとの縁は出来れば切りたくないもんだ。その為にも料金はキッチリシッカリ振り込んでくれよ？"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "触んなこのボケ！"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "勝った分のボーナスは……これくらいかな？"
             }
         ]
     },

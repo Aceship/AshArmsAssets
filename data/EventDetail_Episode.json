@@ -5,7 +5,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -15,7 +15,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -25,7 +25,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -35,7 +35,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -45,7 +45,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -55,7 +55,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -65,7 +65,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -75,7 +75,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -85,7 +85,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -95,7 +95,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,II10001",
+        "EventDrop": "IM99991,IC0100,IC0200,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -105,7 +105,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -115,7 +115,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3011,IC6003,II10001",
+        "EventDrop": "IM99991,IM3011,IC6003,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -125,7 +125,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -135,7 +135,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3011,IC6003,II10001",
+        "EventDrop": "IM99991,IM3011,IC6003,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -145,7 +145,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,II10001",
+        "EventDrop": "IM99991,IC0100,IC0200,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -155,7 +155,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -165,7 +165,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3011,IC6003,II10001",
+        "EventDrop": "IM99991,IM3011,IC6003,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -175,7 +175,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3001,IM3011,II10001",
+        "EventDrop": "IM99991,IM3001,IM3011,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -185,7 +185,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3011,IC6003,II10001",
+        "EventDrop": "IM99991,IM3011,IC6003,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -195,7 +195,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,IM3011,IC6003,II10001",
+        "EventDrop": "IM99991,IC0100,IC0200,IM3011,IC6003,II10001",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -205,7 +205,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3011,IC6003,II10002",
+        "EventDrop": "IM99991,IM3011,IC6003,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -215,7 +215,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC6003,IC6004,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -225,7 +225,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3011,IC6003,II10002",
+        "EventDrop": "IM99991,IM3011,IC6003,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -235,7 +235,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC6003,IC6004,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -245,7 +245,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,II10002",
+        "EventDrop": "IM99991,IC0100,IC0200,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -255,7 +255,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3011,IC6003,II10002",
+        "EventDrop": "IM99991,IM3011,IC6003,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -265,7 +265,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC6003,IC6004,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -275,7 +275,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IM3011,IC6003,II10002",
+        "EventDrop": "IM99991,IM3011,IC6003,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -285,7 +285,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC6003,IC6004,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -295,7 +295,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC0100,IC0200,IC6003,IC6004,II10002",
         "bgm": "304_BGM_Crystal_Throne_Full"
     },
     {
@@ -305,7 +305,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC6003,IC6004,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -315,7 +315,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -325,7 +325,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC6003,IC6004,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -335,7 +335,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -345,7 +345,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,II10002",
+        "EventDrop": "IM99991,IC0100,IC0200,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -355,7 +355,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC6003,IC6004,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -365,7 +365,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -375,7 +375,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC6003,IC6004,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -385,7 +385,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -395,7 +395,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE116",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC0100,IC0200,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -405,7 +405,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC6003,IC6004,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -415,7 +415,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -425,7 +425,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC6003,IC6004,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -435,7 +435,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -445,7 +445,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,II10002",
+        "EventDrop": "IM99991,IC0100,IC0200,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -455,7 +455,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6003,IC6004,II10002",
+        "EventDrop": "IM99991,IC6003,IC6004,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -465,7 +465,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -475,7 +475,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -485,7 +485,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -495,7 +495,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE126",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -505,7 +505,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -515,7 +515,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -525,7 +525,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -535,7 +535,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -545,7 +545,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,II10002",
+        "EventDrop": "IM99991,IC0100,IC0200,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -555,7 +555,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -565,7 +565,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -575,7 +575,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6004,IC6005,II10002",
+        "EventDrop": "IM99991,IC6004,IC6005,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -585,7 +585,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -595,7 +595,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "304_BGM_Crystal_Throne_Full"
     },
     {
@@ -605,7 +605,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -615,7 +615,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -625,7 +625,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -635,7 +635,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -645,7 +645,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -655,7 +655,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -665,7 +665,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -675,7 +675,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -685,7 +685,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC6005,IC6006,II10002",
         "bgm": "207_Battle_Nightmare"
     },
     {
@@ -695,7 +695,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE136",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99995,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IM99991,IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "304_BGM_Crystal_Throne_Full"
     }
 ]

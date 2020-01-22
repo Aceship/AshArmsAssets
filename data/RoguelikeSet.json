@@ -109,7 +109,7 @@
         "weight": "3000",
         "activatedMultiplier": "3.0",
         "bonusPoint": "[1,0]",
-        "itemRewardStr": "[IM99993,1]"
+        "itemRewardStr": "[IM99991,1]"
     }, {
         "roomID": "rm01",
         "roomType": "1",
@@ -163,7 +163,7 @@
         "weight": "7000",
         "activatedMultiplier": "3.0",
         "bonusPoint": "[1,0]",
-        "itemRewardStr": "[IM99993,1]"
+        "itemRewardStr": "[IM99991,1]"
     }],
     "roguelikemapbasestore": [{
         "skillID": "St206",

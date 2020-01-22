@@ -3,11 +3,11 @@
     "chapterID": "001",
     "description": "",
     "effect": "",
-    "endTimeT": "1576108800000",
+    "endTimeT": "0",
     "episodes": [{
         "avgId": "NONE",
         "chapterID": "001",
-        "endTimeT": "1576008000000",
+        "endTimeT": "4100616000000",
         "epName": "悪夢1",
         "episodeEvents": [{
             "campaignProgressReq": "3000",
@@ -330,7 +330,7 @@
     }, {
         "avgId": "NONE",
         "chapterID": "001",
-        "endTimeT": "1576008000000",
+        "endTimeT": "4100616000000",
         "epName": "悪夢1",
         "episodeEvents": [{
             "campaignProgressReq": "2000",
@@ -653,7 +653,7 @@
     }, {
         "avgId": "NONE",
         "chapterID": "001",
-        "endTimeT": "1576008000000",
+        "endTimeT": "4100616000000",
         "epName": "悪夢1",
         "episodeEvents": [{
             "campaignProgressReq": "1000",
@@ -976,7 +976,7 @@
     }, {
         "avgId": "NONE",
         "chapterID": "001",
-        "endTimeT": "1576008000000",
+        "endTimeT": "4100616000000",
         "epName": "悪夢2",
         "episodeEvents": [{
             "campaignProgressReq": "4000",
@@ -1299,7 +1299,7 @@
     }, {
         "avgId": "NONE",
         "chapterID": "001",
-        "endTimeT": "1576008000000",
+        "endTimeT": "4100616000000",
         "epName": "悪夢2",
         "episodeEvents": [{
             "campaignProgressReq": "3000",
@@ -1622,7 +1622,7 @@
     }, {
         "avgId": "NONE",
         "chapterID": "001",
-        "endTimeT": "1576008000000",
+        "endTimeT": "4100616000000",
         "epName": "悪夢2",
         "episodeEvents": [{
             "campaignProgressReq": "2000",
@@ -1945,7 +1945,7 @@
     }, {
         "avgId": "NONE",
         "chapterID": "001",
-        "endTimeT": "1576008000000",
+        "endTimeT": "4100616000000",
         "epName": "悪夢3",
         "episodeEvents": [{
             "campaignProgressReq": "8000",
@@ -2266,13 +2266,13 @@
         "playerLevelReq": "10",
         "startTimeT": "1573675200000"
     }],
-    "item": "IM99995",
+    "item": "IM99991",
     "label": "",
     "maxLevel": "3",
     "poster": "",
-    "questType": "89",
-    "shopType": "403",
-    "startTimeT": "1568404800000",
-    "state": "0",
+    "questType": "88",
+    "shopType": "404",
+    "startTimeT": "0",
+    "state": "1",
     "title": ""
 }]

@@ -137,6 +137,72 @@
         "signedCode": "SC8"
     }]
 }, {
+    "dateBeginLong": "1579705200000",
+    "dateEndLong": "1580828400000",
+    "signedCode": "SC9",
+    "signedName": "春节登录",
+    "signeds": [{
+        "charid": "",
+        "day": "1",
+        "itemReward": "IM99991,200",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC9"
+    }, {
+        "charid": "",
+        "day": "2",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,200",
+        "signedCode": "SC9"
+    }, {
+        "charid": "",
+        "day": "3",
+        "itemReward": "IC9001,10",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC9"
+    }, {
+        "charid": "",
+        "day": "4",
+        "itemReward": "",
+        "priceRewardStr": "0,0,30000,0,0,0",
+        "signedCode": "SC9"
+    }, {
+        "charid": "",
+        "day": "5",
+        "itemReward": "",
+        "priceRewardStr": "1000,0,0,0,0,0",
+        "signedCode": "SC9"
+    }, {
+        "charid": "",
+        "day": "6",
+        "itemReward": "IM99991,200",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC9"
+    }, {
+        "charid": "",
+        "day": "7",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,200",
+        "signedCode": "SC9"
+    }, {
+        "charid": "",
+        "day": "8",
+        "itemReward": "IC9001,10",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC9"
+    }, {
+        "charid": "",
+        "day": "9",
+        "itemReward": "",
+        "priceRewardStr": "0,0,30000,0,0,0",
+        "signedCode": "SC9"
+    }, {
+        "charid": "",
+        "day": "10",
+        "itemReward": "IM9001,1",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC9"
+    }]
+}, {
     "dateBeginLong": "1577804400000",
     "dateEndLong": "1580482800000",
     "signedCode": "SM2001",
