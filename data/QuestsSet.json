@@ -10,8 +10,8 @@
     "questsid": "1010001",
     "state": "1",
     "type": "1",
-    "userItems": "IM99991,50",
-    "userItemsBack": "[[IM99991,50]]"
+    "userItems": "",
+    "userItemsBack": ""
 }, {
     "charid": "",
     "content": "訓練所で3回勝利する",
@@ -24,8 +24,8 @@
     "questsid": "1010002",
     "state": "1",
     "type": "1",
-    "userItems": "IM99992,1|IM99991,50",
-    "userItemsBack": "[[IM99992,1],[IM99991,50]]"
+    "userItems": "IM99992,1",
+    "userItemsBack": "[[IM99992,1]]"
 }, {
     "charid": "",
     "content": "偵察を行い、限定ステージで1回勝利する",
@@ -38,8 +38,8 @@
     "questsid": "1010003",
     "state": "1",
     "type": "1",
-    "userItems": "IC9001,5|IM99991,50",
-    "userItemsBack": "[[IC9001,5],[IM99991,50]]"
+    "userItems": "IC9001,5",
+    "userItemsBack": "[[IC9001,5]]"
 }, {
     "charid": "",
     "content": "偵察を行い、限定ステージで2回勝利する",
@@ -52,8 +52,8 @@
     "questsid": "1010004",
     "state": "1",
     "type": "1",
-    "userItems": "IM90003,1|IM99992,1|IM99991,50",
-    "userItemsBack": "[[IM90003,1],[IM99992,1],[IM99991,50]]"
+    "userItems": "IM90003,1|IM99992,1",
+    "userItemsBack": "[[IM90003,1],[IM99992,1]]"
 }, {
     "charid": "",
     "content": "メインステージで3回勝利する",
@@ -66,8 +66,8 @@
     "questsid": "1010005",
     "state": "1",
     "type": "1",
-    "userItems": "II10002,2|IM99991,50",
-    "userItemsBack": "[[II10002,2],[IM99991,50]]"
+    "userItems": "II10002,2",
+    "userItemsBack": "[[II10002,2]]"
 }, {
     "charid": "",
     "content": "メインステージで5回勝利する",
@@ -80,8 +80,8 @@
     "questsid": "1010006",
     "state": "1",
     "type": "1",
-    "userItems": "IM0008,1|IM99992,1|IM99991,50",
-    "userItemsBack": "[[IM0008,1],[IM99992,1],[IM99991,50]]"
+    "userItems": "IM0008,1|IM99992,1",
+    "userItemsBack": "[[IM0008,1],[IM99992,1]]"
 }, {
     "charid": "",
     "content": "任意のステージでS勝利を3回達成する",
@@ -94,8 +94,8 @@
     "questsid": "1010007",
     "state": "1",
     "type": "1",
-    "userItems": "II10002,2|IM99991,50",
-    "userItemsBack": "[[II10002,2],[IM99991,50]]"
+    "userItems": "II10002,2",
+    "userItemsBack": "[[II10002,2]]"
 }, {
     "charid": "",
     "content": "任意のステージでS勝利を5回達成する",
@@ -108,8 +108,8 @@
     "questsid": "1010008",
     "state": "1",
     "type": "1",
-    "userItems": "IM0008,1|IM99992,1|IM99991,50",
-    "userItemsBack": "[[IM0008,1],[IM99992,1],[IM99991,50]]"
+    "userItems": "IM0008,1|IM99992,1",
+    "userItemsBack": "[[IM0008,1],[IM99992,1]]"
 }, {
     "charid": "",
     "content": "量産工場でDOLLSを3回量産する",
@@ -122,8 +122,8 @@
     "questsid": "1010009",
     "state": "1",
     "type": "1",
-    "userItems": "IM99991,50",
-    "userItemsBack": "[[IM99991,50]]"
+    "userItems": "",
+    "userItemsBack": ""
 }, {
     "charid": "",
     "content": "全てのデイリー任務を達成する※「偵察ステージ」は対象外",
@@ -136,8 +136,8 @@
     "questsid": "1010010",
     "state": "1",
     "type": "1",
-    "userItems": "IM0006,2|IM99992,3|IM99991,80",
-    "userItemsBack": "[[IM0006,2],[IM99992,3],[IM99991,80]]"
+    "userItems": "IM0006,2|IM99992,3",
+    "userItemsBack": "[[IM0006,2],[IM99992,3]]"
 }, {
     "charid": "",
     "content": "訓練所で15回勝利する",
@@ -4205,6 +4205,272 @@
     "exp": "0",
     "name": "[story]",
     "position": "",
+    "priceRewardBack": "[0,0,20000,0,0,0]",
+    "priceRewardStr": "0,0,20000,0,0,0",
+    "questsid": "7010001",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "<color=#00aab9>チャレンジ</color>「バレンタインMk.Ⅱ」を含む編成で「V-DayA05-N」を1T以内攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[500,0,0,0,0,0]",
+    "priceRewardStr": "500,0,0,0,0,0",
+    "questsid": "7010002",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "EP2の全ノーマルステージをS勝利で攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,100]",
+    "priceRewardStr": "0,0,0,0,0,100",
+    "questsid": "7010003",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "<color=#00aab9>チャレンジ</color>「バレンタインMk.Ⅱ」を含む編成で「V-DayB03-N」を1T以内攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[500,0,0,0,0,0]",
+    "priceRewardStr": "500,0,0,0,0,0",
+    "questsid": "7010004",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "EP3の全ノーマルステージをS勝利で攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,200]",
+    "priceRewardStr": "0,0,0,0,0,200",
+    "questsid": "7010005",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "<color=#00aab9>チャレンジ</color>「バレンタインMk.Ⅱ」を含む編成で「V-DayC04-N」を2T以内攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,10,0,0]",
+    "priceRewardStr": "0,0,0,10,0,0",
+    "questsid": "7010006",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "難易度ノーマル全ステージの「チャレンジ任務」を達成",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "7010007",
+    "state": "1",
+    "type": "70",
+    "userItems": "IM19003,1",
+    "userItemsBack": "[IM19003,1]"
+}, {
+    "charid": "",
+    "content": "EP1の全ハードステージをS勝利で攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,100]",
+    "priceRewardStr": "0,0,0,0,0,100",
+    "questsid": "7010008",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "<color=#00aab9>チャレンジ</color>「バレンタインMk.Ⅱ」を含む編成で「V-DayA03-H」を2T以内攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,30000,0,0,0]",
+    "priceRewardStr": "0,0,30000,0,0,0",
+    "questsid": "7010009",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "EP2の全ハードステージをS勝利で攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,200]",
+    "priceRewardStr": "0,0,0,0,0,200",
+    "questsid": "7010010",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "<color=#00aab9>チャレンジ</color>「バレンタインMk.Ⅱ」を含む編成で「V-DayB01-H」を2T以内攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[500,0,0,0,0,0]",
+    "priceRewardStr": "500,0,0,0,0,0",
+    "questsid": "7010011",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "EP3の全ハードステージをS勝利で攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,300]",
+    "priceRewardStr": "0,0,0,0,0,300",
+    "questsid": "7010012",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "<color=#00aab9>チャレンジ</color>「バレンタインMk.Ⅱ」を含む編成で「V-DayC04-H」を2T以内攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,10,0,0]",
+    "priceRewardStr": "0,0,0,10,0,0",
+    "questsid": "7010013",
+    "state": "1",
+    "type": "70",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "<color=#00aab9>チャレンジ</color>難易度ナイトメアの全ステージをS勝利で攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "7010014",
+    "state": "1",
+    "type": "70",
+    "userItems": "IM19004,1",
+    "userItemsBack": "[IM19004,1]"
+}, {
+    "charid": "",
+    "content": "任意の敵を100体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "7010016",
+    "state": "1",
+    "type": "70",
+    "userItems": "IM99989,200",
+    "userItemsBack": "[IM99989,200]"
+}, {
+    "charid": "",
+    "content": "任意の敵を300体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "7010017",
+    "state": "1",
+    "type": "70",
+    "userItems": "IM99989,300",
+    "userItemsBack": "[IM99989,300]"
+}, {
+    "charid": "",
+    "content": "任意の敵を500体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "7010018",
+    "state": "1",
+    "type": "70",
+    "userItems": "IM99989,400",
+    "userItemsBack": "[IM99989,400]"
+}, {
+    "charid": "",
+    "content": "任意の敵を750体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "7010019",
+    "state": "1",
+    "type": "70",
+    "userItems": "IM99989,500",
+    "userItemsBack": "[IM99989,500]"
+}, {
+    "charid": "",
+    "content": "任意の敵を1000体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "7010020",
+    "state": "1",
+    "type": "70",
+    "userItems": "IM99989,600",
+    "userItemsBack": "[IM99989,600]"
+}, {
+    "charid": "",
+    "content": "EP01ノーマルの最終ステージをS勝利で1回攻略",
+    "cycle": "0",
+    "exp": "0",
+    "name": "[story]",
+    "position": "",
     "priceRewardBack": "[0,0,0,0,0,100]",
     "priceRewardStr": "0,0,0,0,0,100",
     "questsid": "8810001",
@@ -4214,7 +4480,7 @@
     "userItemsBack": ""
 }, {
     "charid": "",
-    "content": "EP2の全ノーマルステージをS勝利で攻略",
+    "content": "EP02ノーマルの最終ステージをS勝利で1回攻略",
     "cycle": "0",
     "exp": "0",
     "name": "[story]",
@@ -4228,7 +4494,7 @@
     "userItemsBack": ""
 }, {
     "charid": "",
-    "content": "EP3の全ノーマルステージをS勝利で攻略",
+    "content": "EP03ノーマルの最終ステージをS勝利で1回攻略",
     "cycle": "0",
     "exp": "0",
     "name": "[story]",
@@ -4242,7 +4508,7 @@
     "userItemsBack": ""
 }, {
     "charid": "",
-    "content": "EP1の全ハードステージをS勝利で攻略",
+    "content": "EP01ハードの最終ステージをS勝利で1回攻略",
     "cycle": "0",
     "exp": "0",
     "name": "[story]",
@@ -4256,7 +4522,7 @@
     "userItemsBack": ""
 }, {
     "charid": "",
-    "content": "EP2の全ハードステージをS勝利で攻略",
+    "content": "EP02ハードの最終ステージをS勝利で1回攻略",
     "cycle": "0",
     "exp": "0",
     "name": "[story]",
@@ -4270,7 +4536,7 @@
     "userItemsBack": ""
 }, {
     "charid": "",
-    "content": "EP3の全ハードステージをS勝利で攻略",
+    "content": "EP03ハードの最終ステージをS勝利で1回攻略",
     "cycle": "0",
     "exp": "0",
     "name": "[story]",
@@ -4284,7 +4550,7 @@
     "userItemsBack": ""
 }, {
     "charid": "",
-    "content": "難易度ナイトメアの全ステージをS勝利で攻略",
+    "content": "ナイトメアの最終ステージをS勝利で1回攻略",
     "cycle": "0",
     "exp": "0",
     "name": "[story]",
@@ -4928,7 +5194,7 @@
     "userItemsBack": ""
 }, {
     "charid": "",
-    "content": "「結晶ノ繭」を30回撃破する",
+    "content": "「結晶ノ繭」を10回撃破する",
     "cycle": "0",
     "exp": "0",
     "name": "event",
@@ -4942,7 +5208,7 @@
     "userItemsBack": ""
 }, {
     "charid": "",
-    "content": "「シュバルツブラウ」を20回撃破する",
+    "content": "「シュバルツブラウト」を10回撃破する",
     "cycle": "0",
     "exp": "0",
     "name": "event",
@@ -4956,7 +5222,7 @@
     "userItemsBack": "[[IM92056,5]]"
 }, {
     "charid": "",
-    "content": "「ヴァイスブラウ」を20回撃破する",
+    "content": "「ヴァイスブラウト」を10回撃破する",
     "cycle": "0",
     "exp": "0",
     "name": "event",
@@ -4970,7 +5236,7 @@
     "userItemsBack": "[[IM92056,5]]"
 }, {
     "charid": "",
-    "content": "「帯剣ノ暴君・レックスアブリシウス」を20回撃破する",
+    "content": "「帯剣ノ暴君・レックスアブリシウス」を10回撃破する",
     "cycle": "0",
     "exp": "0",
     "name": "event",
@@ -4984,7 +5250,7 @@
     "userItemsBack": "[[IM92056,5]]"
 }, {
     "charid": "",
-    "content": "「絶境ノ回廊・マセドニア」を20回撃破する",
+    "content": "「絶境ノ回廊・マセドニア」を10回撃破する",
     "cycle": "0",
     "exp": "0",
     "name": "event",

@@ -541,5 +541,117 @@
         "EventID": "EPE00120310",
         "CheckPost": 2,
         "CheckTag": 3
+    },
+    {
+        "Index": 68,
+        "PlotKey": "Chapter002_1_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 69,
+        "PlotKey": "Chapter002_2_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210102",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 70,
+        "PlotKey": "Chapter002_3_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210103",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 71,
+        "PlotKey": "Chapter002_4_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210104",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 72,
+        "PlotKey": "Chapter002_5_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210105",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 73,
+        "PlotKey": "Chapter002_6_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210201",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 74,
+        "PlotKey": "Chapter002_7_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210202",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 75,
+        "PlotKey": "Chapter002_8_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210204",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 76,
+        "PlotKey": "Chapter002_9_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210205",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 77,
+        "PlotKey": "Chapter002_10_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210301",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 78,
+        "PlotKey": "Chapter002_11_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210302",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 79,
+        "PlotKey": "Chapter002_12_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210303",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 80,
+        "PlotKey": "Chapter002_13_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210304",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 81,
+        "PlotKey": "Chapter002_14_バレンタインより愛をこめて",
+        "PlotType": 0,
+        "EventID": "EPE00210305",
+        "CheckPost": 2,
+        "CheckTag": 3
     }
 ]

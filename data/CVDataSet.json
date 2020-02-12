@@ -4130,7 +4130,7 @@
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "88mm高射砲……アハト・アハトって言われいるらしい……ハっちゃんって呼んでくれたら・・・嬉しい。さん、はい……"
+                "CVDetail": "88mm高射砲……アハト・アハトって言われているらしい……ハっちゃんって呼んでくれたら・・・嬉しい。さん、はい……"
             },
             {
                 "CVType": "Launch",
@@ -6311,6 +6311,486 @@
             {
                 "CVType": "Win",
                 "CVDetail": "追うぞ！チャンスを逃すな、エージェント！"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM106601",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "豆鉄砲を喰らえ！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "だだだだだーん！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "はいはーい。翻弄しちゃうぞ～！"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "はーい。止まるね！どこ狙う？"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "ここで終わりか……。ごめん、なさい……。"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "資源回収部隊の出発よ。大人になれる薬とか手に入らないかしら……。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "もう！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "うう～。"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "わかったわ！"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "ごめんね。"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "Ｃｉａｏ♪"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "そんなのヨユーよ！"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "ふっふ～ん、ラクショーよ！"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "豆……じゃない、快速戦車、CV33よ！親しみを込めてカルロ・ヴェローチェって呼んでね。今はちょっと事情があって黒十字帝国学連に……って、わあ！飴ありがとう！……じゃなくて、子供扱い禁止！あたしは一人前のDOLLSなんだから！"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "見てて！パパっと華麗にやっつけちゃうんだから！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "みんな、すごいもん！災獣なんかに負けない！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "次こそは負けないんだから！ホントよ！"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "レベルと一緒に身長も……伸びたらいいなあ。"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "電文を持ってきてあげたわ！ふっふ～ん♪"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "ふー……。"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "改造完了～。火力が強化されたわ～。……え？テンションが低い？そんなことないわよ。進化したら身長も伸びるかなって期待してただけー……。え？ジェラート食べに行くけど一緒にどうかって？うん、行くー！ジェラート！ジェラート！"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "ふっふっふ……。ついにこのときが来たのね！来てしまったのね！"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "んぐ、ぎぎぎぎ……。頭を撫でないで……！"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "突然変異で大人なあたしとか産まれないかしら……。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "ありがと。強化してくれて。"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "こう、身長を伸ばす強化とかは……。うん、無いよね！"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "お胸とかお尻とか、おっきくならないかなぁ。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "もう！頭ナデナデしないでよ！子ども扱いしないでー！むきー！"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "資源回収部隊が帰ってきたわ。ねえねえ、どんなものが手に入ったの？"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "任務から帰ったわ！身体が冷めない内に牛乳飲まないと。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "私は特別製よ！どりゃー！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "誰だー！チビって言ったヤツー！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "ちっちゃくたって一人前なんだから！バカにしないでよね！！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "黒十字帝国学連のDOLLSって、どうしてこんなにすごいのかしら。……え？マウスさんとかあたしに近い？あのね、あたしが言っているのは体型ではなくてARMSの性能の話なんだけど……。マウスさんに言いつけてもいい？"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "嫌いなもの？子ども扱いしてくるヤツ。チビって言うヤツ。以上。"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "あたしの自慢はスピード。速さで敵を翻弄するの。攻撃力……は大事だけど、そこは適材適所！あたしが頑張れるところで頑張るわ！"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "もー！頭を撫でないでって言ってるのにー！……え？習慣になってしまったから止められない？なら、しょうがないかあ……。って、なるか！バカ代理人！"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "勝ったぞー！いえーい！"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM107001",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "てめぇにはこれで十分だ！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "撃ち殺す！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "ハハハハハ！征くぞ、災獣ども！"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "クク、どいつを喰ろうてやろうか……。"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "己が夢に殉ずるか……。すまぬ、あとは任せた……。"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "皆、気をつけて征くのだぞ。新種の災獣に出逢ったら、すぐに我に連絡するように。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "くそっ！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "ぬう！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "かまわん。"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "ふざけるな。"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "ごきげんよう。"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "愚か者め！"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "当然だ。我が行かんでなんとする。"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "貴様が代理人か！我はチャーチルMK.Ⅱ。王立白薔薇学連の重戦車型DOLLSだ。災獣どもを殲滅するため馳せ参じた！……さて、では我を肩に乗せるのだ。なぜかって？格の違いを思い知らせるためよ。ふむふむ、おぬしの肩はなかなかに良い。褒めてやるぞ。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "ハハハハハ！胸が高鳴るなあ、代理人よ！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "怯むな！征け！災獣どもは臆病者から喰らうぞ！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "次は必ず殲滅してやる。首を洗って待っていろ！"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "成長か。災獣どもの嘆きが聞こえる。"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "電文とな？災獣の生態に関する情報は載っておるか？"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "ハッ！"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "見るのだ、代理人！チャーチルMK.Ⅶへと改造完了だ！今の実力で何体の災獣を屠れるのか……。期待で身体が振るえておるよ！なに？出撃の準備は済ませた？ククッ、気が利くようになったではないか！参るぞ、代理人！"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "我の改造が可能になったぞ！何をグズグズしておる！早うせんか！"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "我がイチバンか。クク、わかっておるではないか。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "発注していたARMSが納品されたか。ククッ、災獣どもよ待っておれ。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "強化完了。悪くないな。"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "強くなった。感謝するぞ。"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "ククッ、武者震いが止まらぬ。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "戦場に死の協奏曲を！災獣どもに終わりなき絶望を！"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "皆、無事なようで何より。ご苦労であった。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "戻ったばかりだというのにもう戦場が恋しく感じる。次の出撃はいつだ？"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "簡単に斃れてくれるなよ！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "その程度か！その程度か災獣どもぉッ！！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "憤怒と慟哭が戦場を翔ける！……受けよ、我が渾身の一撃！叛逆の業火を！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "ハハハ、かつての大戦では直接戦車とやり合う以外に、改造されて様々な用途で活躍したんだ。火炎放射機をつけられたこともあってね、敵兵に恐れられ憎悪されたもんだよ。災獣にも効くかもしれんな。試してはないが。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "我が目的は、災獣に支配されているこの間違った世界を正すこと。奴らを一匹残らず殲滅すること。……それが終わったらどうするのかって？そうだな、そのときは我を殺してくれ。役目を終えた兵器は解体されるものだろう？"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "我は災獣が嫌いだ。だが、奴らをどう駆除しようかと考えるのがたまらなく楽しいんだ。詐欺師や頭のおかしい政治家も同じ気持ちなのかもしれんね。同情するよ。"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "こら！我の頭を撫でるでない！我を子ども扱いする気か！"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "暴君は斃れるが必定！クッハッハッハッ！"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM107801",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "この勢いで突っ込むぞ！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "死ぬほど痛いよ～"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "見つけた！そこ！"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "臨機応変も戦法のうち！"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "ああ、三途の川が見えたよ..."
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "護衛任務？そんなの朝飯前だよ！必ず完遂してみせる！"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "いたたたた..."
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "勘弁してくれよ、もう！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "おお、これいいね！"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "あーあー聞こえなーい"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "はいはい～"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "これ欲しい！"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "先輩方、よろしくお願いしますね！"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "おや？見ない顔だね。あっ、あんたがエージェントか？！私は九五式軽戦車ハ号。戦闘経験はあまりないけど、訓練より実戦ということで、絶対出撃させてね！よろしく！"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "私の出番？武勲と功名、全部頂いちゃうよ！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "えい！えい！おう！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "先輩方でも敵わないほどの実力差だよ！断じて私のせいじゃない！私は悪くない！"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "いつか私も「先輩」って呼ばれるのかなぁ。"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "エージェントくん、メールが届いたよ！"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "チビにはチビのいいところがあるんだよ！"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "これを見れば誰でも私の実力を認めざるを得ないな。"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "おお！これが新兵器か！"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "虎穴に入らずんば、虎子を得ず。だね！"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "これで私の活躍はもっと多くの人に見られるもんね。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "これだけ？"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "もっと効率的なやり方はないの？"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "うん...ゆっくり実力を積み上げるのも悪くないかも。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "私に会いたかった？エー・ジェン・ト。ご褒美は用意した？まだ報告してない戦績がいーぱいあるんだよ！"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "言ったでしょ？朝飯前だって。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "エージェント、見て見て！空前絶後の大勝利だよ！約束のご褒美は？まずは勝利の宴を開くのも悪くないぜ。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "勝負どころだ！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "私の本気を見せてやる！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "チェスト～！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "何？模擬戦と装備点検？つまり実戦じゃないってこと？あーすんません雑音が酷くてよく聞こえなーい、仕方ないから先に切るね、バイバ～イ"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "ああ～やっぱりカツ丼と味噌汁は最高だ！出撃する前は幸運をもたらすし、任務から帰還した後は幸福を与える素晴らしい一品だよ！"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "こう見えても私、これからもどんどん成長するよ！どんどん食べて、どんどん大きくなっていく…はず！"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "うぅ、約束の勲章は？頭を撫でて誤魔化すなってば！"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "今思えば...お昼にカツ丼を食べたのは正解だったな！"
             }
         ]
     },

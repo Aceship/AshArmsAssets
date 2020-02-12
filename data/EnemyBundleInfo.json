@@ -478,4 +478,10 @@
     "Texture_Avatar": "EMY84112",
     "Texture_Battle": "EMY84112_Texture",
     "Spine_Name": "EMY84112_SkeletonData"
+}, {
+    "EnemyID": "EMY84113",
+    "Texture_Offset": "-140,-75",
+    "Texture_Avatar": "EMY84113",
+    "Texture_Battle": "EMY84113_Texture",
+    "Spine_Name": "EMY84113_SkeletonData"
 }]

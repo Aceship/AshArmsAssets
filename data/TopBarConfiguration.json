@@ -518,7 +518,7 @@
         "SceneName": "MapViewScene",
         "PanelName": "SideStoryMainPanel",
         "ShowTopBar": "1",
-        "DisplayName": "悪夢ノ直角前哨戦",
+        "DisplayName": "ストーリークエスト",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
@@ -554,26 +554,26 @@
         "SceneName": "GaChaScene",
         "PanelName": "Default",
         "ShowTopBar": "1",
-        "DisplayName": "安息への砲火",
+        "DisplayName": "恋芯徹甲弾",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
         "ResSlot1": "",
         "HelpPPT": "NONE",
-        "BGM": "0001_Gacha_Chrismas"
+        "BGM": "0002_Gacha_Love"
     },
     {
 
         "SceneName": "GaChaScene",
         "PanelName": "GaChaPanel",
         "ShowTopBar": "1",
-        "DisplayName": "安息への砲火",
+        "DisplayName": "恋芯徹甲弾",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
         "ResSlot1": "",
         "HelpPPT": "NONE",
-        "BGM": "0001_Gacha_Chrismas"
+        "BGM": "0002_Gacha_Love"
     },
     {
         "SceneName": "VoteScene",
@@ -707,5 +707,41 @@
         "ResSlot1": "",
         "HelpPPT": "NONE",
         "BGM": "110_MainScreen_City"
+    },
+    {
+        "SceneName": "StoryScene",
+        "PanelName": "SideStoryMainPanel",
+        "ShowTopBar": "1",
+        "DisplayName": "サイドストーリー",
+        "ShowResModule": "0",
+        "ResSlot3": "",
+        "ResSlot2": "",
+        "ResSlot1": "",
+        "HelpPPT": "NONE",
+        "BGM": "NONE"
+    },
+    {
+        "SceneName": "StoryScene",
+        "PanelName": "SideStoryDetailPanel",
+        "ShowTopBar": "1",
+        "DisplayName": "サイドストーリー",
+        "ShowResModule": "0",
+        "ResSlot3": "",
+        "ResSlot2": "",
+        "ResSlot1": "",
+        "HelpPPT": "NONE",
+        "BGM": "NONE"
+    },
+    {
+        "SceneName": "StoryScene",
+        "PanelName": "Default",
+        "ShowTopBar": "1",
+        "DisplayName": "サイドストーリー",
+        "ShowResModule": "0",
+        "ResSlot3": "",
+        "ResSlot2": "",
+        "ResSlot1": "",
+        "HelpPPT": "NONE",
+        "BGM": "NONE"
     }
 ]

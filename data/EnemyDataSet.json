@@ -16111,6 +16111,25 @@
     "pose": "2",
     "skinid": "EMY32141"
 }, {
+    "aprc": "4",
+    "baseHit": "155",
+    "baseHp": "23059",
+    "baseSpeed": "1",
+    "charClass": "3",
+    "charDescription": "特殊個体",
+    "charRarity": "1",
+    "charType": "2",
+    "classVariant": "1",
+    "combatSkillListStr": "E8411306,E8411307,E8411308,E8411309,E8411310,E8411311",
+    "damageMode": "1",
+    "enemyName": "滞空種「黄昏石」 III",
+    "enemyid": "EMY8411303",
+    "isBoss": "1",
+    "mprc": "0",
+    "mpua": "0",
+    "pose": "1",
+    "skinid": "EMY84113"
+}, {
     "aprc": "3",
     "baseHit": "173",
     "baseHp": "1386",
@@ -16129,6 +16148,25 @@
     "mpua": "0",
     "pose": "2",
     "skinid": "EMY32141"
+}, {
+    "aprc": "4",
+    "baseHit": "126",
+    "baseHp": "16074",
+    "baseSpeed": "1",
+    "charClass": "3",
+    "charDescription": "特殊個体",
+    "charRarity": "1",
+    "charType": "2",
+    "classVariant": "1",
+    "combatSkillListStr": "E8411306,E8411307,E8411308,E8411309,E8411310",
+    "damageMode": "1",
+    "enemyName": "滞空種「黄昏石」 II",
+    "enemyid": "EMY8411302",
+    "isBoss": "1",
+    "mprc": "0",
+    "mpua": "0",
+    "pose": "1",
+    "skinid": "EMY84113"
 }, {
     "aprc": "3",
     "baseHit": "68",
@@ -16357,6 +16395,25 @@
     "mpua": "0",
     "pose": "2",
     "skinid": "EMY31111"
+}, {
+    "aprc": "4",
+    "baseHit": "59",
+    "baseHp": "3073",
+    "baseSpeed": "1",
+    "charClass": "3",
+    "charDescription": "特殊個体",
+    "charRarity": "1",
+    "charType": "2",
+    "classVariant": "1",
+    "combatSkillListStr": "E8411306,E8411307",
+    "damageMode": "1",
+    "enemyName": "滞空種「黄昏石」 I",
+    "enemyid": "EMY8411301",
+    "isBoss": "1",
+    "mprc": "0",
+    "mpua": "0",
+    "pose": "1",
+    "skinid": "EMY84113"
 }, {
     "aprc": "3",
     "baseHit": "37",
