@@ -3761,6 +3761,17 @@
     "time": "0",
     "type": "1"
 }, {
+    "buffName": "対空火力アップ",
+    "buffid": "BDOL207712",
+    "count": "0",
+    "effectType": "powerAA",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_power+",
+    "time": "0",
+    "type": "1"
+}, {
     "buffName": "装甲アップ",
     "buffid": "BSP009612",
     "count": "0",
@@ -3770,6 +3781,17 @@
     "grouplevel": "0",
     "icon": "Buff_armor+",
     "time": "1",
+    "type": "1"
+}, {
+    "buffName": "対空火力アップ",
+    "buffid": "BDOL207711",
+    "count": "0",
+    "effectType": "powerAA",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_power+",
+    "time": "0",
     "type": "1"
 }, {
     "buffName": "装甲アップ",
@@ -4267,6 +4289,17 @@
     "time": "1",
     "type": "1"
 }, {
+    "buffName": "機動性アップ,対空火力アップ",
+    "buffid": "BSP012813",
+    "count": "0",
+    "effectType": "dodge,powerAA",
+    "groupName": "",
+    "groupid": "12813",
+    "grouplevel": "0",
+    "icon": "Buff_dodge+,Buff_power+",
+    "time": "3",
+    "type": "1"
+}, {
     "buffName": "脅威度ダウン",
     "buffid": "BSP008312",
     "count": "0",
@@ -4309,6 +4342,28 @@
     "grouplevel": "0",
     "icon": "Buff_hit+",
     "time": "0",
+    "type": "1"
+}, {
+    "buffName": "機動性アップ,対空火力アップ",
+    "buffid": "BSP012812",
+    "count": "0",
+    "effectType": "dodge,powerAA",
+    "groupName": "",
+    "groupid": "12812",
+    "grouplevel": "0",
+    "icon": "Buff_dodge+,Buff_power+",
+    "time": "3",
+    "type": "1"
+}, {
+    "buffName": "機動性アップ,対空火力アップ",
+    "buffid": "BSP012811",
+    "count": "0",
+    "effectType": "dodge,powerAA",
+    "groupName": "",
+    "groupid": "12811",
+    "grouplevel": "0",
+    "icon": "Buff_dodge+,Buff_power+",
+    "time": "3",
     "type": "1"
 }, {
     "buffName": "ダメージ軽減率アップ",
@@ -8247,6 +8302,17 @@
     "grouplevel": "0",
     "icon": "Buff_dodge+",
     "time": "1",
+    "type": "1"
+}, {
+    "buffName": "会心補正アップ",
+    "buffid": "BSS7012211",
+    "count": "0",
+    "effectType": "critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_critical+",
+    "time": "2",
     "type": "1"
 }, {
     "buffName": "機動性アップ",

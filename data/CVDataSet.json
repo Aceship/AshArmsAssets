@@ -6318,151 +6318,151 @@
         "ARMSID": "ARM106601",
         "CVDesArray": [{
                 "CVType": "Attack1",
-                "CVDetail": "豆鉄砲を喰らえ！"
+                "CVDetail": "この勢いで突っ込むぞ！"
             },
             {
                 "CVType": "Attack2",
-                "CVDetail": "だだだだだーん！"
+                "CVDetail": "死ぬほど痛いよ～"
             },
             {
                 "CVType": "Change1",
-                "CVDetail": "はいはーい。翻弄しちゃうぞ～！"
+                "CVDetail": "見つけた！そこ！"
             },
             {
                 "CVType": "Change2",
-                "CVDetail": "はーい。止まるね！どこ狙う？"
+                "CVDetail": "臨機応変も戦法のうち！"
             },
             {
                 "CVType": "Dead",
-                "CVDetail": "ここで終わりか……。ごめん、なさい……。"
+                "CVDetail": "ああ、三途の川が見えたよ..."
             },
             {
                 "CVType": "Dispatch",
-                "CVDetail": "資源回収部隊の出発よ。大人になれる薬とか手に入らないかしら……。"
+                "CVDetail": "護衛任務？そんなの朝飯前だよ！必ず完遂してみせる！"
             },
             {
                 "CVType": "Dmg1",
-                "CVDetail": "もう！"
+                "CVDetail": "いたたたた..."
             },
             {
                 "CVType": "Dmg2",
-                "CVDetail": "うう～。"
+                "CVDetail": "勘弁してくれよ、もう！"
             },
             {
                 "CVType": "Emotion1",
-                "CVDetail": "わかったわ！"
+                "CVDetail": "おお、これいいね！"
             },
             {
                 "CVType": "Emotion2",
-                "CVDetail": "ごめんね。"
+                "CVDetail": "あーあー聞こえなーい"
             },
             {
                 "CVType": "Emotion3",
-                "CVDetail": "Ｃｉａｏ♪"
+                "CVDetail": "はいはい～"
             },
             {
                 "CVType": "Emotion4",
-                "CVDetail": "そんなのヨユーよ！"
+                "CVDetail": "これ欲しい！"
             },
             {
                 "CVType": "GoGo",
-                "CVDetail": "ふっふ～ん、ラクショーよ！"
+                "CVDetail": "先輩方、よろしくお願いしますね！"
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "豆……じゃない、快速戦車、CV33よ！親しみを込めてカルロ・ヴェローチェって呼んでね。今はちょっと事情があって黒十字帝国学連に……って、わあ！飴ありがとう！……じゃなくて、子供扱い禁止！あたしは一人前のDOLLSなんだから！"
+                "CVDetail": "おや？見ない顔だね。あっ、あんたがエージェントか？！私は九五式軽戦車ハ号。戦闘経験はあまりないけど、訓練より実戦ということで、絶対出撃させてね！よろしく！"
             },
             {
                 "CVType": "Launch",
-                "CVDetail": "見てて！パパっと華麗にやっつけちゃうんだから！"
+                "CVDetail": "私の出番？武勲と功名、全部頂いちゃうよ！"
             },
             {
                 "CVType": "LdSkill",
-                "CVDetail": "みんな、すごいもん！災獣なんかに負けない！"
+                "CVDetail": "えい！えい！おう！"
             },
             {
                 "CVType": "Lose",
-                "CVDetail": "次こそは負けないんだから！ホントよ！"
+                "CVDetail": "先輩方でも敵わないほどの実力差だよ！断じて私のせいじゃない！私は悪くない！"
             },
             {
                 "CVType": "LvUP",
-                "CVDetail": "レベルと一緒に身長も……伸びたらいいなあ。"
+                "CVDetail": "いつか私も「先輩」って呼ばれるのかなぁ。"
             },
             {
                 "CVType": "Mail",
-                "CVDetail": "電文を持ってきてあげたわ！ふっふ～ん♪"
+                "CVDetail": "エージェントくん、メールが届いたよ！"
             },
             {
                 "CVType": "Miss",
-                "CVDetail": "ふー……。"
+                "CVDetail": "チビにはチビのいいところがあるんだよ！"
             },
             {
                 "CVType": "ModificationChange",
-                "CVDetail": "改造完了～。火力が強化されたわ～。……え？テンションが低い？そんなことないわよ。進化したら身長も伸びるかなって期待してただけー……。え？ジェラート食べに行くけど一緒にどうかって？うん、行くー！ジェラート！ジェラート！"
+                "CVDetail": "これを見れば誰でも私の実力を認めざるを得ないな。"
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "ふっふっふ……。ついにこのときが来たのね！来てしまったのね！"
+                "CVDetail": "おお！これが新兵器か！"
             },
             {
                 "CVType": "MVP",
-                "CVDetail": "んぐ、ぎぎぎぎ……。頭を撫でないで……！"
+                "CVDetail": "虎穴に入らずんば、虎子を得ず。だね！"
             },
             {
                 "CVType": "Order",
-                "CVDetail": "突然変異で大人なあたしとか産まれないかしら……。"
+                "CVDetail": "これで私の活躍はもっと多くの人に見られるもんね。"
             },
             {
                 "CVType": "PowerUp1",
-                "CVDetail": "ありがと。強化してくれて。"
+                "CVDetail": "これだけ？"
             },
             {
                 "CVType": "PowerUp2",
-                "CVDetail": "こう、身長を伸ばす強化とかは……。うん、無いよね！"
+                "CVDetail": "もっと効率的なやり方はないの？"
             },
             {
                 "CVType": "PowerUp3",
-                "CVDetail": "お胸とかお尻とか、おっきくならないかなぁ。"
+                "CVDetail": "うん...ゆっくり実力を積み上げるのも悪くないかも。"
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "もう！頭ナデナデしないでよ！子ども扱いしないでー！むきー！"
+                "CVDetail": "私に会いたかった？エー・ジェン・ト。ご褒美は用意した？まだ報告してない戦績がいーぱいあるんだよ！"
             },
             {
                 "CVType": "Recovery",
-                "CVDetail": "資源回収部隊が帰ってきたわ。ねえねえ、どんなものが手に入ったの？"
+                "CVDetail": "言ったでしょ？朝飯前だって。"
             },
             {
                 "CVType": "RTB",
-                "CVDetail": "任務から帰ったわ！身体が冷めない内に牛乳飲まないと。"
+                "CVDetail": "エージェント、見て見て！空前絶後の大勝利だよ！約束のご褒美は？まずは勝利の宴を開くのも悪くないぜ。"
             },
             {
                 "CVType": "Skill1",
-                "CVDetail": "私は特別製よ！どりゃー！"
+                "CVDetail": "勝負どころだ！"
             },
             {
                 "CVType": "Skill2",
-                "CVDetail": "誰だー！チビって言ったヤツー！"
+                "CVDetail": "私の本気を見せてやる！"
             },
             {
                 "CVType": "SPSkill",
-                "CVDetail": "ちっちゃくたって一人前なんだから！バカにしないでよね！！"
+                "CVDetail": "チェスト～！"
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "黒十字帝国学連のDOLLSって、どうしてこんなにすごいのかしら。……え？マウスさんとかあたしに近い？あのね、あたしが言っているのは体型ではなくてARMSの性能の話なんだけど……。マウスさんに言いつけてもいい？"
+                "CVDetail": "何？模擬戦と装備点検？つまり実戦じゃないってこと？あーすんません雑音が酷くてよく聞こえなーい、仕方ないから先に切るね、バイバ～イ"
             },
             {
                 "CVType": "TapBody2",
-                "CVDetail": "嫌いなもの？子ども扱いしてくるヤツ。チビって言うヤツ。以上。"
+                "CVDetail": "ああ～やっぱりカツ丼と味噌汁は最高だ！出撃する前は幸運をもたらすし、任務から帰還した後は幸福を与える素晴らしい一品だよ！"
             },
             {
                 "CVType": "TapBody3",
-                "CVDetail": "あたしの自慢はスピード。速さで敵を翻弄するの。攻撃力……は大事だけど、そこは適材適所！あたしが頑張れるところで頑張るわ！"
+                "CVDetail": "こう見えても私、これからもどんどん成長するよ！どんどん食べて、どんどん大きくなっていく…はず！"
             },
             {
                 "CVType": "TapHead1",
-                "CVDetail": "もー！頭を撫でないでって言ってるのにー！……え？習慣になってしまったから止められない？なら、しょうがないかあ……。って、なるか！バカ代理人！"
+                "CVDetail": "うぅ、約束の勲章は？頭を撫でて誤魔化すなってば！"
             },
             {
                 "CVType": "Title",
@@ -6470,7 +6470,7 @@
             },
             {
                 "CVType": "Win",
-                "CVDetail": "勝ったぞー！いえーい！"
+                "CVDetail": "今思えば...お昼にカツ丼を食べたのは正解だったな！"
             }
         ]
     },
@@ -6638,151 +6638,151 @@
         "ARMSID": "ARM107801",
         "CVDesArray": [{
                 "CVType": "Attack1",
-                "CVDetail": "この勢いで突っ込むぞ！"
+                "CVDetail": "豆鉄砲を喰らえ！"
             },
             {
                 "CVType": "Attack2",
-                "CVDetail": "死ぬほど痛いよ～"
+                "CVDetail": "だだだだだーん！"
             },
             {
                 "CVType": "Change1",
-                "CVDetail": "見つけた！そこ！"
+                "CVDetail": "はいはーい。翻弄しちゃうぞ～！"
             },
             {
                 "CVType": "Change2",
-                "CVDetail": "臨機応変も戦法のうち！"
+                "CVDetail": "はーい。止まるね！どこ狙う？"
             },
             {
                 "CVType": "Dead",
-                "CVDetail": "ああ、三途の川が見えたよ..."
+                "CVDetail": "ここで終わりか……。ごめん、なさい……。"
             },
             {
                 "CVType": "Dispatch",
-                "CVDetail": "護衛任務？そんなの朝飯前だよ！必ず完遂してみせる！"
+                "CVDetail": "資源回収部隊の出発よ。大人になれる薬とか手に入らないかしら……。"
             },
             {
                 "CVType": "Dmg1",
-                "CVDetail": "いたたたた..."
+                "CVDetail": "もう！"
             },
             {
                 "CVType": "Dmg2",
-                "CVDetail": "勘弁してくれよ、もう！"
+                "CVDetail": "うう～。"
             },
             {
                 "CVType": "Emotion1",
-                "CVDetail": "おお、これいいね！"
+                "CVDetail": "わかったわ！"
             },
             {
                 "CVType": "Emotion2",
-                "CVDetail": "あーあー聞こえなーい"
+                "CVDetail": "ごめんね。"
             },
             {
                 "CVType": "Emotion3",
-                "CVDetail": "はいはい～"
+                "CVDetail": "Ｃｉａｏ♪"
             },
             {
                 "CVType": "Emotion4",
-                "CVDetail": "これ欲しい！"
+                "CVDetail": "そんなのヨユーよ！"
             },
             {
                 "CVType": "GoGo",
-                "CVDetail": "先輩方、よろしくお願いしますね！"
+                "CVDetail": "ふっふ～ん、ラクショーよ！"
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "おや？見ない顔だね。あっ、あんたがエージェントか？！私は九五式軽戦車ハ号。戦闘経験はあまりないけど、訓練より実戦ということで、絶対出撃させてね！よろしく！"
+                "CVDetail": "豆……じゃない、快速戦車、CV33よ！親しみを込めてカルロ・ヴェローチェって呼んでね。今はちょっと事情があって黒十字帝国学連に……って、わあ！飴ありがとう！……じゃなくて、子供扱い禁止！あたしは一人前のDOLLSなんだから！"
             },
             {
                 "CVType": "Launch",
-                "CVDetail": "私の出番？武勲と功名、全部頂いちゃうよ！"
+                "CVDetail": "見てて！パパっと華麗にやっつけちゃうんだから！"
             },
             {
                 "CVType": "LdSkill",
-                "CVDetail": "えい！えい！おう！"
+                "CVDetail": "みんな、すごいもん！災獣なんかに負けない！"
             },
             {
                 "CVType": "Lose",
-                "CVDetail": "先輩方でも敵わないほどの実力差だよ！断じて私のせいじゃない！私は悪くない！"
+                "CVDetail": "次こそは負けないんだから！ホントよ！"
             },
             {
                 "CVType": "LvUP",
-                "CVDetail": "いつか私も「先輩」って呼ばれるのかなぁ。"
+                "CVDetail": "レベルと一緒に身長も……伸びたらいいなあ。"
             },
             {
                 "CVType": "Mail",
-                "CVDetail": "エージェントくん、メールが届いたよ！"
+                "CVDetail": "電文を持ってきてあげたわ！ふっふ～ん♪"
             },
             {
                 "CVType": "Miss",
-                "CVDetail": "チビにはチビのいいところがあるんだよ！"
+                "CVDetail": "ふー……。"
             },
             {
                 "CVType": "ModificationChange",
-                "CVDetail": "これを見れば誰でも私の実力を認めざるを得ないな。"
+                "CVDetail": "改造完了～。火力が強化されたわ～。……え？テンションが低い？そんなことないわよ。進化したら身長も伸びるかなって期待してただけー……。え？ジェラート食べに行くけど一緒にどうかって？うん、行くー！ジェラート！ジェラート！"
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "おお！これが新兵器か！"
+                "CVDetail": "ふっふっふ……。ついにこのときが来たのね！来てしまったのね！"
             },
             {
                 "CVType": "MVP",
-                "CVDetail": "虎穴に入らずんば、虎子を得ず。だね！"
+                "CVDetail": "んぐ、ぎぎぎぎ……。頭を撫でないで……！"
             },
             {
                 "CVType": "Order",
-                "CVDetail": "これで私の活躍はもっと多くの人に見られるもんね。"
+                "CVDetail": "突然変異で大人なあたしとか産まれないかしら……。"
             },
             {
                 "CVType": "PowerUp1",
-                "CVDetail": "これだけ？"
+                "CVDetail": "ありがと。強化してくれて。"
             },
             {
                 "CVType": "PowerUp2",
-                "CVDetail": "もっと効率的なやり方はないの？"
+                "CVDetail": "こう、身長を伸ばす強化とかは……。うん、無いよね！"
             },
             {
                 "CVType": "PowerUp3",
-                "CVDetail": "うん...ゆっくり実力を積み上げるのも悪くないかも。"
+                "CVDetail": "お胸とかお尻とか、おっきくならないかなぁ。"
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "私に会いたかった？エー・ジェン・ト。ご褒美は用意した？まだ報告してない戦績がいーぱいあるんだよ！"
+                "CVDetail": "もう！頭ナデナデしないでよ！子ども扱いしないでー！むきー！"
             },
             {
                 "CVType": "Recovery",
-                "CVDetail": "言ったでしょ？朝飯前だって。"
+                "CVDetail": "資源回収部隊が帰ってきたわ。ねえねえ、どんなものが手に入ったの？"
             },
             {
                 "CVType": "RTB",
-                "CVDetail": "エージェント、見て見て！空前絶後の大勝利だよ！約束のご褒美は？まずは勝利の宴を開くのも悪くないぜ。"
+                "CVDetail": "任務から帰ったわ！身体が冷めない内に牛乳飲まないと。"
             },
             {
                 "CVType": "Skill1",
-                "CVDetail": "勝負どころだ！"
+                "CVDetail": "私は特別製よ！どりゃー！"
             },
             {
                 "CVType": "Skill2",
-                "CVDetail": "私の本気を見せてやる！"
+                "CVDetail": "誰だー！チビって言ったヤツー！"
             },
             {
                 "CVType": "SPSkill",
-                "CVDetail": "チェスト～！"
+                "CVDetail": "ちっちゃくたって一人前なんだから！バカにしないでよね！！"
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "何？模擬戦と装備点検？つまり実戦じゃないってこと？あーすんません雑音が酷くてよく聞こえなーい、仕方ないから先に切るね、バイバ～イ"
+                "CVDetail": "黒十字帝国学連のDOLLSって、どうしてこんなにすごいのかしら。……え？マウスさんとかあたしに近い？あのね、あたしが言っているのは体型ではなくてARMSの性能の話なんだけど……。マウスさんに言いつけてもいい？"
             },
             {
                 "CVType": "TapBody2",
-                "CVDetail": "ああ～やっぱりカツ丼と味噌汁は最高だ！出撃する前は幸運をもたらすし、任務から帰還した後は幸福を与える素晴らしい一品だよ！"
+                "CVDetail": "嫌いなもの？子ども扱いしてくるヤツ。チビって言うヤツ。以上。"
             },
             {
                 "CVType": "TapBody3",
-                "CVDetail": "こう見えても私、これからもどんどん成長するよ！どんどん食べて、どんどん大きくなっていく…はず！"
+                "CVDetail": "あたしの自慢はスピード。速さで敵を翻弄するの。攻撃力……は大事だけど、そこは適材適所！あたしが頑張れるところで頑張るわ！"
             },
             {
                 "CVType": "TapHead1",
-                "CVDetail": "うぅ、約束の勲章は？頭を撫でて誤魔化すなってば！"
+                "CVDetail": "もー！頭を撫でないでって言ってるのにー！……え？習慣になってしまったから止められない？なら、しょうがないかあ……。って、なるか！バカ代理人！"
             },
             {
                 "CVType": "Title",
@@ -6790,7 +6790,7 @@
             },
             {
                 "CVType": "Win",
-                "CVDetail": "今思えば...お昼にカツ丼を食べたのは正解だったな！"
+                "CVDetail": "勝ったぞー！いえーい！"
             }
         ]
     },
@@ -11723,6 +11723,166 @@
             {
                 "CVType": "Win",
                 "CVDetail": "当然の結果だ。"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM207701",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "射程内に捉えた"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "まぐれ当たりではつまらん"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "下降する"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "一気に上昇する"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "見事な一撃、天晴れだ！"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "派遣任務に不満はないかって？断じて否だ！貴様の命令とあらば、余は全力を尽くすのみ"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "掠めただけだ"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "面白い…"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "御意"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "再考を所望する"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "何なりと申すがいい"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "次は何をすればいい？"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "承知した。ここが余の所属する部隊か"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "余は極東重鋼学連所属、試製震電だ。色々と手間取ってしまったが、ようやく貴様に相まみえた。これからは思う存分本領を発揮してご覧に入れよう"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "とくと見るがいい、余がもたらす極上の戦果を！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "余は使命を果たしたまでだ、そう騒ぎ立てるでない"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "全ては余の未熟さが招いた結果だ…"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "新たな技を心得た、機会があれば試してみよう"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "電報が届いたぞ、速やかに確認を"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "その程度で余の道を阻むつもりか？"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "どうやら新型ARMSの操縦に慣れるまで、殊更努力せねばならんようだな"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "新兵装も良いが、余は今の兵装の方が手慣れているものでな。"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "金星を取れたのは、貴様の良き采配のおかげだ"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "人は城、人は石垣、人は堀"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "ほう…なるほど"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "如何なる名刀も砥石で磨かねば真価を発揮できぬ"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "精進の道に、終わりはない"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "貴様か、よくぞ帰って来た。さっそくだが、次の命令を所望する"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "只今帰還した。無論、使命は果たした"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "帰還したぞ。此度の作戦の報告書は速やかに提出する"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "終わりだ"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "逃げ場はないと思え"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "余の秘技、その身に受けることを光栄に思え！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "自由な時間か…自己鍛錬以外に何をするべきか正直からっきしだ。余に新しい任務を与えてくれぬか？"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "先輩方とはあまり距離を縮められないような気がする。交流を図ろうにも「ここ最近どのくらいの災獣を撃破したか」といった話題しか思い浮かばん。余は皆に避けられているのだろうか…貴様はどう思う？"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "零戦大先輩はメリハリがきちんと付けられていて、余は不思議に思う。戦場では威風堂々と戦うのに対して、普段は穏やかに振る舞うその姿はいつも目を疑う…無論、羨ましく思えることもある"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "…貴様、何のつもりだ？"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "追撃の要があれば、余に任せるといい"
             }
         ]
     }

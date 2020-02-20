@@ -3097,6 +3097,32 @@
         "armsids": "ARM207502",
         "shopad": "",
         "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20770101",
+        "name": "試製震電",
+        "description": "試製震電",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM207701,ARM207702",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20770201",
+        "name": "震電改",
+        "description": "震電改",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM207702",
+        "shopad": "",
+        "itemMiniType": "0"
     }],
     "itemequipments": [{
         "unlockLevels": "5,0,0,0,0",
@@ -10677,6 +10703,19 @@
         "description": "実戦経験に基いて開発した情報構造体。\\nMe262A-1a シュヴァルべの機体突破に使用可能。",
         "icon": "DOL2075",
         "upicon": "DOL2075",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM92077",
+        "name": "試製震電の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\n試製震電の機体突破に使用可能。",
+        "icon": "DOL2077",
+        "upicon": "DOL2077",
         "rarity": "5",
         "dropFrom": "SHOP*399",
         "sellPriceStr": "0,0,0,0,0,0",

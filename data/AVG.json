@@ -14381,7 +14381,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "代理人の職責は学連から預かったDOLLSを統率して戦闘にあたらせることのはずです。彼女たちが戦闘以外の時間に何を考えているか、そんなことにまで干渉する気にはなれませんが。",
+                "TalkValue": "代理人の職責は学連から預かったDOLLSを統率して戦闘にあたらせることのはずです。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -14396,7 +14396,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "だいたい、手間をかけて嫌われ役をやったところで、彼女たちの機嫌を損ねてしまうことにしかならないと思いますよ。",
+                "TalkValue": "彼女たちが戦闘以外の時間に何を考えているか、そんなことにまで干渉する気にはなれませんが。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -14409,9 +14409,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "グレーテル",
-                "TalkValue": "武器には本来、自らの意思なんてものは備わってちゃいけないんだ。忠実に所有者の命令を執行する、道具であるべきなんだ。",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "だいたい、手間をかけて嫌われ役をやったところで、彼女たちの機嫌を損ねてしまうことにしかならないと思いますよ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -14426,7 +14426,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "グレーテル",
-                "TalkValue": "ただ面倒なことに、人類は今やこの自らの意思を持つ武器とやらを使う以外に道はないわけさ。",
+                "TalkValue": "武器には本来、自らの意思なんてものは備わってちゃいけないんだ。忠実に所有者の命令を執行する、道具であるべきなんだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -14441,7 +14441,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "グレーテル",
-                "TalkValue": "どう言ったところで、DOLLSは我々とは違う。人類はDOLLSたちの力を借りて、災獣に対抗してはいるが……こう言っちゃなんだが、猛獣に対抗するために猛獣を手なずけているのと何も変わらないんだよ。",
+                "TalkValue": "ただ面倒なことに、人類は今やこの自らの意思を持つ武器とやらを使う以外に道はないわけさ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -14456,7 +14456,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "グレーテル",
-                "TalkValue": "その上、人類にはこの猛獣どもが勝手に柵を飛び越えて出て行くことを、止める手立てすらないんだ。",
+                "TalkValue": "どう言ったところで、DOLLSは我々とは違う。人類はDOLLSたちの力を借りて、災獣に対抗してはいるが……こう言っちゃなんだが、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -14471,7 +14471,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "グレーテル",
-                "TalkValue": "そういう観点から言えば、実のところDOLLSは学連や校則、命令、責任といったものから逃れて、CITYから抜け出すことだって可能なんだよ。",
+                "TalkValue": "猛獣に対抗するために猛獣を手なずけているのと何も変わらないんだよ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -14486,7 +14486,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "グレーテル",
-                "TalkValue": "同型のDOLLSたちの間で意識の共有が可能とされているのは利点ではあるが、同型同士による大規模な反乱を招く恐れもあるわけだね……",
+                "TalkValue": "その上、人類にはこの猛獣どもが勝手に柵を飛び越えて出て行くことを、止める手立てすらないんだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -14501,7 +14501,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "グレーテル",
-                "TalkValue": "だから、DOLLSたちにあまりにも強烈な感情を抱かせることは、極力避けたいと考えているんだ。",
+                "TalkValue": "そういう観点から言えば、実のところDOLLSは学連や校則、命令、責任といったものから逃れて、CITYから抜け出すことだって可能なんだよ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -14510,6 +14510,36 @@
             },
             {
                 "TalkId": "31",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "グレーテル",
+                "TalkValue": "同型のDOLLSたちの間で意識の共有が可能とされているのは利点ではあるが、同型同士による大規模な反乱を招く恐れもあるわけだね……",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "32",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "グレーテル",
+                "TalkValue": "だから、DOLLSたちにあまりにも強烈な感情を抱かせることは、極力避けたいと考えているんだ。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "33",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "……",
@@ -14519,12 +14549,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "33",
-                "Relation": "32_32",
+                "FinishTo": "35",
+                "Relation": "34_34",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "32",
+                "TalkId": "34",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -14539,7 +14569,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "33",
+                "TalkId": "35",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -14554,7 +14584,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "34",
+                "TalkId": "36",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -14569,7 +14599,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "35",
+                "TalkId": "37",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -14584,7 +14614,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "36",
+                "TalkId": "38",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -14599,7 +14629,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "37",
+                "TalkId": "39",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "ずいぶん忙しくしているみたいですね？",
@@ -14609,12 +14639,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "39",
-                "Relation": "38_38",
+                "FinishTo": "41",
+                "Relation": "40_40",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "38",
+                "TalkId": "40",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -14629,7 +14659,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "39",
+                "TalkId": "41",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -14644,7 +14674,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "40",
+                "TalkId": "42",
                 "ShowType": "6",
                 "ShowId": "NPC0002_Gretel",
                 "Option": "",
@@ -14659,7 +14689,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "41",
+                "TalkId": "43",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -14674,7 +14704,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "42",
+                "TalkId": "44",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -14689,7 +14719,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "43",
+                "TalkId": "45",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -14704,7 +14734,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "44",
+                "TalkId": "46",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -15337,8 +15367,8 @@
                 "TalkValue": "君は“恋愛”をどう捉えているんだい？",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "36",
-                "Relation": "35_35",
+                "FinishTo": "37",
+                "Relation": "36_36",
                 "CoverIcon": ""
             },
             {
@@ -15409,7 +15439,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "VI号戦車ティーガー",
-                "TalkValue": "あたくしは……黒十字帝国学連のアイドルであるあたくしが、もし特定の誰かにそのような告白をしてしまったら、アイドルとしてみなを率いていく資格を失ってしまうことに繋がるんじゃないかと思ったものですから。",
+                "TalkValue": "あたくしは……黒十字帝国学連のアイドルであるあたくしが、もし特定の誰かにそのような告白をしてしまったら、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15418,6 +15448,21 @@
             },
             {
                 "TalkId": "41",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "VI号戦車ティーガー",
+                "TalkValue": "アイドルとしてみなを率いていく資格を失ってしまうことに繋がるんじゃないかと思ったものですから。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "42",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "ええ？",
@@ -15427,12 +15472,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "43",
-                "Relation": "42_42",
+                "FinishTo": "44",
+                "Relation": "43_43",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "42",
+                "TalkId": "43",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -15447,21 +15492,6 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "43",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "VI号戦車ティーガー",
-                "TalkValue": "だけど、もし……もし、そのあたくしが特定の誰かにチョコレートをあげてしまったら、あたくしはその誰かのためだけの恋愛対象、ということになってしまうわけでしょう？",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
                 "TalkId": "44",
                 "ShowType": "7",
                 "ShowId": "",
@@ -15469,7 +15499,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "VI号戦車ティーガー",
-                "TalkValue": "チョコレートを贈り、告白をすることで、たった一人だけを愛すると宣言すること、それはすなわち、みなを愛するという資格を手放すということじゃありませんか……",
+                "TalkValue": "だけど、もし……もし、そのあたくしが特定の誰かにチョコレートをあげてしまったら、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15484,7 +15514,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "VI号戦車ティーガー",
-                "TalkValue": "そんなことになってしまっても、あたくしはアイドルとして、黒十字帝国学連のDOLLSたちを統率し、前進していくことが許されるものなのでしょうか？",
+                "TalkValue": "あたくしはその誰かのためだけの恋愛対象、ということになってしまうわけでしょう？",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15493,6 +15523,51 @@
             },
             {
                 "TalkId": "46",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "VI号戦車ティーガー",
+                "TalkValue": "チョコレートを贈り、告白をすることで、たった一人だけを愛すると宣言すること、それはすなわち、",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "47",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "VI号戦車ティーガー",
+                "TalkValue": "みなを愛するという資格を手放すということじゃありませんか……",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "48",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "VI号戦車ティーガー",
+                "TalkValue": "そんなことになってしまっても、あたくしはアイドルとして、黒十字帝国学連のDOLLSたちを統率し、前進していくことが許されるものなのでしょうか？",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "49",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -15623,7 +15698,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "心を寄せる相手とより親密になりたいと思う愛もあれば、戦友と共に肩を並べて戦いたいという愛もあるんだよ。そのどちらかしか選べないというものではないんだ。",
+                "TalkValue": "心を寄せる相手とより親密になりたいと思う愛もあれば、戦友と共に肩を並べて戦いたいという愛もあるんだよ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15638,7 +15713,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "人類の感情というのは複雑で、繊細だからね……多種多様な姿を持っているから、一息に理解してしまおうとしないことだ。",
+                "TalkValue": "そのどちらかしか選べないというものではないんだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15653,7 +15728,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "もし君に想いを寄せる相手がいて、その相手と恋愛関係を持ちたいと願っているとしても、学園のアイドルとしての君の立場を心配する必要はないよ。安心して自分の道を進めばいい。",
+                "TalkValue": "人類の感情というのは複雑で、繊細だからね……多種多様な姿を持っているから、一息に理解してしまおうとしないことだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15668,7 +15743,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "何もしなかったことを後悔するぐらいだったら、思い切って行動を起こしてみるべきだと思うけどな。",
+                "TalkValue": "もし君に想いを寄せる相手がいて、その相手と恋愛関係を持ちたいと願っているとしても、学園のアイドルとしての君の立場を心配する必要はないよ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15683,7 +15758,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "（ティーガーは少しの間考えを巡らせてから、笑顔を浮かべて頷いてみせた。彼女の顔に滲んでいた迷いの感情は、すっかり消え去っていた）",
+                "TalkValue": "安心して自分の道を進めばいい。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15692,6 +15767,36 @@
             },
             {
                 "TalkId": "13",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "何もしなかったことを後悔するぐらいだったら、思い切って行動を起こしてみるべきだと思うけどな。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "14",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "（ティーガーは少しの間考えを巡らせてから、笑顔を浮かべて頷いてみせた。彼女の顔に滲んでいた迷いの感情は、すっかり消え去っていた）",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "15",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -15706,7 +15811,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "14",
+                "TalkId": "16",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -15721,44 +15826,14 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "15",
+                "TalkId": "17",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "（VI号戦車ティーガーはそういって、懐から取り出した鉄製の丸い箱を取り出し、僕の手の中に押し込んだ。その時になってようやく気付いた。彼女が告白を躊躇っていた相手というのは……私のことだったのか？）\n",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "16",
-                "ShowType": "8",
-                "ShowId": "",
-                "Option": "本気かい？本当にこれを私に？",
-                "EffectType": "",
-                "WhichSide": "",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "18",
-                "Relation": "17_17",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "17",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "VI号戦車ティーガー",
-                "TalkValue": "何をおっしゃっているんですの、代理人さま？",
+                "TalkValue": "（VI号戦車ティーガーはそういって、懐から取り出した鉄製の丸い箱を取り出し、僕の手の中に押し込んだ。\n",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15771,9 +15846,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "VI号戦車ティーガー",
-                "TalkValue": "これは……あなたさまの命令ではございませんか？",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "その時になってようやく気付いた。彼女が告白を躊躇っていた相手というのは……私のことだったのか？）",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15784,7 +15859,7 @@
                 "TalkId": "19",
                 "ShowType": "8",
                 "ShowId": "",
-                "Option": "えっ？命令って何のことだい？",
+                "Option": "本気かい？本当にこれを私に？",
                 "EffectType": "",
                 "WhichSide": "",
                 "TalkName": "",
@@ -15803,7 +15878,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "VI号戦車ティーガー",
-                "TalkValue": "外に貼りだされているポスターや申し送りのこと……お忘れですの？",
+                "TalkValue": "何をおっしゃっているんですの、代理人さま？",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15816,9 +15891,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "（ティーガーの視線の先を追うと、近くの壁にポスターが掲示されているのが目に留まった。",
+                "WhichSide": "2",
+                "TalkName": "VI号戦車ティーガー",
+                "TalkValue": "これは……あなたさまの命令ではございませんか？",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15827,17 +15902,17 @@
             },
             {
                 "TalkId": "22",
-                "ShowType": "7",
+                "ShowType": "8",
                 "ShowId": "",
-                "Option": "",
+                "Option": "えっ？命令って何のことだい？",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "主張の強いハートマーク、躍動感のある飾り文字……けれど私自身には、そんな告知を行うよう命じた記憶はまったくなかった。）",
+                "WhichSide": "",
+                "TalkName": "",
+                "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
+                "FinishTo": "24",
+                "Relation": "23_23",
                 "CoverIcon": ""
             },
             {
@@ -15846,9 +15921,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "“バレンタインデー大作戦”……？",
+                "WhichSide": "2",
+                "TalkName": "VI号戦車ティーガー",
+                "TalkValue": "外に貼りだされているポスターや申し送りのこと……お忘れですの？",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15863,7 +15938,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "DOLLS各位は代理人にチョコレートを贈るべく、奮闘されたし……",
+                "TalkValue": "（ティーガーの視線の先を追うと、近くの壁にポスターが掲示されているのが目に留まった。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15878,7 +15953,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "優勝者には……代理人と共に豪華浪漫飛行艇一日遊覧チケットをプレゼント？",
+                "TalkValue": "主張の強いハートマーク、躍動感のある飾り文字……けれど私自身には、そんな告知を行うよう命じた記憶はまったくなかった。）",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -15887,6 +15962,51 @@
             },
             {
                 "TalkId": "26",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "“バレンタインデー大作戦”……？",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "27",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "DOLLS各位は代理人にチョコレートを贈るべく、奮闘されたし……",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "28",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "優勝者には……代理人と共に豪華浪漫飛行艇一日遊覧チケットをプレゼント？",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "29",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "こ……こりゃ一体なんの冗談だい！",
@@ -15896,12 +16016,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "28",
-                "Relation": "27_27",
+                "FinishTo": "31",
+                "Relation": "30_30",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "27",
+                "TalkId": "30",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -15916,7 +16036,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "28",
+                "TalkId": "31",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -15931,7 +16051,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "29",
+                "TalkId": "32",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16141,7 +16261,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "メシア",
-                "TalkValue": "みんながポストをチョコレート入れとして利用することで、本当に重要な知らせを受け取れなくなってしまうことがないように、私の方でドアの前にチョコレートの専用ボックスを一時的に設置しておきました。",
+                "TalkValue": "みんながポストをチョコレート入れとして利用することで、本当に重要な知らせを受け取れなくなってしまうことがないように、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16150,6 +16270,21 @@
             },
             {
                 "TalkId": "9",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "メシア",
+                "TalkValue": "私の方でドアの前にチョコレートの専用ボックスを一時的に設置しておきました。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "10",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "素晴らしいアイデアだよ。",
@@ -16159,23 +16294,8 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "11",
-                "Relation": "10_10",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "10",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "ありがとう、メシア。はぁ……なんといってもみんなの気持ちの表れだからね。「君たちは騙されたんだ。それは受け取れない。持って帰ってくれ」とは言えないから。",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
+                "FinishTo": "12",
+                "Relation": "11_11",
                 "CoverIcon": ""
             },
             {
@@ -16186,7 +16306,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "それにしても、一体誰があんなポスターを貼り出したんだろう……",
+                "TalkValue": "ありがとう、メシア。はぁ……なんといってもみんなの気持ちの表れだからね。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16201,7 +16321,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "DOLLSたちを動員して、ポスターの回収もさせてはいるけれど、すでに相当な数の被害者を出してしまっているからね。手を打つにしても遅すぎたのかも知れない。",
+                "TalkValue": "「君たちは騙されたんだ。それは受け取れない。持って帰ってくれ」とは言えないから。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16210,6 +16330,36 @@
             },
             {
                 "TalkId": "13",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "それにしても、一体誰があんなポスターを貼り出したんだろう……",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "14",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "DOLLSたちを動員して、ポスターの回収もさせてはいるけれど、すでに相当な数の被害者を出してしまっているからね。手を打つにしても遅すぎたのかも知れない。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "15",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16224,7 +16374,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "14",
+                "TalkId": "16",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "うん？なにかな。",
@@ -16234,12 +16384,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "16",
-                "Relation": "15_15",
+                "FinishTo": "18",
+                "Relation": "17_17",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "15",
+                "TalkId": "17",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16254,14 +16404,14 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "16",
+                "TalkId": "18",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "メシア",
-                "TalkValue": "……代理人さまの指示通りに、代理人なら外出中だから、チョコレートなら外の専用ボックスに入れておけば良いとは伝えているのですが、彼女は頑として直接渡すと言って聞かないのです。",
+                "TalkValue": "……代理人さまの指示通りに、代理人なら外出中だから、チョコレートなら外の専用ボックスに入れておけば良いとは伝えているのですが、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16269,7 +16419,22 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "17",
+                "TalkId": "19",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "メシア",
+                "TalkValue": "彼女は頑として直接渡すと言って聞かないのです。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "20",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16284,7 +16449,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "18",
+                "TalkId": "21",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16299,7 +16464,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "19",
+                "TalkId": "22",
                 "ShowType": "6",
                 "ShowId": "NPC0001_Messiah",
                 "Option": "",
@@ -16314,7 +16479,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "20",
+                "TalkId": "23",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16329,7 +16494,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "21",
+                "TalkId": "24",
                 "ShowType": "6",
                 "ShowId": "ARM10010101",
                 "Option": "",
@@ -16344,7 +16509,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "22",
+                "TalkId": "25",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16359,7 +16524,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "23",
+                "TalkId": "26",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16374,7 +16539,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "24",
+                "TalkId": "27",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16389,7 +16554,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "25",
+                "TalkId": "28",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16404,7 +16569,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "26",
+                "TalkId": "29",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16419,7 +16584,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "27",
+                "TalkId": "30",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16434,7 +16599,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "28",
+                "TalkId": "31",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16449,7 +16614,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "29",
+                "TalkId": "32",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16464,7 +16629,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "30",
+                "TalkId": "33",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16479,7 +16644,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "31",
+                "TalkId": "34",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16494,7 +16659,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "32",
+                "TalkId": "35",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "……はぁ？それはまた、どうしてだい？",
@@ -16504,12 +16669,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "34",
-                "Relation": "33_33",
+                "FinishTo": "37",
+                "Relation": "36_36",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "33",
+                "TalkId": "36",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16524,7 +16689,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "34",
+                "TalkId": "37",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16539,7 +16704,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "35",
+                "TalkId": "38",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16554,7 +16719,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "36",
+                "TalkId": "39",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16569,7 +16734,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "37",
+                "TalkId": "40",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16584,51 +16749,6 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "38",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "KV-1",
-                "TalkValue": "ジャガイモを栽培することで、日常での需要には対応できていますが、熱帯原産の植物の栽培までは不可能なのです。そもそも、絶対に必要な資源というわけでも、ありませんから。",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "39",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "KV-1",
-                "TalkValue": "「赤色十月」のチョコレート工場は、原材料の欠乏によって、かなり以前から操業を停止しているのです。",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "40",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "（KV-1の言葉は、だんだんと小さくなっていった。いつもは氷のようなポーカーフェイスを崩さない彼女が、わずかに顔を伏せていた。）",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
                 "TalkId": "41",
                 "ShowType": "7",
                 "ShowId": "",
@@ -16636,7 +16756,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "KV-1",
-                "TalkValue": "品質と数量は他の学院のチョコレート、たとえばシャーマンチョコレート工場の製造するものとは、比べ物にならないかも知れませんが……",
+                "TalkValue": "ジャガイモを栽培することで、日常での需要には対応できていますが、熱帯原産の植物の栽培までは不可能なのです。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16651,7 +16771,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "KV-1",
-                "TalkValue": "それでも、同志代理人さまの命令を遂行すべく、私たち赤色十月同盟学連は全力を尽くしたつもりです。",
+                "TalkValue": "そもそも、絶対に必要な資源というわけでも、ありませんから。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16664,9 +16784,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "（KV-1がこの部屋に足を踏み入れた瞬間、彼女がチョコレートの山に対して、異常に反応した理由が分かった気がした。",
+                "WhichSide": "2",
+                "TalkName": "KV-1",
+                "TalkValue": "「赤色十月」のチョコレート工場は、原材料の欠乏によって、かなり以前から操業を停止しているのです。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16681,7 +16801,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "「バレンタインデー大作戦」を正式な作戦命令だと誤解しているからこそ、KV-1は全力を尽くして来たのだ。",
+                "TalkValue": "（KV-1の言葉は、だんだんと小さくなっていった。いつもは氷のようなポーカーフェイスを崩さない彼女が、わずかに顔を伏せていた。）",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16694,9 +16814,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "けれど、どれだけ努力をしても、赤色十月同盟学連のDOLLSたちが一人一つずつチョコレートを供出することはできなかった。それで余計に、KV-1は他の学連の成果に劣等感を抱くことになってしまっていたのだ。",
+                "WhichSide": "2",
+                "TalkName": "KV-1",
+                "TalkValue": "品質と数量は他の学院のチョコレート、たとえばシャーマンチョコレート工場の製造するものとは、比べ物にならないかも知れませんが……",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16709,9 +16829,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "私はKV-1の紙包をほどき、彼女が持って来てくれたチョコレートを齧った。）",
+                "WhichSide": "2",
+                "TalkName": "KV-1",
+                "TalkValue": "それでも、同志代理人さまの命令を遂行すべく、私たち赤色十月同盟学連は全力を尽くしたつもりです。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16720,17 +16840,17 @@
             },
             {
                 "TalkId": "47",
-                "ShowType": "8",
+                "ShowType": "7",
                 "ShowId": "",
-                "Option": "……",
+                "Option": "",
                 "EffectType": "",
-                "WhichSide": "",
-                "TalkName": "",
-                "TalkValue": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "（KV-1がこの部屋に足を踏み入れた瞬間、彼女がチョコレートの山に対して、異常に反応した理由が分かった気がした。",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "49",
-                "Relation": "48_48",
+                "FinishTo": "",
+                "Relation": "",
                 "CoverIcon": ""
             },
             {
@@ -16741,7 +16861,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "ミルクの味も甘味もない……この強い香りは、牛脂か？それに砕いたナッツも入っている。",
+                "TalkValue": "「バレンタインデー大作戦」を正式な作戦命令だと誤解しているからこそ、KV-1は全力を尽くして来たのだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16754,9 +16874,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "KV-1",
-                "TalkValue": "砂糖も不足している物資の一つですので、このような結果になってしまいました。申し訳ないかぎりです……",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "けれど、どれだけ努力をしても、赤色十月同盟学連のDOLLSたちが一人一つずつチョコレートを供出することはできなかった。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16771,7 +16891,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "いや、謝る必要はないよ。",
+                "TalkValue": "それで余計に、KV-1は他の学連の成果に劣等感を抱くことになってしまっていたのだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16786,7 +16906,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "カカオの持つ苦みがはっきりと感じられるね。限られた材料でここまでの物を作るなんて、大したものさ。",
+                "TalkValue": "私はKV-1の紙包をほどき、彼女が持って来てくれたチョコレートを齧った。）",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16795,17 +16915,17 @@
             },
             {
                 "TalkId": "52",
-                "ShowType": "7",
+                "ShowType": "8",
                 "ShowId": "",
-                "Option": "",
+                "Option": "……",
                 "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "KV-1",
-                "TalkValue": "……そうでしょうか？気を遣わせてしまっているのでは？",
+                "WhichSide": "",
+                "TalkName": "",
+                "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
+                "FinishTo": "54",
+                "Relation": "53_53",
                 "CoverIcon": ""
             },
             {
@@ -16816,7 +16936,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "午前中は甘いチョコレートばかり食べていたせいで、口の中が落ち着かなかったんだ。こういう大人向けの苦みは、却って嬉しいぐらいだ。",
+                "TalkValue": "ミルクの味も甘味もない……この強い香りは、牛脂か？それに砕いたナッツも入っている。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16829,9 +16949,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "KV-1、君が持って来てくれたこのチョコレート、それに君たち赤色十月同盟学連のDOLLSの気持ち、確かに受け取ったよ。",
+                "WhichSide": "2",
+                "TalkName": "KV-1",
+                "TalkValue": "砂糖も不足している物資の一つですので、このような結果になってしまいました。申し訳ないかぎりです……",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16846,7 +16966,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "だからどうか胸を張っていて欲しい。他人と比較する必要はないんだ。これは充分、誇るに値するチョコレートだからね！",
+                "TalkValue": "いや、謝る必要はないよ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16859,9 +16979,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "KV-1",
-                "TalkValue": "はい！同志代理人さま！ありがとうございます！",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "カカオの持つ苦みがはっきりと感じられるね。限られた材料でここまでの物を作るなんて、大したものさ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16874,9 +16994,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "あっと、それはともかく、気になっていることがあるんだけど……",
+                "WhichSide": "2",
+                "TalkName": "KV-1",
+                "TalkValue": "……そうでしょうか？気を遣わせてしまっているのでは？",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16891,7 +17011,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "君がさっき言っていた、シャーマンチョコレート工場って？何のことなんだい？",
+                "TalkValue": "午前中は甘いチョコレートばかり食べていたせいで、口の中が落ち着かなかったんだ。こういう大人向けの苦みは、却って嬉しいぐらいだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -16900,6 +17020,81 @@
             },
             {
                 "TalkId": "59",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "KV-1、君が持って来てくれたこのチョコレート、それに君たち赤色十月同盟学連のDOLLSの気持ち、確かに受け取ったよ。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "60",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "だからどうか胸を張っていて欲しい。他人と比較する必要はないんだ。これは充分、誇るに値するチョコレートだからね！",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "61",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "KV-1",
+                "TalkValue": "はい！同志代理人さま！ありがとうございます！",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "62",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "あっと、それはともかく、気になっていることがあるんだけど……",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "63",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "君がさっき言っていた、シャーマンチョコレート工場って？何のことなんだい？",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "64",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16914,7 +17109,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "60",
+                "TalkId": "65",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -16929,7 +17124,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "61",
+                "TalkId": "66",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17124,7 +17319,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "私はアルミ箔に包まれていた一枚のチョコレートを取り出した。メーカー標識も製造日時などの情報もプリントされてないが、正規工場の包装設備でラッピングされたチョコレートということは明らかだ。",
+                "TalkValue": "私はアルミ箔に包まれていた一枚のチョコレートを取り出した。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -17139,7 +17334,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "正規工場の包装設備でラッピングされたチョコレートということは明らかだ。",
+                "TalkValue": "メーカー標識も製造日時などの情報もプリントされてないが、正規工場の包装設備でラッピングされたチョコレートということは明らかだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -17148,6 +17343,21 @@
             },
             {
                 "TalkId": "9",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "正規工場の包装設備でラッピングされたチョコレートということは明らかだ。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "10",
                 "ShowType": "6",
                 "ShowId": "ARM10080101",
                 "Option": "",
@@ -17162,7 +17372,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "10",
+                "TalkId": "11",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17177,7 +17387,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "11",
+                "TalkId": "12",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17192,7 +17402,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "12",
+                "TalkId": "13",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17207,7 +17417,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "13",
+                "TalkId": "14",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17222,7 +17432,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "14",
+                "TalkId": "15",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17237,7 +17447,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "15",
+                "TalkId": "16",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17252,7 +17462,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "16",
+                "TalkId": "17",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17267,7 +17477,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "17",
+                "TalkId": "18",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17282,7 +17492,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "18",
+                "TalkId": "19",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17297,7 +17507,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "19",
+                "TalkId": "20",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17312,7 +17522,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "20",
+                "TalkId": "21",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17327,7 +17537,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "21",
+                "TalkId": "22",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17342,7 +17552,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "22",
+                "TalkId": "23",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17357,7 +17567,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "23",
+                "TalkId": "24",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17372,7 +17582,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "24",
+                "TalkId": "25",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17387,7 +17597,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "25",
+                "TalkId": "26",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17402,7 +17612,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "26",
+                "TalkId": "27",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17417,7 +17627,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "27",
+                "TalkId": "28",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17432,7 +17642,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "28",
+                "TalkId": "29",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17447,7 +17657,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "29",
+                "TalkId": "30",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17462,7 +17672,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "30",
+                "TalkId": "31",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17477,7 +17687,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "31",
+                "TalkId": "32",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17492,7 +17702,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "32",
+                "TalkId": "33",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17507,7 +17717,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "33",
+                "TalkId": "34",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17522,7 +17732,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "34",
+                "TalkId": "35",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17537,7 +17747,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "35",
+                "TalkId": "36",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17552,7 +17762,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "36",
+                "TalkId": "37",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17567,7 +17777,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "37",
+                "TalkId": "38",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17582,7 +17792,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "38",
+                "TalkId": "39",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17597,7 +17807,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "39",
+                "TalkId": "40",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17612,7 +17822,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "40",
+                "TalkId": "41",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17627,7 +17837,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "41",
+                "TalkId": "42",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17642,7 +17852,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "42",
+                "TalkId": "43",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17657,14 +17867,14 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "43",
+                "TalkId": "44",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "M4シャーマン",
-                "TalkValue": "チョコをいっぱい作りすぎちゃって困ってるところに、正義のスーパーヒーロー仮面Vがアタシの目の前に現れたんだよー！まさに漫画のスーパーヒーローみたいにさ！",
+                "TalkValue": "チョコをいっぱい作りすぎちゃって困ってるところに、正義のスーパーヒーロー仮面Vがアタシの目の前に現れたんだよー！",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -17672,7 +17882,22 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "44",
+                "TalkId": "45",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "M4シャーマン",
+                "TalkValue": "まさに漫画のスーパーヒーローみたいにさ！",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "46",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "仮面V……？",
@@ -17682,12 +17907,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "46",
-                "Relation": "45_45",
+                "FinishTo": "48",
+                "Relation": "47_47",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "45",
+                "TalkId": "47",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17702,7 +17927,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "46",
+                "TalkId": "48",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17717,14 +17942,14 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "47",
+                "TalkId": "49",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "M4シャーマン",
-                "TalkValue": "仮面Vがね、アタシの代わりにチョコレートを料理が出来ないDOLLSに配ってくれるって、そうしたらみんながバレンタインデーを楽しめたらいいなと思って、仮面Vに任せた～",
+                "TalkValue": "仮面Vがね、アタシの代わりにチョコレートを料理が出来ないDOLLSに配ってくれるって、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -17732,7 +17957,22 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "48",
+                "TalkId": "50",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "M4シャーマン",
+                "TalkValue": "そうしたらみんながバレンタインデーを楽しめたらいいなと思って、仮面Vに任せた～",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "51",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17747,7 +17987,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "49",
+                "TalkId": "52",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17762,7 +18002,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "50",
+                "TalkId": "53",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17777,7 +18017,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "51",
+                "TalkId": "54",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -17927,7 +18167,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "現在唯一の情報もあやふやで、確定が取れない……シャーマンがウソをついてないのなら、その「仮面V」という人物は星屑連邦学連のDOLLSじゃないことは確かのはず。",
+                "TalkValue": "現在唯一の情報もあやふやで、確定が取れない……シャーマンがウソをついてないのなら、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -17942,7 +18182,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "情報整理と調査を続けるために街に出てみたが、薄っらと不気味な気配を肌で感じとった。",
+                "TalkValue": "その「仮面V」という人物は星屑連邦学連のDOLLSじゃないことは確かのはず。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -17957,7 +18197,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "（後を付けられた？誰……一体なにが目的？）",
+                "TalkValue": "情報整理と調査を続けるために街に出てみたが、薄っらと不気味な気配を肌で感じとった。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -17972,7 +18212,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "（まさか、チョコレート云々とはただのカモフラージュで、そのことに首を突っ込んでいるから、本当はとんでもない事件に巻き込まれてしまったのか？）",
+                "TalkValue": "（後を付けられた？誰……一体なにが目的？）",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -17987,7 +18227,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "（いや、CITY内部の犯行なら……他人の気を引き寄せていれば、こちらにまだ分がある。よしっ！）",
+                "TalkValue": "（まさか、チョコレート云々とはただのカモフラージュで、そのことに首を突っ込んでいるから、本当はとんでもない事件に巻き込まれてしまったのか？）",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -17996,6 +18236,21 @@
             },
             {
                 "TalkId": "9",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "（いや、CITY内部の犯行なら……他人の気を引き寄せていれば、こちらにまだ分がある。よしっ！）",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "10",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "おいお前、あそこでこそこそと何をしている！",
@@ -18005,12 +18260,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "11",
-                "Relation": "10_10",
+                "FinishTo": "12",
+                "Relation": "11_11",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "10",
+                "TalkId": "11",
                 "ShowType": "6",
                 "ShowId": "ARM20360101",
                 "Option": "",
@@ -18025,7 +18280,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "11",
+                "TalkId": "12",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18040,7 +18295,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "12",
+                "TalkId": "13",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18055,21 +18310,6 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "13",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "零戦二一型",
-                "TalkValue": "んなっ……！尾行とは！せ、拙者はかようなつもりは……いや、でも尾行のようなものでもあるか……しかしながら、それも拙者の本意ではないのだ！弁解の余地を所望する！",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
                 "TalkId": "14",
                 "ShowType": "7",
                 "ShowId": "",
@@ -18077,7 +18317,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "零戦二一型",
-                "TalkValue": "拙者には代理人殿にとある疑問を晴らしていただきたく、こうして問い合わそうと代理人殿の様子を伺っているのだが……",
+                "TalkValue": "んなっ……！尾行とは！せ、拙者はかようなつもりは……いや、でも尾行のようなものでもあるか……",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18092,7 +18332,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "零戦二一型",
-                "TalkValue": "しかし、代理人殿は顔を下に向いたまま、早足でせかせかと歩き続けるため、話しかける機会をつかめずじまいになってだな……",
+                "TalkValue": "しかしながら、それも拙者の本意ではないのだ！弁解の余地を所望する！",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18105,9 +18345,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "そうか……ごめん、どうやら私も少し気が揉んでいるから。",
+                "WhichSide": "2",
+                "TalkName": "零戦二一型",
+                "TalkValue": "拙者には代理人殿にとある疑問を晴らしていただきたく、こうして問い合わそうと代理人殿の様子を伺っているのだが……",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18120,9 +18360,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "裏で誰かに小細工を仕掛けられたからといって、こんなにも心が乱れていては、とんだ失態だよね。さっきは怒鳴りつけたりして、悪かった。",
+                "WhichSide": "2",
+                "TalkName": "零戦二一型",
+                "TalkValue": "しかし、代理人殿は顔を下に向いたまま、早足でせかせかと歩き続けるため、話しかける機会をつかめずじまいになってだな……",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18137,7 +18377,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "それで、私に聞きたいというのは、なんの話なのかな？",
+                "TalkValue": "そうか……ごめん、どうやら私も少し気が揉んでいるから。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18146,6 +18386,36 @@
             },
             {
                 "TalkId": "19",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "裏で誰かに小細工を仕掛けられたからといって、こんなにも心が乱れていては、とんだ失態だよね。さっきは怒鳴りつけたりして、悪かった。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "20",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "それで、私に聞きたいというのは、なんの話なのかな？",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "21",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18160,7 +18430,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "20",
+                "TalkId": "22",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "（あぁ……また新たな被害者か）",
@@ -18170,12 +18440,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "22",
-                "Relation": "21_21",
+                "FinishTo": "24",
+                "Relation": "23_23",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "21",
+                "TalkId": "23",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18190,7 +18460,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "22",
+                "TalkId": "24",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18205,7 +18475,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "23",
+                "TalkId": "25",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18220,7 +18490,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "24",
+                "TalkId": "26",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18235,44 +18505,14 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "25",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "零戦二一型",
-                "TalkValue": "拙者もこの数日、そのちょこれいとを作る際の調達すべき素材やれしぴなるものを調べてみたものの、「ばれんたいんでー」という祝日に関係性のあるものは一切見つけておらぬ。",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "26",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "零戦二一型",
-                "TalkValue": "それなら、ちょこれいとを用いで懸想している御方に慕う気持ちを伝えるという行いは、一体どのような訳柄があろうかと……そのちょこれいととやらと同じような品物では、その役目は果たせぬのだろうかと、拙者は疑問に思えてならぬのだ。",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
                 "TalkId": "27",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "先に言っておくけど、これから私が話すことは全部私一個人としての感想だけど。もしかして、あくまで「もしかして」だけど――",
+                "WhichSide": "2",
+                "TalkName": "零戦二一型",
+                "TalkValue": "拙者もこの数日、そのちょこれいとを作る際の調達すべき素材やれしぴなるものを調べてみたものの、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18285,9 +18525,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "「愛」という存在があんまりにも抽象的だから、姿かたちのないモノを証明するには、もっと具体的な何かを形にして、それで「愛」を表現したくなるんじゃないかな、と思う。",
+                "WhichSide": "2",
+                "TalkName": "零戦二一型",
+                "TalkValue": "「ばれんたいんでー」という祝日に関係性のあるものは一切見つけておらぬ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18302,7 +18542,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "零戦二一型",
-                "TalkValue": "もっと具体的な存在……か。",
+                "TalkValue": "それなら、ちょこれいとを用いで懸想している御方に慕う気持ちを伝えるという行いは、一体どのような訳柄があろうかと……",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18315,9 +18555,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "チョコレートといい、指輪といい……そういった贈り物はみな、実体のない愛を具現化するために選ばれている象徴物だよ。",
+                "WhichSide": "2",
+                "TalkName": "零戦二一型",
+                "TalkValue": "そのちょこれいととやらと同じような品物では、その役目は果たせぬのだろうかと、拙者は疑問に思えてならぬのだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18332,7 +18572,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "複雑芳醇な味わいと幾層の食感を楽しめるチョコレートは、一番「愛」の表現にふさわしい食べ物とされているし、そして世界一の硬度を誇るダイヤモンドにはその強さから、夫婦の「愛」が永遠に続いていけますようにという期待が込められているんだ",
+                "TalkValue": "先に言っておくけど、これから私が話すことは全部私一個人としての感想だけど。もしかして、あくまで「もしかして」だけど――",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18345,9 +18585,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "零戦二一型",
-                "TalkValue": "なるほど。では、やはりちょこれいとを使わなければならんか。",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "「愛」という存在があんまりにも抽象的だから、姿かたちのないモノを証明するには、もっと具体的な何かを形にして、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18356,17 +18596,17 @@
             },
             {
                 "TalkId": "33",
-                "ShowType": "8",
+                "ShowType": "7",
                 "ShowId": "",
-                "Option": "私はそうとは思わないかな。",
+                "Option": "",
                 "EffectType": "",
-                "WhichSide": "",
-                "TalkName": "",
-                "TalkValue": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "それで「愛」を表現したくなるんじゃないかな、と思う。",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "35",
-                "Relation": "34_34",
+                "FinishTo": "",
+                "Relation": "",
                 "CoverIcon": ""
             },
             {
@@ -18377,7 +18617,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "零戦二一型",
-                "TalkValue": "して、代理人殿はどういったご了見で？",
+                "TalkValue": "もっと具体的な存在……か。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18392,7 +18632,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "そうだね。私からしてみれば、チョコレートで愛情を表現しなければならないことこそ、私達が「愛」についての自信がないという表しでもあるように思えるけどね。",
+                "TalkValue": "チョコレートといい、指輪といい……そういった贈り物はみな、実体のない愛を具現化するために選ばれている象徴物だよ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18407,7 +18647,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "「愛情」すら持てない相手に、無理をしてまでチョコレートを作って送ったりするのなら、なおさら本末転倒だよ。本当の「愛」はね、特別な象徴とかで表現されなければならないものじゃないと思うよ。",
+                "TalkValue": "複雑芳醇な味わいと幾層の食感を楽しめるチョコレートは、一番「愛」の表現にふさわしい食べ物とされているし、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18422,7 +18662,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "もしも二人が愛を確かめあったその瞬間を記念するための物を選ぶのなら、なにも特定な品に縛られることもないし、零式が大切に思う物であれば、愛おしく思う相手とそれを分かち合えるのなら、それはそれで、十分に素敵なバレンタインデープレゼントになっていると思うよ。",
+                "TalkValue": "そして世界一の硬度を誇るダイヤモンドにはその強さから、夫婦の「愛」が永遠に続いていけますようにという期待が込められているんだ",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18437,7 +18677,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "零戦二一型",
-                "TalkValue": "なるほど、そういう所以が……代理人殿の説明を受け、まさに目からうろこ、ひざを打つ思いであるな。なれば代理人殿、どうかこれを！\n",
+                "TalkValue": "なるほど。では、やはりちょこれいとを使わなければならんか。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18446,17 +18686,17 @@
             },
             {
                 "TalkId": "39",
-                "ShowType": "7",
+                "ShowType": "8",
                 "ShowId": "",
-                "Option": "",
+                "Option": "私はそうとは思わないかな。",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "これは……サイダー？それに……これは羊羹？",
+                "WhichSide": "",
+                "TalkName": "",
+                "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
+                "FinishTo": "41",
+                "Relation": "40_40",
                 "CoverIcon": ""
             },
             {
@@ -18467,7 +18707,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "零戦二一型",
-                "TalkValue": "いかに。これなるは拙者が大事に所蔵する重要な物資、そしてこれは拙者が最も大切にしている、一番美味で、独り占めしたくなるような一品である！然しながら",
+                "TalkValue": "して、代理人殿はどういったご了見で？",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18480,9 +18720,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "零戦二一型",
-                "TalkValue": "、さっきの代理人殿の説明に、いとも深く心に感銘を受け、しかとその趣旨を把握した……愛情表現とは、一番珍重する至宝を相手に分かち合うことであろう！",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "そうだね。私からしてみれば、チョコレートで愛情を表現しなければならないことこそ、私達が「愛」についての自信がないという表しでもあるように思えるけどね。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18497,7 +18737,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "いやいやいやいや、違う、ぜっったいなんか誤解してる――",
+                "TalkValue": "「愛情」すら持てない相手に、無理をしてまでチョコレートを作って送ったりするのなら、なおさら本末転倒だよ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18510,9 +18750,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "零戦二一型",
-                "TalkValue": "ご無礼つかまつった！拙者はこれにて失礼するっ！",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "本当の「愛」はね、特別な象徴とかで表現されなければならないものじゃないと思うよ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18521,13 +18761,13 @@
             },
             {
                 "TalkId": "44",
-                "ShowType": "6",
-                "ShowId": "ARM20360101",
+                "ShowType": "7",
+                "ShowId": "",
                 "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "もしも二人が愛を確かめあったその瞬間を記念するための物を選ぶのなら、なにも特定な品に縛られることもないし、零式が大切に思う物であれば、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18542,7 +18782,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "真っ赤になった零戦はプレゼントを一気に私の懐に忍ばせると、すぐさま身を翻し、走り去って行った。",
+                "TalkValue": "愛おしく思う相手とそれを分かち合えるのなら、それはそれで、十分に素敵なバレンタインデープレゼントになっていると思うよ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18555,9 +18795,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
-                "TalkValue": "これはまた……零戦の大胆な奇襲の一撃に、まんまとやられた私であった。",
+                "WhichSide": "2",
+                "TalkName": "零戦二一型",
+                "TalkValue": "なるほど、そういう所以が……代理人殿の説明を受け、まさに目からうろこ、ひざを打つ思いであるな。なれば代理人殿、どうかこれを！\n",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18572,7 +18812,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "うん？ちょっと待て……零戦の後ろについていく人影……あれはバレンタインなのか？一体ここで何をしに……",
+                "TalkValue": "これは……サイダー？それに……これは羊羹？",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18581,6 +18821,126 @@
             },
             {
                 "TalkId": "48",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "零戦二一型",
+                "TalkValue": "いかに。これなるは拙者が大事に所蔵する重要な物資、そしてこれは拙者が最も大切にしている、一番美味で、独り占めしたくなるような一品である！然しながら",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "49",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "零戦二一型",
+                "TalkValue": "、さっきの代理人殿の説明に、いとも深く心に感銘を受け、しかとその趣旨を把握した……愛情表現とは、一番珍重する至宝を相手に分かち合うことであろう！",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "50",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "いやいやいやいや、違う、ぜっったいなんか誤解してる――",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "51",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "零戦二一型",
+                "TalkValue": "ご無礼つかまつった！拙者はこれにて失礼するっ！",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "52",
+                "ShowType": "6",
+                "ShowId": "ARM20360101",
+                "Option": "",
+                "EffectType": "2",
+                "WhichSide": "2",
+                "TalkName": "",
+                "TalkValue": "",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "53",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "真っ赤になった零戦はプレゼントを一気に私の懐に忍ばせると、すぐさま身を翻し、走り去って行った。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "54",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "これはまた……零戦の大胆な奇襲の一撃に、まんまとやられた私であった。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "55",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "うん？ちょっと待て……零戦の後ろについていく人影……あれはバレンタインなのか？一体ここで何をしに……",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "56",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18651,7 +19011,7 @@
                 "EffectType": "",
                 "WhichSide": "0",
                 "TalkName": "",
-                "TalkValue": "――代理人と共に過ごすロマンチックな一夜・飛行船お泊りチケットを一枚贈呈いたしまぁーす！2月14日の夜、代理人との甘美なる一時の逢瀬を。部屋のナンバーは……\n",
+                "TalkValue": "NEXTPAGE",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18660,6 +19020,21 @@
             },
             {
                 "TalkId": "5",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "0",
+                "TalkName": "",
+                "TalkValue": "――代理人と共に過ごすロマンチックな一夜・飛行船お泊りチケットを一枚贈呈いたしまぁーす！2月14日の夜、代理人との甘美なる一時の逢瀬を。部屋のナンバーは……\n",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "6",
                 "ShowType": "6",
                 "ShowId": "ARM10169001",
                 "Option": "",
@@ -18674,7 +19049,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "6",
+                "TalkId": "7",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18689,7 +19064,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "7",
+                "TalkId": "8",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18704,7 +19079,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "8",
+                "TalkId": "9",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18940,7 +19315,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": " ",
-                "TalkValue": "スピットファイアの言う通り、甘みのあるリキュールと苦いチョコレートが混ざり合って、その香りと甘さは主役であるチョコレートを邪魔しないちょうど良さで絶妙なハーモニーを醸し出している。",
+                "TalkValue": "スピットファイアの言う通り、甘みのあるリキュールと苦いチョコレートが混ざり合って、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18955,7 +19330,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": " ",
-                "TalkValue": "ホットチョコレートですっきりした私は思考をまとめ、直球で質問をぶつけようとする。",
+                "TalkValue": "その香りと甘さは主役であるチョコレートを邪魔しないちょうど良さで絶妙なハーモニーを醸し出している。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -18964,6 +19339,21 @@
             },
             {
                 "TalkId": "17",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": " ",
+                "TalkValue": "ホットチョコレートですっきりした私は思考をまとめ、直球で質問をぶつけようとする。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "18",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "そして、仮面Vについてだが…",
@@ -18973,12 +19363,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "19",
-                "Relation": "18_18",
+                "FinishTo": "20",
+                "Relation": "19_19",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "18",
+                "TalkId": "19",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -18993,7 +19383,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "19",
+                "TalkId": "20",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "…お願い、します？",
@@ -19003,12 +19393,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "21",
-                "Relation": "20_20",
+                "FinishTo": "22",
+                "Relation": "21_21",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "20",
+                "TalkId": "21",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19023,7 +19413,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "21",
+                "TalkId": "22",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19038,7 +19428,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "22",
+                "TalkId": "23",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19053,7 +19443,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "23",
+                "TalkId": "24",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19068,7 +19458,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "24",
+                "TalkId": "25",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19083,7 +19473,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "25",
+                "TalkId": "26",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19098,7 +19488,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "26",
+                "TalkId": "27",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19113,7 +19503,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "27",
+                "TalkId": "28",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19128,7 +19518,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "28",
+                "TalkId": "29",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19143,7 +19533,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "29",
+                "TalkId": "30",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19158,7 +19548,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "30",
+                "TalkId": "31",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19173,7 +19563,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "31",
+                "TalkId": "32",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19188,7 +19578,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "32",
+                "TalkId": "33",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19203,7 +19593,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "33",
+                "TalkId": "34",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19218,7 +19608,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "34",
+                "TalkId": "35",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19233,7 +19623,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "35",
+                "TalkId": "36",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19248,7 +19638,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "36",
+                "TalkId": "37",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19263,7 +19653,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "37",
+                "TalkId": "38",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19278,7 +19668,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "38",
+                "TalkId": "39",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "あっ…！くっ。",
@@ -19288,12 +19678,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "40",
-                "Relation": "39_39",
+                "FinishTo": "41",
+                "Relation": "40_40",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "39",
+                "TalkId": "40",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19308,21 +19698,6 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "40",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": "スピットファイアMk.I",
-                "TalkValue": "この点から言うと、私もバレンタインの共犯者になるでしょうね…ただしそれは彼女が知りたがっているものは、私も興味がありますという利害が一致していますので。",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
                 "TalkId": "41",
                 "ShowType": "7",
                 "ShowId": "",
@@ -19330,7 +19705,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": "スピットファイアMk.I",
-                "TalkValue": "私がお聞きしたいのは、一体「愛」とはなんでしょう？",
+                "TalkValue": "この点から言うと、私もバレンタインの共犯者になるでしょうね…ただしそれは彼女が知りたがっているものは、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -19343,9 +19718,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": " ",
-                "TalkValue": "あのさ…私が既婚者に見えるか？",
+                "WhichSide": "1",
+                "TalkName": "スピットファイアMk.I",
+                "TalkValue": "私も興味がありますという利害が一致していますので。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -19360,7 +19735,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": "スピットファイアMk.I",
-                "TalkValue": "代理人、質問に質問を返すのはダメ、って言ったはずでしょ？",
+                "TalkValue": "私がお聞きしたいのは、一体「愛」とはなんでしょう？",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -19375,7 +19750,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": " ",
-                "TalkValue": "ああ悪い。しかし恋愛の一つもしたことのない人間に愛を聞くとは…",
+                "TalkValue": "あのさ…私が既婚者に見えるか？",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -19384,6 +19759,36 @@
             },
             {
                 "TalkId": "45",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": "スピットファイアMk.I",
+                "TalkValue": "代理人、質問に質問を返すのはダメ、って言ったはずでしょ？",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "46",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": " ",
+                "TalkValue": "ああ悪い。しかし恋愛の一つもしたことのない人間に愛を聞くとは…",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "47",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19398,7 +19803,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "46",
+                "TalkId": "48",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19413,7 +19818,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "47",
+                "TalkId": "49",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19428,7 +19833,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "48",
+                "TalkId": "50",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19443,7 +19848,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "49",
+                "TalkId": "51",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19458,7 +19863,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "50",
+                "TalkId": "52",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19473,7 +19878,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "51",
+                "TalkId": "53",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "スピットファイア…",
@@ -19483,12 +19888,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "53",
-                "Relation": "52_52",
+                "FinishTo": "55",
+                "Relation": "54_54",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "52",
+                "TalkId": "54",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19503,14 +19908,14 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "53",
+                "TalkId": "55",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": "スピットファイアMk.I",
-                "TalkValue": "私は最初は遠巻きにして鼻で笑いましたが、あなたはここに来てすぐ私に「この茶番をやめさせろ」と命令しませんでした。──これで一筋の希望が私の中で芽生えました。もしかしたら、あなたがその特別な人なのかもしれません。",
+                "TalkValue": "私は最初は遠巻きにして鼻で笑いましたが、あなたはここに来てすぐ私に「この茶番をやめさせろ」と命令しませんでした。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -19518,7 +19923,22 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "54",
+                "TalkId": "56",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": "スピットファイアMk.I",
+                "TalkValue": "──これで一筋の希望が私の中で芽生えました。もしかしたら、あなたがその特別な人なのかもしれません。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "57",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19533,7 +19953,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "55",
+                "TalkId": "58",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19548,7 +19968,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "56",
+                "TalkId": "59",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19563,7 +19983,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "57",
+                "TalkId": "60",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "……",
@@ -19573,12 +19993,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "59",
-                "Relation": "58_58",
+                "FinishTo": "62",
+                "Relation": "61_61",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "58",
+                "TalkId": "61",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19593,7 +20013,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "59",
+                "TalkId": "62",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19608,7 +20028,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "60",
+                "TalkId": "63",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19623,7 +20043,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "61",
+                "TalkId": "64",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19638,7 +20058,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "62",
+                "TalkId": "65",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19653,7 +20073,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "63",
+                "TalkId": "66",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19668,7 +20088,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "64",
+                "TalkId": "67",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19683,7 +20103,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "65",
+                "TalkId": "68",
                 "ShowType": "8",
                 "ShowId": "",
                 "Option": "それで、バレンタインは？",
@@ -19693,12 +20113,12 @@
                 "TalkValue": "",
                 "Time": "",
                 "Belong": "",
-                "FinishTo": "67",
-                "Relation": "66_66",
+                "FinishTo": "70",
+                "Relation": "69_69",
                 "CoverIcon": ""
             },
             {
-                "TalkId": "66",
+                "TalkId": "69",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19713,7 +20133,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "67",
+                "TalkId": "70",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19728,7 +20148,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "68",
+                "TalkId": "71",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -19743,7 +20163,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "69",
+                "TalkId": "72",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -20958,7 +21378,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "今回の件をまとめた報告を、グレーテルさんの手で議会まで届けて欲しいんです。上層部が私の考え方に賛同を示さなかったとしても、彼らの判断材料の一つとして貰いたいんです。",
+                "TalkValue": "今回の件をまとめた報告を、グレーテルさんの手で議会まで届けて欲しいんです。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -20971,9 +21391,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "グレーテル",
-                "TalkValue": "ふん……口だけは達者なやつだ。",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "上層部が私の考え方に賛同を示さなかったとしても、彼らの判断材料の一つとして貰いたいんです。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -20988,7 +21408,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": "グレーテル",
-                "TalkValue": "本当に今回のような逸脱行為が戦況に影響しないというのなら、それは実際の行動で証明して欲しいものだな。",
+                "TalkValue": "ふん……口だけは達者なやつだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -20997,6 +21417,21 @@
             },
             {
                 "TalkId": "16",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "グレーテル",
+                "TalkValue": "本当に今回のような逸脱行為が戦況に影響しないというのなら、それは実際の行動で証明して欲しいものだな。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "17",
                 "ShowType": "6",
                 "ShowId": "NPC0002_Gretel",
                 "Option": "",
@@ -21011,14 +21446,14 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "17",
+                "TalkId": "18",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "グレーテルは私の「バレンタインデー事件」の報告書を受け取ると、その場で向きを変え、行ってしまおうとした。けれど彼女は足を停めると、懐からアルミの包みを取り出した。",
+                "TalkValue": "グレーテルは私の「バレンタインデー事件」の報告書を受け取ると、その場で向きを変え、",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -21026,7 +21461,22 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "18",
+                "TalkId": "19",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "行ってしまおうとした。けれど彼女は足を停めると、懐からアルミの包みを取り出した。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "20",
                 "ShowType": "6",
                 "ShowId": "NPC0002_Gretel",
                 "Option": "",
@@ -21041,7 +21491,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "19",
+                "TalkId": "21",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -21056,7 +21506,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "20",
+                "TalkId": "22",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -21071,7 +21521,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "21",
+                "TalkId": "23",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -21086,7 +21536,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "22",
+                "TalkId": "24",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -21101,7 +21551,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "23",
+                "TalkId": "25",
                 "ShowType": "6",
                 "ShowId": "NPC0002_Gretel",
                 "Option": "",
@@ -21116,7 +21566,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "24",
+                "TalkId": "26",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -21131,7 +21581,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "25",
+                "TalkId": "27",
                 "ShowType": "1",
                 "ShowId": "BG0101_Black",
                 "Option": "",
@@ -21146,7 +21596,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "26",
+                "TalkId": "28",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",

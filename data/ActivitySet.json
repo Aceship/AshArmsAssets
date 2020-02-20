@@ -1,11 +1,11 @@
 [{
-    "activityContent": "期間限定イベント 「星屑の蒼き鷹」",
+    "activityContent": "期間限定イベン      「狩りの勢子」",
     "activityId": "1",
     "activityType": "3",
-    "activityTypeId": "92",
-    "endDatetimeT": "1580846399000",
+    "activityTypeId": "85",
+    "endDatetimeT": "1583956799000",
     "gachaboxs": "",
-    "imgIndex": "Event_Quest04",
+    "imgIndex": "Event_EQ05",
     "index": "1",
     "position": "",
     "startDatetimeT": "1578513599000"
@@ -197,7 +197,7 @@
             "drawCount": "1",
             "gachaID": "GAC01002",
             "goal": "1",
-            "itemRewardStr": "IM91001,10",
+            "itemRewardStr": "IM91016,10",
             "orderIndex": "1",
             "priceRewardStr": "0,0,0,0,0,0,0",
             "rewardID": "GA0102001"
@@ -205,7 +205,7 @@
             "drawCount": "1",
             "gachaID": "GAC01002",
             "goal": "1",
-            "itemRewardStr": "IM91008,10",
+            "itemRewardStr": "IM91078,10",
             "orderIndex": "2",
             "priceRewardStr": "0,0,0,0,0,0,0",
             "rewardID": "GA0102002"
@@ -213,7 +213,7 @@
             "drawCount": "1",
             "gachaID": "GAC01002",
             "goal": "1",
-            "itemRewardStr": "IM91016,10",
+            "itemRewardStr": "IM91008,10",
             "orderIndex": "3",
             "priceRewardStr": "0,0,0,0,0,0,0",
             "rewardID": "GA0102003"
@@ -351,7 +351,7 @@
             "drawCount": "1",
             "gachaID": "GAC01003",
             "goal": "1",
-            "itemRewardStr": "IM91016,10",
+            "itemRewardStr": "IM91078,10",
             "orderIndex": "3",
             "priceRewardStr": "0,0,0,0,0,0,0",
             "rewardID": "GA0103003"
@@ -489,7 +489,7 @@
             "drawCount": "1",
             "gachaID": "GAC01004",
             "goal": "1",
-            "itemRewardStr": "IM91016,10",
+            "itemRewardStr": "IM91078,10",
             "orderIndex": "3",
             "priceRewardStr": "0,0,0,0,0,0,0",
             "rewardID": "GA0104003"

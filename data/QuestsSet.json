@@ -10,8 +10,8 @@
     "questsid": "1010001",
     "state": "1",
     "type": "1",
-    "userItems": "",
-    "userItemsBack": ""
+    "userItems": "IM99990,20",
+    "userItemsBack": "[[IM99990,20]]"
 }, {
     "charid": "",
     "content": "訓練所で3回勝利する",
@@ -24,8 +24,8 @@
     "questsid": "1010002",
     "state": "1",
     "type": "1",
-    "userItems": "IM99992,1",
-    "userItemsBack": "[[IM99992,1]]"
+    "userItems": "IM99992,1|IM99990,20",
+    "userItemsBack": "[[IM99992,1],[IM99990,20]]"
 }, {
     "charid": "",
     "content": "偵察を行い、限定ステージで1回勝利する",
@@ -38,8 +38,8 @@
     "questsid": "1010003",
     "state": "1",
     "type": "1",
-    "userItems": "IC9001,5",
-    "userItemsBack": "[[IC9001,5]]"
+    "userItems": "IC9001,5|IM99990,20",
+    "userItemsBack": "[[IC9001,5],[IM99990,20]]"
 }, {
     "charid": "",
     "content": "偵察を行い、限定ステージで2回勝利する",
@@ -52,8 +52,8 @@
     "questsid": "1010004",
     "state": "1",
     "type": "1",
-    "userItems": "IM90003,1|IM99992,1",
-    "userItemsBack": "[[IM90003,1],[IM99992,1]]"
+    "userItems": "IM90003,1|IM99992,1|IM99990,20",
+    "userItemsBack": "[[IM90003,1],[IM99992,1],[IM99990,20]]"
 }, {
     "charid": "",
     "content": "メインステージで3回勝利する",
@@ -66,8 +66,8 @@
     "questsid": "1010005",
     "state": "1",
     "type": "1",
-    "userItems": "II10002,2",
-    "userItemsBack": "[[II10002,2]]"
+    "userItems": "II10002,2|IM99990,20",
+    "userItemsBack": "[[II10002,2],[IM99990,20]]"
 }, {
     "charid": "",
     "content": "メインステージで5回勝利する",
@@ -80,8 +80,8 @@
     "questsid": "1010006",
     "state": "1",
     "type": "1",
-    "userItems": "IM0008,1|IM99992,1",
-    "userItemsBack": "[[IM0008,1],[IM99992,1]]"
+    "userItems": "IM0008,1|IM99992,1|IM99990,20",
+    "userItemsBack": "[[IM0008,1],[IM99992,1],[IM99990,20]]"
 }, {
     "charid": "",
     "content": "任意のステージでS勝利を3回達成する",
@@ -94,8 +94,8 @@
     "questsid": "1010007",
     "state": "1",
     "type": "1",
-    "userItems": "II10002,2",
-    "userItemsBack": "[[II10002,2]]"
+    "userItems": "II10002,2|IM99990,20",
+    "userItemsBack": "[[II10002,2],[IM99990,20]]"
 }, {
     "charid": "",
     "content": "任意のステージでS勝利を5回達成する",
@@ -108,8 +108,8 @@
     "questsid": "1010008",
     "state": "1",
     "type": "1",
-    "userItems": "IM0008,1|IM99992,1",
-    "userItemsBack": "[[IM0008,1],[IM99992,1]]"
+    "userItems": "IM0008,1|IM99992,1|IM99990,20",
+    "userItemsBack": "[[IM0008,1],[IM99992,1],[IM99990,20]]"
 }, {
     "charid": "",
     "content": "量産工場でDOLLSを3回量産する",
@@ -122,8 +122,8 @@
     "questsid": "1010009",
     "state": "1",
     "type": "1",
-    "userItems": "",
-    "userItemsBack": ""
+    "userItems": "IM99990,20",
+    "userItemsBack": "[[IM99990,20]]"
 }, {
     "charid": "",
     "content": "全てのデイリー任務を達成する※「偵察ステージ」は対象外",
@@ -136,8 +136,8 @@
     "questsid": "1010010",
     "state": "1",
     "type": "1",
-    "userItems": "IM0006,2|IM99992,3",
-    "userItemsBack": "[[IM0006,2],[IM99992,3]]"
+    "userItems": "IM0006,2|IM99992,3|IM99990,20",
+    "userItemsBack": "[[IM0006,2],[IM99992,3],[IM99990,20]]"
 }, {
     "charid": "",
     "content": "訓練所で15回勝利する",
@@ -4270,7 +4270,7 @@
     "userItemsBack": ""
 }, {
     "charid": "",
-    "content": "<color=#00aab9>チャレンジ</color>「バレンタインMk.Ⅱ」を含む編成で「V-DayC04-N」を2T以内攻略",
+    "content": "<color=#00aab9>チャレンジ</color>「バレンタインMk.Ⅱ」を含む編成で「V-DayC04-N」を1T以内攻略",
     "cycle": "0",
     "exp": "0",
     "name": "[story]",
@@ -4464,6 +4464,384 @@
     "type": "70",
     "userItems": "IM99989,600",
     "userItemsBack": "[IM99989,600]"
+}, {
+    "charid": "",
+    "content": "任意のステージでS勝利を300回達成",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,300]",
+    "priceRewardStr": "0,0,0,0,0,300",
+    "questsid": "8510001",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "共生種を20回撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510002",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM91006,10",
+    "userItemsBack": "[[IM91006,10]]"
+}, {
+    "charid": "",
+    "content": "飛行種を50体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,10000,0,0,0]",
+    "priceRewardStr": "0,0,10000,0,0,0",
+    "questsid": "8510003",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "飛行種を100体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[500,0,0,0,0,0]",
+    "priceRewardStr": "500,0,0,0,0,0",
+    "questsid": "8510004",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "飛行種を200体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510005",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM3001,20",
+    "userItemsBack": "[[IM3001,20]]"
+}, {
+    "charid": "",
+    "content": "飛行種を300体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510006",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM91006,5",
+    "userItemsBack": "[[IM91006,5]]"
+}, {
+    "charid": "",
+    "content": "捕捉種を50体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,10000,0,0,0]",
+    "priceRewardStr": "0,0,10000,0,0,0",
+    "questsid": "8510007",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "捕捉種を100体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[500,0,0,0,0,0]",
+    "priceRewardStr": "500,0,0,0,0,0",
+    "questsid": "8510008",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "捕捉種を200体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510009",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM3001,20",
+    "userItemsBack": "[[IM3001,20]]"
+}, {
+    "charid": "",
+    "content": "捕捉種を300体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510010",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM91006,5",
+    "userItemsBack": "[[IM91006,5]]"
+}, {
+    "charid": "",
+    "content": "滞空種を50体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,10000,0,0,0]",
+    "priceRewardStr": "0,0,10000,0,0,0",
+    "questsid": "8510011",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "滞空種を100体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[500,0,0,0,0,0]",
+    "priceRewardStr": "500,0,0,0,0,0",
+    "questsid": "8510012",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "滞空種を200体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510013",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM3011,20",
+    "userItemsBack": "[[IM3011,20]]"
+}, {
+    "charid": "",
+    "content": "滞空種を300体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510014",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM91006,5",
+    "userItemsBack": "[[IM91006,5]]"
+}, {
+    "charid": "",
+    "content": "遊猟種を50体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,10000,0,0,0]",
+    "priceRewardStr": "0,0,10000,0,0,0",
+    "questsid": "8510015",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "遊猟種を100体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[500,0,0,0,0,0]",
+    "priceRewardStr": "500,0,0,0,0,0",
+    "questsid": "8510016",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "遊猟種を200体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510017",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM3011,20",
+    "userItemsBack": "[[IM3011,20]]"
+}, {
+    "charid": "",
+    "content": "遊猟種を300体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510018",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM91006,5",
+    "userItemsBack": "[[IM91006,5]]"
+}, {
+    "charid": "",
+    "content": "狙撃種を50体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,10000,0,0,0]",
+    "priceRewardStr": "0,0,10000,0,0,0",
+    "questsid": "8510019",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "狙撃種を100体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[500,0,0,0,0,0]",
+    "priceRewardStr": "500,0,0,0,0,0",
+    "questsid": "8510020",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "狙撃種を200体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510021",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM3103,10",
+    "userItemsBack": "[[IM3103,10]]"
+}, {
+    "charid": "",
+    "content": "狙撃種を200体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510022",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM91006,5",
+    "userItemsBack": "[[IM91006,5]]"
+}, {
+    "charid": "",
+    "content": "防衛種を50体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,10000,0,0,0]",
+    "priceRewardStr": "0,0,10000,0,0,0",
+    "questsid": "8510023",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "防衛種を100体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[500,0,0,0,0,0]",
+    "priceRewardStr": "500,0,0,0,0,0",
+    "questsid": "8510024",
+    "state": "1",
+    "type": "85",
+    "userItems": "",
+    "userItemsBack": ""
+}, {
+    "charid": "",
+    "content": "防衛種を200体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510025",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM3103,10",
+    "userItemsBack": "[[IM3103,10]]"
+}, {
+    "charid": "",
+    "content": "防衛種を300体撃破する",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510026",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM91006,5",
+    "userItemsBack": "[[IM91006,5]]"
+}, {
+    "charid": "",
+    "content": "全てのイベント任務を達成すると軽戦車「LT-38」を獲得可能",
+    "cycle": "0",
+    "exp": "0",
+    "name": "event",
+    "position": "",
+    "priceRewardBack": "[0,0,0,0,0,0]",
+    "priceRewardStr": "0,0,0,0,0,0",
+    "questsid": "8510027",
+    "state": "1",
+    "type": "85",
+    "userItems": "IM91006,40",
+    "userItemsBack": "[[IM91006,40]]"
 }, {
     "charid": "",
     "content": "EP01ノーマルの最終ステージをS勝利で1回攻略",

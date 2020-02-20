@@ -47,54 +47,6 @@
         "signedCode": "SC1"
     }]
 }, {
-    "dateBeginLong": "1581087600000",
-    "dateEndLong": "1581951600000",
-    "signedCode": "SC10",
-    "signedName": "ログインボーナス",
-    "signeds": [{
-        "charid": "",
-        "day": "1",
-        "itemReward": "IC5001,20",
-        "priceRewardStr": "0,0,0,0,0,0",
-        "signedCode": "SC10"
-    }, {
-        "charid": "",
-        "day": "2",
-        "itemReward": "IM99992,20",
-        "priceRewardStr": "0,0,0,0,0,0",
-        "signedCode": "SC10"
-    }, {
-        "charid": "",
-        "day": "3",
-        "itemReward": "",
-        "priceRewardStr": "0,0,0,0,0,200",
-        "signedCode": "SC10"
-    }, {
-        "charid": "",
-        "day": "4",
-        "itemReward": "",
-        "priceRewardStr": "0,0,30000,0,0,0",
-        "signedCode": "SC10"
-    }, {
-        "charid": "",
-        "day": "5",
-        "itemReward": "IM90003,2",
-        "priceRewardStr": "0,0,0,0,0,0",
-        "signedCode": "SC10"
-    }, {
-        "charid": "",
-        "day": "6",
-        "itemReward": "IM9001,1",
-        "priceRewardStr": "0,0,0,0,0,0",
-        "signedCode": "SC10"
-    }, {
-        "charid": "",
-        "day": "7",
-        "itemReward": "",
-        "priceRewardStr": "0,0,0,0,0,200",
-        "signedCode": "SC10"
-    }]
-}, {
     "dateBeginLong": "1581606000000",
     "dateEndLong": "1582470000000",
     "signedCode": "SC11",
