@@ -705,7 +705,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -715,7 +715,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -725,7 +725,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -735,7 +735,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -745,7 +745,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -755,7 +755,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE103",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -765,7 +765,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE103",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -775,7 +775,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE103",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -785,7 +785,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE103",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -795,7 +795,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE103",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -805,7 +805,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE101",
         "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -815,7 +815,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE101",
         "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -825,7 +825,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE101",
         "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -835,7 +835,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE101",
         "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -845,7 +845,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE101",
         "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -855,7 +855,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -865,7 +865,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -875,7 +875,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -885,7 +885,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -895,7 +895,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -905,7 +905,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE103",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6003,IC6004,II10002",
+        "EventDrop": "IC6003,IC6004,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -915,7 +915,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE103",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -925,7 +925,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE103",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6003,IC6004,II10002",
+        "EventDrop": "IC6003,IC6004,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -935,7 +935,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE103",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -945,7 +945,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE103",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "203_Battle_Ice"
     },
     {
@@ -955,7 +955,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE101",
         "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -965,7 +965,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE101",
         "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -975,7 +975,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE101",
         "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -985,7 +985,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE101",
         "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -995,7 +995,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE101",
         "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -1005,7 +1005,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE111",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -1015,7 +1015,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE111",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -1025,7 +1025,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE111",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -1035,7 +1035,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE111",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {
@@ -1045,7 +1045,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE111",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99989,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "200_Battle_Wasteland"
     }
 ]
