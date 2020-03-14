@@ -743,5 +743,65 @@
         "ResSlot1": "",
         "HelpPPT": "NONE",
         "BGM": "NONE"
+    },
+    {
+        "SceneName": "MailScene",
+        "PanelName": "MailListPanel",
+        "ShowTopBar": "1",
+        "DisplayName": "メール",
+        "ShowResModule": "0",
+        "ResSlot3": "",
+        "ResSlot2": "",
+        "ResSlot1": "",
+        "HelpPPT": "NONE",
+        "BGM": "NONE"
+    },
+    {
+        "SceneName": "MailScene",
+        "PanelName": "MailDialogPanel",
+        "ShowTopBar": "1",
+        "DisplayName": "メール詳細",
+        "ShowResModule": "0",
+        "ResSlot3": "",
+        "ResSlot2": "",
+        "ResSlot1": "",
+        "HelpPPT": "NONE",
+        "BGM": "NONE"
+    },
+    {
+        "SceneName": "MailScene",
+        "PanelName": "Default",
+        "ShowTopBar": "1",
+        "DisplayName": "メール",
+        "ShowResModule": "0",
+        "ResSlot3": "",
+        "ResSlot2": "",
+        "ResSlot1": "",
+        "HelpPPT": "NONE",
+        "BGM": "NONE"
+    },
+    {
+        "SceneName": "MailScene",
+        "PanelName": "MailDialogAltPanel",
+        "ShowTopBar": "1",
+        "DisplayName": "メール詳細",
+        "ShowResModule": "0",
+        "ResSlot3": "",
+        "ResSlot2": "",
+        "ResSlot1": "",
+        "HelpPPT": "NONE",
+        "BGM": "NONE"
+    },
+    {
+        "SceneName": "MailScene",
+        "PanelName": "MailHistoryPanel",
+        "ShowTopBar": "1",
+        "DisplayName": "受取履歴",
+        "ShowResModule": "0",
+        "ResSlot3": "",
+        "ResSlot2": "",
+        "ResSlot1": "",
+        "HelpPPT": "NONE",
+        "BGM": "NONE"
     }
 ]

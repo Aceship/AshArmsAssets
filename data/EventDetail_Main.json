@@ -1745,7 +1745,407 @@
         "eventTypeCN": "第十节",
         "landEsid": "SE115",
         "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99997,IC0102,IC0202,IM3205,IEE0105,II10003",
+        "EventDrop": "IM99997,IC0102,IC0202,IM3205,II10003",
         "bgm": "306_BGM_Despair_Corridor_Full"
+    },
+    {
+        "eventID": "EVE110101",
+        "eventName": "禁区周辺-01",
+        "eventPoint": "EVE110102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3101,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110102",
+        "eventName": "禁区周辺-02",
+        "eventPoint": "EVE110103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3102,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110103",
+        "eventName": "禁区周辺-03",
+        "eventPoint": "EVE110104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3103,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110104",
+        "eventName": "禁区周辺-04",
+        "eventPoint": "EVE110105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3104,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110105",
+        "eventName": "禁区周辺-05",
+        "eventPoint": "EVE110106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110106",
+        "eventName": "禁区周辺-06",
+        "eventPoint": "EVE110107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3101,IM3111,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110107",
+        "eventName": "禁区周辺-07",
+        "eventPoint": "EVE110108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3102,IM3112,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110108",
+        "eventName": "禁区周辺-08",
+        "eventPoint": "EVE110109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3103,IM3113,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110109",
+        "eventName": "禁区周辺-09",
+        "eventPoint": "EVE110110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3104,IM3114,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110110",
+        "eventName": "禁区周辺-10",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE120101",
+        "eventName": "荒廃禁区-01",
+        "eventPoint": "EVE120102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3101,IM3111,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE120102",
+        "eventName": "荒廃禁区-02",
+        "eventPoint": "EVE120103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3102,IM3112,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE120103",
+        "eventName": "荒廃禁区-03",
+        "eventPoint": "EVE120104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3103,IM3113,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE120104",
+        "eventName": "荒廃禁区-04",
+        "eventPoint": "EVE120105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3104,IM3114,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE120105",
+        "eventName": "荒廃禁区-05",
+        "eventPoint": "EVE120106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE120106",
+        "eventName": "荒廃禁区-06",
+        "eventPoint": "EVE120107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3111,IM3121,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE120107",
+        "eventName": "荒廃禁区-07",
+        "eventPoint": "EVE120108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3112,IM3122,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE120108",
+        "eventName": "荒廃禁区-08",
+        "eventPoint": "EVE120109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3113,IM3123,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE120109",
+        "eventName": "荒廃禁区-09",
+        "eventPoint": "EVE120110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3114,IM3124,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE120110",
+        "eventName": "荒廃禁区-10",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE130101",
+        "eventName": "放射能汚染区域-01",
+        "eventPoint": "EVE130102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3111,IM3121,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE130102",
+        "eventName": "放射能汚染区域-02",
+        "eventPoint": "EVE130103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3112,IM3122,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE130103",
+        "eventName": "放射能汚染区域-03",
+        "eventPoint": "EVE130104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3113,IM3123,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE130104",
+        "eventName": "放射能汚染区域-04",
+        "eventPoint": "EVE130105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3114,IM3124,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE130105",
+        "eventName": "放射能汚染区域-05",
+        "eventPoint": "EVE130106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE130106",
+        "eventName": "放射能汚染区域-06",
+        "eventPoint": "EVE130107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3111,IM3121,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE130107",
+        "eventName": "放射能汚染区域-07",
+        "eventPoint": "EVE130108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3112,IM3122,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE130108",
+        "eventName": "放射能汚染区域-08",
+        "eventPoint": "EVE130109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3113,IM3123,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE130109",
+        "eventName": "放射能汚染区域-09",
+        "eventPoint": "EVE130110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3114,IM3124,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE130110",
+        "eventName": "放射能汚染区域-10",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IEE0106,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE140101",
+        "eventName": "放射能汚染中枢区域-01",
+        "eventPoint": "EVE140102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3121,IM3131,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE140102",
+        "eventName": "放射能汚染中枢区域-02",
+        "eventPoint": "EVE140103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3122,IM3132,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE140103",
+        "eventName": "放射能汚染中枢区域-03",
+        "eventPoint": "EVE140104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3123,IM3133,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE140104",
+        "eventName": "放射能汚染中枢区域-04",
+        "eventPoint": "EVE140105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3124,IM3134,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE140105",
+        "eventName": "放射能汚染中枢区域-05",
+        "eventPoint": "EVE140106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE140106",
+        "eventName": "放射能汚染中枢区域-06",
+        "eventPoint": "EVE140107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3121,IM3131,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE140107",
+        "eventName": "放射能汚染中枢区域-07",
+        "eventPoint": "EVE140108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3122,IM3132,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE140108",
+        "eventName": "放射能汚染中枢区域-08",
+        "eventPoint": "EVE140109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3123,IM3133,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE140109",
+        "eventName": "放射能汚染中枢区域-09",
+        "eventPoint": "EVE140110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3124,IM3134,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE140110",
+        "eventName": "放射能汚染中枢区域-10",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE201",
+        "describe": "環境：輻射区域\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IEE0106,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
     }
 ]

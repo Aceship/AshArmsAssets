@@ -6155,6 +6155,166 @@
         ]
     },
     {
+        "ARMSID": "ARM106201",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "叩き潰すよ！Feuer！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "私の主砲は特別製よ！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "Hinein！もっと前え！ "
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "停止！あっ履帯が切れたああああ"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "走行不能だなんてやだやだやだ！"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "資源回収部隊の諸君、健闘を祈る！"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "くうっ！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "なぁっ！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "Jawohl！"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "ごめん、無理だわ"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "ＥｉｎｅｎｓｃｈｏｎｅｎＴａｇ！"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "愛しの妹よ！"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "この私を選ぶか？うむ、当然だな。"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "黒十字帝国学連所属、Ⅴ号戦車パンター着任だ！重戦車並みの性能を誇る私が来たからには、我々の勝利は約束されたようもの！……と、そうだ。ヤークトパンターを見なかったか？とても良く出来た自慢の妹なんだ…"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "Panzervor！あっ、エンジントラブルだ"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "では諸君、獣になれ!"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "面目ない、しくじった……"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "レベルアップか！清々しい気分だ！"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "電報が届いているぞ。どれ、私が読み上げてやろう。"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "うわっとと。……やるな！"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "見てくれ、見てくれ！改造完了だ！どうだ？どうだ？惚れ直しただろう？うむ、うむ、我が愛しの妹ともども、これからもよろしく頼むぞ、代理人！"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "おお、改造が可能になったみたいだぞ！どうした、すぐに実行しないか！ほら、早く！"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "うむうむ！当然の結果といえよう！"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "おお、眼の前に私がいる。不思議な感覚だま。他者からはこのように見えるのか……。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "うむ、心地よい。感謝するぞ。"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "妹よ。どうだ、惚れ直しただろう？"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "強化完了！いざ、戦場へ！"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "待ちかねたぞ、代理人！ほら、ぼさっとするな。さっさと皆のもとへ行くぞ。"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "資源回収部隊が戻ったぞ。皆で出迎えよう！"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "戦闘任務から無事帰還だ。うむ、なんとかなったな！"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "愛しの妹のためにも、負けられない！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "私はティーガーすら凌駕する存在だ！多分！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "愛する妹の憧れでい続けたいのでね。悪いが勝たせたもらうよ！！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "我が愛しの妹、ヤークトパンターについてか。そうだな、今でこそしっかり者の良き妹だが、かつてはかなりの寂しがり屋でな。お姉ちゃん、お姉ちゃんと、一生懸命私の後ろをついてくる姿が本当に可愛くてなぁ。……って、コラ！姉をいきなりブツんじゃない！全て本当のことではないか！"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "おお！再び戦場で肩を並べられるとは、私も嬉しいよ！おとといの作戦のようにならぬよう、お互い気をつけないとな！……え？おとといは休みだった？いやいや！忘れたわけではないんだ！キミの顔もしっかり覚えている！本当だとも！"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "な、何を言う！私は決してポンコツなどではないぞ！ま、まあ、たしかに妹に世話になってばかりではあるが、そこはなんとうか、姉妹ならではの助け合いというかだな。……うう、意地悪はやめてくれ。"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "何故、私の頭を撫でる？む、むずかゆいな……。噛み付いていいか？"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "私たちの勝利だな！さあ、思う存分褒めるがいい！"
+            }
+        ]
+    },
+    {
         "ARMSID": "ARM106501",
         "CVDesArray": [{
                 "CVType": "Attack1",
@@ -9418,7 +9578,7 @@
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "Ho229、ステルス性を持つジェット戦闘機型DOLLSね。絶対強者と僭称するのならその実力、是が非でも確かめてみたいものね。あぁ大丈夫、後始末はBf109がやってくれるわ♪"
+                "CVDetail": "Ho229(ほるてん えいちおーにーにーきゅう)、ステルス性を持つジェット戦闘機型DOLLSね。絶対強者と僭称するのならその実力、是が非でも確かめてみたいものね。あぁ大丈夫、後始末はBf109がやってくれるわ♪"
             },
             {
                 "CVType": "TapBody2",

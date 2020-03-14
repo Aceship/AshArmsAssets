@@ -653,5 +653,85 @@
         "EventID": "EPE00210305",
         "CheckPost": 2,
         "CheckTag": 3
+    },
+    {
+        "Index": 82,
+        "PlotKey": "Chapter003_1_ウラン雲母",
+        "PlotType": 0,
+        "EventID": "EVE110101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 83,
+        "PlotKey": "Chapter003_2_ウラン雲母",
+        "PlotType": 0,
+        "EventID": "EVE110110",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 84,
+        "PlotKey": "Chapter003_3_ウラン雲母",
+        "PlotType": 0,
+        "EventID": "EVE120101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 85,
+        "PlotKey": "Chapter003_4_ウラン雲母",
+        "PlotType": 0,
+        "EventID": "EVE120105",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 86,
+        "PlotKey": "Chapter003_5_ウラン雲母",
+        "PlotType": 0,
+        "EventID": "EVE120110",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 87,
+        "PlotKey": "Chapter003_6_ウラン雲母",
+        "PlotType": 0,
+        "EventID": "EVE130101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 88,
+        "PlotKey": "Chapter003_7_ウラン雲母",
+        "PlotType": 0,
+        "EventID": "EVE130105",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 89,
+        "PlotKey": "Chapter003_8_ウラン雲母",
+        "PlotType": 0,
+        "EventID": "EVE130110",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 90,
+        "PlotKey": "Chapter003_9_ウラン雲母",
+        "PlotType": 0,
+        "EventID": "EVE140101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 91,
+        "PlotKey": "Chapter003_10_ウラン雲母",
+        "PlotType": 0,
+        "EventID": "EVE140110",
+        "CheckPost": 2,
+        "CheckTag": 3
     }
 ]

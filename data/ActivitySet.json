@@ -1,23 +1,23 @@
 [{
+    "activityContent": "期間限定イベント    「白濁の戦場」",
+    "activityId": "1",
+    "activityType": "3",
+    "activityTypeId": "83",
+    "endDatetimeT": "1585684799000",
+    "imgIndex": "Event_EQ07",
+    "index": "1",
+    "position": "",
+    "startDatetimeT": "1578513599000"
+}, {
     "activityContent": "期間限定イベント    「人形たちの雛祭り」",
     "activityId": "3",
     "activityType": "4",
     "activityTypeId": "84",
     "endDatetimeT": "1584561599000",
     "imgIndex": "Event_EQ06",
-    "index": "1",
-    "position": "",
-    "startDatetimeT": "1583092799000"
-}, {
-    "activityContent": "期間限定イベント    「狩りの勢子」",
-    "activityId": "1",
-    "activityType": "3",
-    "activityTypeId": "85",
-    "endDatetimeT": "1583956799000",
-    "imgIndex": "Event_EQ05",
     "index": "2",
     "position": "",
-    "startDatetimeT": "1578513599000"
+    "startDatetimeT": "1583092799000"
 }, {
     "activityContent": "事前登録報酬",
     "activityId": "51",
