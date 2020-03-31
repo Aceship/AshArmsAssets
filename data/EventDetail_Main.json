@@ -1849,6 +1849,36 @@
         "bgm": "200_Battle_Wasteland"
     },
     {
+        "eventID": "EVE110201",
+        "eventName": "禁区周辺-01H",
+        "eventPoint": "EVE110102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM81037,IM3998,IM3114,IM3124,IM3134,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110202",
+        "eventName": "禁区周辺-02H",
+        "eventPoint": "EVE110103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM81004,IM3998,IM3113,IM3123,IM3133,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110203",
+        "eventName": "禁区周辺-03H",
+        "eventPoint": "EVE110104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM82001,IM3998,IM3111,IM3121,IM3131,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
         "eventID": "EVE120101",
         "eventName": "荒廃禁区-01",
         "eventPoint": "EVE120102",

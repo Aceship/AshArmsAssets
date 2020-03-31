@@ -38,6 +38,8 @@
             "mobData": "EMY1311202,3,5|EMY1311202,3,5|EMY4211102,2,4|EMY4111102,1,5|EMY4211102,2,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -69,6 +71,8 @@
             "mobData": "EMY1211101,2,4|EMY1311201,3,5|EMY1311201,3,5|EMY4211101,2,5|EMY4211101,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -100,6 +104,8 @@
             "mobData": "EMY1311201,3,5|EMY1311201,3,6|EMY4211101,2,4|EMY4311101,3,6|EMY4211101,2,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -131,6 +137,8 @@
             "mobData": "EMY1311201,3,5|EMY4311101,3,5|EMY4211101,2,6|EMY4311101,3,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -162,6 +170,8 @@
             "mobData": "EMY1311204,3,5|EMY1311204,3,5|EMY4211204,2,4|EMY8411104,1,6|EMY4211204,2,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -193,6 +203,8 @@
             "mobData": "EMY1211103,2,4|EMY3111103,1,5|EMY6111103,1,4|EMY4211203,2,5|EMY6111103,1,6|EMY4211203,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -224,6 +236,8 @@
             "mobData": "EMY1211103,2,4|EMY1211103,2,5|EMY5211103,2,4|EMY4211203,2,5|EMY4211203,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -255,6 +269,8 @@
             "mobData": "EMY1311202,3,4|EMY1311202,3,5|EMY3211102,2,6|EMY4211202,2,4|EMY4211202,2,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -286,6 +302,8 @@
             "mobData": "EMY1311202,3,4|EMY2311102,3,5|EMY1311202,3,4|EMY4111102,1,4|EMY5211102,2,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -317,6 +335,8 @@
             "mobData": "EMY2311103,3,4|EMY1311203,3,5|EMY1311203,3,5|EMY4211203,2,4|EMY5211103,2,5|EMY4211203,2,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -361,6 +381,8 @@
             "mobData": "EMY1211104,2,4|EMY1311204,3,5|EMY1311204,3,5|EMY4211104,2,4|EMY4211204,2,5|EMY4211204,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -392,6 +414,8 @@
             "mobData": "EMY1211104,2,5|EMY2311104,3,6|EMY1211104,2,5|EMY5111104,1,4|EMY4111104,1,5|EMY5111104,1,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -423,6 +447,8 @@
             "mobData": "EMY3111104,1,4|EMY1311204,3,5|EMY1311204,3,5|EMY4111104,1,4|EMY4211204,2,5|EMY4211204,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -454,6 +480,8 @@
             "mobData": "EMY1111206,1,5|EMY8411106,1,6|EMY8411106,1,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -485,6 +513,8 @@
             "mobData": "EMY1211105,2,5|EMY1211105,2,5|EMY4211205,2,5|EMY4111105,1,4|EMY8411105,1,6|EMY4211205,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -516,6 +546,8 @@
             "mobData": "EMY3111105,1,4|EMY1211105,2,5|EMY1211105,2,5|EMY4211205,2,4|EMY4111105,1,5|EMY4211205,2,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -547,6 +579,8 @@
             "mobData": "EMY1111205,1,5|EMY3211105,2,6|EMY3211105,2,6|EMY4111105,1,4|EMY6111105,1,5|EMY4111105,1,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -578,6 +612,8 @@
             "mobData": "EMY1311104,3,5|EMY2311104,3,6|EMY1311104,3,5|EMY5311104,3,6|EMY4311104,3,5|EMY5311104,3,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -609,6 +645,8 @@
             "mobData": "EMY3111106,1,4|EMY1311206,3,5|EMY1311206,3,5|EMY5111106,1,4|EMY6111206,1,6|EMY5111106,1,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -640,6 +678,8 @@
             "mobData": "EMY1111205,1,5|EMY4211205,2,4|EMY5211105,2,5|EMY6111105,1,6|EMY4211205,2,4|EMY5211105,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -684,6 +724,8 @@
             "mobData": "EMY1111206,1,4|EMY2311106,3,5|EMY3111106,1,6|EMY2311106,3,5|EMY4211106,2,4|EMY4211106,2,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -715,6 +757,8 @@
             "mobData": "EMY2311106,3,4|EMY3111106,1,5|EMY2311106,3,6|EMY4111106,1,4|EMY6111206,2,5|EMY4111106,1,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -746,6 +790,8 @@
             "mobData": "EMY8411201,1,6|EMY1111208,1,6|EMY4211208,2,5|EMY8411108,1,5|EMY4211208,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -777,6 +823,8 @@
             "mobData": "EMY8411107,1,6|EMY1211107,2,5|EMY1211107,2,5|EMY6311107,5,5|EMY4111107,1,4|EMY6311107,5,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -808,6 +856,8 @@
             "mobData": "EMY1111207,1,4|EMY1311207,3,5|EMY4211207,2,4|EMY6111207,1,5|EMY6211107,2,6|EMY4211207,2,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -839,6 +889,8 @@
             "mobData": "EMY1211107,2,5|EMY1211107,2,5|EMY4111107,1,5|EMY4111107,1,5|EMY6111207,1,6|EMY4111107,1,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -870,6 +922,8 @@
             "mobData": "EMY4211207,2,4|EMY1211107,2,4|EMY1211107,2,5|EMY4211207,2,4|EMY6211107,2,5|EMY4211207,2,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -901,6 +955,8 @@
             "mobData": "EMY8411108,1,5|EMY1111208,1,5|EMY1311208,5,4|EMY6111208,2,5|EMY6111108,1,6|EMY8411108,1,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -932,6 +988,8 @@
             "mobData": "EMY1311208,3,4|EMY1311208,5,5|EMY4211208,3,5|EMY8411108,1,5|EMY8411108,1,6|EMY4211208,3,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -963,6 +1021,8 @@
             "mobData": "EMY6111208,1,5|EMY1211108,3,5|EMY1111208,1,4|EMY1211108,3,5|EMY8411108,1,4|EMY8411108,1,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1007,6 +1067,8 @@
             "mobData": "EMY1111209,1,6|EMY3111109,1,7|EMY5211109,3,6|EMY4111109,2,5|EMY8411109,1,7|EMY5211109,3,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1038,6 +1100,8 @@
             "mobData": "EMY2311109,5,5|EMY1211109,4,6|EMY4111109,1,5|EMY6111209,2,6|EMY6111109,1,7|EMY4111109,1,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1069,6 +1133,8 @@
             "mobData": "EMY8411110,1,5|EMY1311210,4,5|EMY1211110,3,4|EMY3111110,2,5|EMY1311210,4,5|EMY6111210,1,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1100,6 +1166,8 @@
             "mobData": "EMY1311210,5,5|EMY1211110,3,6|EMY1311210,5,5|EMY5211110,2,6|EMY6111110,1,6|EMY5211110,2,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1131,6 +1199,8 @@
             "mobData": "EMY1111210,2,5|EMY5111110,1,5|EMY6211110,4,6|EMY6111110,1,7|EMY5111110,1,5|EMY6211110,4,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1162,6 +1232,8 @@
             "mobData": "EMY6111210,1,6|EMY1311210,4,5|EMY1311210,4,5|EMY4211210,3,5|EMY4111110,2,5|EMY4211210,3,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1193,6 +1265,8 @@
             "mobData": "EMY8411110,1,6|EMY1111210,2,5|EMY2311110,5,6|EMY2311110,5,6|EMY5111110,1,6|EMY5111110,1,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1224,6 +1298,8 @@
             "mobData": "EMY3111109,1,5|EMY3111109,1,5|EMY4211209,3,4|EMY6111209,2,5|EMY5211109,2,6|EMY4211209,3,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1255,6 +1331,8 @@
             "mobData": "EMY6211109,3,6|EMY1311209,3,5|EMY1311209,5,4|EMY1311209,3,5|EMY4211209,3,5|EMY4211209,3,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1286,6 +1364,8 @@
             "mobData": "EMY5111109,1,4|EMY1311209,4,4|EMY2311109,4,5|EMY1311209,4,4|EMY2311109,4,5|EMY6111209,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1330,6 +1410,8 @@
             "mobData": "EMY1311210,6,5|EMY3211110,3,6|EMY1311210,6,5|EMY3211110,3,6|EMY6311110,4,6|EMY6311110,4,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1361,6 +1443,8 @@
             "mobData": "EMY1111210,2,5|EMY3111110,1,6|EMY3111110,1,6|EMY4111110,2,6|EMY5211110,4,7|EMY5211110,4,7",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1392,6 +1476,8 @@
             "mobData": "EMY1111211,2,5|EMY2311111,6,6|EMY2311111,6,6|EMY4111111,2,5|EMY6311111,4,6|EMY6311111,4,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1423,6 +1509,8 @@
             "mobData": "EMY8411110,1,6|EMY3211110,4,6|EMY3211110,4,6|EMY4211210,3,5|EMY6111210,2,7|EMY4211210,3,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1454,6 +1542,8 @@
             "mobData": "EMY1111211,2,5|EMY1311211,5,5|EMY1311211,5,5|EMY4111111,2,5|EMY6211111,4,6|EMY6211111,4,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1485,6 +1575,8 @@
             "mobData": "EMY8411111,1,4|EMY1111211,2,5|EMY6111211,2,5|EMY5211111,4,6|EMY6111211,2,5|EMY5211111,4,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1516,6 +1608,8 @@
             "mobData": "EMY4211211,4,4|EMY6111111,2,6|EMY6111211,2,5|EMY5111111,1,6|EMY4211211,4,4|EMY6111111,2,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1547,6 +1641,8 @@
             "mobData": "EMY1111211,2,5|EMY1111211,2,6|EMY5111111,2,6|EMY8411111,1,6|EMY6111211,1,7|EMY5111111,2,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1578,6 +1674,8 @@
             "mobData": "EMY5111110,1,4|EMY5111110,1,4|EMY2311110,5,5|EMY2311110,5,5|EMY2311110,5,5|EMY6111210,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1609,6 +1707,8 @@
             "mobData": "EMY1111210,2,5|EMY4211210,3,4|EMY6111210,2,5|EMY4211210,4,6|EMY4211210,3,4|EMY4211210,4,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1653,6 +1753,8 @@
             "mobData": "EMY8411111,1,6|EMY1311211,5,6|EMY1311211,5,6|EMY6111111,2,5|EMY6111111,2,5|EMY6111111,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1684,6 +1786,8 @@
             "mobData": "EMY6111211,2,5|EMY3111111,2,4|EMY3111111,2,5|EMY5111111,2,4|EMY6111111,2,6|EMY5111111,2,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1715,6 +1819,8 @@
             "mobData": "EMY8411111,1,5|EMY1111211,2,6|EMY3111111,2,6|EMY1111211,2,6|EMY8411111,1,6|EMY6111211,2,7",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1746,6 +1852,8 @@
             "mobData": "EMY1111211,2,5|EMY4211211,4,4|EMY4211211,3,5|EMY6111211,2,6|EMY4211211,4,4|EMY4211211,3,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1777,6 +1885,8 @@
             "mobData": "EMY8411112,1,6|EMY2311112,6,5|EMY1111212,2,4|EMY2311112,9,5|EMY2311112,6,5|EMY8411112,1,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1808,6 +1918,8 @@
             "mobData": "EMY1311212,8,5|EMY1311212,8,5|EMY4311112,6,4|EMY6311112,6,5|EMY6311112,6,5|EMY4311112,6,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1839,6 +1951,8 @@
             "mobData": "EMY1111212,2,5|EMY3111112,2,5|EMY8411112,1,4|EMY6111212,2,5|EMY8411112,1,6|EMY8411112,1,4",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1870,6 +1984,8 @@
             "mobData": "EMY3111112,2,4|EMY5311112,6,6|EMY4111112,2,5|EMY8411112,1,6|EMY6311112,6,7|EMY5311112,6,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1901,6 +2017,8 @@
             "mobData": "EMY8411202,1,6|EMY4211212,4,4|EMY6111112,2,5|EMY6111212,2,5|EMY4211212,4,4|EMY6111112,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1932,6 +2050,8 @@
             "mobData": "EMY1111211,2,5|EMY4111111,2,4|EMY8411111,1,5|EMY5111111,2,6|EMY5111111,2,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -1976,6 +2096,8 @@
             "mobData": "EMY1111216,2,5|EMY1111216,2,6|EMY4211216,4,4|EMY4211216,4,6|EMY8411116,1,5|EMY8411116,1,7|EMY4211216,4,4|EMY4211216,4,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -2007,6 +2129,8 @@
             "mobData": "EMY8411116,1,5|EMY1311216,6,5|EMY1311216,8,4|EMY3111116,2,5|EMY1311216,6,5|EMY5211116,4,5|EMY5211116,4,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -2038,6 +2162,8 @@
             "mobData": "EMY8411116,1,5|EMY1311216,6,5|EMY1311216,8,6|EMY1311216,6,5|EMY6311116,6,6|EMY8411116,1,7|EMY6311116,6,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -2069,6 +2195,8 @@
             "mobData": "EMY8411115,1,7|EMY1111215,2,5|EMY1111215,2,6|EMY4111115,2,5|EMY6111115,2,6|EMY4111115,2,5|EMY6111115,2,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -2100,6 +2228,8 @@
             "mobData": "EMY8411115,1,5|EMY1111215,2,5|EMY1311215,8,6|EMY1311215,8,6|EMY4211215,4,5|EMY5111115,2,4|EMY4211215,4,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -2131,6 +2261,8 @@
             "mobData": "EMY1111215,2,5|EMY3111115,2,6|EMY3111115,2,6|EMY4111115,2,4|EMY6111115,3,6|EMY4111115,2,4|EMY6111215,2,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -2162,6 +2294,8 @@
             "mobData": "EMY1111214,2,6|EMY4211214,4,5|EMY6111114,2,7|EMY4211214,4,5|EMY6111214,2,6|EMY6111114,2,7",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -2193,6 +2327,8 @@
             "mobData": "EMY8411203,1,6|EMY1311216,8,5|EMY1111216,2,5|EMY3111116,2,6|EMY1311216,8,5|EMY8411116,1,5|EMY8411116,1,5",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -2224,6 +2360,8 @@
             "mobData": "EMY1111214,2,6|EMY1111214,2,7|EMY6311114,7,6|EMY5111114,2,5|EMY6311114,7,6|EMY6311114,7,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""
@@ -2255,6 +2393,8 @@
             "mobData": "EMY1111214,2,5|EMY4111114,2,4|EMY6111214,2,5|EMY6111114,2,6|EMY4111114,2,4|EMY6111114,2,6",
             "progressReward": "1000",
             "recommendDegree": "0",
+            "settlecountLimit": "0",
+            "staminaCount": "0",
             "tarMobData": "",
             "unlockDescribe": "",
             "unlockType": ""

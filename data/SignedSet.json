@@ -47,6 +47,54 @@
         "signedCode": "SC1"
     }]
 }, {
+    "dateBeginLong": "1581087600000",
+    "dateEndLong": "32479714800000",
+    "signedCode": "SC99",
+    "signedName": "CBログインボーナス",
+    "signeds": [{
+        "charid": "",
+        "day": "1",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,300",
+        "signedCode": "SC99"
+    }, {
+        "charid": "",
+        "day": "2",
+        "itemReward": "",
+        "priceRewardStr": "2000,0,0,0,0,0",
+        "signedCode": "SC99"
+    }, {
+        "charid": "",
+        "day": "3",
+        "itemReward": "",
+        "priceRewardStr": "0,0,50000,0,0,0",
+        "signedCode": "SC99"
+    }, {
+        "charid": "",
+        "day": "4",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,300",
+        "signedCode": "SC99"
+    }, {
+        "charid": "",
+        "day": "5",
+        "itemReward": "",
+        "priceRewardStr": "2000,0,0,0,0,0",
+        "signedCode": "SC99"
+    }, {
+        "charid": "",
+        "day": "6",
+        "itemReward": "",
+        "priceRewardStr": "0,0,60000,0,0,0",
+        "signedCode": "SC99"
+    }, {
+        "charid": "",
+        "day": "7",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,400",
+        "signedCode": "SC99"
+    }]
+}, {
     "dateBeginLong": "1582988400000",
     "dateEndLong": "1585666800000",
     "signedCode": "SM2003",

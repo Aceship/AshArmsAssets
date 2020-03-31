@@ -522,7 +522,7 @@
                 "EffectType": "",
                 "WhichSide": "0",
                 "TalkName": "",
-                "TalkValue": "「TRADIS」という名を。",
+                "TalkValue": "「TARDIS」という名を。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -21613,7 +21613,7 @@
         ]
     },
     {
-        "EventId": "Chapter003_1_ウラン雲母",
+        "EventId": "Scenario_10_01",
         "TalkDatas": [{
                 "TalkId": "1",
                 "ShowType": "1",
@@ -22037,7 +22037,7 @@
         ]
     },
     {
-        "EventId": "Chapter003_2_ウラン雲母",
+        "EventId": "Scenario_10_10",
         "TalkDatas": [{
                 "TalkId": "1",
                 "ShowType": "1",
@@ -23361,7 +23361,7 @@
         ]
     },
     {
-        "EventId": "Chapter003_3_ウラン雲母",
+        "EventId": "Scenario_11_01",
         "TalkDatas": [{
                 "TalkId": "1",
                 "ShowType": "1",
@@ -23785,7 +23785,7 @@
         ]
     },
     {
-        "EventId": "Chapter003_4_ウラン雲母",
+        "EventId": "Scenario_11_05",
         "TalkDatas": [{
                 "TalkId": "1",
                 "ShowType": "1",
@@ -24509,7 +24509,7 @@
         ]
     },
     {
-        "EventId": "Chapter003_5_ウラン雲母",
+        "EventId": "Scenario_11_10",
         "TalkDatas": [{
                 "TalkId": "1",
                 "ShowType": "1",
@@ -25548,7 +25548,7 @@
         ]
     },
     {
-        "EventId": "Chapter003_6_ウラン雲母",
+        "EventId": "Scenario_12_01",
         "TalkDatas": [{
                 "TalkId": "1",
                 "ShowType": "1",
@@ -26332,7 +26332,7 @@
         ]
     },
     {
-        "EventId": "Chapter003_7_ウラン雲母",
+        "EventId": "Scenario_12_05",
         "TalkDatas": [{
                 "TalkId": "1",
                 "ShowType": "1",
@@ -27026,7 +27026,7 @@
         ]
     },
     {
-        "EventId": "Chapter003_8_ウラン雲母",
+        "EventId": "Scenario_12_10",
         "TalkDatas": [{
                 "TalkId": "1",
                 "ShowType": "1",
@@ -27510,7 +27510,7 @@
         ]
     },
     {
-        "EventId": "Chapter003_9_ウラン雲母",
+        "EventId": "Scenario_13_01",
         "TalkDatas": [{
                 "TalkId": "1",
                 "ShowType": "1",
@@ -28624,7 +28624,7 @@
         ]
     },
     {
-        "EventId": "Chapter003_10_ウラン雲母",
+        "EventId": "Scenario_13_10",
         "TalkDatas": [{
                 "TalkId": "1",
                 "ShowType": "1",

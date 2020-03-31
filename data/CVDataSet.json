@@ -6635,6 +6635,166 @@
         ]
     },
     {
+        "ARMSID": "ARM106901",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "「人」を守り、我が道を征く！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "悪は…討ち滅ぼす！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "あぁ、任せろ。"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "ここで迎え撃つ！"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "もっと長く、キミのそばにいたかった、な……。"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "資源回収部隊の出立だ。無事を祈ろう。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "なッ！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "くうッ！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "あぁ、任せろ。"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "すまない。"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "Bonjour"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "人助けは騎士の務めだ。"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "全身全霊を以てキミの期待に応えよう。"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "キミが代理人だね。私の名前は「B1 bis」。重戦車型DOLLSだ。私の自慢はなんといっても堅牢なる装甲。かつての大戦では、アハトアハトに撃ち抜かれるまでの約数時間、何十発もの砲弾を耐え抜き戦った。今この瞬間からキミの騎士として全力で守り抜くことを誓おう。我らに勝利を！"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "必ずや勝利をキミに……征くぞ、みんな！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "救いを求める者がいる限り、我々は決して負けはしない！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "すまん、代理人……。私の力が至らぬばかりに……。"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "私はどんどん強くなる。そう、キミのために。"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "キミ宛に電文が届いたよ。何が書いてあるんだい？"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "ふん。"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "どうかな？改造を終えた私の姿は。これからもキミを守る騎士として、獅子奮迅の働きを約束しよう。勝利と栄光を我が隊に！"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "改造が可能になったね。どれほど強くなるのか楽しみだ。"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "私がMVPか。Mercibeaucoup！嬉しいな。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "発注していたARMSが納品されたね。これで戦線が安定する。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "Merci！強くしてくれて嬉しい。"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "強化完了。力が溢れ出てくる。"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "不思議な心地だ。戦意が高揚する。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "やあ、代理人。困ったことがあったら遠慮なく呼んでくれ。すぐに駆けつける。"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "資源回収部隊が帰還した。お疲れ。ゆっくり休んで。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "全車帰還。代理人、お疲れさま。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "攻めは最大の守りとなる！撃てっ！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "これ以上の暴虐を、断じて許さない！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "我が忠義、我が誇り、全てをこの一手にかける！これで終わりだ！Adieu！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "すまない、代理人。ときどき女性から愛の手紙が届くのだが、どうしてだと思う……？え？親切を止めれば手紙は来なくなる？……むう、それは出来ない。困っている者を助けるのは騎士の義務だから。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "私の装備が気になるのかい？主砲の位置が逆？ああ、そうだね。砲塔に装備されている方が副武装で、車体に装備されている方が主砲だ。左右非対称でユニークだろ？けっこう気に入ってるんだ。"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "ハっちゃんは元気だね。ああ、また遊ぼう。じゃあ。……おっと、お次は代理人かい？ああ、アハトアハトこと、ハっちゃんとは仲良くさせてもらっている。かつての大戦では敵同士だったが、今は心強い味方だ。とても愛らしい良い子だしね。"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "私の好物か……。そうだな、ワインに合う料理なら何でも好きだよ。チーズでも、生ハムでも。"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "キミに勝利を贈れて嬉しく思う。みなも喜んでいるよ。"
+            }
+        ]
+    },
+    {
         "ARMSID": "ARM107001",
         "CVDesArray": [{
                 "CVType": "Attack1",
@@ -6791,6 +6951,166 @@
             {
                 "CVType": "Win",
                 "CVDetail": "暴君は斃れるが必定！クッハッハッハッ！"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM107501",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "祝福を与えましょう"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "落ちなさい、悪魔たち"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "さあ、主の為に進みましょう！"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "ここを堅守するのです、神はそうおっしゃられています！"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "ああ……主よ……そこに御座（おわ）すのですね……"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "いってらっしゃい、神の為に働くことはとても尊いことですよ"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "きゃっ！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "くっ！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "かしこまりました"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "それは主のご意向ではありません"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "ごきげんよう"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "祈りましょう"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "かしこまりました、すべては神の為に"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "はじめまして、私は主に仕える者、ケーリアン341型です。すべての敵を撃滅し、神のご威光をこの困難な世に広く示す為、今しばらくはあなたの元で働きましょう。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "さあ、罰の時間です"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "さあ、主の導きに従いなさい"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "いまは時期ではない、主はそうおっしゃられているのでしょう"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "ふふ、これで神により近く……"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "あら、メールが来ているようですね。ご確認なされては？"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "祈りが通じたのですね……"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "素晴らしい……これこそ神のお力……この大口径な機関砲が、神を信じぬ不心得者を来世で改悛させることでしょう！"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "神のお力を新たに示すことができましょう。さあ、改造を！"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "MVP、これもまた主のお力です"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "神の僕がこんなにも……ふふふ、素晴らしいですわ"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "主に感謝を"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "ああ、主のお力が……"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "主のお声が聞こえます……"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "代理人、お待ちしておりました。さあ、まずは祈りましょう"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "おかえりなさい、神の御心は知れましたか？"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "今日もまた無事に帰還できたことに感謝を"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "宗教裁判の時間です"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "命中精度は全て信仰次第です"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "神を信じぬ者に罰を！異教徒は死刑です！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "神を信じなさい、我らが神は全てを許します。そう、この困難な時代もまた神の思し召し。そしてそれを導くべく私たちは生まれたのですから。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "私たちは神の代理人、謂わば神罰を神に変わって下すもの。使命の為ならば、地位も名誉も命も、すべてを投げ打ちましょう。あなたもそうでしょう？「代理人」"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "なぜ主を信じるか、ですか？おかしなことを聞きますね。すべての命は主が与えた者です。にも関わらず主を信じぬ不届き者もいらっしゃいます。ですが、彼らにもまた救いを与えるべきでしょう。死と言う救いをね、ふふふ"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "何か？"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "これもまた、主のお力です"
             }
         ]
     },
@@ -7111,6 +7431,166 @@
             {
                 "CVType": "Win",
                 "CVDetail": "なるべくして、なったな"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM108301",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "教本通りに"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "私の経験値となりなさい"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "はい、移動を開始します。"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "わかりました。みなさん、私の後ろに隠れて。"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "私のデータに不備があるとでも！？"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "資源回収部隊が出発致しました。みなさまに幸運を"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "きゃっ"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "もう！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "承知致しました"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "データによれば不可能です"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "こんにちは"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "計算どおりですね"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "はい、承知いたしました。"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "こんにちは、代理人さん。王立白薔薇学連所属、AT15です。私のことはそうですね、後に授かる名称ですが、気軽にトータスとお呼び下さい。ええ、試作型の名称ですので、こちらのほうが良いかなと。冷静な分析と蓄えたデータでみなさんとともに戦い抜きます。どうぞ、よろしくお願い致しますね。代理人さん。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "全車、弾薬及び燃料を確認！出撃します！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "ご安心を。敵は私の射程範囲内です。"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "申し訳ございません。私の戦術が悪いばかりに……"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "練度が上がりました。シミュレーションをし直さないと。"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "代理人さん、電文が届いております"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "よし"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "改造完了。A39トータスへと進化いたしました。今までは試作型でしたが、今はかつての大戦で戦ったモデルです。データ以上の働きが出来るよう、粉骨砕身、頑張って参りますので、改めて宜しくお願い致します"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "私の改造が可能になりました。実行をお願いしたく思います"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "私の戦術のおかげ？そんな、畏れ多いです"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "発注していたARMSが納品されました。これで新たな戦術が組めます"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "ありがとうございます。これで今より高度な作戦行動が可能になります"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "強化完了。性能が向上しました。"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "何でしょう、この身体の震えは……。不思議です"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "さすが、代理人さん。5分前行動の徹底。さすがです。"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "資源回収部隊が無事帰還致しました"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "作戦完了。お疲れさまでした。……ふう"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "データ照合、弱点は……見つけました"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "目標補足、弾道計算完了……敵を破壊します"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "戦術を嗤うものは戦術に泣く……。災獣(リセッター)如きに覆されるほど、私の戦術はヤワじゃありません！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "私は屋内でゆっくり過ごすのが大好きなんです。雨音を聞きながら資料を読み耽ったり、スタンドライトの明かりひとつの部屋で戦術をまとめたり、そんな時間が幸福なんです。だから、絶対に行きません！キャンプとかジョギングとか、そんな邪悪なイベントには！"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "ふふ、私の主砲が気になるのですか？代理人さんもお目が高いですね。私が搭載している主砲は、我が王立白薔薇学連が開発した中でも最強の対戦車砲。生半な災獣(リセッター)なぞ一撃で木っ端微塵です。……あ、いや、言い過ぎました。誇張した表現は私らしくないですね。反省、反省……"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "このノートですか？これは今まで教わった戦術の中で、特に重要なものをまとめた私特製の戦術教本です。災獣の詳しい生態情報など、これに書ききれなかったものもありますが、それはしっかり記憶しておりますのでご安心下さい。必要でしたら、代理人さんの分もご用意致しますが、いかがですか？"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "あの、私の頭に何か付着しているのでしょうか？綺麗な髪？お褒めに与り光栄です"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "フフフ、私の計算通りです。"
             }
         ]
     },

@@ -1130,6 +1130,32 @@
         "CV": "???"
     },
     {
+        "ArmsID": "ARM106901",
+        "ArmsName": "B1bis",
+        "CharName": "B1bis",
+        "CharNameSh": "B1bis",
+        "ArmsNo": "43B21",
+        "FullName": "CHAR B1 bis",
+        "Academy": "ルノト学院",
+        "BackData": "芯が通っていて、あまり感情を表に出さいない落ち着きの騎士道精神を持つ女性。いつも微笑みながら困っている人に耳を傾け「人の為に尽くすのが私の責務だ」と言い、即座に行動を起こす行動力を持つ。\n他人の会話のペースについて行けないことが多く、ペースに呑まれがち。しかしそれでも一度決めたことは最後まで貫き通し、決して退くことのない揺るぎない信念を持つ。",
+        "PrototypeID": "ARM106901",
+        "ArmsType": "重戦車",
+        "CV": "明日葉よもぎ"
+    },
+    {
+        "ArmsID": "ARM106902",
+        "ArmsName": "B1ter",
+        "CharName": "B1ter",
+        "CharNameSh": "B1ter",
+        "ArmsNo": "43B22",
+        "FullName": "CHAR B1 the",
+        "Academy": "シュナイダールノト学院",
+        "BackData": "B1bisをさらに改良したのが本車輌である。火力、機動力は概ねそのままだが、防御力が大幅に強化された",
+        "PrototypeID": "ARM106901",
+        "ArmsType": "重戦車",
+        "CV": "明日葉よもぎ"
+    },
+    {
         "ArmsID": "ARM107001",
         "ArmsName": "チャーチルMK.II",
         "CharName": "チャーチルMK.II",
@@ -1154,6 +1180,32 @@
         "PrototypeID": "ARM107001",
         "ArmsType": "重戦車",
         "CV": "高柳知葉"
+    },
+    {
+        "ArmsID": "ARM107501",
+        "ArmsName": "ケーリアン341型",
+        "CharName": "ケーリアン341型",
+        "CharNameSh": "ケーリアン341型",
+        "ArmsNo": "71D51",
+        "FullName": "Flakpanzer V Flakzwilling 341",
+        "Academy": "M.E.N.学会",
+        "BackData": "「灰燼教会」こそ災獣に対抗できる人類唯一の希望であり、信仰は絶望的な現状に対抗し得る精神的な依り代にもなるとは言えど、彼女は人並み外れた信仰心を持ち、周囲からは狂信者と見られている。神の天啓が聞こえたり、予知夢も見れたり、更に人類の危機を救う神聖なる使命を背負って聖誕した存在だと自称するほどトチ狂っている存在ではあるが、敵たる災獣との戦いにおける熱意は人一倍強いことは否定できない。",
+        "PrototypeID": "ARM107501",
+        "ArmsType": "軽対空砲",
+        "CV": "上原あかり"
+    },
+    {
+        "ArmsID": "ARM107502",
+        "ArmsName": "ケーリアン",
+        "CharName": "ケーリアン",
+        "CharNameSh": "ケーリアン",
+        "ArmsNo": "71D52",
+        "FullName": "Flakpanzer V Coelian",
+        "Academy": "M.E.N.学会",
+        "BackData": "20mm四連装機関砲から37mm機関砲二連装に変更。火力と命中精度の向上がなされた。",
+        "PrototypeID": "ARM107501",
+        "ArmsType": "軽対空砲",
+        "CV": "上原あかり"
     },
     {
         "ArmsID": "ARM107801",
@@ -1206,6 +1258,32 @@
         "PrototypeID": "ARM107901",
         "ArmsType": "中戦車",
         "CV": "伊藤彩沙"
+    },
+    {
+        "ArmsID": "ARM108301",
+        "ArmsName": "AT15",
+        "CharName": "AT15",
+        "CharNameSh": "AT15",
+        "ArmsNo": "53B51",
+        "FullName": "AT15",
+        "Academy": "ナーフィルド学院",
+        "BackData": "王立白薔薇学連内で一二を争う程成績優秀な才女。戦術理論や弾道計算等の授業では尚更他のDOLLSを圧倒するほど。だが実際に戦場に立つと授業通りに上手く実力と知識を発揮することができない現実に直面してしまう。\n理論やデータを極度に頼り、今起きている現状に臨機応変に対応できない。揺ぎ無い事実を眼前にしても、手元の各種資料等が記載されている小冊子を捲り、照合することに固執してしまう。彼女はまだまだ学ぶべきことが多いようだ……",
+        "PrototypeID": "ARM108301",
+        "ArmsType": "重駆逐戦車",
+        "CV": "木村優"
+    },
+    {
+        "ArmsID": "ARM108302",
+        "ArmsName": "A39 トータス",
+        "CharName": "A39 トータス",
+        "CharNameSh": "A39 トータス",
+        "ArmsNo": "53B52",
+        "FullName": "Tortoise",
+        "Academy": "ナーフィルド学院",
+        "BackData": "前型の制式採用型。圧倒的な防御力と32ポンド砲を撃ち出す絶大な火力を誇るが、極めて鈍重\nトータスは「リクガメ」の意味",
+        "PrototypeID": "ARM108301",
+        "ArmsType": "重駆逐戦車",
+        "CV": "木村優"
     },
     {
         "ArmsID": "ARM200101",
