@@ -1928,6 +1928,19 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10559001",
+        "name": "花咲く爆裂巨砲",
+        "description": "グリレH型·花咲く爆裂巨砲",
+        "icon": "ARM10559001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM105501,ARM105502",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10560101",
         "name": "KV-2",
         "description": "KV-2",

@@ -1851,7 +1851,7 @@
     {
         "eventID": "EVE110201",
         "eventName": "禁区周辺-01H",
-        "eventPoint": "EVE110102",
+        "eventPoint": "EVE110202",
         "eventTypeCN": "第一节",
         "landEsid": "SE101",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
@@ -1861,7 +1861,7 @@
     {
         "eventID": "EVE110202",
         "eventName": "禁区周辺-02H",
-        "eventPoint": "EVE110103",
+        "eventPoint": "EVE110203",
         "eventTypeCN": "第二节",
         "landEsid": "SE101",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
@@ -1871,7 +1871,7 @@
     {
         "eventID": "EVE110203",
         "eventName": "禁区周辺-03H",
-        "eventPoint": "EVE110104",
+        "eventPoint": "",
         "eventTypeCN": "第三节",
         "landEsid": "SE101",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
