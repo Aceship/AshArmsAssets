@@ -2136,6 +2136,32 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10640101",
+        "name": "M18 ヘルキャット",
+        "description": "M18 ヘルキャット",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM106401,ARM106402",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10640201",
+        "name": "M18 スーパーヘルキャット",
+        "description": "M18 スーパーヘルキャット",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM106402",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10650101",
         "name": "M41 ウォーカー・ブルドッグ",
         "description": "M41 ウォーカー・ブルドッグ",
@@ -9022,6 +9048,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "3"
     }, {
+        "itemid": "IM17",
+        "name": "虹色硬貨",
+        "description": "「<color=#00aab9>特別兵装限定召集</color>」から入手できる虹色に輝く特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます\\n人類への偉大なる貢献に感謝します。何やら深い意味合いが込められているようだ…",
+        "icon": "IM12",
+        "upicon": "IM12",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
         "itemid": "IM19001",
         "name": "悪夢の白銀十字章",
         "description": "通常の勲章。悪夢ノ直角前哨戦において優秀な戦績を残した者に授与される。\\n見てくれはただの装飾品の様だが、今後何かと交換することができるかもしれない。",
@@ -10589,6 +10628,19 @@
         "upicon": "DOL1062",
         "rarity": "5",
         "dropFrom": "SHOP*399#SHOP*298",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM91064",
+        "name": "M18 ヘルキャットの情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nM18 ヘルキャットの機体突破に使用可能。",
+        "icon": "DOL1064",
+        "upicon": "DOL1064",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
         "sellPriceStr": "0,0,0,0,0,0",
         "maxStack": "2147483647",
         "constructionFormula": "",

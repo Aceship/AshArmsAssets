@@ -1,4 +1,5 @@
 [{
+    "criware": "",
     "endTimeT": "1583265599000",
     "gachaboxs": [{
         "allCount": "100",
@@ -1106,7 +1107,8 @@
         "step": "8"
     }],
     "homeButton": "",
-    "homeButtonIndex": "0",
+    "homeButtonIndex": "-1",
+    "phasedQuestRewards": [],
     "startTimeT": "1576785599000",
     "state": "1",
     "type": "2",

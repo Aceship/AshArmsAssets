@@ -88,11 +88,11 @@
     },
     {
         "Index": 11,
-        "PlotKey": "Scenario_00_10",
+        "PlotKey": "Scenario_01_02",
         "PlotType": 0,
         "EventID": "EVE010102",
-        "CheckPost": 1,
-        "CheckTag": 1
+        "CheckPost": 2,
+        "CheckTag": 3
     },
     {
         "Index": 12,
@@ -128,7 +128,7 @@
     },
     {
         "Index": 16,
-        "PlotKey": "Scenario_00_14",
+        "PlotKey": "Scenario_01_06",
         "PlotType": 0,
         "EventID": "EVE010106",
         "CheckPost": 2,
@@ -144,7 +144,7 @@
     },
     {
         "Index": 18,
-        "PlotKey": "Scenario_00_15",
+        "PlotKey": "Scenario_01_07",
         "PlotType": 0,
         "EventID": "EVE010107",
         "CheckPost": 2,

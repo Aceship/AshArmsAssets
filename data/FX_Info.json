@@ -5979,6 +5979,116 @@
         ]
     },
     {
+        "ArmID": "ARM106401",
+        "EnginePath": "",
+        "Skill_Info": [{
+                "Skill_ID": "SS40118",
+                "Spine_Anim": "CI1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "DOL1064",
+                "Spine_Anim": "shootM1",
+                "Effect_ID": "shootHC1"
+            },
+            {
+                "Skill_ID": "SJ0501",
+                "Spine_Anim": "shootM1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0502",
+                "Spine_Anim": "shootMC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0503",
+                "Spine_Anim": "shootH1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0504",
+                "Spine_Anim": "shootHC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0505",
+                "Spine_Anim": "shootH1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0601",
+                "Spine_Anim": "shootM1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0603",
+                "Spine_Anim": "shootH1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0604",
+                "Spine_Anim": "shootHC1",
+                "Effect_ID": ""
+            }
+        ]
+    },
+    {
+        "ArmID": "ARM106402",
+        "EnginePath": "",
+        "Skill_Info": [{
+                "Skill_ID": "SS40118",
+                "Spine_Anim": "CI1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "DOL1064",
+                "Spine_Anim": "shootM1",
+                "Effect_ID": "shootHC1"
+            },
+            {
+                "Skill_ID": "SJ0501",
+                "Spine_Anim": "shootM1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0502",
+                "Spine_Anim": "shootMC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0503",
+                "Spine_Anim": "shootH1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0504",
+                "Spine_Anim": "shootHC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0505",
+                "Spine_Anim": "shootH1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0601",
+                "Spine_Anim": "shootM1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0603",
+                "Spine_Anim": "shootH1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ0604",
+                "Spine_Anim": "shootHC1",
+                "Effect_ID": ""
+            }
+        ]
+    },
+    {
         "ArmID": "ARM106901",
         "EnginePath": "",
         "Skill_Info": [{

@@ -447,7 +447,7 @@
                 "EffectType": "",
                 "WhichSide": "0",
                 "TalkName": " ",
-                "TalkValue": "…..",
+                "TalkValue": "……",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -586,7 +586,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": "？？？",
-                "TalkValue": "意識不明、神経性ショック、それに・・・",
+                "TalkValue": "意識不明、神経性ショック、それに……",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -14076,7 +14076,7 @@
             {
                 "TalkId": "2",
                 "ShowType": "4",
-                "ShowId": "101_MainScreen",
+                "ShowId": "402_LoveDay",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "",
@@ -14864,7 +14864,7 @@
             {
                 "TalkId": "2",
                 "ShowType": "4",
-                "ShowId": "101_MainScreen",
+                "ShowId": "402_LoveDay",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "",
@@ -15603,7 +15603,7 @@
             {
                 "TalkId": "2",
                 "ShowType": "4",
-                "ShowId": "101_MainScreen",
+                "ShowId": "402_LoveDay",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "",
@@ -16166,7 +16166,7 @@
             {
                 "TalkId": "2",
                 "ShowType": "4",
-                "ShowId": "101_MainScreen",
+                "ShowId": "402_LoveDay",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "",
@@ -17239,7 +17239,7 @@
             {
                 "TalkId": "2",
                 "ShowType": "4",
-                "ShowId": "101_MainScreen",
+                "ShowId": "402_LoveDay",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "",
@@ -18132,7 +18132,7 @@
             {
                 "TalkId": "2",
                 "ShowType": "4",
-                "ShowId": "101_MainScreen",
+                "ShowId": "402_LoveDay",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "",
@@ -19115,7 +19115,7 @@
             {
                 "TalkId": "2",
                 "ShowType": "4",
-                "ShowId": "101_MainScreen",
+                "ShowId": "402_LoveDay",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "",
@@ -20199,7 +20199,7 @@
             {
                 "TalkId": "2",
                 "ShowType": "4",
-                "ShowId": "101_MainScreen",
+                "ShowId": "402_LoveDay",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "",
@@ -21208,7 +21208,7 @@
             {
                 "TalkId": "2",
                 "ShowType": "4",
-                "ShowId": "101_MainScreen",
+                "ShowId": "402_LoveDay",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "",
