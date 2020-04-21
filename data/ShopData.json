@@ -14,7 +14,7 @@
         "TypeNum": "196",
         "TypeName": "虹色硬貨",
         "StoreType": 3,
-        "UseRes": "IM17",
+        "UseRes": "IM16",
         "Lock": 0,
         "ShowRes": 1,
         "CanBuyMore": 0,
@@ -48,7 +48,7 @@
     },
     {
         "TypeNum": "404",
-        "TypeName": "カカオ豆",
+        "TypeName": "Event",
         "StoreType": 3,
         "UseRes": "IM99989",
         "Lock": 0,
@@ -105,6 +105,30 @@
         "TagName": "",
         "ShowType": 1,
         "ResDes": ""
+    },
+    {
+        "TypeNum": "991",
+        "TypeName": "★3指名令状・陸",
+        "StoreType": 1,
+        "UseRes": "IM99987",
+        "Lock": 0,
+        "ShowRes": 1,
+        "CanBuyMore": 0,
+        "TagName": "",
+        "ShowType": 1,
+        "ResDes": "「★3DOLLS指名パック・陸」に含まれる「★3指名令状・陸」を1枚消費し、キャラクターを1体交換可能。\\n※「★3DOLLS指名パック・陸」は「資源購入」＞「晶石取引所」＞「ギフト購入」より購入可能"
+    },
+    {
+        "TypeNum": "992",
+        "TypeName": "★3指名令状・空",
+        "StoreType": 1,
+        "UseRes": "IM99986",
+        "Lock": 0,
+        "ShowRes": 1,
+        "CanBuyMore": 0,
+        "TagName": "",
+        "ShowType": 1,
+        "ResDes": "「★3DOLLS指名パック・空」に含まれる「★3指名令状・空」を1枚消費し、キャラクターを1体交換可能。\\n※「★3DOLLS指名パック・空」は「資源購入」＞「晶石取引所」＞「ギフト購入」より購入可能"
     },
     {
         "TypeNum": "997",
