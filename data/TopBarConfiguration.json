@@ -554,7 +554,7 @@
         "SceneName": "GaChaScene",
         "PanelName": "Default",
         "ShowTopBar": "1",
-        "DisplayName": "恋芯徹甲弾",
+        "DisplayName": "突撃！陸上機甲探偵団",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
@@ -567,7 +567,7 @@
         "SceneName": "GaChaScene",
         "PanelName": "GaChaPanel",
         "ShowTopBar": "1",
-        "DisplayName": "恋芯徹甲弾",
+        "DisplayName": "突撃！陸上機甲探偵団",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
@@ -796,25 +796,25 @@
         "SceneName": "AdvanceScene",
         "PanelName": "Default",
         "ShowTopBar": "1",
-        "DisplayName": "戦場の歌姫",
+        "DisplayName": "歌よ、戦場に響け！",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
         "ResSlot1": "",
         "HelpPPT": "NONE",
-        "BGM": "NONE"
+        "BGM": "401_FUJI_AOI"
     },
     {
         "SceneName": "AdvanceScene",
         "PanelName": "AdvanceView",
         "ShowTopBar": "1",
-        "DisplayName": "戦場の歌姫",
+        "DisplayName": "歌よ、戦場に響け！",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
         "ResSlot1": "",
         "HelpPPT": "NONE",
-        "BGM": "NONE"
+        "BGM": "401_FUJI_AOI"
     },
     {
         "SceneName": "MailScene",

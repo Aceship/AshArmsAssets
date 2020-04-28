@@ -1,4 +1,16 @@
 [{
+    "actorid": "P_111801",
+    "buffList": "BJP011",
+    "describe": "远程打击*移动",
+    "moveFlag": "1",
+    "pose": "1"
+}, {
+    "actorid": "P_111801",
+    "buffList": "BJP012",
+    "describe": "远程打击*固守",
+    "moveFlag": "0",
+    "pose": "2"
+}, {
     "actorid": "E_8",
     "buffList": "BPE100",
     "describe": "boss",

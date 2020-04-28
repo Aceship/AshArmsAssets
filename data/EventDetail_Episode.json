@@ -1047,5 +1047,355 @@
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
         "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00410101",
+        "eventName": "破滅せし日常01",
+        "eventPoint": "EPE00410102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410102",
+        "eventName": "破滅せし日常02",
+        "eventPoint": "EPE00410103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410103",
+        "eventName": "破滅せし日常03",
+        "eventPoint": "EPE00410104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410104",
+        "eventName": "破滅せし日常04",
+        "eventPoint": "EPE00410105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410105",
+        "eventName": "破滅せし日常05",
+        "eventPoint": "EPE00410201",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00410201",
+        "eventName": "極東は燃えているか01",
+        "eventPoint": "EPE00410202",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410202",
+        "eventName": "極東は燃えているか02",
+        "eventPoint": "EPE00410203",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410203",
+        "eventName": "極東は燃えているか03",
+        "eventPoint": "EPE00410204",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410204",
+        "eventName": "極東は燃えているか04",
+        "eventPoint": "EPE00410205",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410205",
+        "eventName": "極東は燃えているか05",
+        "eventPoint": "EPE00410301",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00410301",
+        "eventName": "反撃の角笛01",
+        "eventPoint": "EPE00410302",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410302",
+        "eventName": "反撃の角笛02",
+        "eventPoint": "EPE00410303",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3011,IC6003,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410303",
+        "eventName": "反撃の角笛03",
+        "eventPoint": "EPE00410304",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410304",
+        "eventName": "反撃の角笛04",
+        "eventPoint": "EPE00410305",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3011,IC6003,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410305",
+        "eventName": "反撃の角笛05",
+        "eventPoint": "EPE00420101",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00420101",
+        "eventName": "破滅せし日常01",
+        "eventPoint": "EPE00420102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420102",
+        "eventName": "破滅せし日常02",
+        "eventPoint": "EPE00420103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3011,IC6003,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420103",
+        "eventName": "破滅せし日常03",
+        "eventPoint": "EPE00420104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420104",
+        "eventName": "破滅せし日常04",
+        "eventPoint": "EPE00420105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IM3011,IC6003,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420105",
+        "eventName": "破滅せし日常05",
+        "eventPoint": "EPE00420201",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00420201",
+        "eventName": "極東は燃えているか01",
+        "eventPoint": "EPE00420202",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6003,IC6004,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420202",
+        "eventName": "極東は燃えているか02",
+        "eventPoint": "EPE00420203",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6004,IC6005,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420203",
+        "eventName": "極東は燃えているか03",
+        "eventPoint": "EPE00420204",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6003,IC6004,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420204",
+        "eventName": "極東は燃えているか04",
+        "eventPoint": "EPE00420205",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6004,IC6005,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420205",
+        "eventName": "極東は燃えているか05",
+        "eventPoint": "EPE00420301",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00420301",
+        "eventName": "反撃の角笛01",
+        "eventPoint": "EPE00420302",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6004,IC6005,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420302",
+        "eventName": "反撃の角笛02",
+        "eventPoint": "EPE00420303",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420303",
+        "eventName": "反撃の角笛03",
+        "eventPoint": "EPE00420304",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6004,IC6005,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420304",
+        "eventName": "反撃の角笛04",
+        "eventPoint": "EPE00420305",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420305",
+        "eventName": "反撃の角笛05",
+        "eventPoint": "EPE00430101",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00430101",
+        "eventName": "夜明け前の長夜01",
+        "eventPoint": "EPE00430102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00430102",
+        "eventName": "夜明け前の長夜02",
+        "eventPoint": "EPE00430103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00430103",
+        "eventName": "夜明け前の長夜03",
+        "eventPoint": "EPE00430104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00430104",
+        "eventName": "夜明け前の長夜04",
+        "eventPoint": "EPE00430105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00430105",
+        "eventName": "夜明け前の長夜05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99988,IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
     }
 ]

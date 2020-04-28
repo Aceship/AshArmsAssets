@@ -7915,6 +7915,166 @@
         ]
     },
     {
+        "ARMSID": "ARM111801",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "さあ、前へ！後方支援は任せて。"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "もっと前へ！後ろを信じて！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "いよいよだね、あなたも自分を信じて。"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "まだまだこれから、体制を整えて。"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "くっまだまだやれるのに…"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "事前準備は大切だよ！"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "ぐわっ"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "うっく"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "わかった、任せて。"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "それは無理だ！"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "やっほー"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "疲れてない？"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "準備万端！いざ前進！"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "みなさん、富士葵です。みなさんは安心してただ前に進むのみ。後ろは葵に任せてね。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "よっしゃいくぞーーーー！！！！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "準備OK！さぁ！訓練通り、落ち着いていこう！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "なんてこと…でもあきらめない！"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "嬉しい！もっとがんばるね！"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "手紙が届いたよ！ちゃんと目を通してね。"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "回避成功！迎撃用意！"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "機先を制する者こそが勝利を掴む！"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "んん？！なんだかいつもと違う力を感じるよ！葵に力をありがとう！"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "葵が…？これはみんなにもらったMVPだね。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "これでみんなを守れるね！"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "ありがとう！あなたのおかげで強くなれる！"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "後方支援の要として！"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "他の子も強くしてあげてね！"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "待ってたよ。今日も勝利のため、全力を尽くそう。"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "戦利品がたくさん！ミルクはあるかな？"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "帰ってきたね。ミルクティで一息つこうか。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "周りをよく見て！冷静に！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "撃ち抜く！怖くない！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "あなたに頼られる存在でありたい！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "あなたの背中はいつでも守るよ。だから安心してね！"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "不屈不撓！ときには泥臭くとも！"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "そろそろミルクティの時間だね！"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "ん？どうしたの？"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "今日もみんなを守れてよかった。"
+            }
+        ]
+    },
+    {
         "ARMSID": "ARM200101",
         "CVDesArray": [{
                 "CVType": "Attack1",

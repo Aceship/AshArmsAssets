@@ -733,5 +733,77 @@
         "EventID": "EVE140110",
         "CheckPost": 2,
         "CheckTag": 3
+    },
+    {
+        "Index": 92,
+        "PlotKey": "Chapter003_01_歌よ、戦場に響け！",
+        "PlotType": 0,
+        "EventID": "EPE00410101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 93,
+        "PlotKey": "Chapter003_02_歌よ、戦場に響け！",
+        "PlotType": 0,
+        "EventID": "EPE00410105",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 94,
+        "PlotKey": "Chapter003_03_歌よ、戦場に響け！",
+        "PlotType": 0,
+        "EventID": "EPE00410105",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 95,
+        "PlotKey": "Chapter003_04_歌よ、戦場に響け！",
+        "PlotType": 0,
+        "EventID": "EPE00410201",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 96,
+        "PlotKey": "Chapter003_05_歌よ、戦場に響け！",
+        "PlotType": 0,
+        "EventID": "EPE00410203",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 97,
+        "PlotKey": "Chapter003_06_歌よ、戦場に響け！",
+        "PlotType": 0,
+        "EventID": "EPE00410205",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 98,
+        "PlotKey": "Chapter003_07_歌よ、戦場に響け！",
+        "PlotType": 0,
+        "EventID": "EPE00410301",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 99,
+        "PlotKey": "Chapter003_08_歌よ、戦場に響け！",
+        "PlotType": 0,
+        "EventID": "EPE00410303",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 100,
+        "PlotKey": "Chapter003_09_歌よ、戦場に響け！",
+        "PlotType": 0,
+        "EventID": "EPE00410305",
+        "CheckPost": 2,
+        "CheckTag": 3
     }
 ]

@@ -1162,4 +1162,22 @@
     "Texture_Get": "ARM104601_Get",
     "Texture_Offset": "74.99999,-82.00002",
     "Spine_Name": "ARM10469001_SkeletonData"
+}, {
+    "ArmID": "ARM11180101",
+    "Texture_Normal": "ARM11180101_Normal",
+    "Texture_Get": "ARM111801_Get",
+    "Texture_Offset": "76.00001,35.99998",
+    "Spine_Name": "ARM111801_SkeletonData"
+}, {
+    "ArmID": "ARM11180201",
+    "Texture_Normal": "ARM11180101_Normal",
+    "Texture_Get": "ARM111801_Get",
+    "Texture_Offset": "76.00001,35.99998",
+    "Spine_Name": "ARM111802_SkeletonData"
+}, {
+    "ArmID": "ARM11189001",
+    "Texture_Normal": "ARM11189001_Normal",
+    "Texture_Get": "ARM111801_Get",
+    "Texture_Offset": "1.717359E-06,55.99999",
+    "Spine_Name": "ARM11189001_SkeletonData"
 }]

@@ -398,4 +398,24 @@
     "powerAARate": "0.2",
     "powerAGRate": "0.2",
     "targetWeight": "3"
+}, {
+    "armorPenetrationRate": "0.05",
+    "armorRate": "0.0",
+    "combatskilllist": "SJ1118011,SJ1118012,SJ1118013",
+    "critDamage": "0",
+    "critical": "0",
+    "description": "部隊を後方から応援する特殊ポジション、あらゆるDOLLSの支援に長けている。",
+    "dodge": "-5",
+    "groupid": "1",
+    "hit": "0",
+    "hpRate": "0.0",
+    "jobName": "応援型",
+    "jobid": "111801",
+    "luck": "0",
+    "meleeSkillid": "T00022",
+    "mprcRate": "1.0",
+    "playerLevelReq": "1",
+    "powerAARate": "0.2",
+    "powerAGRate": "0.2",
+    "targetWeight": "3"
 }]

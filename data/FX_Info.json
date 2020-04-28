@@ -7399,6 +7399,36 @@
         ]
     },
     {
+        "ArmID": "ARM111801",
+        "EnginePath": "",
+        "Skill_Info": [{
+                "Skill_ID": "SS40119",
+                "Spine_Anim": "CI1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1118012",
+                "Spine_Anim": "shootHC1",
+                "Effect_ID": ""
+            }
+        ]
+    },
+    {
+        "ArmID": "ARM111802",
+        "EnginePath": "",
+        "Skill_Info": [{
+                "Skill_ID": "SS40119",
+                "Spine_Anim": "CI1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1118012",
+                "Spine_Anim": "shootHC1",
+                "Effect_ID": ""
+            }
+        ]
+    },
+    {
         "ArmID": "ARM200101",
         "EnginePath": "",
         "Skill_Info": [{

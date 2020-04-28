@@ -75,20 +75,20 @@
     "position": "",
     "returnDuration": "0",
     "returnNeedTime": "0",
-    "startDatetimeT": "1588190400000"
+    "startDatetimeT": "1588190399000"
 }, {
     "activityContent": "「配信半周年記念」  ログインボーナス",
     "activityId": "6",
     "activityRealId": "1*SC12",
     "activityType": "1",
     "activityTypeId": "SC12",
-    "endDatetimeT": "1589140799000",
+    "endDatetimeT": "1589745599000",
     "imgIndex": "Event_LoginHYA",
     "index": "7",
     "position": "",
     "returnDuration": "0",
     "returnNeedTime": "0",
-    "startDatetimeT": "1587499200000"
+    "startDatetimeT": "1587499199000"
 }, {
     "activityContent": "      カムバック        ログインボーナス",
     "activityId": "50",
