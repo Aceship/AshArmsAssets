@@ -28408,7 +28408,7 @@
     "changeEnemynumber": "0",
     "icon": "IFN,IIA",
     "jobidsStr": "200102",
-    "moveSpeed": "0",
+    "moveSpeed": "1",
     "mps": "0",
     "mpsreq": "8",
     "phasechange": "",

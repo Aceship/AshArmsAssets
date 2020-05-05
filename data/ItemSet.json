@@ -1005,6 +1005,19 @@
         "shopad": "Skin_ARM10039002",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10039003",
+        "name": "夜明け前より緋色な",
+        "description": "VIII号戦車マウス試作A0型·夜明け前より緋色な",
+        "icon": "ARM10039003",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM100301,ARM100302",
+        "shopad": "Skin_ARM10039003",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10040101",
         "name": "VI号戦車ティーガー初期型",
         "description": "VI号戦車ティーガー初期型",
@@ -1655,6 +1668,19 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10379001",
+        "name": "孤独の放課後",
+        "description": "B-4·孤独の放課後",
+        "icon": "ARM10379001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM103701,ARM103702",
+        "shopad": "Skin_ARM10379001",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10400101",
         "name": "ヴィルベルヴィント",
         "description": "ヴィルベルヴィント",
@@ -1886,6 +1912,19 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM105302",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10539001",
+        "name": "小さな冒険者",
+        "description": "BT-5·小さな冒険者",
+        "icon": "ARM10539001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM105301,ARM105302",
         "shopad": "",
         "itemMiniType": "0"
     }, {
