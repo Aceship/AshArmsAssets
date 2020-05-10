@@ -3373,7 +3373,7 @@
     "groupid": "0",
     "grouplevel": "0",
     "icon": "Buff_power+",
-    "time": "1",
+    "time": "2",
     "type": "1"
 }, {
     "buffName": "会心補正アップ,会心ダメージアップ",
@@ -3417,7 +3417,7 @@
     "groupid": "0",
     "grouplevel": "0",
     "icon": "Buff_power+",
-    "time": "1",
+    "time": "2",
     "type": "1"
 }, {
     "buffName": "命中アップ",
@@ -3461,7 +3461,7 @@
     "groupid": "0",
     "grouplevel": "0",
     "icon": "Buff_power+",
-    "time": "1",
+    "time": "2",
     "type": "1"
 }, {
     "buffName": "ダメージ軽減率アップ",
@@ -7974,14 +7974,14 @@
     "time": "2",
     "type": "0"
 }, {
-    "buffName": "対地火力アップ",
+    "buffName": "対地火力アップ,機動性アップ",
     "buffid": "BDOL100913",
     "count": "0",
-    "effectType": "powerAG",
+    "effectType": "powerAG,dodge",
     "groupName": "",
     "groupid": "0",
     "grouplevel": "0",
-    "icon": "Buff_power+",
+    "icon": "Buff_power+,Buff_dodge+",
     "time": "3",
     "type": "1"
 }, {
@@ -7996,14 +7996,14 @@
     "time": "5",
     "type": "1"
 }, {
-    "buffName": "対地火力アップ",
+    "buffName": "対地火力アップ,機動性アップ",
     "buffid": "BDOL100912",
     "count": "0",
-    "effectType": "powerAG",
+    "effectType": "powerAG,dodge",
     "groupName": "",
     "groupid": "0",
     "grouplevel": "0",
-    "icon": "Buff_power+",
+    "icon": "Buff_power+,Buff_dodge+",
     "time": "3",
     "type": "1"
 }, {
@@ -8095,14 +8095,14 @@
     "time": "1",
     "type": "1"
 }, {
-    "buffName": "対地火力アップ",
+    "buffName": "対地火力アップ,機動性アップ",
     "buffid": "BDOL100911",
     "count": "0",
-    "effectType": "powerAG",
+    "effectType": "powerAG,dodge",
     "groupName": "",
     "groupid": "0",
     "grouplevel": "0",
-    "icon": "Buff_power+",
+    "icon": "Buff_power+,Buff_dodge+",
     "time": "3",
     "type": "1"
 }, {
@@ -12602,7 +12602,7 @@
     "groupid": "0",
     "grouplevel": "0",
     "icon": "Buff_power+",
-    "time": "1",
+    "time": "2",
     "type": "1"
 }, {
     "buffName": "対地火力アップ",
@@ -12613,7 +12613,7 @@
     "groupid": "0",
     "grouplevel": "0",
     "icon": "Buff_power+",
-    "time": "1",
+    "time": "2",
     "type": "1"
 }, {
     "buffName": "対地火力アップ",
@@ -12624,7 +12624,7 @@
     "groupid": "0",
     "grouplevel": "0",
     "icon": "Buff_power+",
-    "time": "1",
+    "time": "2",
     "type": "1"
 }, {
     "buffName": "貫通アップ",

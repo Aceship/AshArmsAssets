@@ -31117,7 +31117,7 @@
     "repskillid": "",
     "skillClass": "",
     "skillCutin": "1",
-    "skillDescription": "「単体攻撃」(対地&射程：1~1)敵単体に強力な攻撃&敵の小隊を全滅した場合、他の敵小隊に1回追加攻撃を行う",
+    "skillDescription": "「単体攻撃」(対地&射程：1~1)敵単体に強力な攻撃&敵小隊個体数を漸減した場合、さらに1回追加攻撃を行う",
     "skillLevel": "1",
     "skillLevelMax": "0",
     "skillName": "早撃ち",

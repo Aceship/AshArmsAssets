@@ -173,54 +173,6 @@
         "signedCode": "SC12"
     }]
 }, {
-    "dateBeginLong": "1588172400000",
-    "dateEndLong": "1589122800000",
-    "signedCode": "SC13",
-    "signedName": "黄金周",
-    "signeds": [{
-        "charid": "",
-        "day": "1",
-        "itemReward": "IM9001,1",
-        "priceRewardStr": "0,0,0,0,0,0",
-        "signedCode": "SC13"
-    }, {
-        "charid": "",
-        "day": "2",
-        "itemReward": "IM9001,1",
-        "priceRewardStr": "0,0,0,0,0,0",
-        "signedCode": "SC13"
-    }, {
-        "charid": "",
-        "day": "3",
-        "itemReward": "IM9001,1",
-        "priceRewardStr": "0,0,0,0,0,0",
-        "signedCode": "SC13"
-    }, {
-        "charid": "",
-        "day": "4",
-        "itemReward": "IM9001,1",
-        "priceRewardStr": "0,0,0,0,0,0",
-        "signedCode": "SC13"
-    }, {
-        "charid": "",
-        "day": "5",
-        "itemReward": "IM9001,1",
-        "priceRewardStr": "0,0,0,0,0,0",
-        "signedCode": "SC13"
-    }, {
-        "charid": "",
-        "day": "6",
-        "itemReward": "IM9001,1",
-        "priceRewardStr": "0,0,0,0,0,0",
-        "signedCode": "SC13"
-    }, {
-        "charid": "",
-        "day": "7",
-        "itemReward": "IM9001,1",
-        "priceRewardStr": "0,0,0,0,0,0",
-        "signedCode": "SC13"
-    }]
-}, {
     "dateBeginLong": "1581087600000",
     "dateEndLong": "32479714800000",
     "signedCode": "SC99",

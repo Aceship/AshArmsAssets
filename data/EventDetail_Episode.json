@@ -1055,7 +1055,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1065,7 +1065,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1075,7 +1075,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1085,7 +1085,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1095,7 +1095,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE115",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "303_BGM_Crytal_Throne_A"
     },
     {
@@ -1105,7 +1105,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1115,7 +1115,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1125,7 +1125,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1135,7 +1135,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1145,7 +1145,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE115",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "303_BGM_Crytal_Throne_A"
     },
     {
@@ -1155,7 +1155,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1165,7 +1165,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1175,7 +1175,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1185,7 +1185,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1195,7 +1195,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE115",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "303_BGM_Crytal_Throne_A"
     },
     {
@@ -1205,7 +1205,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1215,7 +1215,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1225,7 +1225,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1235,7 +1235,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1245,7 +1245,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE115",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "303_BGM_Crytal_Throne_A"
     },
     {
@@ -1255,7 +1255,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6003,IC6004,II10002",
+        "EventDrop": "IC6003,IC6004,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1265,7 +1265,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1275,7 +1275,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6003,IC6004,II10002",
+        "EventDrop": "IC6003,IC6004,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1285,7 +1285,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1295,7 +1295,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE115",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "303_BGM_Crytal_Throne_A"
     },
     {
@@ -1305,7 +1305,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1315,7 +1315,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1325,7 +1325,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1335,7 +1335,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1345,7 +1345,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE115",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "303_BGM_Crytal_Throne_A"
     },
     {
@@ -1355,7 +1355,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1365,7 +1365,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1375,7 +1375,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1385,7 +1385,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE105",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "204_Battle_Mois"
     },
     {
@@ -1395,7 +1395,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE115",
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99988,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "303_BGM_Crytal_Throne_A"
     }
 ]
