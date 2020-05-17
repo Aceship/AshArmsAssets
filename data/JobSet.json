@@ -361,7 +361,7 @@
 }, {
     "armorPenetrationRate": "0.08",
     "armorRate": "0.15",
-    "combatskilllist": "SJ1004021,SJ1004022,SJ1004023,SJ1004024,SJ0405",
+    "combatskilllist": "SJ1004021,SJ1004022,SJ1004023,SJ1004024,SJ1004025",
     "critDamage": "0",
     "critical": "0",
     "description": "上級性能突破後、精鋭と化した者にのみ適用されるポジション。\r\n歴戦の老兵にとって、機体は自らの身体のようなもの。このようなポジションの元、DOLLSは難なく専用スキルを駆使し、特定の分野で期待以上の活躍を期待できる。",

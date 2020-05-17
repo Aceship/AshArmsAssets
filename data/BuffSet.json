@@ -887,7 +887,7 @@
     "groupid": "0",
     "grouplevel": "0",
     "icon": "Buff_dodge+,Buff_dodge+",
-    "time": "1",
+    "time": "2",
     "type": "1"
 }, {
     "buffName": "対空火力アップ",
@@ -8400,7 +8400,7 @@
     "groupid": "0",
     "grouplevel": "0",
     "icon": "Buff_dodge+,Buff_dodge+",
-    "time": "1",
+    "time": "2",
     "type": "1"
 }, {
     "buffName": "命中補正アップ",
