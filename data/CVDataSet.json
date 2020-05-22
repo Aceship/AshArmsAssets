@@ -594,7 +594,7 @@
             },
             {
                 "CVType": "Recovery",
-                "CVDetail": "資源回収部隊が戻って参りましたわ。\rこれで１００年は戦えますわ！"
+                "CVDetail": "資源回収部隊が戻って参りましたわ。 これで１００年は戦えますわ！"
             },
             {
                 "CVType": "RTB",
@@ -614,7 +614,7 @@
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "わたくしという素晴らしいDOLLSがいるのですから、敗北は許されませんわ。\rアイドルが負けたら、ファンががっかりしてしまいますもの。"
+                "CVDetail": "わたくしという素晴らしいDOLLSがいるのですから、敗北は許されませんわ。 アイドルが負けたら、ファンががっかりしてしまいますもの。"
             },
             {
                 "CVType": "TapBody2",
@@ -2242,7 +2242,7 @@
             },
             {
                 "CVType": "TapHead1",
-                "CVDetail": "代理人さん、一緒にお茶しない？ヴィクトリアスコーン作ってみたの。"
+                "CVDetail": "代理人さん、一緒にお茶しない？ヴィクトリア・スポンジ作ってみたの。"
             },
             {
                 "CVType": "Title",
@@ -2382,11 +2382,11 @@
             },
             {
                 "CVType": "ModificationChange",
-                "CVDetail": "見て！エンジンを入れ替えたの！\rふふ～ん、モノが違うよ！"
+                "CVDetail": "見て！エンジンを入れ替えたの！ ふふ～ん、モノが違うよ！"
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "もっと強くなって、\r勲章をたくさん貰うんだ！"
+                "CVDetail": "もっと強くなって、 勲章をたくさん貰うんだ！"
             },
             {
                 "CVType": "MVP",
@@ -2434,7 +2434,7 @@
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "ねえ、代理人くん。\rあたしにプレゼントあるんじゃないの？\r勲章とか……勲章とかあ……。"
+                "CVDetail": "ねえ、代理人くん。 あたしにプレゼントあるんじゃないの？ 勲章とか……勲章とかあ……。"
             },
             {
                 "CVType": "TapBody2",
@@ -2822,7 +2822,7 @@
             },
             {
                 "CVType": "Recovery",
-                "CVDetail": "資源回収部隊が帰還しましたね！\rこれで１００年は戦えます！"
+                "CVDetail": "資源回収部隊が帰還しましたね！ これで１００年は戦えます！"
             },
             {
                 "CVType": "RTB",
@@ -3126,7 +3126,7 @@
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "星屑連邦学連のM10ウルヴァリン！大自然に囲まれた田舎で育ったんだ！\rだから見る物全部が楽しい！代理人！一緒に遊ぼうよ！"
+                "CVDetail": "星屑連邦学連のM10ウルヴァリン！大自然に囲まれた田舎で育ったんだ！ だから見る物全部が楽しい！代理人！一緒に遊ぼうよ！"
             },
             {
                 "CVType": "Launch",
@@ -3214,7 +3214,7 @@
             },
             {
                 "CVType": "TapBody3",
-                "CVDetail": "アタシ、知らないことたくさんあるから、\r代理人には色々教えて欲しいな。代理人が知らないことはアタシが教えてあげる！えへへー！"
+                "CVDetail": "アタシ、知らないことたくさんあるから、 代理人には色々教えて欲しいな。代理人が知らないことはアタシが教えてあげる！えへへー！"
             },
             {
                 "CVType": "TapHead1",
@@ -5450,7 +5450,7 @@
             },
             {
                 "CVType": "Order",
-                "CVDetail": "ふぅん……案外可愛いのね。私って\r触ってみてよ、代理人も"
+                "CVDetail": "ふぅん……案外可愛いのね。私って 触ってみてよ、代理人も"
             },
             {
                 "CVType": "PowerUp1",
@@ -8075,6 +8075,486 @@
         ]
     },
     {
+        "ARMSID": "ARM111901",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "「――行かせるかッ！！」"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "「――邪魔するなっ！！」"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "「……終わりなのかっ！」"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "「――クッ……どうしてっ……！！」"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "「――くッ！？　読まれてるっ！？」"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "「了解」"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "「……その根拠は？」"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "「私は、ＸＦＪ計画開発主任、日本帝国斯衛軍中尉、篁唯依だ」"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "「――行くぞッ！」"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "……"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "「私は、貴様を信じている。頼んだぞ…………」"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "……"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "「日本帝国斯衛軍……篁唯依――」\n「――参るッ！！」"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "「――なっ……なにか……？」"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "「なんだ？」"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "「これは肉じゃがといって……日本の……伝統的な家庭料理……なんだ」"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "……"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "「あ……ありがとう。……だが私がすごいというのなら、自分だって……」"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM112001",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "「――邪魔するでないッッ！！」"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "「――うぉぉぉぉッ！！」"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "「……何と言うことだ……」"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "「――被弾したのか！？」"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "「――バカなッ……これは……ッ！？」"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "「――了解ッ！」"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "「……私は賛成できない」"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "「私に何か力になれることはあるか？」"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "「――構うでないぞッ！　――よいなッ！」"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "……"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "「私もそなたと手合わせ願いたいな」"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "……"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "「――人間をなめるなあぁぁぁぁぁっ！！」"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "「なんだ？」"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "「だらしなくにやけおって……いったいどういう事だ？」"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "「ん？　どうしたのだ？」"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "……"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "「やるではないか！」"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM112101",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "「――どけぇぇぇっ！」"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "「――オオオォォォッ！！」"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "「……最早、戦闘不能だ」"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "「くっ……！」"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "――くぅっ！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "「了解した！」"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "「……違うな」"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "「私は為すべきことを為しているだけだ。遠い未来のためにな」"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "「――行くぞ！　私のケツについて来い！」"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "……"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "「――総員、傾注！」"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "……"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "「総員、突撃ーーーー！！！！」"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "「どうした」"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "「ふむ……。顔が少し赤いように見えるが、熱でもあるのではないか？」"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "「胸を張って生きていけ。――貴様はもう、衛士の資格を持つ者なのだから」"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "……"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "NODATA"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "「諸君、ご苦労だった」"
+            }
+        ]
+    },
+    {
         "ARMSID": "ARM200101",
         "CVDesArray": [{
                 "CVType": "Attack1",
@@ -8898,7 +9378,7 @@
             },
             {
                 "CVType": "Dispatch",
-                "CVDetail": "資源回収部隊が出発するみたいです～。\r頑張って～。"
+                "CVDetail": "資源回収部隊が出発するみたいです～。 頑張って～。"
             },
             {
                 "CVType": "Dmg1",
@@ -8962,7 +9442,7 @@
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "もっとお役に立ちたいので～。\r改造を検討して下さい～。"
+                "CVDetail": "もっとお役に立ちたいので～。 改造を検討して下さい～。"
             },
             {
                 "CVType": "MVP",
@@ -8986,11 +9466,11 @@
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "ど～も～。代理人さん。\rごきげんよ～です～。"
+                "CVDetail": "ど～も～。代理人さん。 ごきげんよ～です～。"
             },
             {
                 "CVType": "Recovery",
-                "CVDetail": "資源回収部隊が帰ってきました～。\r良かったです～。"
+                "CVDetail": "資源回収部隊が帰ってきました～。 良かったです～。"
             },
             {
                 "CVType": "RTB",
@@ -9010,7 +9490,7 @@
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "結構昔から戦っているんですけど～。\r足が遅いせいでなかなか活躍できて\rいないんですよね～。"
+                "CVDetail": "結構昔から戦っているんですけど～。 足が遅いせいでなかなか活躍できて いないんですよね～。"
             },
             {
                 "CVType": "TapBody2",
@@ -9338,7 +9818,7 @@
             },
             {
                 "CVType": "TapBody3",
-                "CVDetail": "いい機会だから言ってやるが、アタシは\r触られるのが嫌いなんだ。意味分かったか？だったらあっち行ってくれよ。"
+                "CVDetail": "いい機会だから言ってやるが、アタシは 触られるのが嫌いなんだ。意味分かったか？だったらあっち行ってくれよ。"
             },
             {
                 "CVType": "TapHead1",
@@ -9442,7 +9922,7 @@
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "現状でも問題はありませんが、\r戦力向上は良いことです。"
+                "CVDetail": "現状でも問題はありませんが、 戦力向上は良いことです。"
             },
             {
                 "CVType": "MVP",
@@ -9462,7 +9942,7 @@
             },
             {
                 "CVType": "PowerUp3",
-                "CVDetail": "なるほど、私を強化するとは。\r興味深いことです。"
+                "CVDetail": "なるほど、私を強化するとは。 興味深いことです。"
             },
             {
                 "CVType": "Ready1",
@@ -9474,7 +9954,7 @@
             },
             {
                 "CVType": "RTB",
-                "CVDetail": "お疲れ様です。この後はマッサージが\r科学的に良いかと。"
+                "CVDetail": "お疲れ様です。この後はマッサージが 科学的に良いかと。"
             },
             {
                 "CVType": "Skill1",
@@ -10266,7 +10746,7 @@
             },
             {
                 "CVType": "Dispatch",
-                "CVDetail": "資源回収部隊、しゅっぱーつ！\r頑張ってくるんだよぉ～！"
+                "CVDetail": "資源回収部隊、しゅっぱーつ！ 頑張ってくるんだよぉ～！"
             },
             {
                 "CVType": "Dmg1",
@@ -10330,7 +10810,7 @@
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "あたしがこれ以上強くなるとか、\r最高だよなぁ。"
+                "CVDetail": "あたしがこれ以上強くなるとか、 最高だよなぁ。"
             },
             {
                 "CVType": "MVP",
@@ -10358,7 +10838,7 @@
             },
             {
                 "CVType": "Recovery",
-                "CVDetail": "資源回収部隊が戻ってきたって！\r迎えに行ってあげようよ！"
+                "CVDetail": "資源回収部隊が戻ってきたって！ 迎えに行ってあげようよ！"
             },
             {
                 "CVType": "RTB",
@@ -10386,7 +10866,7 @@
             },
             {
                 "CVType": "TapBody3",
-                "CVDetail": "閣下、あんまり他のDOLLSばっかり見ないでよぉ？なんでってそりゃ……。\rいいでしょ、別になんだって！"
+                "CVDetail": "閣下、あんまり他のDOLLSばっかり見ないでよぉ？なんでってそりゃ……。 いいでしょ、別になんだって！"
             },
             {
                 "CVType": "TapHead1",

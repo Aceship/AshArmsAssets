@@ -796,25 +796,25 @@
         "SceneName": "AdvanceScene",
         "PanelName": "Default",
         "ShowTopBar": "1",
-        "DisplayName": "歌よ、戦場に響け！",
+        "DisplayName": "ゼノフロント",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
         "ResSlot1": "",
         "HelpPPT": "NONE",
-        "BGM": "401_FUJI_AOI"
+        "BGM": "Muvluv_1"
     },
     {
         "SceneName": "AdvanceScene",
         "PanelName": "AdvanceView",
         "ShowTopBar": "1",
-        "DisplayName": "歌よ、戦場に響け！",
+        "DisplayName": "ゼノフロント",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
         "ResSlot1": "",
         "HelpPPT": "NONE",
-        "BGM": "401_FUJI_AOI"
+        "BGM": "Muvluv_1"
     },
     {
         "SceneName": "MailScene",

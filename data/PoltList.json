@@ -779,30 +779,230 @@
         "PlotKey": "Chapter003_06_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410205",
-        "CheckPost": 2,
-        "CheckTag": 3
+        "CheckPost": 1,
+        "CheckTag": 1
     },
     {
         "Index": 98,
         "PlotKey": "Chapter003_07_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410301",
-        "CheckPost": 1,
-        "CheckTag": 1
+        "CheckPost": 2,
+        "CheckTag": 2
     },
     {
         "Index": 99,
         "PlotKey": "Chapter003_08_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410303",
-        "CheckPost": 1,
-        "CheckTag": 1
+        "CheckPost": 2,
+        "CheckTag": 3
     },
     {
         "Index": 100,
         "PlotKey": "Chapter003_09_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410305",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 101,
+        "PlotKey": "Chapter004_001_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 102,
+        "PlotKey": "Chapter004_002_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510102",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 103,
+        "PlotKey": "Chapter004_003_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510103",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 104,
+        "PlotKey": "Chapter004_011_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510104",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 105,
+        "PlotKey": "Chapter004_012_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510104",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 106,
+        "PlotKey": "Chapter004_013_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510105",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 107,
+        "PlotKey": "Chapter004_014_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510105",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 108,
+        "PlotKey": "Chapter004_015_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510201",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 109,
+        "PlotKey": "Chapter004_016_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510202",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 110,
+        "PlotKey": "Chapter004_017_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510203",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 111,
+        "PlotKey": "Chapter004_021_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510204",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 112,
+        "PlotKey": "Chapter004_022_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510204",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 113,
+        "PlotKey": "Chapter004_023_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510205",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 114,
+        "PlotKey": "Chapter004_024_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510205",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 115,
+        "PlotKey": "Chapter004_031_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510301",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 116,
+        "PlotKey": "Chapter004_032_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510302",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 117,
+        "PlotKey": "Chapter004_033_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510303",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 118,
+        "PlotKey": "Chapter004_034_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510303",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 119,
+        "PlotKey": "Chapter004_035_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510304",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 120,
+        "PlotKey": "Chapter004_036_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510304",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 121,
+        "PlotKey": "Chapter004_037_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510305",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 122,
+        "PlotKey": "Chapter004_041_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00510305",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 123,
+        "PlotKey": "Chapter004_042_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00520101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 124,
+        "PlotKey": "Chapter004_043_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00520101",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 125,
+        "PlotKey": "Chapter004_044_ゼノフロント",
+        "PlotType": 0,
+        "EventID": "EPE00520102",
         "CheckPost": 2,
         "CheckTag": 3
     }

@@ -1397,5 +1397,355 @@
         "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
         "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00510101",
+        "eventName": "ようこそ、Cityへ01",
+        "eventPoint": "EPE00510102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510102",
+        "eventName": "ようこそ、Cityへ02",
+        "eventPoint": "EPE00510103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510103",
+        "eventName": "ようこそ、Cityへ03",
+        "eventPoint": "EPE00510104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510104",
+        "eventName": "ようこそ、Cityへ04",
+        "eventPoint": "EPE00510105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510105",
+        "eventName": "ようこそ、Cityへ05",
+        "eventPoint": "EPE00510201",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510201",
+        "eventName": "戦術機、大地に立つ01",
+        "eventPoint": "EPE00510202",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510202",
+        "eventName": "戦術機、大地に立つ02",
+        "eventPoint": "EPE00510203",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510203",
+        "eventName": "戦術機、大地に立つ03",
+        "eventPoint": "EPE00510204",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510204",
+        "eventName": "戦術機、大地に立つ04",
+        "eventPoint": "EPE00510205",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510205",
+        "eventName": "戦術機、大地に立つ05",
+        "eventPoint": "EPE00510301",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC0100,IC0200,II10002",
+        "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00510301",
+        "eventName": "ハイヴ攻略作戦01",
+        "eventPoint": "EPE00510302",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00510302",
+        "eventName": "ハイヴ攻略作戦02",
+        "eventPoint": "EPE00510303",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3011,IC6003,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00510303",
+        "eventName": "ハイヴ攻略作戦03",
+        "eventPoint": "EPE00510304",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00510304",
+        "eventName": "ハイヴ攻略作戦04",
+        "eventPoint": "EPE00510305",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3011,IC6003,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00510305",
+        "eventName": "ハイヴ攻略作戦05",
+        "eventPoint": "EPE00520101",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC0100,IC0200,II10002",
+        "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00520101",
+        "eventName": "ようこそ、Cityへ01",
+        "eventPoint": "EPE00520102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520102",
+        "eventName": "ようこそ、Cityへ02",
+        "eventPoint": "EPE00520103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3011,IC6003,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520103",
+        "eventName": "ようこそ、Cityへ03",
+        "eventPoint": "EPE00520104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520104",
+        "eventName": "ようこそ、Cityへ04",
+        "eventPoint": "EPE00520105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IM3011,IC6003,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520105",
+        "eventName": "ようこそ、Cityへ05",
+        "eventPoint": "EPE00520201",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC0100,IC0200,II10002",
+        "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00520201",
+        "eventName": "戦術機、大地に立つ01",
+        "eventPoint": "EPE00520202",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6003,IC6004,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520202",
+        "eventName": "戦術機、大地に立つ02",
+        "eventPoint": "EPE00520203",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6004,IC6005,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520203",
+        "eventName": "戦術機、大地に立つ03",
+        "eventPoint": "EPE00520204",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6003,IC6004,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520204",
+        "eventName": "戦術機、大地に立つ04",
+        "eventPoint": "EPE00520205",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6004,IC6005,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520205",
+        "eventName": "戦術機、大地に立つ05",
+        "eventPoint": "EPE00520301",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC0100,IC0200,II10002",
+        "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00520301",
+        "eventName": "ハイヴ攻略作戦01",
+        "eventPoint": "EPE00520302",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6004,IC6005,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520302",
+        "eventName": "ハイヴ攻略作戦02",
+        "eventPoint": "EPE00520303",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520303",
+        "eventName": "ハイヴ攻略作戦03",
+        "eventPoint": "EPE00520304",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6004,IC6005,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520304",
+        "eventName": "ハイヴ攻略作戦04",
+        "eventPoint": "EPE00520305",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520305",
+        "eventName": "ハイヴ攻略作戦05",
+        "eventPoint": "EPE00530101",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00530101",
+        "eventName": "ハイヴ攻略作戦Ex-01",
+        "eventPoint": "EPE00530102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00530102",
+        "eventName": "ハイヴ攻略作戦Ex-02",
+        "eventPoint": "EPE00530103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00530103",
+        "eventName": "ハイヴ攻略作戦Ex-03",
+        "eventPoint": "EPE00530104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00530104",
+        "eventName": "ハイヴ攻略作戦Ex-04",
+        "eventPoint": "EPE00530105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00530105",
+        "eventName": "ハイヴ攻略作戦Ex-05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99985,IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "Muvluv_5"
     }
 ]
