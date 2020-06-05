@@ -37337,13 +37337,13 @@
             },
             {
                 "TalkId": "11",
-                "ShowType": "7",
-                "ShowId": "005_waring",
+                "ShowType": "6",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
-                "EffectType": "",
+                "EffectType": "1",
                 "WhichSide": "1",
-                "TalkName": "???",
-                "TalkValue": "警告音……？",
+                "TalkName": "",
+                "TalkValue": "",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -37352,13 +37352,13 @@
             },
             {
                 "TalkId": "12",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
+                "ShowType": "7",
+                "ShowId": "005_waring",
                 "Option": "",
-                "EffectType": "1",
+                "EffectType": "",
                 "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
+                "TalkName": "???",
+                "TalkValue": "警告音……？",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -37807,10 +37807,10 @@
             {
                 "TalkId": "5",
                 "ShowType": "6",
-                "ShowId": "ARM11200101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "1",
-                "WhichSide": "1",
+                "WhichSide": "2",
                 "TalkName": "",
                 "TalkValue": "",
                 "Time": "",
@@ -37836,21 +37836,6 @@
             },
             {
                 "TalkId": "7",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "8",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -37865,7 +37850,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "9",
+                "TalkId": "8",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -37873,6 +37858,21 @@
                 "WhichSide": "2",
                 "TalkName": "篁唯依",
                 "TalkValue": "し、支援感謝いたします……！こちらは国連軍へ出向中の帝国斯衛軍、篁唯依中尉であります……。その……貴官の姓名をお尋ねしたく……。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "9",
+                "ShowType": "6",
+                "ShowId": "NPC9901_Yui",
+                "Option": "",
+                "EffectType": "1",
+                "WhichSide": "1",
+                "TalkName": "",
+                "TalkValue": "",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -38197,7 +38197,7 @@
             {
                 "TalkId": "31",
                 "ShowType": "6",
-                "ShowId": "ARM11190101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "2",
                 "WhichSide": "2",
@@ -38212,7 +38212,7 @@
             {
                 "TalkId": "32",
                 "ShowType": "6",
-                "ShowId": "ARM11210101",
+                "ShowId": "NPC9903_Alice",
                 "Option": "",
                 "EffectType": "1",
                 "WhichSide": "2",
@@ -38257,7 +38257,7 @@
             {
                 "TalkId": "35",
                 "ShowType": "6",
-                "ShowId": "ARM11200101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "2",
                 "WhichSide": "1",
@@ -38272,7 +38272,7 @@
             {
                 "TalkId": "36",
                 "ShowType": "6",
-                "ShowId": "ARM11190101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "1",
                 "WhichSide": "1",
@@ -38377,7 +38377,7 @@
             {
                 "TalkId": "43",
                 "ShowType": "6",
-                "ShowId": "ARM11190101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "2",
                 "WhichSide": "1",
@@ -38392,7 +38392,7 @@
             {
                 "TalkId": "44",
                 "ShowType": "6",
-                "ShowId": "ARM11200101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "1",
                 "WhichSide": "1",
@@ -38422,7 +38422,7 @@
             {
                 "TalkId": "46",
                 "ShowType": "6",
-                "ShowId": "ARM11200101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "2",
                 "WhichSide": "1",
@@ -38437,7 +38437,7 @@
             {
                 "TalkId": "47",
                 "ShowType": "6",
-                "ShowId": "ARM11190101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "1",
                 "WhichSide": "1",
@@ -38647,7 +38647,7 @@
             {
                 "TalkId": "61",
                 "ShowType": "6",
-                "ShowId": "ARM11190101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "2",
                 "WhichSide": "1",
@@ -38662,7 +38662,7 @@
             {
                 "TalkId": "62",
                 "ShowType": "6",
-                "ShowId": "ARM11200101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "1",
                 "WhichSide": "1",
@@ -38711,7 +38711,7 @@
         "TalkDatas": [{
                 "TalkId": "1",
                 "ShowType": "1",
-                "ShowId": "BG0201_Wild",
+                "ShowId": "EP04_Drive03",
                 "Option": "",
                 "EffectType": "3",
                 "WhichSide": "",
@@ -38741,7 +38741,7 @@
             {
                 "TalkId": "3",
                 "ShowType": "6",
-                "ShowId": "ARM11210101",
+                "ShowId": "NPC9903_Alice",
                 "Option": "",
                 "EffectType": "1",
                 "WhichSide": "2",
@@ -38816,7 +38816,7 @@
             {
                 "TalkId": "8",
                 "ShowType": "6",
-                "ShowId": "ARM11190101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "1",
                 "WhichSide": "1",
@@ -38846,7 +38846,7 @@
             {
                 "TalkId": "10",
                 "ShowType": "6",
-                "ShowId": "ARM11190101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "2",
                 "WhichSide": "1",
@@ -38861,7 +38861,7 @@
             {
                 "TalkId": "11",
                 "ShowType": "6",
-                "ShowId": "ARM11200101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "1",
                 "WhichSide": "1",
@@ -38906,7 +38906,7 @@
             {
                 "TalkId": "14",
                 "ShowType": "6",
-                "ShowId": "ARM11200101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "2",
                 "WhichSide": "1",
@@ -38936,7 +38936,7 @@
             {
                 "TalkId": "16",
                 "ShowType": "6",
-                "ShowId": "ARM11190101",
+                "ShowId": "NPC9901_Yui",
                 "Option": "",
                 "EffectType": "1",
                 "WhichSide": "1",
@@ -39313,7 +39313,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "12",
+                "TalkId": "11",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39328,7 +39328,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "13",
+                "TalkId": "12",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39343,7 +39343,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "14",
+                "TalkId": "13",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39358,7 +39358,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "15",
+                "TalkId": "14",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39373,7 +39373,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "16",
+                "TalkId": "15",
                 "ShowType": "6",
                 "ShowId": "ARM20390101",
                 "Option": "",
@@ -39388,7 +39388,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "17",
+                "TalkId": "16",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39403,7 +39403,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "18",
+                "TalkId": "17",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39418,7 +39418,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "19",
+                "TalkId": "18",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39433,7 +39433,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "20",
+                "TalkId": "19",
                 "ShowType": "6",
                 "ShowId": "ARM20390101",
                 "Option": "",
@@ -39448,7 +39448,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "21",
+                "TalkId": "20",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39463,7 +39463,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "22",
+                "TalkId": "21",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39478,7 +39478,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "23",
+                "TalkId": "22",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39493,7 +39493,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "24",
+                "TalkId": "23",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39508,7 +39508,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "25",
+                "TalkId": "24",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39523,7 +39523,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "26",
+                "TalkId": "25",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39538,7 +39538,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "27",
+                "TalkId": "26",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -39553,7 +39553,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "28",
+                "TalkId": "27",
                 "ShowType": "6",
                 "ShowId": "ARM11200101",
                 "Option": "",
@@ -39568,7 +39568,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "29",
+                "TalkId": "28",
                 "ShowType": "1",
                 "ShowId": "BG0101_Black",
                 "Option": "",
@@ -40277,7 +40277,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "48",
+                "TalkId": "47",
                 "ShowType": "1",
                 "ShowId": "CG_Monster2",
                 "Option": "",
@@ -40292,7 +40292,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "49",
+                "TalkId": "48",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -40307,7 +40307,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "50",
+                "TalkId": "49",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -40322,7 +40322,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "51",
+                "TalkId": "50",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -40337,7 +40337,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "52",
+                "TalkId": "51",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -40352,11 +40352,41 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "54",
+                "TalkId": "52",
                 "ShowType": "6",
                 "ShowId": "ARM11190101",
                 "Option": "",
                 "EffectType": "1",
+                "WhichSide": "2",
+                "TalkName": "",
+                "TalkValue": "",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "53",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "篁唯依",
+                "TalkValue": "砲弾が吸収されているようにも見えましたが……。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "54",
+                "ShowType": "6",
+                "ShowId": "ARM11190101",
+                "Option": "",
+                "EffectType": "2",
                 "WhichSide": "2",
                 "TalkName": "",
                 "TalkValue": "",
@@ -40372,24 +40402,9 @@
                 "ShowId": "",
                 "Option": "",
                 "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "篁唯依",
-                "TalkValue": "砲弾が吸収されているようにも見えましたが……。",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
+                "WhichSide": "1",
+                "TalkName": " ",
+                "TalkValue": "「吸収」というのは適当じゃないね、正確には「転移」させられたというべきだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -40404,7 +40419,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "「吸収」というのは適当じゃないね、正確には「転移」させられたというべきだ。",
+                "TalkValue": "災獣の外殻は「絶縁層」に覆われていて、普通の弾丸は絶縁層によって弾かれてしまうんだ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -40419,7 +40434,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "災獣の外殻は「絶縁層」に覆われていて、普通の弾丸は絶縁層によって弾かれてしまうんだ。",
+                "TalkValue": "特殊な処理がされた「干渉武器」のみが絶縁層を貫通して、災獣本体を攻撃することができるんだよ。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -40434,7 +40449,7 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "特殊な処理がされた「干渉武器」のみが絶縁層を貫通して、災獣本体を攻撃することができるんだよ。",
+                "TalkValue": "私はこの技術の専門家ではないけれど、災獣はこういった外界からの攻撃を偏析し転移する行為に、エネルギーを消耗するらしい。",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -40449,21 +40464,6 @@
                 "EffectType": "",
                 "WhichSide": "1",
                 "TalkName": " ",
-                "TalkValue": "私はこの技術の専門家ではないけれど、災獣はこういった外界からの攻撃を偏析し転移する行為に、エネルギーを消耗するらしい。",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "60",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": " ",
                 "TalkValue": "だから充分な大火力を投射できる昔ながらの武器か、あるいは絶縁層の下まで届く白刃兵器なら、災獣の脅威となれるわけさ。",
                 "Time": "",
                 "Belong": "",
@@ -40472,7 +40472,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "61",
+                "TalkId": "60",
                 "ShowType": "1",
                 "ShowId": "BG0006_Parliament",
                 "Option": "",
@@ -40487,7 +40487,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "",
+                "TalkId": "61",
                 "ShowType": "6",
                 "ShowId": "ARM11190101",
                 "Option": "",
@@ -52183,36 +52183,6 @@
             },
             {
                 "TalkId": "94",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "95",
-                "ShowType": "6",
-                "ShowId": "ARM11210101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "96",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -52227,9 +52197,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "97",
+                "TalkId": "95",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -52242,9 +52212,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "98",
+                "TalkId": "96",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -52257,7 +52227,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "99",
+                "TalkId": "97",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -52272,9 +52242,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "100",
+                "TalkId": "98",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -52287,7 +52257,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "101",
+                "TalkId": "99",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -52302,9 +52272,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "102",
+                "TalkId": "100",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic2",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -52317,7 +52287,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "103",
+                "TalkId": "101",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -52332,7 +52302,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "104",
+                "TalkId": "102",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -52347,7 +52317,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "105",
+                "TalkId": "103",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -52362,9 +52332,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "106",
+                "TalkId": "104",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic2",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -52377,7 +52347,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "107",
+                "TalkId": "105",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -52392,22 +52362,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "108",
-                "ShowType": "6",
-                "ShowId": "ARM11210101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "109",
+                "TalkId": "106",
                 "ShowType": "7",
                 "ShowId": "006_mic1",
                 "Option": "",
@@ -52422,7 +52377,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "110",
+                "TalkId": "107",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -52437,22 +52392,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "111",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "112",
+                "TalkId": "108",
                 "ShowType": "1",
                 "ShowId": "BG0101_Black",
                 "Option": "",
@@ -53512,7 +53452,7 @@
             {
                 "TalkId": "3",
                 "ShowType": "1",
-                "ShowId": "EP04_Drive01",
+                "ShowId": "CG_Ruins1",
                 "Option": "",
                 "EffectType": "3",
                 "WhichSide": "",
@@ -53691,21 +53631,6 @@
             },
             {
                 "TalkId": "15",
-                "ShowType": "6",
-                "ShowId": "ARM11210101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "16",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -53720,7 +53645,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "17",
+                "TalkId": "16",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -53735,7 +53660,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "18",
+                "TalkId": "17",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -53750,7 +53675,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "19",
+                "TalkId": "18",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -53765,7 +53690,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "20",
+                "TalkId": "19",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -53780,7 +53705,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "21",
+                "TalkId": "20",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -53795,6 +53720,21 @@
                 "CoverIcon": ""
             },
             {
+                "TalkId": "21",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": " ",
+                "TalkValue": "（高速で射出された機関砲弾が正確に災獣の体に吸い込まれ、岩石のように高い外殻と、微かな光を放っていたコア部分に無数の弾痕が生じた。）",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
                 "TalkId": "22",
                 "ShowType": "7",
                 "ShowId": "",
@@ -53802,7 +53742,7 @@
                 "EffectType": "",
                 "WhichSide": "2",
                 "TalkName": " ",
-                "TalkValue": "高速で射出された機関砲弾が正確に災獣の体に吸い込まれ、岩石のように高い外殻と、微かな光を放っていたコア部分に無数の弾痕が生じた。",
+                "TalkValue": "（バランスを失った災獣はその場に倒れ、飛び散った分解生成物が廃都の残骸と混ざり合っていった。）",
                 "Time": "",
                 "Belong": "",
                 "FinishTo": "",
@@ -53812,37 +53752,7 @@
             {
                 "TalkId": "23",
                 "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": " ",
-                "TalkValue": "バランスを失った災獣はその場に倒れ、飛び散った分解生成物が廃都の残骸と混ざり合っていった",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "24",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "25",
-                "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -53855,39 +53765,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "26",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "27",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "28",
+                "TalkId": "24",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -53900,9 +53780,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "29",
+                "TalkId": "25",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -53915,9 +53795,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "30",
+                "TalkId": "26",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic2",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -53930,22 +53810,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "31",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "32",
+                "TalkId": "27",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -53960,7 +53825,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "33",
+                "TalkId": "28",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -53975,22 +53840,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "34",
-                "ShowType": "6",
-                "ShowId": "ARM11210101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "35",
+                "TalkId": "29",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54005,7 +53855,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "36",
+                "TalkId": "30",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54020,7 +53870,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "37",
+                "TalkId": "31",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54035,7 +53885,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "38",
+                "TalkId": "32",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54050,24 +53900,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "39",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "40",
+                "TalkId": "33",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -54080,24 +53915,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "41",
-                "ShowType": "6",
-                "ShowId": "ARM20600101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "42",
+                "TalkId": "34",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic2",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "1",
@@ -54110,7 +53930,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "43",
+                "TalkId": "35",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54125,12 +53945,132 @@
                 "CoverIcon": ""
             },
             {
+                "TalkId": "36",
+                "ShowType": "7",
+                "ShowId": "006_mic1",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "御剣冥夜",
+                "TalkValue": "こちらにも示現流があるのか――！？",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "37",
+                "ShowType": "7",
+                "ShowId": "",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "1",
+                "TalkName": "アイリスディーナ",
+                "TalkValue": "しかし、さすがは未来の機体だ！　武御雷が東ドイツにあれば戦況は変わったはずだ……！",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "38",
+                "ShowType": "7",
+                "ShowId": "006_mic1",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "篁唯依",
+                "TalkValue": "大尉のMiG-21とは世代差がありますからね。それに、あの武御雷は帝国の至宝と呼ばれる機体ですので！",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "39",
+                "ShowType": "7",
+                "ShowId": "006_mic1",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "篁唯依",
+                "TalkValue": "（さすがは将軍専用機……。それにしても、OSまで私の武御雷と違うとは……）",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "40",
+                "ShowType": "7",
+                "ShowId": "006_mic1",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "2",
+                "TalkName": "篁唯依",
+                "TalkValue": "――災獣の数は順調に減っています。戦闘を継続してください。",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "41",
+                "ShowType": "1",
+                "ShowId": "BG0101_Black",
+                "Option": "",
+                "EffectType": "3",
+                "WhichSide": "",
+                "TalkName": "",
+                "TalkValue": "",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "42",
+                "ShowType": "1",
+                "ShowId": "CG_Ruins1",
+                "Option": "",
+                "EffectType": "3",
+                "WhichSide": "",
+                "TalkName": "",
+                "TalkValue": "",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "43",
+                "ShowType": "4",
+                "ShowId": "Muvluv_2",
+                "Option": "",
+                "EffectType": "",
+                "WhichSide": "",
+                "TalkName": "",
+                "TalkValue": "",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
                 "TalkId": "44",
                 "ShowType": "6",
-                "ShowId": "ARM20600101",
+                "ShowId": "ARM11190101",
                 "Option": "",
-                "EffectType": "2",
-                "WhichSide": "1",
+                "EffectType": "1",
+                "WhichSide": "2",
                 "TalkName": "",
                 "TalkValue": "",
                 "Time": "",
@@ -54146,201 +54086,6 @@
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
-                "TalkName": "御剣冥夜",
-                "TalkValue": "こちらにも示現流があるのか――！？",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "46",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "47",
-                "ShowType": "6",
-                "ShowId": "ARM11210101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "48",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "1",
-                "TalkName": "アイリスディーナ",
-                "TalkValue": "しかし、さすがは未来の機体だ！　武御雷が東ドイツにあれば戦況は変わったはずだ……！",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "49",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "50",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "篁唯依",
-                "TalkValue": "大尉のMiG-21とは世代差がありますからね。それに、あの武御雷は帝国の至宝と呼ばれる機体ですので！",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "51",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "篁唯依",
-                "TalkValue": "（さすがは将軍専用機……。それにしても、OSまで私の武御雷と違うとは……）",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "52",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
-                "TalkName": "篁唯依",
-                "TalkValue": "――災獣の数は順調に減っています。戦闘を継続してください。",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "53",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "54",
-                "ShowType": "1",
-                "ShowId": "BG0101_Black",
-                "Option": "",
-                "EffectType": "3",
-                "WhichSide": "",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "55",
-                "ShowType": "1",
-                "ShowId": "CG_Ruins1",
-                "Option": "",
-                "EffectType": "3",
-                "WhichSide": "",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "56",
-                "ShowType": "4",
-                "ShowId": "Muvluv_2",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "57",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "58",
-                "ShowType": "7",
-                "ShowId": "",
-                "Option": "",
-                "EffectType": "",
-                "WhichSide": "2",
                 "TalkName": "篁唯依",
                 "TalkValue": "ではこれより作戦を第三段階に移行する。",
                 "Time": "",
@@ -54350,7 +54095,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "59",
+                "TalkId": "46",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54365,7 +54110,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "60",
+                "TalkId": "47",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54380,7 +54125,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "61",
+                "TalkId": "48",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54395,7 +54140,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "62",
+                "TalkId": "49",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54410,7 +54155,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "63",
+                "TalkId": "50",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54425,7 +54170,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "64",
+                "TalkId": "51",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54440,7 +54185,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "65",
+                "TalkId": "52",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54455,7 +54200,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "66",
+                "TalkId": "53",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54470,7 +54215,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "67",
+                "TalkId": "54",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54485,7 +54230,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "68",
+                "TalkId": "55",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54500,7 +54245,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "69",
+                "TalkId": "56",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54515,7 +54260,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "70",
+                "TalkId": "57",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54530,7 +54275,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "71",
+                "TalkId": "58",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54545,7 +54290,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "72",
+                "TalkId": "59",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54560,7 +54305,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "73",
+                "TalkId": "60",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54575,7 +54320,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "74",
+                "TalkId": "61",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54590,7 +54335,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "75",
+                "TalkId": "62",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54605,7 +54350,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "76",
+                "TalkId": "63",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54620,7 +54365,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "77",
+                "TalkId": "64",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54635,7 +54380,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "78",
+                "TalkId": "65",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54650,7 +54395,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "79",
+                "TalkId": "66",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54665,7 +54410,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "80",
+                "TalkId": "67",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54680,7 +54425,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "81",
+                "TalkId": "68",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54695,7 +54440,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "82",
+                "TalkId": "69",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54710,7 +54455,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "83",
+                "TalkId": "70",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54725,7 +54470,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "84",
+                "TalkId": "71",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54740,7 +54485,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "85",
+                "TalkId": "72",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54755,7 +54500,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "86",
+                "TalkId": "73",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54770,7 +54515,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "87",
+                "TalkId": "74",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54785,7 +54530,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "88",
+                "TalkId": "75",
                 "ShowType": "6",
                 "ShowId": "ARM11190101",
                 "Option": "",
@@ -54800,22 +54545,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "89",
-                "ShowType": "1",
-                "ShowId": "EP04_Drive01",
-                "Option": "",
-                "EffectType": "3",
-                "WhichSide": "",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "90",
+                "TalkId": "76",
                 "ShowType": "4",
                 "ShowId": "Muvluv_1",
                 "Option": "",
@@ -54830,7 +54560,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "91",
+                "TalkId": "77",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54845,7 +54575,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "92",
+                "TalkId": "78",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54860,7 +54590,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "93",
+                "TalkId": "79",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54875,12 +54605,12 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "94",
-                "ShowType": "6",
-                "ShowId": "ARM20260101",
+                "TalkId": "80",
+                "ShowType": "1",
+                "ShowId": "BG0101_Black",
                 "Option": "",
-                "EffectType": "1",
-                "WhichSide": "1",
+                "EffectType": "3",
+                "WhichSide": "",
                 "TalkName": "",
                 "TalkValue": "",
                 "Time": "",
@@ -54890,9 +54620,24 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "95",
+                "TalkId": "81",
+                "ShowType": "1",
+                "ShowId": "EP04_Drive01",
+                "Option": "",
+                "EffectType": "3",
+                "WhichSide": "",
+                "TalkName": "",
+                "TalkValue": "",
+                "Time": "",
+                "Belong": "",
+                "FinishTo": "",
+                "Relation": "",
+                "CoverIcon": ""
+            },
+            {
+                "TalkId": "82",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "1",
@@ -54905,37 +54650,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "96",
-                "ShowType": "6",
-                "ShowId": "ARM20260101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "97",
-                "ShowType": "6",
-                "ShowId": "ARM11210101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "98",
+                "TalkId": "83",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54950,7 +54665,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "99",
+                "TalkId": "84",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -54965,24 +54680,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "100",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "101",
+                "TalkId": "85",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -54995,54 +54695,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "102",
-                "ShowType": "6",
-                "ShowId": "ARM11210101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "103",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "104",
-                "ShowType": "6",
-                "ShowId": "ARM20390101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "105",
+                "TalkId": "86",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "1",
@@ -55055,24 +54710,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "106",
-                "ShowType": "6",
-                "ShowId": "ARM20600101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "107",
+                "TalkId": "87",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -55085,54 +54725,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "108",
-                "ShowType": "6",
-                "ShowId": "ARM20390101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "109",
-                "ShowType": "6",
-                "ShowId": "ARM20600101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "110",
-                "ShowType": "6",
-                "ShowId": "ARM20350101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "111",
+                "TalkId": "88",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "1",
@@ -55145,24 +54740,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "112",
-                "ShowType": "6",
-                "ShowId": "ARM20420101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "113",
+                "TalkId": "89",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic2",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -55175,7 +54755,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "114",
+                "TalkId": "90",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -55190,24 +54770,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "115",
-                "ShowType": "6",
-                "ShowId": "ARM20420101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "116",
+                "TalkId": "91",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic2",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "1",
@@ -55220,7 +54785,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "117",
+                "TalkId": "92",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -55235,52 +54800,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "118",
-                "ShowType": "6",
-                "ShowId": "ARM20350101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "119",
-                "ShowType": "6",
-                "ShowId": "ARM20420101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "120",
-                "ShowType": "6",
-                "ShowId": "ARM11210101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "121",
+                "TalkId": "93",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -55295,24 +54815,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "122",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "123",
+                "TalkId": "94",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -55325,7 +54830,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "124",
+                "TalkId": "95",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -57100,21 +56605,6 @@
             },
             {
                 "TalkId": "118",
-                "ShowType": "6",
-                "ShowId": "ARM11210101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "1",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "119",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -57129,24 +56619,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "120",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "121",
+                "TalkId": "119",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -57159,9 +56634,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "122",
+                "TalkId": "120",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -57174,7 +56649,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "123",
+                "TalkId": "121",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -57189,9 +56664,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "124",
+                "TalkId": "122",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic2",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -57204,7 +56679,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "125",
+                "TalkId": "123",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -57219,9 +56694,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "126",
+                "TalkId": "124",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic2",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -57234,7 +56709,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "127",
+                "TalkId": "125",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -57249,9 +56724,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "128",
+                "TalkId": "126",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic2",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -57264,7 +56739,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "129",
+                "TalkId": "127",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -57279,22 +56754,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "130",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "131",
+                "TalkId": "128",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -57309,24 +56769,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "132",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "133",
+                "TalkId": "129",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -57339,39 +56784,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "134",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "135",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "136",
+                "TalkId": "130",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -57384,7 +56799,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "137",
+                "TalkId": "131",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -57399,39 +56814,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "138",
-                "ShowType": "6",
-                "ShowId": "ARM11190101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "139",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "140",
+                "TalkId": "132",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -57444,7 +56829,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "141",
+                "TalkId": "133",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -57459,7 +56844,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "142",
+                "TalkId": "134",
                 "ShowType": "7",
                 "ShowId": "",
                 "Option": "",
@@ -57474,9 +56859,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "143",
+                "TalkId": "135",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -57489,39 +56874,9 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "144",
-                "ShowType": "6",
-                "ShowId": "ARM11200101",
-                "Option": "",
-                "EffectType": "2",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "145",
-                "ShowType": "6",
-                "ShowId": "ARM20350101",
-                "Option": "",
-                "EffectType": "1",
-                "WhichSide": "2",
-                "TalkName": "",
-                "TalkValue": "",
-                "Time": "",
-                "Belong": "",
-                "FinishTo": "",
-                "Relation": "",
-                "CoverIcon": ""
-            },
-            {
-                "TalkId": "146",
+                "TalkId": "136",
                 "ShowType": "7",
-                "ShowId": "",
+                "ShowId": "006_mic1",
                 "Option": "",
                 "EffectType": "",
                 "WhichSide": "2",
@@ -57534,7 +56889,7 @@
                 "CoverIcon": ""
             },
             {
-                "TalkId": "147",
+                "TalkId": "137",
                 "ShowType": "1",
                 "ShowId": "BG0101_Black",
                 "Option": "",
@@ -61313,7 +60668,7 @@
             {
                 "TalkId": "36",
                 "ShowType": "6",
-                "ShowId": "NPC0003_Black",
+                "ShowId": "NPC9909_Black",
                 "Option": "",
                 "EffectType": "1",
                 "WhichSide": "2",

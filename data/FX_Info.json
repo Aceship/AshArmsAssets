@@ -12254,6 +12254,116 @@
         ]
     },
     {
+        "ArmID": "ARM204701",
+        "EnginePath": "",
+        "Skill_Info": [{
+                "Skill_ID": "SS90113",
+                "Spine_Anim": "CI_b1",
+                "Effect_ID": "CI_b1"
+            },
+            {
+                "Skill_ID": "SJ1401",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1402",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1403",
+                "Spine_Anim": "shootC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1404",
+                "Spine_Anim": "shoot1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1405",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1501",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1502",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1503",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1504",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            }
+        ]
+    },
+    {
+        "ArmID": "ARM204702",
+        "EnginePath": "",
+        "Skill_Info": [{
+                "Skill_ID": "SS90113",
+                "Spine_Anim": "CI_b1",
+                "Effect_ID": "CI_b1"
+            },
+            {
+                "Skill_ID": "SJ1401",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1402",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1403",
+                "Spine_Anim": "shootC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1404",
+                "Spine_Anim": "shoot1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1405",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1501",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1502",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1503",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1504",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            }
+        ]
+    },
+    {
         "ArmID": "ARM205601",
         "EnginePath": "",
         "Skill_Info": [{
@@ -15953,12 +16063,12 @@
         "EnginePath": "",
         "Skill_Info": [{
                 "Skill_ID": "E6111301",
-                "Spine_Anim": "AAMC1",
+                "Spine_Anim": "AAHC1",
                 "Effect_ID": "AAHC1"
             },
             {
                 "Skill_ID": "E6111302",
-                "Spine_Anim": "AAMC1",
+                "Spine_Anim": "AAHC1",
                 "Effect_ID": "AAHC1"
             },
             {
@@ -16218,12 +16328,12 @@
         "EnginePath": "",
         "Skill_Info": [{
                 "Skill_ID": "E6311201",
-                "Spine_Anim": "AAMC1",
+                "Spine_Anim": "AAHC1",
                 "Effect_ID": "AAHC1"
             },
             {
                 "Skill_ID": "E6311202",
-                "Spine_Anim": "AAMC1",
+                "Spine_Anim": "AAHC1",
                 "Effect_ID": "AAHC1"
             },
             {

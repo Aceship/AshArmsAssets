@@ -1455,7 +1455,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "Muvluv_2"
     },
     {
@@ -1465,7 +1465,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "Muvluv_2"
     },
     {
@@ -1475,7 +1475,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "Muvluv_2"
     },
     {
@@ -1485,7 +1485,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "Muvluv_2"
     },
     {
@@ -1495,7 +1495,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE111",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "Muvluv_5"
     },
     {
@@ -1505,7 +1505,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1515,7 +1515,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1525,7 +1525,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1535,7 +1535,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1545,7 +1545,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE111",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "Muvluv_5"
     },
     {
@@ -1555,7 +1555,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1565,7 +1565,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1575,7 +1575,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1585,7 +1585,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1595,7 +1595,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE111",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "Muvluv_5"
     },
     {
@@ -1605,7 +1605,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6003,IC6004,II10002",
+        "EventDrop": "IC6003,IC6004,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1615,7 +1615,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1625,7 +1625,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6003,IC6004,II10002",
+        "EventDrop": "IC6003,IC6004,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1635,7 +1635,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1645,7 +1645,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE111",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "Muvluv_5"
     },
     {
@@ -1655,7 +1655,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1665,7 +1665,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1675,7 +1675,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1685,7 +1685,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1695,7 +1695,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE111",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "Muvluv_5"
     },
     {
@@ -1705,7 +1705,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1715,7 +1715,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1725,7 +1725,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1735,7 +1735,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE101",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "Muvluv_3"
     },
     {
@@ -1745,7 +1745,7 @@
         "eventTypeCN": "活动关卡",
         "landEsid": "SE111",
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99985,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "Muvluv_5"
     }
 ]

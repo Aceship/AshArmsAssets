@@ -1798,6 +1798,19 @@
         "shopad": "Skin_ARM10459002",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10459003",
+        "name": "黒の誓約者",
+        "description": "88mm FlaK36アハトアハト·黒の誓約者",
+        "icon": "ARM10459003",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM104501,ARM104502",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10460101",
         "name": "M26 パーシング",
         "description": "M26 パーシング",
@@ -11722,6 +11735,19 @@
         "upicon": "DOL2046",
         "rarity": "5",
         "dropFrom": "SHOP*399#SHOP*300",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM92047",
+        "name": "BV P.194の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nBV P.194の機体突破に使用可能。",
+        "icon": "DOL2047",
+        "upicon": "DOL2047",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
         "sellPriceStr": "0,0,0,0,0,0",
         "maxStack": "2147483647",
         "constructionFormula": "",
