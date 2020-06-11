@@ -86,7 +86,7 @@
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "хорошо 強くなれるのは嬉しいです。みんなを守れるから。"
+                "CVDetail": "хорошо　強くなれるのは嬉しいです。みんなを守れるから。"
             },
             {
                 "CVType": "MVP",
@@ -374,7 +374,7 @@
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "わらわこそ超重戦車、VIII号戦車マウス 試作A0型だ。わらわがいれば常勝は約束されたようなもの。代理人よ。ひれ伏し、崇めるがよいぞ。ふはははは！"
+                "CVDetail": "わらわこそ超重戦車、VIII号戦車マウス　試作A0型だ。わらわがいれば常勝は約束されたようなもの。代理人よ。ひれ伏し、崇めるがよいぞ。ふはははは！"
             },
             {
                 "CVType": "Launch",
@@ -1014,7 +1014,7 @@
             },
             {
                 "CVType": "Change1",
-                "CVDetail": "戦車前進、panzer vor！"
+                "CVDetail": "戦車前進、panzer　vor！"
             },
             {
                 "CVType": "Change2",
@@ -1058,7 +1058,7 @@
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "黒十字帝国学連所属、Ⅳ号戦車、ただいま着任致しました。代理人様、この先どんな戦いが待ち受けていようと、私は最後まで貴方様と共に肩を並べましょう。panzer vor！(パンツァー・フォー)"
+                "CVDetail": "黒十字帝国学連所属、Ⅳ号戦車、ただいま着任致しました。代理人様、この先どんな戦いが待ち受けていようと、私は最後まで貴方様と共に肩を並べましょう。panzer　vor！(パンツァー・フォー)"
             },
             {
                 "CVType": "Launch",
@@ -1094,7 +1094,7 @@
             },
             {
                 "CVType": "MVP",
-                "CVDetail": "皆がいてこそ、このような素晴らしい戦果をあげられるのです。Danke schön。"
+                "CVDetail": "皆がいてこそ、このような素晴らしい戦果をあげられるのです。Danke　schön。"
             },
             {
                 "CVType": "Order",
@@ -1630,7 +1630,7 @@
             },
             {
                 "CVType": "TapHead1",
-                "CVDetail": "頭を撫でてくれるの？　嬉しいなあ。……あれ？ でも僕、何か褒められることしたっけ？"
+                "CVDetail": "頭を撫でてくれるの？　嬉しいなあ。……あれ？　でも僕、何か褒められることしたっけ？"
             },
             {
                 "CVType": "Title",
@@ -3354,7 +3354,7 @@
             },
             {
                 "CVType": "Skill1",
-                "CVDetail": "Achtung, Feuer!"
+                "CVDetail": "Achtung,　Feuer!"
             },
             {
                 "CVType": "Skill2",
@@ -4590,7 +4590,7 @@
             },
             {
                 "CVType": "Emotion1",
-                "CVDetail": "Alles klar！"
+                "CVDetail": "Alles　klar！"
             },
             {
                 "CVType": "Emotion2",
@@ -5366,11 +5366,11 @@
             },
             {
                 "CVType": "Change1",
-                "CVDetail": "за мной！"
+                "CVDetail": "за　мной！"
             },
             {
                 "CVType": "Change2",
-                "CVDetail": "Удерживать позицию！"
+                "CVDetail": "Удерживать　позицию！"
             },
             {
                 "CVType": "Dead",
@@ -5410,7 +5410,7 @@
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "Очень приятно.ИСシリーズ最初のИС-1よ、Oktyabr　Союзのね。ヤツは何処にいる？Тигрのことよ"
+                "CVDetail": "Очень　приятно.ИСシリーズ最初のИС-1よ、Oktyabr　Союзのね。ヤツは何処にいる？Тигрのことよ"
             },
             {
                 "CVType": "Launch",
@@ -5458,7 +5458,7 @@
             },
             {
                 "CVType": "PowerUp2",
-                "CVDetail": "Спасибо!　"
+                "CVDetail": "Спасибо!"
             },
             {
                 "CVType": "PowerUp3",
@@ -5466,7 +5466,7 @@
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "遅いわよ代理人、早く任務を。Давай быстро !"
+                "CVDetail": "遅いわよ代理人、早く任務を。Давай　быстро　!"
             },
             {
                 "CVType": "Recovery",
@@ -5486,7 +5486,7 @@
             },
             {
                 "CVType": "SPSkill",
-                "CVDetail": "ЗА Родину！「祖国」の為に！"
+                "CVDetail": "ЗА　Родину！「祖国」の為に！"
             },
             {
                 "CVType": "TapBody1",
@@ -5518,19 +5518,19 @@
         "ARMSID": "ARM105801",
         "CVDesArray": [{
                 "CVType": "Attack1",
-                "CVDetail": "Take this!"
+                "CVDetail": "Take　this!"
             },
             {
                 "CVType": "Attack2",
-                "CVDetail": "Kill them all!"
+                "CVDetail": "Kill　them　all!"
             },
             {
                 "CVType": "Change1",
-                "CVDetail": "Keep moving!"
+                "CVDetail": "Keep　moving!"
             },
             {
                 "CVType": "Change2",
-                "CVDetail": "Stop！Load and stand by！"
+                "CVDetail": "Stop！Load　and　stand　by！"
             },
             {
                 "CVType": "Dead",
@@ -5546,11 +5546,11 @@
             },
             {
                 "CVType": "Dmg2",
-                "CVDetail": "Oh, come on!"
+                "CVDetail": "Oh,　come　on!"
             },
             {
                 "CVType": "Emotion1",
-                "CVDetail": "Copy that!"
+                "CVDetail": "Copy　that!"
             },
             {
                 "CVType": "Emotion2",
@@ -5558,23 +5558,23 @@
             },
             {
                 "CVType": "Emotion3",
-                "CVDetail": "Here we go!"
+                "CVDetail": "Here　we　go!"
             },
             {
                 "CVType": "Emotion4",
-                "CVDetail": "Shake it!"
+                "CVDetail": "Shake　it!"
             },
             {
                 "CVType": "GoGo",
-                "CVDetail": "Roger that！"
+                "CVDetail": "Roger　that！"
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "T-77 Multiple Gun Motor Carriage.Belong to Star Dust Federal University.お前がAgentだな？後は実戦が教えてくれる。早く行くぞ！"
+                "CVDetail": "T-77　Multiple　Gun　Motor　Carriage.Belong　to　Star　Dust　Federal　University.お前がAgentだな？後は実戦が教えてくれる。早く行くぞ！"
             },
             {
                 "CVType": "Launch",
-                "CVDetail": "Got it、ready to launch！"
+                "CVDetail": "Got　it、ready　to　launch！"
             },
             {
                 "CVType": "LdSkill",
@@ -5598,7 +5598,7 @@
             },
             {
                 "CVType": "ModificationChange",
-                "CVDetail": "M19 Gun Motor Carriage。もっともっと撃ちまくれるようになったぜ。これで弾薬の計算をしなくてもいいな！"
+                "CVDetail": "M19　Gun　Motor　Carriage。もっともっと撃ちまくれるようになったぜ。これで弾薬の計算をしなくてもいいな！"
             },
             {
                 "CVType": "ModificationRockOn",
@@ -5618,7 +5618,7 @@
             },
             {
                 "CVType": "PowerUp2",
-                "CVDetail": "Guns！Lots of guns！もっと火力を！"
+                "CVDetail": "Guns！Lots　of　guns！もっと火力を！"
             },
             {
                 "CVType": "PowerUp3",
@@ -5642,11 +5642,11 @@
             },
             {
                 "CVType": "Skill2",
-                "CVDetail": "Get out of here,now!"
+                "CVDetail": "Get　out　of　here,now!"
             },
             {
                 "CVType": "SPSkill",
-                "CVDetail": "Targeting the Restter.Salvo！！"
+                "CVDetail": "Targeting　the　Restter.Salvo！！"
             },
             {
                 "CVType": "TapBody1",
@@ -6078,7 +6078,7 @@
             },
             {
                 "CVType": "ModificationChange",
-                "CVDetail": "うんうん、いい感じ！セモヴェンテ Ｍ４３に改造完了よ！例えるなら、そうね、黒トリュフから白トリュフになったって感じかしら？……え？意味がわからない？　とと、とにかく！改めてよろしく！　もっと、もーっと、私に甘えていいんだからね！"
+                "CVDetail": "うんうん、いい感じ！セモヴェンテ　Ｍ４３に改造完了よ！例えるなら、そうね、黒トリュフから白トリュフになったって感じかしら？……え？意味がわからない？　とと、とにかく！改めてよろしく！　もっと、もーっと、私に甘えていいんだからね！"
             },
             {
                 "CVType": "ModificationRockOn",
@@ -6166,7 +6166,7 @@
             },
             {
                 "CVType": "Change1",
-                "CVDetail": "Hinein！もっと前え！ "
+                "CVDetail": "Hinein！もっと前え！　"
             },
             {
                 "CVType": "Change2",
@@ -7010,7 +7010,7 @@
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "キミが代理人だね。私の名前は「B1 bis」。重戦車型DOLLSだ。私の自慢はなんといっても堅牢なる装甲。かつての大戦では、アハトアハトに撃ち抜かれるまでの約数時間、何十発もの砲弾を耐え抜き戦った。今この瞬間からキミの騎士として全力で守り抜くことを誓おう。我らに勝利を！"
+                "CVDetail": "キミが代理人だね。私の名前は「B1　bis」。重戦車型DOLLSだ。私の自慢はなんといっても堅牢なる装甲。かつての大戦では、アハトアハトに撃ち抜かれるまでの約数時間、何十発もの砲弾を耐え抜き戦った。今この瞬間からキミの騎士として全力で守り抜くことを誓おう。我らに勝利を！"
             },
             {
                 "CVType": "Launch",
@@ -9646,7 +9646,7 @@
             },
             {
                 "CVType": "SPSkill",
-                "CVDetail": "夜の女王の力、その目にしっかり焼き付けなさい。Full fire!!"
+                "CVDetail": "夜の女王の力、その目にしっかり焼き付けなさい。Full　fire!!"
             },
             {
                 "CVType": "TapBody1",
@@ -9878,7 +9878,7 @@
             },
             {
                 "CVType": "Emotion3",
-                "CVDetail": "Pauke! Pauke!"
+                "CVDetail": "Pauke!　Pauke!"
             },
             {
                 "CVType": "Emotion4",
@@ -11210,7 +11210,7 @@
             },
             {
                 "CVType": "Attack2",
-                "CVDetail": "Approaching target.Ｓｈｏｏｔ！"
+                "CVDetail": "Approaching　target.Ｓｈｏｏｔ！"
             },
             {
                 "CVType": "Change1",
@@ -11222,7 +11222,7 @@
             },
             {
                 "CVType": "Dead",
-                "CVDetail": "Mayday,Mayday,Mayday.I‘m going down!"
+                "CVDetail": "Mayday,Mayday,Mayday.I‘m　going　down!"
             },
             {
                 "CVType": "Dispatch",
@@ -11246,7 +11246,7 @@
             },
             {
                 "CVType": "Emotion3",
-                "CVDetail": "I like this guy."
+                "CVDetail": "I　like　this　guy."
             },
             {
                 "CVType": "Emotion4",
@@ -11254,11 +11254,11 @@
             },
             {
                 "CVType": "GoGo",
-                "CVDetail": "Ready to take off."
+                "CVDetail": "Ready　to　take　off."
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ！星屑連邦学連所属、ＡＤ－１スカイレイダーだ。かの大戦には参加出来なかったらしいけど、大型機に匹敵する搭載量と、戦闘機並みの運動性能が評価されて、いろいろな任務に従事したよ。「ダムバスターズ」？あのときは楽しかった。思い出深いよ。"
+                "CVDetail": "Ｎｉｃｅ　ｔｏ　ｍｅｅｔ　ｙｏｕ！星屑連邦学連所属、ＡＤ－１スカイレイダーだ。かの大戦には参加出来なかったらしいけど、大型機に匹敵する搭載量と、戦闘機並みの運動性能が評価されて、いろいろな任務に従事したよ。「ダムバスターズ」？あのときは楽しかった。思い出深いよ。"
             },
             {
                 "CVType": "Launch",
@@ -11266,11 +11266,11 @@
             },
             {
                 "CVType": "LdSkill",
-                "CVDetail": "Target in sight..Ｆｏｌｌｏｗ　Ｍｅ！"
+                "CVDetail": "Target　in　sight..Ｆｏｌｌｏｗ　Ｍｅ！"
             },
             {
                 "CVType": "Lose",
-                "CVDetail": "何だその顔は？！Why so serious？"
+                "CVDetail": "何だその顔は？！Why　so　serious？"
             },
             {
                 "CVType": "LvUP",
@@ -11282,7 +11282,7 @@
             },
             {
                 "CVType": "Miss",
-                "CVDetail": "Hey hey!"
+                "CVDetail": "Hey　hey!"
             },
             {
                 "CVType": "ModificationChange",
@@ -11334,7 +11334,7 @@
             },
             {
                 "CVType": "SPSkill",
-                "CVDetail": "Resetter is…the enemy !! Destroy them all！"
+                "CVDetail": "Resetter　is…the　enemy　!!　Destroy　them　all！"
             },
             {
                 "CVType": "TapBody1",
@@ -11634,7 +11634,7 @@
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "Доброе утро。(ドーブラャ　ウートラ)今日も頑張って参りましょう。"
+                "CVDetail": "Доброе　утро。(ドーブラャ　ウートラ)今日も頑張って参りましょう。"
             },
             {
                 "CVType": "Recovery",
@@ -11654,7 +11654,7 @@
             },
             {
                 "CVType": "SPSkill",
-                "CVDetail": "Спокойной ночи……(スパコーイナイ ノーチ)。良き夢を。"
+                "CVDetail": "Спокойной　ночи……(スパコーイナイ　ノーチ)。良き夢を。"
             },
             {
                 "CVType": "TapBody1",
@@ -11794,7 +11794,7 @@
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "Ｂｕｏｎ ｇｉｏｒｎｏ！私と戦えること、光栄に思いなさい！"
+                "CVDetail": "Ｂｕｏｎ　ｇｉｏｒｎｏ！私と戦えること、光栄に思いなさい！"
             },
             {
                 "CVType": "Recovery",
@@ -12022,7 +12022,7 @@
             },
             {
                 "CVType": "Dead",
-                "CVDetail": " 諸行無常・・・"
+                "CVDetail": "　諸行無常・・・"
             },
             {
                 "CVType": "Dispatch",
@@ -12134,7 +12134,7 @@
             },
             {
                 "CVType": "SPSkill",
-                "CVDetail": "余興は終わりだ。奥義・白刃閃 【零之型】"
+                "CVDetail": "余興は終わりだ。奥義・白刃閃　【零之型】"
             },
             {
                 "CVType": "TapBody1",
@@ -13002,7 +13002,7 @@
             },
             {
                 "CVType": "SPSkill",
-                "CVDetail": "もういいよ、あんたなんて。До свидания(ダスヴィダーニャ)"
+                "CVDetail": "もういいよ、あんたなんて。До　свидания(ダスヴィダーニャ)"
             }
         ]
     },
@@ -13163,6 +13163,166 @@
             {
                 "CVType": "Win",
                 "CVDetail": "もう終わりか？随分呆気ないな"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM204701",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "計算完了、攻撃します"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "Drei、zwei、eins！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "低空へ参ります"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "高度を上げます"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "計算外です……こんなはずじゃ……"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "こちらが計画表です。適宜確認し、行動してください。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "くっ！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "きゃっ！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "了解しました"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "無理ですね"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "こんにちは"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "計算通りです"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "出番ですね、かしこまりました"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "BV　P.194着任いたしました。仕事はしっかり定時に済ませることが私の信条です。残業や追加任務はお断りさせていただいております。どうかご理解いただけますよう、何卒よろしくお願いします。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "出撃します。"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "私の指示に従ってください。"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "どうして……どこで計算を間違えたのでしょう……"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "これで戦術も広がりますね"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "メールを受け取りました、確認してください"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "計算通りの弾道ですね"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "改造、感謝します。正当進化と言った所でしょうか。これでより戦果を挙げることができるでしょう。これからもよろしくお願いします。"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "改造案が解放されました。戦力増加の為にも早急に改造を要求します。"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "予定通りに任務をこなしたまでですが、評価には感謝します。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "なるほど、素晴らしいですね。これならより正確に任務を遂行できるでしょう。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "感謝します"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "この力を含めて再計算します"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "余裕を持って、正確に行動します"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "代理人、予定時刻より数秒遅刻です。遅れを取り戻す為にも早く任務に就いてください。"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "お帰りなさい、予定時刻通りの到着ですね。お疲れ様でした。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "予定通りに帰還しました。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "目標捕捉、破壊します"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "「シュヴァルベ」、あなたを超えて見せます"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "計算通りの行動ですね、読み易くて助かります。"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "私はよく、「お堅い」とか、「融通が利かない」とか言われますが、私自身は別にそうは思いません。予定通りに任務をこなす為に、柔軟な対応が求められることもあります。ですが、急な予定変更もまた遺憾であります。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "自由時間には装備の手入れや次の任務の確認を行うべきでしょう。なぜ他の方々が遊ばれたり、飲酒されたりしているのか、私には理解できかねます。"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "人付き合いは苦手、というかあまり私に話しかけてくれる方がいないのです。そう考えると代理人は変わっていますね。私に構って、楽しいですか？"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "はい？何でしょう"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "予定通りですね。定刻なので帰還します。"
             }
         ]
     },
@@ -13542,7 +13702,7 @@
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "黒十字帝国学連所属、Me262 シュヴァルベ。わざわざ気遣う必要はないわ。あたしに追いつけるDOLLSなどいないし、一人で戦うことはとっくに慣れているから。あたしは勝利をもたらすためにここに来た、代理人。"
+                "CVDetail": "黒十字帝国学連所属、Me262　シュヴァルベ。わざわざ気遣う必要はないわ。あたしに追いつけるDOLLSなどいないし、一人で戦うことはとっくに慣れているから。あたしは勝利をもたらすためにここに来た、代理人。"
             },
             {
                 "CVType": "Launch",

@@ -3462,6 +3462,32 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM20470101",
+        "name": "BV P.194",
+        "description": "BV P.194",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM204701,ARM204702",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20470201",
+        "name": "BV P.194 後期型",
+        "description": "BV P.194 後期型",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM204702",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM20560101",
         "name": "P-40B トマホーク",
         "description": "P-40B トマホーク",
@@ -9640,6 +9666,19 @@
         "description": "City建設初期にあたって、多大なる貢献を果たした技術者として贈られる勲章。前線における災獣との戦闘のみならず、科学技術の分野でも秀でた成果を挙げたCityの住民としての証でもある。\\n特許を1つ獲得する毎にこの勲章を与えられるらしい…",
         "icon": "IM19008",
         "upicon": "IM19008",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
+        "itemid": "IM20",
+        "name": "虹色硬貨",
+        "description": "「<color=#00aab9>特別兵装限定召集</color>」から入手できる虹色に輝く特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます\\n人類への偉大なる貢献に感謝します。何やら深い意味合いが込められているようだ…",
+        "icon": "IM12",
+        "upicon": "IM12",
         "rarity": "5",
         "dropFrom": "",
         "sellPriceStr": "0,0,0,0,0,0",
