@@ -406,6 +406,28 @@
     "time": "0",
     "type": "1"
 }, {
+    "buffName": "会心補正ダウン",
+    "buffid": "BSP014932",
+    "count": "0",
+    "effectType": "critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_critical-",
+    "time": "1",
+    "type": "0"
+}, {
+    "buffName": "対空火力アップ,会心補正アップ",
+    "buffid": "BSP014933",
+    "count": "0",
+    "effectType": "powerAA,critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_power+,Buff_critical+",
+    "time": "1",
+    "type": "1"
+}, {
     "buffName": "捕捉状態アップ",
     "buffid": "BSS3012811",
     "count": "0",
@@ -415,6 +437,17 @@
     "grouplevel": "0",
     "icon": "Buff_lock+",
     "time": "3",
+    "type": "0"
+}, {
+    "buffName": "機動性ダウン",
+    "buffid": "BSP014934",
+    "count": "0",
+    "effectType": "dodge",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge-",
+    "time": "1",
     "type": "0"
 }, {
     "buffName": "機動性アップ",
@@ -437,6 +470,17 @@
     "grouplevel": "0",
     "icon": "Buff_dodge+",
     "time": "0",
+    "type": "1"
+}, {
+    "buffName": "機動性アップ,命中補正アップ",
+    "buffid": "BSP014931",
+    "count": "0",
+    "effectType": "dodge,hit",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge+,Buff_hit+",
+    "time": "1",
     "type": "1"
 }, {
     "buffName": "会心補正アップ,対地火力アップ",
@@ -3464,6 +3508,17 @@
     "time": "1",
     "type": "0"
 }, {
+    "buffName": "会心補正アップ",
+    "buffid": "BSP015011",
+    "count": "0",
+    "effectType": "critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_critical+",
+    "time": "99",
+    "type": "1"
+}, {
     "buffName": "対地火力アップ,対空火力アップ",
     "buffid": "BZS100161",
     "count": "0",
@@ -3507,6 +3562,17 @@
     "icon": "Buff_critical+,Buff_critical+",
     "time": "0",
     "type": "1"
+}, {
+    "buffName": "捕捉状態アップ",
+    "buffid": "BDOL207911",
+    "count": "0",
+    "effectType": "target",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_lock+",
+    "time": "3",
+    "type": "0"
 }, {
     "buffName": "機動性アップ,脅威度アップ",
     "buffid": "EGA0010111",
@@ -3673,6 +3739,17 @@
     "time": "1",
     "type": "1"
 }, {
+    "buffName": "貫通アップ",
+    "buffid": "BDOL207913",
+    "count": "0",
+    "effectType": "armorPenetration",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_power+",
+    "time": "3",
+    "type": "1"
+}, {
     "buffName": "装甲ダウン,機動性ダウン",
     "buffid": "BE6311103",
     "count": "0",
@@ -3683,6 +3760,17 @@
     "icon": "Buff_armor-,Buff_dodge-",
     "time": "2",
     "type": "0"
+}, {
+    "buffName": "貫通アップ",
+    "buffid": "BDOL207912",
+    "count": "0",
+    "effectType": "armorPenetration",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_power+",
+    "time": "3",
+    "type": "1"
 }, {
     "buffName": "装甲ダウン,機動性ダウン",
     "buffid": "BE6311104",
@@ -6907,6 +6995,17 @@
     "time": "0",
     "type": "0"
 }, {
+    "buffName": "対空火力アップ,会心補正アップ",
+    "buffid": "BSP014833",
+    "count": "0",
+    "effectType": "powerAA,critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_power+,Buff_critical+",
+    "time": "1",
+    "type": "1"
+}, {
     "buffName": "ダメージ軽減率ダウン",
     "buffid": "BSP012411",
     "count": "0",
@@ -6916,6 +7015,17 @@
     "grouplevel": "0",
     "icon": "Buff_armor-",
     "time": "0",
+    "type": "0"
+}, {
+    "buffName": "機動性ダウン",
+    "buffid": "BSP014834",
+    "count": "0",
+    "effectType": "dodge",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge-",
+    "time": "1",
     "type": "0"
 }, {
     "buffName": "会心補正アップ",
@@ -6929,6 +7039,17 @@
     "time": "0",
     "type": "1"
 }, {
+    "buffName": "機動性アップ,命中補正アップ",
+    "buffid": "BSP014831",
+    "count": "0",
+    "effectType": "dodge,hit",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge+,Buff_hit+",
+    "time": "1",
+    "type": "1"
+}, {
     "buffName": "ダメージ軽減率ダウン",
     "buffid": "BSP012413",
     "count": "0",
@@ -6938,6 +7059,17 @@
     "grouplevel": "0",
     "icon": "Buff_armor-",
     "time": "0",
+    "type": "0"
+}, {
+    "buffName": "会心補正ダウン",
+    "buffid": "BSP014832",
+    "count": "0",
+    "effectType": "critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_critical-",
+    "time": "1",
     "type": "0"
 }, {
     "buffName": "対地火力アップ",
@@ -7545,6 +7677,17 @@
     "time": "0",
     "type": "1"
 }, {
+    "buffName": "機動性アップ,命中補正アップ",
+    "buffid": "BSP014811",
+    "count": "0",
+    "effectType": "dodge,hit",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge+,Buff_hit+",
+    "time": "1",
+    "type": "1"
+}, {
     "buffName": "機動性アップ",
     "buffid": "BSS3011601",
     "count": "0",
@@ -7578,6 +7721,17 @@
     "time": "0",
     "type": "1"
 }, {
+    "buffName": "会心補正ダウン",
+    "buffid": "BSP014812",
+    "count": "0",
+    "effectType": "critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_critical-",
+    "time": "1",
+    "type": "0"
+}, {
     "buffName": "対地火力ダウン",
     "buffid": "EG000301",
     "count": "0",
@@ -7589,6 +7743,17 @@
     "time": "0",
     "type": "0"
 }, {
+    "buffName": "対空火力アップ,会心補正アップ",
+    "buffid": "BSP014813",
+    "count": "0",
+    "effectType": "powerAA,critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_power+,Buff_critical+",
+    "time": "1",
+    "type": "1"
+}, {
     "buffName": "機動性アップ",
     "buffid": "BE1214105",
     "count": "0",
@@ -7599,6 +7764,17 @@
     "icon": "Buff_dodge+",
     "time": "1",
     "type": "1"
+}, {
+    "buffName": "機動性ダウン",
+    "buffid": "BSP014814",
+    "count": "0",
+    "effectType": "dodge",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge-",
+    "time": "1",
+    "type": "0"
 }, {
     "buffName": "機動性アップ",
     "buffid": "BSP010213",
@@ -7831,6 +8007,17 @@
     "time": "0",
     "type": "1"
 }, {
+    "buffName": "会心補正ダウン",
+    "buffid": "BSP014822",
+    "count": "0",
+    "effectType": "critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_critical-",
+    "time": "1",
+    "type": "0"
+}, {
     "buffName": "対地火力アップ,会心補正アップ",
     "buffid": "BSS3010501",
     "count": "0",
@@ -7840,6 +8027,39 @@
     "grouplevel": "0",
     "icon": "Buff_power+,Buff_critical+",
     "time": "0",
+    "type": "1"
+}, {
+    "buffName": "対空火力アップ,会心補正アップ",
+    "buffid": "BSP014823",
+    "count": "0",
+    "effectType": "powerAA,critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_power+,Buff_critical+",
+    "time": "1",
+    "type": "1"
+}, {
+    "buffName": "機動性ダウン",
+    "buffid": "BSP014824",
+    "count": "0",
+    "effectType": "dodge",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge-",
+    "time": "1",
+    "type": "0"
+}, {
+    "buffName": "機動性アップ,命中補正アップ",
+    "buffid": "BSP014821",
+    "count": "0",
+    "effectType": "dodge,hit",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge+,Buff_hit+",
+    "time": "1",
     "type": "1"
 }, {
     "buffName": "機動性ダウン",
@@ -13386,6 +13606,17 @@
     "time": "0",
     "type": "1"
 }, {
+    "buffName": "対空火力アップ",
+    "buffid": "BSS7012511",
+    "count": "0",
+    "effectType": "powerAA",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_power+",
+    "time": "0",
+    "type": "1"
+}, {
     "buffName": "会心補正アップ",
     "buffid": "BDOL100221",
     "count": "0",
@@ -14431,6 +14662,17 @@
     "time": "0",
     "type": "1"
 }, {
+    "buffName": "機動性ダウン",
+    "buffid": "BSP014914",
+    "count": "0",
+    "effectType": "dodge",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge-",
+    "time": "1",
+    "type": "0"
+}, {
     "buffName": "対地火力アップ",
     "buffid": "BSS3012711",
     "count": "0",
@@ -14453,6 +14695,28 @@
     "time": "99",
     "type": "1"
 }, {
+    "buffName": "機動性アップ,命中補正アップ",
+    "buffid": "BSP014911",
+    "count": "0",
+    "effectType": "dodge,hit",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge+,Buff_hit+",
+    "time": "1",
+    "type": "1"
+}, {
+    "buffName": "会心補正ダウン",
+    "buffid": "BSP014912",
+    "count": "0",
+    "effectType": "critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_critical-",
+    "time": "1",
+    "type": "0"
+}, {
     "buffName": "捕捉状態アップ",
     "buffid": "BSJ1037021",
     "count": "0",
@@ -14463,6 +14727,17 @@
     "icon": "Buff_lock+",
     "time": "2",
     "type": "0"
+}, {
+    "buffName": "対空火力アップ,会心補正アップ",
+    "buffid": "BSP014913",
+    "count": "0",
+    "effectType": "powerAA,critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_power+,Buff_critical+",
+    "time": "1",
+    "type": "1"
 }, {
     "buffName": "捕捉状態アップ",
     "buffid": "BE8411102",
@@ -14662,6 +14937,17 @@
     "time": "99",
     "type": "1"
 }, {
+    "buffName": "機動性アップ,命中補正アップ",
+    "buffid": "BSP014921",
+    "count": "0",
+    "effectType": "dodge,hit",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge+,Buff_hit+",
+    "time": "1",
+    "type": "1"
+}, {
     "buffName": "会心補正アップ",
     "buffid": "BSP011411",
     "count": "0",
@@ -14673,6 +14959,17 @@
     "time": "0",
     "type": "1"
 }, {
+    "buffName": "会心補正ダウン",
+    "buffid": "BSP014922",
+    "count": "0",
+    "effectType": "critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_critical-",
+    "time": "1",
+    "type": "0"
+}, {
     "buffName": "装甲ダウン,脅威度アップ",
     "buffid": "BSS3012701",
     "count": "0",
@@ -14681,6 +14978,28 @@
     "groupid": "30127",
     "grouplevel": "0",
     "icon": "Buff_armor-,Buff_target+",
+    "time": "1",
+    "type": "0"
+}, {
+    "buffName": "対空火力アップ,会心補正アップ",
+    "buffid": "BSP014923",
+    "count": "0",
+    "effectType": "powerAA,critical",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_power+,Buff_critical+",
+    "time": "1",
+    "type": "1"
+}, {
+    "buffName": "機動性ダウン",
+    "buffid": "BSP014924",
+    "count": "0",
+    "effectType": "dodge",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_dodge-",
     "time": "1",
     "type": "0"
 }, {

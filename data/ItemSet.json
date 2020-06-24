@@ -3591,6 +3591,32 @@
         "armsids": "ARM207702",
         "shopad": "",
         "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20790101",
+        "name": "XP-55 アセンダー",
+        "description": "XP-55 アセンダー",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM207901,ARM207902",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20790201",
+        "name": "P-55 アセンダー",
+        "description": "P-55 アセンダー",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM207902",
+        "shopad": "",
+        "itemMiniType": "0"
     }],
     "itemequipments": [{
         "unlockLevels": "5,0,0,0,0",
@@ -11837,6 +11863,19 @@
         "description": "実戦経験に基いて開発した情報構造体。\\n試製震電の機体突破に使用可能。",
         "icon": "DOL2077",
         "upicon": "DOL2077",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM92079",
+        "name": "XP-55 アセンダーの情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nXP-55 アセンダーの機体突破に使用可能。",
+        "icon": "DOL2079",
+        "upicon": "DOL2079",
         "rarity": "5",
         "dropFrom": "SHOP*399",
         "sellPriceStr": "0,0,0,0,0,0",
