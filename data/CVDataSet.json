@@ -7915,6 +7915,166 @@
         ]
     },
     {
+        "ARMSID": "ARM110801",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "一撃でぺしゃんこよ。"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "虫けらって本当にうっとうしいなぁ。"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "膝が……なんか変な音しませんでしたか？"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "ふ～こうするとだいぶ楽だね。"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "敵を甘く見たね……代理人にあわす顔がない……"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "妾に出掛けろと？外の世界を見るのは良いですけど、列車が妾の重量に耐えられるかどうか……"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "痒いぐらいよ！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "平気平気。"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "悪くないですね。"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "いやそれは……"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "ここです、ここ～"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "よーし！"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "あはは、可愛い子ばっかりですね。"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "妾は超重戦車オイ車、あなたの元で働けることを光栄に思います。妾との距離感には気を付けてくださいね、何故なら……妾は自分の力を制御できないので、しょっちゅう事故っちゃうんです。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "出番ですか？よーし！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "安心して。妾がみんなの盾になってあげる。"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "勝敗は戦の常……仕方ない。"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "なるほど、ARMSの使い方が理解できました。"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "代理人、メールが届いていますよ。"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "こんな大きな的にも当てられないの？"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "まさしく鬼に金棒ですね、妾のために用意したような装備です。"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "ほう、もっと強くなれるんですか？強くなり過ぎて困るということはないですからね。"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "この大きな体も捨てたものじゃないですね。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "超重戦車が増えるのは良いことですが……どこに置くつもりなのでしょう？"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "手足の関節が滑らかになった気がします！これからも強化お願いしますね！"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "この体の内側から力が湧き上がって来るような高揚感は……今までなかったものですね。"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "これなら、妾は代理人のためにもっと尽くすことができますね。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "おかえりなさい、代理人。妾、もう随分待ってたんですよ。各部隊の動向と、溜まっている仕事を片付けてくださいね。全部片付いたら、一緒に一杯やりましょう！"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "良い旅でした！妾の心配は杞憂でしたね。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "戦闘よりも、妾にとっては長距離を移動する方が大きな挑戦ですよ。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "どうやら本気を出す時みたいね。"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "ご苦労様、これでお別れよ！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "妾に砕かれることを光栄に思いなさい！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "あなたも見ての通り、妾のこの体は普通に売っている服が入らないんです。合うサイズがないので、特注するしかないんですよ。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "力では誰にも負けない──そう思っていましたけど、マウスさんの腕力には負けてしまいます。妾ももっと鍛錬しないとですね！"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "う～んやはり無理です、どうしても気が乗りませんね。戦闘の時は少し踏ん張ればなんとかなりますが、訓練やダイエットとか気力が必要になることは、妾はどうも苦手で……"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "代理人は妾のことが怖くないんですか？変わっていますね……"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "ははは、お酒でお祝いできたらもっと良い気分なんだけどね。"
+            }
+        ]
+    },
+    {
         "ARMSID": "ARM111801",
         "CVDesArray": [{
                 "CVType": "Attack1",
@@ -14058,11 +14218,11 @@
             },
             {
                 "CVType": "MVP",
-                "CVDetail": "新しい時代の風を起こしてやる！アタラオ"
+                "CVDetail": "新しい時代の風を起こしてやる！"
             },
             {
                 "CVType": "Order",
-                "CVDetail": "私の分身がこんなにたくさん！皆で着せ替えごっこでもしようかな～ワタシブンシンミンナキカ"
+                "CVDetail": "私の分身がこんなにたくさん！皆で着せ替えごっこでもしようかな～"
             },
             {
                 "CVType": "PowerUp1",
@@ -14078,7 +14238,7 @@
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "エーちゃんお帰り！あなたがいない間にさあ、このCityに面白いことた～くさん起きっちゃったよ。うん～どこから話せばいいかな..."
+                "CVDetail": "エーちゃんお帰り！あなたがいない間にさあ、このCityに面白いことた～くさん起きちゃったよ。うん～どこから話せばいいかな..."
             },
             {
                 "CVType": "Recovery",
@@ -14098,7 +14258,7 @@
             },
             {
                 "CVType": "SPSkill",
-                "CVDetail": "最新鋭の技術力を見せてやる！サイシンエイ"
+                "CVDetail": "最新鋭の技術力を見せてやる！"
             },
             {
                 "CVType": "TapBody1",
@@ -14106,7 +14266,7 @@
             },
             {
                 "CVType": "TapBody2",
-                "CVDetail": "分割払いって偉大な発明だよ！楽しんだ後に支払いをしてもいいだなんて実に素晴らしい！アトジツ"
+                "CVDetail": "分割払いって偉大な発明だよ！楽しんだ後に支払いをしてもいいだなんて実に素晴らしい！"
             },
             {
                 "CVType": "TapBody3",

@@ -554,26 +554,26 @@
         "SceneName": "GaChaScene",
         "PanelName": "Default",
         "ShowTopBar": "1",
-        "DisplayName": "突撃！陸上機甲探偵団",
+        "DisplayName": "紅茶に願いを",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
         "ResSlot1": "",
         "HelpPPT": "NONE",
-        "BGM": "0002_Gacha_Love"
+        "BGM": "402_Tanabata"
     },
     {
 
         "SceneName": "GaChaScene",
         "PanelName": "GaChaPanel",
         "ShowTopBar": "1",
-        "DisplayName": "突撃！陸上機甲探偵団",
+        "DisplayName": "紅茶に願いを",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
         "ResSlot1": "",
         "HelpPPT": "NONE",
-        "BGM": "0002_Gacha_Love"
+        "BGM": "402_Tanabata"
     },
     {
         "SceneName": "VoteScene",

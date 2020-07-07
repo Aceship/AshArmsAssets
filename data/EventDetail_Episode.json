@@ -1747,5 +1747,255 @@
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
         "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00610101",
+        "eventName": "紅茶に願いをEP1 -N01",
+        "eventPoint": "EPE00610102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610102",
+        "eventName": "紅茶に願いをEP1 -N02",
+        "eventPoint": "EPE00610103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610103",
+        "eventName": "紅茶に願いをEP1 -N03",
+        "eventPoint": "EPE00610104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610104",
+        "eventName": "紅茶に願いをEP1 -N04",
+        "eventPoint": "EPE00610105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610105",
+        "eventName": "紅茶に願いをEP1 -N05",
+        "eventPoint": "EPE00610201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC0100,IC0200,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610201",
+        "eventName": "紅茶に願いをEP2 -N01",
+        "eventPoint": "EPE00610202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610202",
+        "eventName": "紅茶に願いをEP2 -N02",
+        "eventPoint": "EPE00610203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IM3011,IC6003,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610203",
+        "eventName": "紅茶に願いをEP2 -N03",
+        "eventPoint": "EPE00610204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610204",
+        "eventName": "紅茶に願いをEP2 -N04",
+        "eventPoint": "EPE00610205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IM3011,IC6003,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610205",
+        "eventName": "紅茶に願いをEP2 -N05",
+        "eventPoint": "EPE00620101",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE115",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC0100,IC0200,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620101",
+        "eventName": "紅茶に願いをEP1 -H01",
+        "eventPoint": "EPE00620102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6003,IC6004,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620102",
+        "eventName": "紅茶に願いをEP1 -H02",
+        "eventPoint": "EPE00620103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6004,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620103",
+        "eventName": "紅茶に願いをEP1 -H03",
+        "eventPoint": "EPE00620104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6003,IC6004,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620104",
+        "eventName": "紅茶に願いをEP1 -H04",
+        "eventPoint": "EPE00620105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6004,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620105",
+        "eventName": "紅茶に願いをEP1 -H05",
+        "eventPoint": "EPE00620201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC0100,IC0200,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620201",
+        "eventName": "紅茶に願いをEP2 -H01",
+        "eventPoint": "EPE00620202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6004,IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620202",
+        "eventName": "紅茶に願いをEP2 -H02",
+        "eventPoint": "EPE00620203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620203",
+        "eventName": "紅茶に願いをEP2 -H03",
+        "eventPoint": "EPE00620204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6004,IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620204",
+        "eventName": "紅茶に願いをEP2 -H04",
+        "eventPoint": "EPE00620205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620205",
+        "eventName": "紅茶に願いをEP2 -H05",
+        "eventPoint": "EPE00630101",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE115",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC0100,IC0200,IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00630101",
+        "eventName": "紅茶に願いを -Ex01",
+        "eventPoint": "EPE00630102",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00630102",
+        "eventName": "紅茶に願いを -Ex02",
+        "eventPoint": "EPE00630103",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00630103",
+        "eventName": "紅茶に願いを -Ex03",
+        "eventPoint": "EPE00630104",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00630104",
+        "eventName": "紅茶に願いを -Ex04",
+        "eventPoint": "EPE00630105",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00630105",
+        "eventName": "紅茶に願いを -Ex05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE115",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99983,IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
     }
 ]

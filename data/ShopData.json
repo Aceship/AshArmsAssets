@@ -14,7 +14,7 @@
         "TypeNum": "196",
         "TypeName": "虹色硬貨",
         "StoreType": 3,
-        "UseRes": "IM20",
+        "UseRes": "IM21",
         "Lock": 0,
         "ShowRes": 1,
         "CanBuyMore": 0,
@@ -47,16 +47,16 @@
         "ResDes": ""
     },
     {
-        "TypeNum": "405",
-        "TypeName": "記録テープ",
+        "TypeNum": "406",
+        "TypeName": "紅茶缶",
         "StoreType": 3,
-        "UseRes": "IM99985",
+        "UseRes": "IM99984",
         "Lock": 0,
         "ShowRes": 1,
         "CanBuyMore": 1,
         "TagName": "",
         "ShowType": 1,
-        "ResDes": ""
+        "ResDes": "紅茶の茶葉をふんだんに詰め込み、途轍もなく濃厚な香りを放つ金属製の缶。包装には王家御用達の老舗の名が記されている。\\nセンチュリオンは必要な時に備えて大量の紅茶を備蓄している。彼女との距離を縮めたいのなら、高級茶葉を贈呈するのもいい選択かもしれない。\\n入手方法：<color=#00aab9>メインステージ</color>、<color=#00aab9>デイリー任務</color>"
     },
     {
         "TypeNum": "298",

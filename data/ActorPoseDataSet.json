@@ -23,11 +23,23 @@
     "moveFlag": "0",
     "pose": "2"
 }, {
+    "actorid": "P_104701",
+    "buffList": "BJP011",
+    "describe": "ACE*移动",
+    "moveFlag": "1",
+    "pose": "1"
+}, {
     "actorid": "E_2",
     "buffList": "BPE100",
     "describe": "轰炸机",
     "moveFlag": "1",
     "pose": "1"
+}, {
+    "actorid": "P_104701",
+    "buffList": "BJP012",
+    "describe": "ACE*固守",
+    "moveFlag": "0",
+    "pose": "2"
 }, {
     "actorid": "E_2",
     "buffList": "BPE100",

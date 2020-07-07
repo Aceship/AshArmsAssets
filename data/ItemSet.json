@@ -1019,8 +1019,8 @@
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10040101",
-        "name": "VI号戦車ティーガー初期型",
-        "description": "VI号戦車ティーガー初期型",
+        "name": "Panzer VI 虎式",
+        "description": "Panzer VI 虎式",
         "icon": "",
         "upicon": "",
         "rarity": "1",
@@ -1032,8 +1032,8 @@
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10040201",
-        "name": "VI号戦車ティーガーH型",
-        "description": "VI号戦車ティーガーH型",
+        "name": "Panzer VI 虎式H",
+        "description": "Panzer VI 虎式H",
         "icon": "",
         "upicon": "",
         "rarity": "1",
@@ -1876,6 +1876,19 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10479001",
+        "name": "王家の七夕",
+        "description": "センチュリオンMK.Ⅰ·王家の七夕",
+        "icon": "ARM10479001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM104701,ARM104702",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10520101",
         "name": "ヤークトパンター",
         "description": "ヤークトパンター",
@@ -2497,6 +2510,32 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM108302",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM11080101",
+        "name": "オイ車",
+        "description": "オイ車",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM110801,ARM110802",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM11080201",
+        "name": "オイ車改",
+        "description": "オイ車改",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM110802",
         "shopad": "",
         "itemMiniType": "0"
     }, {
@@ -9700,6 +9739,32 @@
         "constructionGoldCost": "0",
         "bluePrintType": "3"
     }, {
+        "itemid": "IM19009",
+        "name": "空白の絵馬",
+        "description": "木の板に叶えたい願い事を書くことは、短冊と本質的に類似する。通常の短冊より多くの文字が書ける上に、落書きや絵を描くこともできる。代理人、君はこの大きな「絵馬」に、どんな願い事を書くのかな？",
+        "icon": "IM19009",
+        "upicon": "IM19009",
+        "rarity": "4",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
+        "itemid": "IM19010",
+        "name": "朽ちた絵馬",
+        "description": "戦場で回収され、書かれている文字ですら解読不能なまでボロボロになった木片。それでも形状からして絵馬であることは判明できる。これの所有者の願い事は叶ったのだろうか？",
+        "icon": "IM19010",
+        "upicon": "IM19010",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
         "itemid": "IM20",
         "name": "虹色硬貨",
         "description": "「<color=#00aab9>特別兵装限定召集</color>」から入手できる虹色に輝く特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます\\n人類への偉大なる貢献に感謝します。何やら深い意味合いが込められているようだ…",
@@ -9985,6 +10050,19 @@
         "constructionFormula": "",
         "constructionGoldCost": "0",
         "bluePrintType": "2"
+    }, {
+        "itemid": "IM21",
+        "name": "虹色硬貨",
+        "description": "「<color=#00aab9>特別兵装限定召集</color>」から入手できる虹色に輝く特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます\\n人類への偉大なる貢献に感謝します。何やら深い意味合いが込められているようだ…",
+        "icon": "IM12",
+        "upicon": "IM12",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
     }, {
         "itemid": "IM3001",
         "name": "鉄鉱石",
@@ -10643,6 +10721,19 @@
         "upicon": "DOL1037",
         "rarity": "5",
         "dropFrom": "SHOP*399#TXT*禁区周辺-01H",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "5"
+    }, {
+        "itemid": "IM81047",
+        "name": "センチュリオンMK.Ⅰの圧縮情報構成体",
+        "description": "高密度の情報構成体。\\nセンチュリオンMK.Ⅰの上級性能突破に使用可能。\\n数多くの実戦経験から得られる高密度な戦闘情報を逐一記録し、抽出する作業は気が遠くなる程のものだが、これも「エース」になる為の唯一の狭き門。",
+        "icon": "DOL1047",
+        "upicon": "DOL1047",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
         "sellPriceStr": "0,0,0,0,0,0",
         "maxStack": "2147483647",
         "constructionFormula": "",
@@ -11364,6 +11455,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "4"
     }, {
+        "itemid": "IM91108",
+        "name": "オイ車の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nオイ車の機体突破に使用可能。",
+        "icon": "DOL1108",
+        "upicon": "DOL1108",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
         "itemid": "IM91118",
         "name": "富士葵戦場ライブ仕様の情報構成体",
         "description": "実戦経験に基いて開発した情報構造体。\\n富士葵戦場ライブ仕様の機体突破に使用可能。",
@@ -11883,6 +11987,32 @@
         "constructionFormula": "",
         "constructionGoldCost": "0",
         "bluePrintType": "4"
+    }, {
+        "itemid": "IM99983",
+        "name": "短冊",
+        "description": "細長い竹の皮や、紙に願い事を書き記すのは古来から人々が神仏に祈願を行う風習でもある。元々は極東重鋼学連独自の文化であったが、時代の流れに伴いこのような風習がCity全体に浸透するに至った。願いが叶うよう、たくさん集めて神仏に届けよう。\\n期間限定ボックスガチャの利用に必要",
+        "icon": "IM99983",
+        "upicon": "IM99983",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
+        "itemid": "IM99984",
+        "name": "紅茶缶",
+        "description": "紅茶の茶葉をふんだんに詰め込み、途轍もなく濃厚な香りを放つ金属製の缶。包装には王家御用達の老舗の名が記されている。\\nセンチュリオンは必要な時に備えて大量の紅茶を備蓄している。彼女との距離を縮めたいのなら、高級茶葉を贈呈するのもいい選択かもしれない。\\n期間限定特設ショップにて様々なアイテムと交換可能",
+        "icon": "IM99984",
+        "upicon": "IM99984",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
     }, {
         "itemid": "IM99985",
         "name": "記録テープ",

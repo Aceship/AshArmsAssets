@@ -1005,5 +1005,37 @@
         "EventID": "EPE00520102",
         "CheckPost": 2,
         "CheckTag": 3
+    },
+    {
+        "Index": 126,
+        "PlotKey": "Chapter005_01_紅茶に願いを",
+        "PlotType": 0,
+        "EventID": "EPE00610101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 127,
+        "PlotKey": "Chapter005_02_紅茶に願いを",
+        "PlotType": 0,
+        "EventID": "EPE00610105",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 128,
+        "PlotKey": "Chapter005_03_紅茶に願いを",
+        "PlotType": 0,
+        "EventID": "EPE00610202",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 129,
+        "PlotKey": "Chapter005_04_紅茶に願いを",
+        "PlotType": 0,
+        "EventID": "EPE00610205",
+        "CheckPost": 2,
+        "CheckTag": 3
     }
 ]
