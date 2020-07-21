@@ -3656,6 +3656,32 @@
         "armsids": "ARM207902",
         "shopad": "",
         "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20810101",
+        "name": "ハリファックスB MK.Ⅰ",
+        "description": "ハリファックスB MK.Ⅰ",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM208101,ARM208102",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20810201",
+        "name": "ハリファックスB MK.Ⅲ",
+        "description": "ハリファックスB MK.Ⅲ",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM208102",
+        "shopad": "",
+        "itemMiniType": "0"
     }],
     "itemequipments": [{
         "unlockLevels": "5,0,0,0,0",
@@ -11980,6 +12006,19 @@
         "description": "実戦経験に基いて開発した情報構造体。\\nXP-55 アセンダーの機体突破に使用可能。",
         "icon": "DOL2079",
         "upicon": "DOL2079",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM92081",
+        "name": "ハリファックスB MK.Ⅰの情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nハリファックスB MK.Ⅰの機体突破に使用可能。",
+        "icon": "DOL2081",
+        "upicon": "DOL2081",
         "rarity": "5",
         "dropFrom": "SHOP*399",
         "sellPriceStr": "0,0,0,0,0,0",

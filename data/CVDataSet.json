@@ -8366,7 +8366,7 @@
             },
             {
                 "CVType": "SPSkill",
-                "CVDetail": "「日本帝国斯衛軍……篁唯依――」\n「――参るッ！！」"
+                "CVDetail": "「日本帝国斯衛軍……篁唯依――」「――参るッ！！」"
             },
             {
                 "CVType": "TapBody1",
@@ -14262,7 +14262,7 @@
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "あの...ちょっとお金貸していいんですか？最近気に入った服が多すぎてついに...お願い！反省しますから！"
+                "CVDetail": "あの...ちょっとお金貸してくれませんか？最近気に入った服が多すぎてついに...お願い！反省しますから！"
             },
             {
                 "CVType": "TapBody2",
@@ -14283,6 +14283,166 @@
             {
                 "CVType": "Win",
                 "CVDetail": "勝利のポーズ！ってカメラ忘れちゃった、てへ。"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM208101",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "はっ！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "はぁ！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "ラジャー、降下準備"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "ラジャー、上昇準備。"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "ここまでなのか……やはり、わたくしの力が弱すぎたのか。"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "資源回収部隊は出発しました。豊かな物資を見つけられるといいですね。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "ちっ、厄介だな。"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "「ただ」より高い物はないぞ"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "喜んで従いましょう。"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "このことは、どうかご再考を"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "仰せのままに"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "計画を大胆に、行動は丁寧に。"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "お望みのままに、代理人。"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "はじめまして、代理人。わたくしは王立白薔薇学連のハリファックス。此度はあなたの命に従うため、馳せ参じました。及ばずながら、お力になれたら幸いです。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "必ずや、使命を全うしましょう。"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "もっと適切な提案があると思いますが。"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "みっともない、あまりにも惨めだ……"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "レベルが上がった。これで彼女たちとの差も縮めたかな。"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "新たな手紙が届いたようだ、どうぞお目通しを"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "災獣にしては、やかましすぎるのだが"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "これで、あの二人と対等に振る舞えるのでしょうか。"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "わたくしの改造が可能となったようです。このような不躾な頼みを、お願いできますでしょうか。"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "「MVP」？「VIP」より響きがいいな。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "より多くの機体を、より強い戦力を、より多様な任務を。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "強化はいいことです。特に今、実力不足の状況においてな。"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "どこでも誰ても、より強い戦力を求めている。とくに、超えたい者のいるわたくしにとってな。"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "わたくしはこの力に満たされています。あなたのために忠誠を捧げるのがわたくしの光栄です、代理人殿。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "おかえりなさい、代理人。仕事が山積みの中、なにかとわたくしの補佐が必要でしょう。"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "資源回収部隊が帰還しました。みんな、ご苦労様です。速やかに整備し、早く休憩を取りましょう。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "ただいま帰還した。貴重なお時間とらせてなればをいいのですが。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "灼熱の炎で清冽たる死に溺れて貰う。"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "この情熱的な爆弾でお前に火をつけましょう"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "ドーン、ドーン、Boom。"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "確かに、やらなければならないということはそんなに多くはない。しかし、やるべきこととできること、人々からそう期待され、叶えてあげられることもある、そうとは思いませんか？"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "若さ故に画期的なアイディアが出せるわけではないし、年長者は必ずしも経験豊富とも言えない。"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "任務に必要なのは、引き金を引く指と、その弾丸を打つための撃針だ。"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "このような人を撫でる行為になんらかの利益があるとは思えませんが。まあ、あなたのご身分を考えて、こちらとしては反対しませんが。"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズー灰燼戦線ー"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "Splendid、これでまた何歩か追いつけましたね。"
             }
         ]
     }
