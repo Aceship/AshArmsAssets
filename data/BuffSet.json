@@ -197,6 +197,17 @@
     "time": "0",
     "type": "0"
 }, {
+    "buffName": "装甲ダウン,機動性ダウン",
+    "buffid": "BSP015812",
+    "count": "0",
+    "effectType": "armor,dodge",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_armor-,Buff_dodge-",
+    "time": "1",
+    "type": "0"
+}, {
     "buffName": "装甲アップ",
     "buffid": "BZS101602132",
     "count": "0",
@@ -217,6 +228,17 @@
     "grouplevel": "0",
     "icon": "Buff_critical-",
     "time": "0",
+    "type": "0"
+}, {
+    "buffName": "装甲ダウン,機動性ダウン",
+    "buffid": "BSP015813",
+    "count": "0",
+    "effectType": "armor,dodge",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_armor-,Buff_dodge-",
+    "time": "1",
     "type": "0"
 }, {
     "buffName": "命中ダウン,反応ダウン",
@@ -262,6 +284,17 @@
     "icon": "Buff_power+",
     "time": "0",
     "type": "1"
+}, {
+    "buffName": "装甲ダウン,機動性ダウン",
+    "buffid": "BSP015811",
+    "count": "0",
+    "effectType": "armor,dodge",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_armor-,Buff_dodge-",
+    "time": "1",
+    "type": "0"
 }, {
     "buffName": "会心補正アップ,ダメージ軽減率アップ",
     "buffid": "BDOL105212",
@@ -2287,6 +2320,17 @@
     "time": "1",
     "type": "1"
 }, {
+    "buffName": "捕捉状態アップ",
+    "buffid": "T008",
+    "count": "0",
+    "effectType": "target",
+    "groupName": "标记不叠加",
+    "groupid": "100",
+    "grouplevel": "1",
+    "icon": "Buff_lock+",
+    "time": "3",
+    "type": "0"
+}, {
     "buffName": "対地火力アップ",
     "buffid": "BSP002111",
     "count": "0",
@@ -3787,9 +3831,9 @@
     "buffid": "BSP009811",
     "count": "0",
     "effectType": "powerAG",
-    "groupName": "",
-    "groupid": "0",
-    "grouplevel": "0",
+    "groupName": "不叠加",
+    "groupid": "9811",
+    "grouplevel": "1",
     "icon": "Buff_power+",
     "time": "2",
     "type": "1"
@@ -3831,9 +3875,9 @@
     "buffid": "BSP009812",
     "count": "0",
     "effectType": "powerAG",
-    "groupName": "",
-    "groupid": "0",
-    "grouplevel": "0",
+    "groupName": "不叠加",
+    "groupid": "9811",
+    "grouplevel": "1",
     "icon": "Buff_power+",
     "time": "2",
     "type": "1"
@@ -3875,9 +3919,9 @@
     "buffid": "BSP009813",
     "count": "0",
     "effectType": "powerAG",
-    "groupName": "",
-    "groupid": "0",
-    "grouplevel": "0",
+    "groupName": "不叠加",
+    "groupid": "9811",
+    "grouplevel": "1",
     "icon": "Buff_power+",
     "time": "2",
     "type": "1"
@@ -4091,6 +4135,17 @@
     "time": "1",
     "type": "0"
 }, {
+    "buffName": "脅威度ダウン",
+    "buffid": "BSS7012611",
+    "count": "0",
+    "effectType": "targetWeight",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_target-",
+    "time": "1",
+    "type": "1"
+}, {
     "buffName": "命中ダウン,脅威度ダウン",
     "buffid": "BE3114101",
     "count": "0",
@@ -4135,15 +4190,15 @@
     "time": "3",
     "type": "0"
 }, {
-    "buffName": "装甲アップ",
+    "buffName": "対地火力アップ,対空火力アップ,装甲アップ",
     "buffid": "BDOL204412",
     "count": "0",
-    "effectType": "armor",
+    "effectType": "powerAG,powerAA,armor",
     "groupName": "",
     "groupid": "0",
     "grouplevel": "0",
-    "icon": "Buff_armor+",
-    "time": "1",
+    "icon": "Buff_power+,Buff_power+,Buff_armor+",
+    "time": "99",
     "type": "1"
 }, {
     "buffName": "装甲ダウン,対地火力アップ",
@@ -4168,15 +4223,15 @@
     "time": "0",
     "type": "1"
 }, {
-    "buffName": "装甲アップ",
+    "buffName": "対地火力アップ,対空火力アップ,装甲アップ",
     "buffid": "BDOL204411",
     "count": "0",
-    "effectType": "armor",
+    "effectType": "powerAG,powerAA,armor",
     "groupName": "",
     "groupid": "0",
     "grouplevel": "0",
-    "icon": "Buff_armor+",
-    "time": "1",
+    "icon": "Buff_power+,Buff_power+,Buff_armor+",
+    "time": "99",
     "type": "1"
 }, {
     "buffName": "命中補正アップ",
@@ -5146,6 +5201,17 @@
     "icon": "Buff_armor+",
     "time": "0",
     "type": "0"
+}, {
+    "buffName": "対空火力アップ",
+    "buffid": "BSS7012621",
+    "count": "0",
+    "effectType": "powerAA",
+    "groupName": "",
+    "groupid": "701262",
+    "grouplevel": "0",
+    "icon": "Buff_power+",
+    "time": "2",
+    "type": "1"
 }, {
     "buffName": "捕捉状態アップ,機動性ダウン",
     "buffid": "BSP011913",
@@ -9459,6 +9525,17 @@
     "time": "2",
     "type": "1"
 }, {
+    "buffName": "装甲ダウン",
+    "buffid": "BSP015713",
+    "count": "0",
+    "effectType": "armor",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_armor-",
+    "time": "1",
+    "type": "0"
+}, {
     "buffName": "命中補正アップ",
     "buffid": "BSP013533",
     "count": "0",
@@ -9568,6 +9645,28 @@
     "icon": "Buff_power+",
     "time": "0",
     "type": "1"
+}, {
+    "buffName": "装甲ダウン",
+    "buffid": "BSP015711",
+    "count": "0",
+    "effectType": "armor",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_armor-",
+    "time": "1",
+    "type": "0"
+}, {
+    "buffName": "装甲ダウン",
+    "buffid": "BSP015712",
+    "count": "0",
+    "effectType": "armor",
+    "groupName": "",
+    "groupid": "0",
+    "grouplevel": "0",
+    "icon": "Buff_armor-",
+    "time": "1",
+    "type": "0"
 }, {
     "buffName": "クリティカル率アップ",
     "buffid": "BZ00044",
@@ -13764,9 +13863,9 @@
     "buffid": "BSP009711",
     "count": "0",
     "effectType": "powerAG",
-    "groupName": "",
-    "groupid": "0",
-    "grouplevel": "0",
+    "groupName": "不叠加",
+    "groupid": "9711",
+    "grouplevel": "1",
     "icon": "Buff_power+",
     "time": "2",
     "type": "1"
@@ -13775,9 +13874,9 @@
     "buffid": "BSP009712",
     "count": "0",
     "effectType": "powerAG",
-    "groupName": "",
-    "groupid": "0",
-    "grouplevel": "0",
+    "groupName": "不叠加",
+    "groupid": "9711",
+    "grouplevel": "1",
     "icon": "Buff_power+",
     "time": "2",
     "type": "1"
@@ -13786,9 +13885,9 @@
     "buffid": "BSP009713",
     "count": "0",
     "effectType": "powerAG",
-    "groupName": "",
-    "groupid": "0",
-    "grouplevel": "0",
+    "groupName": "不叠加",
+    "groupid": "9711",
+    "grouplevel": "1",
     "icon": "Buff_power+",
     "time": "2",
     "type": "1"

@@ -1037,5 +1037,69 @@
         "EventID": "EPE00610205",
         "CheckPost": 2,
         "CheckTag": 3
+    },
+    {
+        "Index": 130,
+        "PlotKey": "Chapter006_00_幻想の海",
+        "PlotType": 0,
+        "EventID": "EPE00710101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 131,
+        "PlotKey": "Chapter006_01_幻想の海",
+        "PlotType": 0,
+        "EventID": "EPE00710103",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 132,
+        "PlotKey": "Chapter006_02_幻想の海",
+        "PlotType": 0,
+        "EventID": "EPE00710105",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 133,
+        "PlotKey": "Chapter006_03_幻想の海",
+        "PlotType": 0,
+        "EventID": "EPE00710201",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 134,
+        "PlotKey": "Chapter006_04_幻想の海",
+        "PlotType": 0,
+        "EventID": "EPE00710203",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 135,
+        "PlotKey": "Chapter006_05_幻想の海",
+        "PlotType": 0,
+        "EventID": "EPE00710205",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 136,
+        "PlotKey": "Chapter006_06_幻想の海",
+        "PlotType": 0,
+        "EventID": "EPE00710301",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 137,
+        "PlotKey": "Chapter006_07_幻想の海",
+        "PlotType": 0,
+        "EventID": "EPE00710305",
+        "CheckPost": 2,
+        "CheckTag": 3
     }
 ]

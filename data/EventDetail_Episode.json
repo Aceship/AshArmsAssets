@@ -1997,5 +1997,355 @@
         "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
         "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00710101",
+        "eventName": "一夜の海の伝説 - N01",
+        "eventPoint": "EPE00710102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710102",
+        "eventName": "一夜の海の伝説 - N02",
+        "eventPoint": "EPE00710103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "ID0039,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710103",
+        "eventName": "一夜の海の伝説 - N03",
+        "eventPoint": "EPE00710104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710104",
+        "eventName": "一夜の海の伝説 - N04",
+        "eventPoint": "EPE00710105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "ID0040,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710105",
+        "eventName": "一夜の海の伝説 - N05",
+        "eventPoint": "EPE00710201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710201",
+        "eventName": "スイカ、アイス - N01",
+        "eventPoint": "EPE00710202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710202",
+        "eventName": "スイカ、アイス - N02",
+        "eventPoint": "EPE00710203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,ID0041,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710203",
+        "eventName": "スイカ、アイス - N03",
+        "eventPoint": "EPE00710204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710204",
+        "eventName": "スイカ、アイス - N04",
+        "eventPoint": "EPE00710205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,ID0042,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710205",
+        "eventName": "スイカ、アイス - N05",
+        "eventPoint": "EPE00710301",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710301",
+        "eventName": "幽霊船 - N01",
+        "eventPoint": "EPE00710302",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710302",
+        "eventName": "幽霊船 - N02",
+        "eventPoint": "EPE00710303",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,ID0043,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710303",
+        "eventName": "幽霊船 - N03",
+        "eventPoint": "EPE00710304",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,ID0044,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710304",
+        "eventName": "幽霊船 - N04",
+        "eventPoint": "EPE00710305",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,ID0045,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710305",
+        "eventName": "幽霊船 - N05",
+        "eventPoint": "EPE00720101",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE112",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720101",
+        "eventName": "一夜の海の伝説 - H01",
+        "eventPoint": "EPE00720102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720102",
+        "eventName": "一夜の海の伝説 - H02",
+        "eventPoint": "EPE00720103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720103",
+        "eventName": "一夜の海の伝説 - H03",
+        "eventPoint": "EPE00720104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720104",
+        "eventName": "一夜の海の伝説 - H04",
+        "eventPoint": "EPE00720105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720105",
+        "eventName": "一夜の海の伝説 - H05",
+        "eventPoint": "EPE00720201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720201",
+        "eventName": "スイカ、アイス - H01",
+        "eventPoint": "EPE00720202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6003,IC6004,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720202",
+        "eventName": "スイカ、アイス - H02",
+        "eventPoint": "EPE00720203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720203",
+        "eventName": "スイカ、アイス - H03",
+        "eventPoint": "EPE00720204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6003,IC6004,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720204",
+        "eventName": "スイカ、アイス - H04",
+        "eventPoint": "EPE00720205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720205",
+        "eventName": "スイカ、アイス - H05",
+        "eventPoint": "EPE00720301",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720301",
+        "eventName": "幽霊船 - H01",
+        "eventPoint": "EPE00720302",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720302",
+        "eventName": "幽霊船 - H02",
+        "eventPoint": "EPE00720303",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720303",
+        "eventName": "幽霊船 - H03",
+        "eventPoint": "EPE00720304",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720304",
+        "eventName": "幽霊船 - H04",
+        "eventPoint": "EPE00720305",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720305",
+        "eventName": "幽霊船 - H05",
+        "eventPoint": "EPE00730101",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE112",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00730101",
+        "eventName": "幽霊船 - Ex01",
+        "eventPoint": "EPE00730102",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00730102",
+        "eventName": "幽霊船 - Ex02",
+        "eventPoint": "EPE00730103",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00730103",
+        "eventName": "幽霊船 - Ex03",
+        "eventPoint": "EPE00730104",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00730104",
+        "eventName": "幽霊船 - Ex04",
+        "eventPoint": "EPE00730105",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00730105",
+        "eventName": "幽霊船 - Ex05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE112",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
     }
 ]
