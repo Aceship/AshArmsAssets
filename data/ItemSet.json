@@ -2201,6 +2201,19 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10619001",
+        "name": "とざんびより",
+        "description": "セモヴェンテM40·とざんびより",
+        "icon": "ARM10619001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM106101,ARM106102",
+        "shopad": "Skin_ARM10619001",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10620101",
         "name": "V号戦車パンターD型",
         "description": "V号戦車パンターD型",
@@ -2526,6 +2539,32 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10850101",
+        "name": "M3 リー",
+        "description": "M3 リー",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM108501,ARM108502",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10850201",
+        "name": "M3 グラント",
+        "description": "M3 グラント",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM108502",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM11080101",
         "name": "オイ車",
         "description": "オイ車",
@@ -2758,6 +2797,19 @@
         "maxStack": "0",
         "armsids": "ARM200602",
         "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20069001",
+        "name": "山をススメ",
+        "description": "Bf109E-4·山をススメ",
+        "icon": "ARM20069001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM200601,ARM200602",
+        "shopad": "Skin_ARM20069001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20070101",
@@ -3589,6 +3641,32 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM204702",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20520101",
+        "name": "Pe-8",
+        "description": "Pe-8",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM205201,ARM205202",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20520201",
+        "name": "Pe-8 後期型",
+        "description": "Pe-8 後期型",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM205202",
         "shopad": "",
         "itemMiniType": "0"
     }, {
@@ -10921,6 +10999,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "5"
     }, {
+        "itemid": "IM81028",
+        "name": "ヤークトティーガー(P)の圧縮情報構成体",
+        "description": "高密度の情報構成体。\\nヤークトティーガー(P)の上級性能突破に使用可能。\\n数多くの実戦経験から得られる高密度な戦闘情報を逐一記録し、抽出する作業は気が遠くなる程のものだが、これも「エース」になる為の唯一の狭き門。",
+        "icon": "DOL1028",
+        "upicon": "DOL1028",
+        "rarity": "5",
+        "dropFrom": "SHOP*399#TXT*禁区周辺-02H",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "5"
+    }, {
         "itemid": "IM81037",
         "name": "B-4の圧縮情報構成体",
         "description": "高密度の情報構成体。\\nB-4の上級性能突破に使用可能。\\n数多くの実戦経験から得られる高密度な戦闘情報を逐一記録し、抽出する作業は気が遠くなる程のものだが、これも「エース」になる為の唯一の狭き門。",
@@ -11662,6 +11753,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "4"
     }, {
+        "itemid": "IM91085",
+        "name": "M3 リーの情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nM3 リーの機体突破に使用可能。",
+        "icon": "DOL1085",
+        "upicon": "DOL1085",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
         "itemid": "IM91108",
         "name": "オイ車の情報構成体",
         "description": "実戦経験に基いて開発した情報構造体。\\nオイ車の機体突破に使用可能。",
@@ -12143,6 +12247,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "4"
     }, {
+        "itemid": "IM92052",
+        "name": "Pe-8の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nPe-8の機体突破に使用可能。",
+        "icon": "DOL2052",
+        "upicon": "DOL2052",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
         "itemid": "IM92056",
         "name": "P-40Bトマホークの情報構成体",
         "description": "実戦経験に基いて開発した情報構造体。\\nP-40Bトマホークの機体突破に使用可能。",
@@ -12220,6 +12337,19 @@
         "constructionFormula": "",
         "constructionGoldCost": "0",
         "bluePrintType": "4"
+    }, {
+        "itemid": "IM99981",
+        "name": "ドングリ",
+        "description": "山で見るもの、聴くもの、嗅ぐものはどれも素晴らしいものの、記念として持ち帰るのは些か困難。それでも記念として何かしらのものを拾って帰りたい。",
+        "icon": "IM99981",
+        "upicon": "IM99981",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
     }, {
         "itemid": "IM99982",
         "name": "アイス",

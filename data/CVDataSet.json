@@ -7915,6 +7915,166 @@
         ]
     },
     {
+        "ARMSID": "ARM108501",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "攻撃とは、こうするものです！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "悪い子ね！撃てっ！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "さあ、みなさん、先生についてきて！"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "停止してじっくり狙いをつけます！お覚悟を！"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "こんなところで倒れるわけにはいかないのに……。"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "みんな、がんばって！ご褒美用意して待ってるわ！"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "いたた。"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "きゃっ。"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "わかりました。"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "悪手かと。"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "Ｈｅｌｌｏ♪"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "それでは授業を始めます。"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "私ですか？はい、光栄です！"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "みんなのリー先生こと、中戦車、M3リーです！戦術から日々のアレコレまで、わからないことがありましたら、なんでも聞いてくださいね。あ、そうだ。教育ラジオ番組の準レギュラーの件なんですけど……あれ？聞いてないです？"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "みなさん、気を引き締めて参りましょう！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "訓練を思い出して。みなさんなら大丈夫！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "申し訳ございません……。無念です……。"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "成長を実感できるこの瞬間がとても好きなんです。"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "電文が届きました。吉報だと良いですね。"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "よしっ。"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "代理人さん、無事改造完了いたしました。砲塔を王立白薔薇学連風の、いわゆるグラント型にしてみたんですよ。呼び方は「リー」でも「グラント」でも、お好きなほうで構いません。改めて宜しくお願い致しますね、代理人さん。"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "改造が可能になりました。代理人さんのタイミングで実行して下さい。"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "私がＭＶＰ？ありがとうございます、代理人さん！"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "ありがとうございます！戦力が増大致しました。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "強化してくださり、ありがとうございます。"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "強化は大事！しっかりと、ですね。"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "強化を受けると、身体がポカポカするんですよ。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "おはよう、代理人さん♪みなさん、おまちかねですよ。"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "みんな、お疲れさま。ケガはない？"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "本隊、帰還致しました。代理人さんも、お疲れさまです。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "これ以上の狼藉、看過できません！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "お行儀が悪い子！お説教タイムです！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "私たちは強くなる！あなた達の命を背負い、どこまでも！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "……うんうん、頑張ってね。Bye♪……って、あら、代理人さん？ええ、今、T1-D6ちゃんから相談を受けてたんです。彼女、とっても努力家ですよね。すごく真面目で良い子だし。なになに、ガニーくんも彼女のことを応援しているの？うんうん、ありがとう。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "はい、星屑連邦学連のみんなだけでなく、赤色十月同盟学連や王立白薔薇学連のみなさんとも仲良くさせてもらっています。かつての大戦でお世話になった繋がりって感じで、いろいろと教えてもらったり、情報交換してるんですよ。"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "人間のみなさん向けに、ラジオ番組を作ったり、人形劇をしたりしてるんですよ。ええ、人間とDOLLSの垣根をなくす努力も、大事なことだと思うんです。……ん？どうしたの、レナードくん？……ふむふむ。「この人は手伝ってくれないの」って？そうね、では聞いてみましょう。代理人さん、私の活動、手伝ってくれますか？"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "さーて、今日はゲストに代理人さんをお迎え致しまして、お送りします。ラジオ、「教えて！リー先生」、Ｈｅｒｅ ｗｅ ｇｏ！"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "日頃の努力の賜物ですね！"
+            }
+        ]
+    },
+    {
         "ARMSID": "ARM110801",
         "CVDesArray": [{
                 "CVType": "Attack1",
@@ -13643,6 +13803,166 @@
             {
                 "CVType": "Win",
                 "CVDetail": "予定通りですね。定刻なので帰還します。"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM205201",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "力が及ばす限り、必ずや使命を果たしましょう"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "この距離なら、私以外に仕留められる者はいませんね"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "フライト平穏、エンジン異常なし。"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "今のどころ、なんの問題もありません。"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "体が重いなぁ……言うこと聞かないわ。"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "戦場以外でのお仕事でしたら、私に。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "最悪ですね。"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "このままじゃまずいわね。"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "かしこまりました。"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "今一度ご再考ください"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "Привет"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "どうぞご随意に。"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "こちらが今回の任務ですか？かしこまりました。"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "赤色十月同盟学連、Pe-８、着任致しました。数での優位は取れなくとも、任務を全うできますので、私を扱う際に、くれぐれも無益な政治方針に縛られませんように、お願いいたします。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "ご期待には必ず応えいたしましょう。"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "みんなさん、数だけが勝敗を決める決勝点ではありません！目を覚ましなさい、無意味な犠牲をしないでください！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "申し訳ありません、ご期待に添えませんでした"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "もっともっと私を戦闘に加えてください！"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "新しいメールです。どうぞご確認を。"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "こやつらも大したことないんですね。"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "それでも、エンジンの問題は最優先、ですよね。"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "ご心配には及びません。私にとって、嫌な思い出は日常茶飯事ですから。"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "このような誉れをいただけたのも、代理人さんの見事な指揮あってのもの。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "こんなこと、私が居る学連では衝撃的な決断です。私のことをこんなにも重要視してくれて、ありがとうございます。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "ありがとうございます。"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "鋼鉄の奔流に成れずの私ですが、失望だけはさせませんから"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "力強い鼓動を感じます。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "やっと私にも戦いのときが来たのですか。代理人と一緒にあの懐かしい戦場に戻れて、すごく興奮するんだ。"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "いかがしましたか？私が順調に任務を全うしたことが、それほどまでに驚くことでしょうか。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "これこそ勝利を収めた軍団の凱旋なのです。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "焦土になるがいい。"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "これでケリを付けられます！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "心の底に澱みし怒りよ、今こそ爆ぜよ！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "私が所属している学連の噂は、聞き及んでいますよね。政治上の問題で自分の価値が埋もれて、力が発揮できないときは、いつも気持ちが沈んでしまいます。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "Su-2は私と一心同体。だから、彼女の面倒はちゃんと見られているのかと、いつも心配になります。"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "そうですね、昔の私は、こんな性格じゃなかったと思います……でも、もう自分でも思い出せないの。昔の自分が、どんな性格をしていたのかを。"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "代理人さん？なんの御用でしょうか。"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "久々の勝利は、忘れがたい記憶を思い出させますね。"
             }
         ]
     },

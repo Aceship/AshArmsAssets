@@ -340,6 +340,26 @@
     "targetWeight": "0"
 }, {
     "armorPenetrationRate": "0.0",
+    "armorRate": "0.0",
+    "combatskilllist": "SJ10281,SJ10282,SJ10283,SJ10284",
+    "critDamage": "0",
+    "critical": "0",
+    "description": "上級性能突破後、精鋭と化した者にのみ適用されるポジション。\r\n歴戦の老兵にとって、機体は自らの身体のようなもの。このようなポジションの元、DOLLSは難なく専用スキルを駆使し、特定の分野で期待以上の活躍を期待できる。",
+    "dodge": "-10",
+    "groupid": "1",
+    "hit": "5",
+    "hpRate": "0.0",
+    "jobName": "エース型",
+    "jobid": "102801",
+    "luck": "0",
+    "meleeSkillid": "CM101",
+    "mprcRate": "1.0",
+    "playerLevelReq": "1",
+    "powerAARate": "0.0",
+    "powerAGRate": "0.05",
+    "targetWeight": "0"
+}, {
+    "armorPenetrationRate": "0.0",
     "armorRate": "0.05",
     "combatskilllist": "SJ1701,SJ1702,SJ1703,SJ1704",
     "critDamage": "0",

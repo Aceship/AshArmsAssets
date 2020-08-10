@@ -12,8 +12,8 @@
     "state": "1",
     "type": "1",
     "unlockDay": "0",
-    "userItems": "",
-    "userItemsBack": ""
+    "userItems": "IM99981,10",
+    "userItemsBack": "[[IM99981,10]]"
 }, {
     "charid": "",
     "content": "訓練所で3回勝利する",
@@ -28,8 +28,8 @@
     "state": "1",
     "type": "1",
     "unlockDay": "0",
-    "userItems": "IM99992,1",
-    "userItemsBack": "[[IM99992,1]]"
+    "userItems": "IM99992,1|IM99981,20",
+    "userItemsBack": "[[IM99992,1],[IM99981,20]]"
 }, {
     "charid": "",
     "content": "「偵察ステージ」で1回勝利する",
@@ -44,8 +44,8 @@
     "state": "1",
     "type": "1",
     "unlockDay": "0",
-    "userItems": "IC9001,5",
-    "userItemsBack": "[[IC9001,5]]"
+    "userItems": "IC9001,5|IM99981,10",
+    "userItemsBack": "[[IC9001,5],[IM99981,10]]"
 }, {
     "charid": "",
     "content": "「偵察ステージ」で2回勝利する",
@@ -60,8 +60,8 @@
     "state": "1",
     "type": "1",
     "unlockDay": "0",
-    "userItems": "IM90003,1|IM99992,1",
-    "userItemsBack": "[[IM90003,1],[IM99992,1]]"
+    "userItems": "IM90003,1|IM99992,1|IM99981,20",
+    "userItemsBack": "[[IM90003,1],[IM99992,1],[IM99981,20]]"
 }, {
     "charid": "",
     "content": "メインステージで3回勝利する",
@@ -76,8 +76,8 @@
     "state": "1",
     "type": "1",
     "unlockDay": "0",
-    "userItems": "II10002,2",
-    "userItemsBack": "[[II10002,2]]"
+    "userItems": "II10002,2|IM99981,10",
+    "userItemsBack": "[[II10002,2],[IM99981,10]]"
 }, {
     "charid": "",
     "content": "メインステージで5回勝利する",
@@ -92,8 +92,8 @@
     "state": "1",
     "type": "1",
     "unlockDay": "0",
-    "userItems": "IM0008,1|IM99992,1",
-    "userItemsBack": "[[IM0008,1],[IM99992,1]]"
+    "userItems": "IM0008,1|IM99992,1|IM99981,20",
+    "userItemsBack": "[[IM0008,1],[IM99992,1],[IM99981,20]]"
 }, {
     "charid": "",
     "content": "任意のステージでS勝利を3回達成する",
@@ -108,8 +108,8 @@
     "state": "1",
     "type": "1",
     "unlockDay": "0",
-    "userItems": "II10002,2",
-    "userItemsBack": "[[II10002,2]]"
+    "userItems": "II10002,2|IM99981,10",
+    "userItemsBack": "[[II10002,2],[IM99981,10]]"
 }, {
     "charid": "",
     "content": "任意のステージでS勝利を5回達成する",
@@ -124,8 +124,8 @@
     "state": "1",
     "type": "1",
     "unlockDay": "0",
-    "userItems": "IM0008,1|IM99992,1",
-    "userItemsBack": "[[IM0008,1],[IM99992,1]]"
+    "userItems": "IM0008,1|IM99992,1|IM99981,20",
+    "userItemsBack": "[[IM0008,1],[IM99992,1],[IM99981,20]]"
 }, {
     "charid": "",
     "content": "量産工場でDOLLSを3回量産する",
@@ -140,8 +140,8 @@
     "state": "1",
     "type": "1",
     "unlockDay": "0",
-    "userItems": "",
-    "userItemsBack": ""
+    "userItems": "IM99981,20",
+    "userItemsBack": "[[IM99981,20]]"
 }, {
     "charid": "",
     "content": "全てのデイリー任務を達成する※「偵察ステージ」は対象外",
@@ -156,8 +156,8 @@
     "state": "1",
     "type": "1",
     "unlockDay": "0",
-    "userItems": "IM0006,2|IM99992,3",
-    "userItemsBack": "[[IM0006,2],[IM99992,3]]"
+    "userItems": "IM0006,2|IM99992,3|IM99981,20",
+    "userItemsBack": "[[IM0006,2],[IM99992,3],[IM99981,20]]"
 }, {
     "charid": "",
     "content": "訓練所で15回勝利する",
