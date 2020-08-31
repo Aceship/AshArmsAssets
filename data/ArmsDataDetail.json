@@ -2391,6 +2391,32 @@
         "CV": "???"
     },
     {
+        "ArmsID": "ARM207101",
+        "ArmsName": "Yer-2 M-105",
+        "CharName": "Yer-2 M-105",
+        "CharNameSh": "Yer-2 M-105",
+        "ArmsNo": "22S31",
+        "FullName": "Yermolayev Yer-2/M-105",
+        "Academy": "ヴォロネジ学院",
+        "BackData": "赤色十月同盟学連の数少ない爆撃型ARMSの使い手としてはその見た目はごく平凡で体も小さいが、その実力は申し分ない。\n彼女の輝かしい戦績に疑問を呈する者も居るが、日々の戦果はそれらの雑音を瞬く間に掻き消した。絶え間ない思考と努力により己の限界を超え、あとは自身のARMSの改修が課題となる。",
+        "PrototypeID": "ARM207101",
+        "ArmsType": "中爆撃機",
+        "CV": "???"
+    },
+    {
+        "ArmsID": "ARM207102",
+        "ArmsName": "Yer-2 Ach-30B",
+        "CharName": "Yer-2 Ach-30B",
+        "CharNameSh": "Yer-2 Ach-30B",
+        "ArmsNo": "22S32",
+        "FullName": "Yermolayev Yer-2/Ach-30B",
+        "Academy": "イルクーツク学院",
+        "BackData": "前線での経験が増し、戦闘での「過激な」行動による悪影響を避け、自身の性能を最大限に発揮できるようにARMSを調整された。\nこれで彼女はやりたいことを思う存分やることができる。",
+        "PrototypeID": "ARM207101",
+        "ArmsType": "中爆撃機",
+        "CV": "???"
+    },
+    {
         "ArmsID": "ARM207501",
         "ArmsName": "Me262A-1a シュヴァルべ",
         "CharName": "Me262A-1a シュヴァルべ",

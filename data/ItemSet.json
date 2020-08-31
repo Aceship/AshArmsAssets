@@ -2032,6 +2032,19 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10559002",
+        "name": "小さな爆裂魔砲",
+        "description": "グリレH型·小さな爆裂魔砲",
+        "icon": "ARM10559002",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM105501,ARM105502",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10560101",
         "name": "KV-2",
         "description": "KV-2",
@@ -3719,6 +3732,32 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM206002",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20710101",
+        "name": "Yer-2 M-105",
+        "description": "Yer-2 M-105",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM207101,ARM207102",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20710201",
+        "name": "Yer-2 Ach-30B",
+        "description": "Yer-2 Ach-30B",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM207102",
         "shopad": "",
         "itemMiniType": "0"
     }, {
@@ -10349,6 +10388,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "3"
     }, {
+        "itemid": "IM23",
+        "name": "虹色硬貨",
+        "description": "「<color=#00aab9>特別兵装限定召集</color>」から入手できる虹色に輝く特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます\\n人類への偉大なる貢献に感謝します。何やら深い意味合いが込められているようだ…",
+        "icon": "IM12",
+        "upicon": "IM12",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
         "itemid": "IM3001",
         "name": "鉄鉱石",
         "description": "鉄を主成分とする鉱石。\\n陸上ユニットの改造に使用される。\\n\\n災獣が分解した後の物質から入手できるアイテムの一種で、計画的に災獣を殲滅することによって、多くの鉱物を回収できる。",
@@ -10780,7 +10832,7 @@
     }, {
         "itemid": "IM4003",
         "name": "空挺勲章",
-        "description": "居住区から遠く離れた未開の地域への「<color=#00aab9>空挺遠征</color>」に従事した者に贈られる勲章。\\nショップにて様々なアイテムと交換可能。\\n<color=#7C7C7CFF>空挺遠征部隊は長時間主力部隊から離れ、孤軍で未知なる区域の奥地まで探索を行うことが多い。時たま豊富な資源を獲得するものの、危険極まる任務であることに変わりはない。\\n故にこの勲章を持つのは誇るべきこと。</color>\r\n",
+        "description": "居住区から遠く離れた未開の地域への「<color=#00aab9>空挺遠征</color>」に従事した者に贈られる勲章。\\nショップにて様々なアイテムと交換可能。\\n<color=#7C7C7CFF>空挺遠征部隊は長時間主力部隊から離れ、孤軍で未知なる区域の奥地まで探索を行うことが多い。時たま豊富な資源を獲得するものの、危険極まる任務であることに変わりはない。\\n故にこの勲章を持つのは誇るべきこと。</color>",
         "icon": "IM4003",
         "upicon": "IM4003",
         "rarity": "5",
@@ -11005,7 +11057,7 @@
         "icon": "DOL1028",
         "upicon": "DOL1028",
         "rarity": "5",
-        "dropFrom": "SHOP*399#TXT*禁区周辺-02H",
+        "dropFrom": "SHOP*399#TXT*禁区周辺-05H",
         "sellPriceStr": "0,0,0,0,0,0",
         "maxStack": "2147483647",
         "constructionFormula": "",
@@ -11031,7 +11083,7 @@
         "icon": "DOL1047",
         "upicon": "DOL1047",
         "rarity": "5",
-        "dropFrom": "SHOP*399",
+        "dropFrom": "SHOP*399#TXT*禁区周辺-04H",
         "sellPriceStr": "0,0,0,0,0,0",
         "maxStack": "2147483647",
         "constructionFormula": "",
@@ -12278,6 +12330,19 @@
         "description": "実戦経験に基いて開発した情報構造体。\\n雷電一一型の機体突破に使用可能。",
         "icon": "DOL2060",
         "upicon": "DOL2060",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM92071",
+        "name": "Yer-2 M-105の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nYer-2 M-105の機体突破に使用可能。",
+        "icon": "DOL2071",
+        "upicon": "DOL2071",
         "rarity": "5",
         "dropFrom": "SHOP*399",
         "sellPriceStr": "0,0,0,0,0,0",

@@ -161,6 +161,12 @@
     "moveFlag": "1",
     "pose": "2"
 }, {
+    "actorid": "P_102801",
+    "buffList": "BJP012",
+    "describe": "猎虎ACE*固守",
+    "moveFlag": "0",
+    "pose": "2"
+}, {
     "actorid": "P_200102",
     "buffList": "BJP102",
     "describe": "空战小队*固守",
@@ -321,12 +327,6 @@
     "buffList": "BJP162",
     "describe": "战略编队*固守",
     "moveFlag": "1",
-    "pose": "2"
-}, {
-    "actorid": "P_102802",
-    "buffList": "BJP012",
-    "describe": "猎虎ACE*固守",
-    "moveFlag": "0",
     "pose": "2"
 }, {
     "actorid": "P_16",

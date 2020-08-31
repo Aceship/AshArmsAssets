@@ -14287,6 +14287,166 @@
         ]
     },
     {
+        "ARMSID": "ARM207101",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "弾は一発も無駄にはしないよ。"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "今だ！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "低空飛行は危険です。"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "高いところ、好き。"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "私は……こんなミスを犯してしまうなんて……申し訳ない、代理人。"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "遠出なら、私の得意分野なの。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "うっ！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "……計算にミスがッ？！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "異論がないわ。"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "反対します。"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "任せて。"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "作戦はうまく行っていますか？"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "私の所属部隊、もう決まったの？じゃあ、今すぐ荷物をまとめて行きます。"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "……貴方が、代理人？Yer-2、命令に従い、貴方のもとへ配属されました。赤色十月同盟学連と違って、私の真価を発揮できるように、期待しているわ、代理人。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "出撃地、確認しました。念のため、もう一度飛行計画を計算しておきます。"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "計算終了、私が爆撃した座標に攻撃を開始しなさい。"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "こんなはずじゃ……どこで間違っていたの……私の努力が足りなかったからなの？"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "みんなに見せつけてやりたい。今の私はもう昔とは違うって……"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "新たなメールが届いたので、持参したわ。代理人、その切手がいらないのなら、私が貰おう。"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "これだけ？無能ね。"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "燃料の重量を調整すれば、爆弾の搭載量があがる。こんな簡単なこと、なぜ誰も思いつかなかったの？"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "バックパックとウエストバッグ、あとARMSの懸架装置も新しく設計したの。代理人、これらの新装備の起用許可してほしいの。"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "……この視線はどういう意味？疑っているの？これは私の実力、これこそ通常運転よ。疑うなんて許さないわ。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "私がこんなにもいっぱい……待って、代理人。私と同じタイプの子、覗き見してないよね？"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "私はもっとやれるわ。"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "これで、私の実力を証明できるようになるね。"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "これで、残りは披露する舞台を待つだけね。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "おかえりなさい、代理人。遠出からのご帰還なの？今度また機会があったら、私も同行させて。"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "ただいま。随分長く出かけていたけど、まるで一瞬のような感じがするね。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "ただいま戻りました、代理人。作戦報告書はすぐ提出できるようにするね。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "予備の爆弾持ってきてよかった。"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "これはアナタのために特別用意したのよ！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "アナタを倒せば、任務が成功するの！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "……私をちび呼ばわり？愚かね。体が小さくとも、爆弾の搭載量はそこらへんの図体でかいやつには負けないもん。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "出かける前に、持つべきものを整理整頓し、予め用意する。これこそ任務達成の秘訣なの。"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "代理人、顔に赤く腫れてるところがあるね……蚊に刺されたの？……どうぞ。ちょうどバッグにかゆみ止めがあるから使って。体をもっと大事にね。"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "私の許可がない限り、ウエストバッグに触らないでね。下手したら爆発しちゃうかもしれないから。"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ─灰燼戦線─"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "あなたの配下では、スリリングな冒険譚がなく、あるのはただ波風立たない単調な勝利のみ。私から見れば、これこそ指揮がいかに優秀だったことの証拠よ。"
+            }
+        ]
+    },
+    {
         "ARMSID": "ARM207501",
         "CVDesArray": [{
                 "CVType": "Attack1",
