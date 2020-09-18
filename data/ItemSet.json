@@ -1889,6 +1889,32 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10480101",
+        "name": "SU-26",
+        "description": "SU-26",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM104801,ARM104802",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10480201",
+        "name": "SU-5",
+        "description": "SU-5",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM104802",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10520101",
         "name": "ヤークトパンター",
         "description": "ヤークトパンター",
@@ -2331,6 +2357,19 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10659001",
+        "name": "この夏で待ってる",
+        "description": "M41 ウォーカー・ブルドッグ·この夏で待ってる",
+        "icon": "ARM10659001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM106501,ARM106502",
+        "shopad": "Skin_ARM10659001",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10660101",
         "name": "九五式軽戦車 ハ号",
         "description": "九五式軽戦車 ハ号",
@@ -2428,7 +2467,7 @@
         "icon": "ARM10709001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "SHOP*198",
+        "dropFrom": "",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM107001,ARM107002",
@@ -2718,6 +2757,32 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM112102",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM11240101",
+        "name": "T-26",
+        "description": "T-26",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM112401,ARM112402",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM11240201",
+        "name": "T-26E",
+        "description": "T-26E",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM112402",
         "shopad": "",
         "itemMiniType": "0"
     }, {
@@ -3085,6 +3150,19 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM20219003",
+        "name": "祭華の魔王",
+        "description": "Ju87Bスツーカ·祭華の魔王",
+        "icon": "ARM20219003",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM202101,ARM202102",
+        "shopad": "Skin_ARM20219003",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM20230101",
         "name": "ハリケーンMk.I",
         "description": "ハリケーンMk.I",
@@ -3416,7 +3494,7 @@
         "icon": "ARM20369002",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "SHOP*198",
+        "dropFrom": "",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM203601,ARM203602",
@@ -3473,6 +3551,19 @@
         "maxStack": "0",
         "armsids": "ARM203902",
         "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20399001",
+        "name": "夏色の軌跡",
+        "description": "P-47B サンダーボルト·夏色の軌跡",
+        "icon": "ARM20399001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM203901,ARM203902",
+        "shopad": "Skin_ARM20399001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20400101",
@@ -10401,6 +10492,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "3"
     }, {
+        "itemid": "IM24",
+        "name": "虹色硬貨",
+        "description": "「<color=#00aab9>特別兵装限定召集</color>」から入手できる虹色に輝く特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます\\n人類への偉大なる貢献に感謝します。何やら深い意味合いが込められているようだ…",
+        "icon": "IM12",
+        "upicon": "IM12",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
         "itemid": "IM3001",
         "name": "鉄鉱石",
         "description": "鉄を主成分とする鉱石。\\n陸上ユニットの改造に使用される。\\n\\n災獣が分解した後の物質から入手できるアイテムの一種で、計画的に災獣を殲滅することによって、多くの鉱物を回収できる。",
@@ -11532,6 +11636,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "4"
     }, {
+        "itemid": "IM91048",
+        "name": "SU-26の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nSU-26の機体突破に使用可能。",
+        "icon": "DOL1048",
+        "upicon": "DOL1048",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
         "itemid": "IM91052",
         "name": "ヤークトパンタの情報構成体",
         "description": "実戦経験に基いて開発した情報構造体。\\nヤークトパンタの機体突破に使用可能。",
@@ -11875,6 +11992,19 @@
         "description": "実戦経験に基いて開発した情報構造体。\\nアイリスディーナ MiG-21 バラライカの機体突破に使用可能。",
         "icon": "DOL1121",
         "upicon": "DOL1121",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM91124",
+        "name": "T-26の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nT-26の機体突破に使用可能。",
+        "icon": "DOL1124",
+        "upicon": "DOL1124",
         "rarity": "5",
         "dropFrom": "SHOP*399",
         "sellPriceStr": "0,0,0,0,0,0",

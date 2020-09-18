@@ -4555,6 +4555,166 @@
         ]
     },
     {
+        "ARMSID": "ARM104801",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "どかーん"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "Огонь～"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "はいはいよ～。移動するね。"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "わかった。じーっくり狙い撃つよー。"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "ごめんなさ～い"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "資源回収部隊の出発ですー。みなさん、いってらっしゃいませー。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "うー。"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "いたっ。"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "うん"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "なんで？"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "Привет！"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "はいはいよ～"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "わかった。がんばる。"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "SU-26……。赤色十月同盟学連所属の火砲型DOOLS……です。装甲はそこまで厚くないけど、その分、火力がすごい……はず。よろしくね。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "いくぞー。おー。"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "今日はなんだか勝てる気がする。いっくよー"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "次は……負けない……！"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "成長しました。身体は成長……してない……。"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "電文……開ける？"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "ふう。"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "同志代理人、見て。わたし、改造したらSU-5になったよ。……こういうときにどうすればいいか、この前、T-70に教えてもらった。いくよー……SU-5の活躍にこうご期待。しゅびーん。……あれ？違う？手の角度、間違えたかな……。"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "改造が出来るようになったって。"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "わたしがMVP？本当に？……うん、ありがとう。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "発注していたものが届いたみたい。これで戦いが楽になる？"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "ありがとうございます。ちゃんとお礼も言える。"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "強化すれば大人になれる？"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "なんだか身体がポカポカする。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "代理人さん、Доброе утро……ご挨拶、ちゃんとできてた？"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "資源回収部隊の帰還ですー。みんな、おかえりー。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "戻ったよ。ふう。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "はいはいよ～やっつけるよ～"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "うーがー。こっぱみじんにしちゃうぞー。"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "わたし、すっごく本気出す。代理人、見てて。"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "うがー。うがー。……ね？怖いでしょ？……え？むしろ可愛い……？うー、なんでそんなこと言うのー。代理人の意地悪ー。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "うーん……なんで戦ってるのか、かあ……。考えたことなかったかもー。あ、でも、大好きなみんなが怪我するのはイヤ。それが戦う理由……なのかも？"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "ポカポカお日様が好き。暖かいフワフワのお布団でお昼寝するととても気持ちーの。代理人も一緒にお昼寝……する？"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "あうあう。どうして頭を撫でるの？わたし、なにかしたっけ？"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "うん、やった。勝ったね。"
+            }
+        ]
+    },
+    {
         "ARMSID": "ARM105201",
         "CVDesArray": [{
                 "CVType": "Attack1",
@@ -8871,6 +9031,166 @@
             {
                 "CVType": "Win",
                 "CVDetail": "「諸君、ご苦労だった」"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM112401",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "これでも喰らえぇ！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "あたしの凄さ、思い知ったの？"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "進め、進め、進んじゃえ！"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "よぉし、ここで敵を殲滅するのよ！"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "みんな、ねぇ、みんな、あたしを見捨てないで……代理人、お願い、一人にしないでよ……"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "遠出なの？遠距離移動は嫌いだわ……えっ？列車に乗れるの？じゃあ問題ないわ。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "ひっ！せ、攻めてきちゃったの？！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "ど、どどっどどうしよう？？？"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "あたしもそう思うわ！"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "なにをバカなこと言っているの？"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "自信を持って！元気を出して！"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "数の多さを活用するのよ！"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "うん？新しい部隊に整備整頓が必要なの？まっかせといて！"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "あたしはT-26、あなたが代理人なのね？よろしい！今回あたしがここにやってきたのはね、あなたに輝く道を示すためなのよ。あたしの言う通りにやれば、勝利なんてお手の物よ。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "もう出撃のお時間？んいっしょ！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "やるじゃない！全てあたしの計画の内よ〜！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "あ、あたしの計画が……どうしてこんなことに？！"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "たしかにあたしは軽戦車だけど、経験豊富な軽戦車なのよ！"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "新しいメールが届いたわよ、代理人！気づかなかったの？しょうがないわね。"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "ひゅうー、あっぶなかった。"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "分厚い装甲、圧倒的な火力！あたしのARMSは軽戦車を凌駕する水準のものよ！"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "まさかあたしにも改造案があるなんて……代理人、これほどの重要事項、最優先に通しておかないとだめだよ。"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "ふふふふん！数も実力の内なのよ。これで軽戦車の実力を疑うやつなんて、もういないわよね！"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "えへへへ、数はいくらあっても足りないぐらいに思うわ。もっともっと分身を作ろうね、代理人？"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "これで、みんながあたしをもっと信頼できるようになるわよね？"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "火力と装甲、どちらを改良すべきなのかしら……迷っちゃうわね。"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "こんなにも改造を繰り返して、わたしはまだあたしのままなのかしら？"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "代理人、どこに行ったの？日課をサボっちゃうなんて、子供みたいに無責任だわ！"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "もう終わり？一瞬だったみたいだわ。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "ふぁああ（あくび）……もうこんな時間？予定通りの時間で宿舎のベットで寝たいわ。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "撃って撃って撃ちまくってて！災獣を弾幕で喰らい尽くすわよ！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "戦争って、やはり数が物を言うわよね〜！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "一心団結の赤色十月同盟を前にして、アンタたちに勝ち目はないわ！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "軽型ARMSたちが自分のことしか考えていないし、連携が取られてないから、こんなめちゃくちゃな戦闘になっちゃうのよ。まったく、赤色十月同盟学連に恥かかせちゃって！でもこのあたし、T-26が来たからには、こんな乱れた状況を叩き直してあげるからね！"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "まったく、この子達ったら、心配ばかりかけさせちゃうんだから。でもあたしが居てよかったわよね。でないと、赤色十月同盟学連が今頃どうなっているのやら。"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "ほらぁ、ネクタイが曲がってるわよ。もう、整えてあげるわよ。代理人って、まるでSU-26みたいじゃない、自分の世話もできてないんだから。"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "べたべた触らないでよ〜！髪は女の子の命なんだから！"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "ほらね、全てはあたしの計画通りよ。完璧な勝利ね。"
             }
         ]
     },
