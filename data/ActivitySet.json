@@ -51,6 +51,19 @@
     "returnNeedTime": "0",
     "startDatetimeT": "1593547199000"
 }, {
+    "activityContent": "期間限定イベント    「リトルウィッチグリレ」",
+    "activityId": "17",
+    "activityRealId": "3*66",
+    "activityType": "3",
+    "activityTypeId": "66",
+    "endDatetimeT": "1600145999000",
+    "imgIndex": "Event_EQ18",
+    "index": "0",
+    "position": "",
+    "returnDuration": "0",
+    "returnNeedTime": "0",
+    "startDatetimeT": "1598817599000"
+}, {
     "activityContent": "期間限定イベント    「黒十字の新学期」",
     "activityId": "5",
     "activityRealId": "3*81",
@@ -194,18 +207,18 @@
     "returnNeedTime": "0",
     "startDatetimeT": "1591300799000"
 }, {
-    "activityContent": "期間限定イベント    「リトルウィッチグリレ」",
-    "activityId": "17",
-    "activityRealId": "3*66",
+    "activityContent": "期間限定イベント    「零戦のうた」",
+    "activityId": "18",
+    "activityRealId": "3*65",
     "activityType": "3",
-    "activityTypeId": "66",
-    "endDatetimeT": "1600145999000",
-    "imgIndex": "Event_EQ18",
+    "activityTypeId": "65",
+    "endDatetimeT": "1602565199000",
+    "imgIndex": "Event_Quest04",
     "index": "1",
     "position": "",
     "returnDuration": "0",
     "returnNeedTime": "0",
-    "startDatetimeT": "1598817599000"
+    "startDatetimeT": "1578513599000"
 }, {
     "activityContent": "期間限定イベント    「宝を訪ねて五千里」",
     "activityId": "16",
