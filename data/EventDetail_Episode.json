@@ -1,0 +1,2351 @@
+[{
+        "eventID": "EPE00110101",
+        "eventName": "廃都辺境01-N",
+        "eventPoint": "EPE00110102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110102",
+        "eventName": "廃都辺境02-N",
+        "eventPoint": "EPE00110103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110103",
+        "eventName": "廃都辺境03-N",
+        "eventPoint": "EPE00110104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110104",
+        "eventName": "廃都辺境04-N",
+        "eventPoint": "EPE00110105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110105",
+        "eventName": "廃都辺境05-N",
+        "eventPoint": "EPE00110106",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110106",
+        "eventName": "廃都辺境06-N",
+        "eventPoint": "EPE00110107",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110107",
+        "eventName": "廃都辺境07-N",
+        "eventPoint": "EPE00110108",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110108",
+        "eventName": "廃都辺境08-N",
+        "eventPoint": "EPE00110109",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110109",
+        "eventName": "廃都辺境09-N",
+        "eventPoint": "EPE00110110",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110110",
+        "eventName": "廃都辺境10-N",
+        "eventPoint": "EPE00110201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110201",
+        "eventName": "中央地域01-N",
+        "eventPoint": "EPE00110202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110202",
+        "eventName": "中央地域02-N",
+        "eventPoint": "EPE00110203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110203",
+        "eventName": "中央地域03-N",
+        "eventPoint": "EPE00110204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110204",
+        "eventName": "中央地域04-N",
+        "eventPoint": "EPE00110205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110205",
+        "eventName": "中央地域05-N",
+        "eventPoint": "EPE00110206",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110206",
+        "eventName": "中央地域06-N",
+        "eventPoint": "EPE00110207",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110207",
+        "eventName": "中央地域07-N",
+        "eventPoint": "EPE00110208",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110208",
+        "eventName": "中央地域08-N",
+        "eventPoint": "EPE00110209",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110209",
+        "eventName": "中央地域09-N",
+        "eventPoint": "EPE00110210",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110210",
+        "eventName": "中央地域10-N",
+        "eventPoint": "EPE00110301",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IM3011,IC6003,II10001",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110301",
+        "eventName": "巣穴最深部01-N",
+        "eventPoint": "EPE00110302",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110302",
+        "eventName": "巣穴最深部02-N",
+        "eventPoint": "EPE00110303",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110303",
+        "eventName": "巣穴最深部03-N",
+        "eventPoint": "EPE00110304",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110304",
+        "eventName": "巣穴最深部04-N",
+        "eventPoint": "EPE00110305",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110305",
+        "eventName": "巣穴最深部05-N",
+        "eventPoint": "EPE00110306",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110306",
+        "eventName": "巣穴最深部06-N",
+        "eventPoint": "EPE00110307",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110307",
+        "eventName": "巣穴最深部07-N",
+        "eventPoint": "EPE00110308",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110308",
+        "eventName": "巣穴最深部08-N",
+        "eventPoint": "EPE00110309",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110309",
+        "eventName": "巣穴最深部09-N",
+        "eventPoint": "EPE00110310",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00110310",
+        "eventName": "巣穴最深部10-N",
+        "eventPoint": "EPE00120101",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6003,IC6004,II10002",
+        "bgm": "304_BGM_Crystal_Throne_Full"
+    },
+    {
+        "eventID": "EPE00120101",
+        "eventName": "廃都辺境01-H",
+        "eventPoint": "EPE00120102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120102",
+        "eventName": "廃都辺境02-H",
+        "eventPoint": "EPE00120103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120103",
+        "eventName": "廃都辺境03-H",
+        "eventPoint": "EPE00120104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120104",
+        "eventName": "廃都辺境04-H",
+        "eventPoint": "EPE00120105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120105",
+        "eventName": "廃都辺境05-H",
+        "eventPoint": "EPE00120106",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120106",
+        "eventName": "廃都辺境06-H",
+        "eventPoint": "EPE00120107",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120107",
+        "eventName": "廃都辺境07-H",
+        "eventPoint": "EPE00120108",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120108",
+        "eventName": "廃都辺境08-H",
+        "eventPoint": "EPE00120109",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120109",
+        "eventName": "廃都辺境09-H",
+        "eventPoint": "EPE00120110",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120110",
+        "eventName": "廃都辺境10-H",
+        "eventPoint": "EPE00120201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE116",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120201",
+        "eventName": "中央地域01-H",
+        "eventPoint": "EPE00120202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120202",
+        "eventName": "中央地域02-H",
+        "eventPoint": "EPE00120203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120203",
+        "eventName": "中央地域03-H",
+        "eventPoint": "EPE00120204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120204",
+        "eventName": "中央地域04-H",
+        "eventPoint": "EPE00120205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120205",
+        "eventName": "中央地域05-H",
+        "eventPoint": "EPE00120206",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120206",
+        "eventName": "中央地域06-H",
+        "eventPoint": "EPE00120207",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120207",
+        "eventName": "中央地域07-H",
+        "eventPoint": "EPE00120208",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120208",
+        "eventName": "中央地域08-H",
+        "eventPoint": "EPE00120209",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120209",
+        "eventName": "中央地域09-H",
+        "eventPoint": "EPE00120210",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120210",
+        "eventName": "中央地域10-H",
+        "eventPoint": "EPE00120301",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE126",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120301",
+        "eventName": "巣穴最深部01-H",
+        "eventPoint": "EPE00120302",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120302",
+        "eventName": "巣穴最深部02-H",
+        "eventPoint": "EPE00120303",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120303",
+        "eventName": "巣穴最深部03-H",
+        "eventPoint": "EPE00120304",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120304",
+        "eventName": "巣穴最深部04-H",
+        "eventPoint": "EPE00120305",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120305",
+        "eventName": "巣穴最深部05-H",
+        "eventPoint": "EPE00120306",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120306",
+        "eventName": "巣穴最深部06-H",
+        "eventPoint": "EPE00120307",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120307",
+        "eventName": "巣穴最深部07-H",
+        "eventPoint": "EPE00120308",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120308",
+        "eventName": "巣穴最深部08-H",
+        "eventPoint": "EPE00120309",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120309",
+        "eventName": "巣穴最深部09-H",
+        "eventPoint": "EPE00120310",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00120310",
+        "eventName": "巣穴最深部10-H",
+        "eventPoint": "EPE00130101",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "304_BGM_Crystal_Throne_Full"
+    },
+    {
+        "eventID": "EPE00130101",
+        "eventName": "巣穴最深部01-Ex",
+        "eventPoint": "EPE00130102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00130102",
+        "eventName": "巣穴最深部02-Ex",
+        "eventPoint": "EPE00130103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00130103",
+        "eventName": "巣穴最深部03-Ex",
+        "eventPoint": "EPE00130104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00130104",
+        "eventName": "巣穴最深部04-Ex",
+        "eventPoint": "EPE00130105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00130105",
+        "eventName": "巣穴最深部05-Ex",
+        "eventPoint": "EPE00130106",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00130106",
+        "eventName": "巣穴最深部06-Ex",
+        "eventPoint": "EPE00130107",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00130107",
+        "eventName": "巣穴最深部07-Ex",
+        "eventPoint": "EPE00130108",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00130108",
+        "eventName": "巣穴最深部08-Ex",
+        "eventPoint": "EPE00130109",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00130109",
+        "eventName": "巣穴最深部09-Ex",
+        "eventPoint": "EPE00130110",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "207_Battle_Nightmare"
+    },
+    {
+        "eventID": "EPE00130110",
+        "eventName": "巣穴最深部10-Ex",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE136",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "304_BGM_Crystal_Throne_Full"
+    },
+    {
+        "eventID": "EPE00210101",
+        "eventName": "Event V-Day A01-N",
+        "eventPoint": "EPE00210102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00210102",
+        "eventName": "Event V-Day A02-N",
+        "eventPoint": "EPE00210103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00210103",
+        "eventName": "Event V-Day A03-N",
+        "eventPoint": "EPE00210104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00210104",
+        "eventName": "Event V-Day A04-N",
+        "eventPoint": "EPE00210105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00210105",
+        "eventName": "Event V-Day A05-N",
+        "eventPoint": "EPE00210201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00210201",
+        "eventName": "Event V-Day B01-N",
+        "eventPoint": "EPE00210202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EPE00210202",
+        "eventName": "Event V-Day B02-N",
+        "eventPoint": "EPE00210203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EPE00210203",
+        "eventName": "Event V-Day B03-N",
+        "eventPoint": "EPE00210204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EPE00210204",
+        "eventName": "Event V-Day B04-N",
+        "eventPoint": "EPE00210205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EPE00210205",
+        "eventName": "Event V-Day B05-N",
+        "eventPoint": "EPE00210301",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EPE00210301",
+        "eventName": "Event V-Day C01-N",
+        "eventPoint": "EPE00210302",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE101",
+        "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00210302",
+        "eventName": "Event V-Day C02-N",
+        "eventPoint": "EPE00210303",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE101",
+        "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00210303",
+        "eventName": "Event V-Day C03-N",
+        "eventPoint": "EPE00210304",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE101",
+        "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00210304",
+        "eventName": "Event V-Day C04-N",
+        "eventPoint": "EPE00210305",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE101",
+        "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00210305",
+        "eventName": "Event V-Day C05-N",
+        "eventPoint": "EPE00220101",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE101",
+        "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00220101",
+        "eventName": "Event V-Day A01-H",
+        "eventPoint": "EPE00220102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00220102",
+        "eventName": "Event V-Day A02-H",
+        "eventPoint": "EPE00220103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00220103",
+        "eventName": "Event V-Day A03-H",
+        "eventPoint": "EPE00220104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00220104",
+        "eventName": "Event V-Day A04-H",
+        "eventPoint": "EPE00220105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00220105",
+        "eventName": "Event V-Day A05-H",
+        "eventPoint": "EPE00220201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00220201",
+        "eventName": "Event V-Day B01-H",
+        "eventPoint": "EPE00220202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EPE00220202",
+        "eventName": "Event V-Day B02-H",
+        "eventPoint": "EPE00220203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EPE00220203",
+        "eventName": "Event V-Day B03-H",
+        "eventPoint": "EPE00220204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EPE00220204",
+        "eventName": "Event V-Day B04-H",
+        "eventPoint": "EPE00220205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EPE00220205",
+        "eventName": "Event V-Day B05-H",
+        "eventPoint": "EPE00220301",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EPE00220301",
+        "eventName": "Event V-Day C01-H",
+        "eventPoint": "EPE00220302",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE101",
+        "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00220302",
+        "eventName": "Event V-Day C02-H",
+        "eventPoint": "EPE00220303",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE101",
+        "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00220303",
+        "eventName": "Event V-Day C03-H",
+        "eventPoint": "EPE00220304",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE101",
+        "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00220304",
+        "eventName": "Event V-Day C04-H",
+        "eventPoint": "EPE00220305",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE101",
+        "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00220305",
+        "eventName": "Event V-Day C05-H",
+        "eventPoint": "EPE00230101",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE101",
+        "describe": "環境：雪原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00230101",
+        "eventName": "Event V-Day Ex01",
+        "eventPoint": "EPE00230102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE111",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00230102",
+        "eventName": "Event V-Day Ex02",
+        "eventPoint": "EPE00230103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE111",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00230103",
+        "eventName": "Event V-Day Ex03",
+        "eventPoint": "EPE00230104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE111",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00230104",
+        "eventName": "Event V-Day Ex04",
+        "eventPoint": "EPE00230105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE111",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00230105",
+        "eventName": "Event V-Day Ex05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE111",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00410101",
+        "eventName": "破滅せし日常01",
+        "eventPoint": "EPE00410102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410102",
+        "eventName": "破滅せし日常02",
+        "eventPoint": "EPE00410103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410103",
+        "eventName": "破滅せし日常03",
+        "eventPoint": "EPE00410104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410104",
+        "eventName": "破滅せし日常04",
+        "eventPoint": "EPE00410105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410105",
+        "eventName": "破滅せし日常05",
+        "eventPoint": "EPE00410201",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00410201",
+        "eventName": "極東は燃えているか01",
+        "eventPoint": "EPE00410202",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410202",
+        "eventName": "極東は燃えているか02",
+        "eventPoint": "EPE00410203",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410203",
+        "eventName": "極東は燃えているか03",
+        "eventPoint": "EPE00410204",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410204",
+        "eventName": "極東は燃えているか04",
+        "eventPoint": "EPE00410205",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410205",
+        "eventName": "極東は燃えているか05",
+        "eventPoint": "EPE00410301",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00410301",
+        "eventName": "反撃の角笛01",
+        "eventPoint": "EPE00410302",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410302",
+        "eventName": "反撃の角笛02",
+        "eventPoint": "EPE00410303",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410303",
+        "eventName": "反撃の角笛03",
+        "eventPoint": "EPE00410304",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410304",
+        "eventName": "反撃の角笛04",
+        "eventPoint": "EPE00410305",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00410305",
+        "eventName": "反撃の角笛05",
+        "eventPoint": "EPE00420101",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00420101",
+        "eventName": "破滅せし日常01",
+        "eventPoint": "EPE00420102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420102",
+        "eventName": "破滅せし日常02",
+        "eventPoint": "EPE00420103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420103",
+        "eventName": "破滅せし日常03",
+        "eventPoint": "EPE00420104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420104",
+        "eventName": "破滅せし日常04",
+        "eventPoint": "EPE00420105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420105",
+        "eventName": "破滅せし日常05",
+        "eventPoint": "EPE00420201",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00420201",
+        "eventName": "極東は燃えているか01",
+        "eventPoint": "EPE00420202",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420202",
+        "eventName": "極東は燃えているか02",
+        "eventPoint": "EPE00420203",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420203",
+        "eventName": "極東は燃えているか03",
+        "eventPoint": "EPE00420204",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420204",
+        "eventName": "極東は燃えているか04",
+        "eventPoint": "EPE00420205",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420205",
+        "eventName": "極東は燃えているか05",
+        "eventPoint": "EPE00420301",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00420301",
+        "eventName": "反撃の角笛01",
+        "eventPoint": "EPE00420302",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420302",
+        "eventName": "反撃の角笛02",
+        "eventPoint": "EPE00420303",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420303",
+        "eventName": "反撃の角笛03",
+        "eventPoint": "EPE00420304",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420304",
+        "eventName": "反撃の角笛04",
+        "eventPoint": "EPE00420305",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00420305",
+        "eventName": "反撃の角笛05",
+        "eventPoint": "EPE00430101",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00430101",
+        "eventName": "夜明け前の長夜01",
+        "eventPoint": "EPE00430102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00430102",
+        "eventName": "夜明け前の長夜02",
+        "eventPoint": "EPE00430103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00430103",
+        "eventName": "夜明け前の長夜03",
+        "eventPoint": "EPE00430104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00430104",
+        "eventName": "夜明け前の長夜04",
+        "eventPoint": "EPE00430105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE105",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EPE00430105",
+        "eventName": "夜明け前の長夜05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE115",
+        "describe": "環境：森丘\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EPE00510101",
+        "eventName": "ようこそ、Cityへ01",
+        "eventPoint": "EPE00510102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510102",
+        "eventName": "ようこそ、Cityへ02",
+        "eventPoint": "EPE00510103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510103",
+        "eventName": "ようこそ、Cityへ03",
+        "eventPoint": "EPE00510104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510104",
+        "eventName": "ようこそ、Cityへ04",
+        "eventPoint": "EPE00510105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510105",
+        "eventName": "ようこそ、Cityへ05",
+        "eventPoint": "EPE00510201",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510201",
+        "eventName": "戦術機、大地に立つ01",
+        "eventPoint": "EPE00510202",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510202",
+        "eventName": "戦術機、大地に立つ02",
+        "eventPoint": "EPE00510203",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510203",
+        "eventName": "戦術機、大地に立つ03",
+        "eventPoint": "EPE00510204",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510204",
+        "eventName": "戦術機、大地に立つ04",
+        "eventPoint": "EPE00510205",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_2"
+    },
+    {
+        "eventID": "EPE00510205",
+        "eventName": "戦術機、大地に立つ05",
+        "eventPoint": "EPE00510301",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00510301",
+        "eventName": "ハイヴ攻略作戦01",
+        "eventPoint": "EPE00510302",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00510302",
+        "eventName": "ハイヴ攻略作戦02",
+        "eventPoint": "EPE00510303",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00510303",
+        "eventName": "ハイヴ攻略作戦03",
+        "eventPoint": "EPE00510304",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00510304",
+        "eventName": "ハイヴ攻略作戦04",
+        "eventPoint": "EPE00510305",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00510305",
+        "eventName": "ハイヴ攻略作戦05",
+        "eventPoint": "EPE00520101",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00520101",
+        "eventName": "ようこそ、Cityへ01",
+        "eventPoint": "EPE00520102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520102",
+        "eventName": "ようこそ、Cityへ02",
+        "eventPoint": "EPE00520103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520103",
+        "eventName": "ようこそ、Cityへ03",
+        "eventPoint": "EPE00520104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520104",
+        "eventName": "ようこそ、Cityへ04",
+        "eventPoint": "EPE00520105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520105",
+        "eventName": "ようこそ、Cityへ05",
+        "eventPoint": "EPE00520201",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00520201",
+        "eventName": "戦術機、大地に立つ01",
+        "eventPoint": "EPE00520202",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520202",
+        "eventName": "戦術機、大地に立つ02",
+        "eventPoint": "EPE00520203",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520203",
+        "eventName": "戦術機、大地に立つ03",
+        "eventPoint": "EPE00520204",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520204",
+        "eventName": "戦術機、大地に立つ04",
+        "eventPoint": "EPE00520205",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520205",
+        "eventName": "戦術機、大地に立つ05",
+        "eventPoint": "EPE00520301",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00520301",
+        "eventName": "ハイヴ攻略作戦01",
+        "eventPoint": "EPE00520302",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520302",
+        "eventName": "ハイヴ攻略作戦02",
+        "eventPoint": "EPE00520303",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520303",
+        "eventName": "ハイヴ攻略作戦03",
+        "eventPoint": "EPE00520304",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520304",
+        "eventName": "ハイヴ攻略作戦04",
+        "eventPoint": "EPE00520305",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00520305",
+        "eventName": "ハイヴ攻略作戦05",
+        "eventPoint": "EPE00530101",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00530101",
+        "eventName": "ハイヴ攻略作戦Ex-01",
+        "eventPoint": "EPE00530102",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00530102",
+        "eventName": "ハイヴ攻略作戦Ex-02",
+        "eventPoint": "EPE00530103",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00530103",
+        "eventName": "ハイヴ攻略作戦Ex-03",
+        "eventPoint": "EPE00530104",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00530104",
+        "eventName": "ハイヴ攻略作戦Ex-04",
+        "eventPoint": "EPE00530105",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE101",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "Muvluv_3"
+    },
+    {
+        "eventID": "EPE00530105",
+        "eventName": "ハイヴ攻略作戦Ex-05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡",
+        "landEsid": "SE111",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "Muvluv_5"
+    },
+    {
+        "eventID": "EPE00610101",
+        "eventName": "紅茶に願いをEP1 -N01",
+        "eventPoint": "EPE00610102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610102",
+        "eventName": "紅茶に願いをEP1 -N02",
+        "eventPoint": "EPE00610103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610103",
+        "eventName": "紅茶に願いをEP1 -N03",
+        "eventPoint": "EPE00610104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610104",
+        "eventName": "紅茶に願いをEP1 -N04",
+        "eventPoint": "EPE00610105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610105",
+        "eventName": "紅茶に願いをEP1 -N05",
+        "eventPoint": "EPE00610201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610201",
+        "eventName": "紅茶に願いをEP2 -N01",
+        "eventPoint": "EPE00610202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610202",
+        "eventName": "紅茶に願いをEP2 -N02",
+        "eventPoint": "EPE00610203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610203",
+        "eventName": "紅茶に願いをEP2 -N03",
+        "eventPoint": "EPE00610204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610204",
+        "eventName": "紅茶に願いをEP2 -N04",
+        "eventPoint": "EPE00610205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IC6003,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00610205",
+        "eventName": "紅茶に願いをEP2 -N05",
+        "eventPoint": "EPE00620101",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE115",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620101",
+        "eventName": "紅茶に願いをEP1 -H01",
+        "eventPoint": "EPE00620102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620102",
+        "eventName": "紅茶に願いをEP1 -H02",
+        "eventPoint": "EPE00620103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620103",
+        "eventName": "紅茶に願いをEP1 -H03",
+        "eventPoint": "EPE00620104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6003,IC6004,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620104",
+        "eventName": "紅茶に願いをEP1 -H04",
+        "eventPoint": "EPE00620105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620105",
+        "eventName": "紅茶に願いをEP1 -H05",
+        "eventPoint": "EPE00620201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620201",
+        "eventName": "紅茶に願いをEP2 -H01",
+        "eventPoint": "EPE00620202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620202",
+        "eventName": "紅茶に願いをEP2 -H02",
+        "eventPoint": "EPE00620203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620203",
+        "eventName": "紅茶に願いをEP2 -H03",
+        "eventPoint": "EPE00620204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6004,IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620204",
+        "eventName": "紅茶に願いをEP2 -H04",
+        "eventPoint": "EPE00620205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00620205",
+        "eventName": "紅茶に願いをEP2 -H05",
+        "eventPoint": "EPE00630101",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE115",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00630101",
+        "eventName": "紅茶に願いを -Ex01",
+        "eventPoint": "EPE00630102",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00630102",
+        "eventName": "紅茶に願いを -Ex02",
+        "eventPoint": "EPE00630103",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00630103",
+        "eventName": "紅茶に願いを -Ex03",
+        "eventPoint": "EPE00630104",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00630104",
+        "eventName": "紅茶に願いを -Ex04",
+        "eventPoint": "EPE00630105",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00630105",
+        "eventName": "紅茶に願いを -Ex05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE115",
+        "describe": "環境：廃都\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EPE00710101",
+        "eventName": "一夜の海の伝説 - N01",
+        "eventPoint": "EPE00710102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710102",
+        "eventName": "一夜の海の伝説 - N02",
+        "eventPoint": "EPE00710103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "ID0039,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710103",
+        "eventName": "一夜の海の伝説 - N03",
+        "eventPoint": "EPE00710104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710104",
+        "eventName": "一夜の海の伝説 - N04",
+        "eventPoint": "EPE00710105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "ID0040,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710105",
+        "eventName": "一夜の海の伝説 - N05",
+        "eventPoint": "EPE00710201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710201",
+        "eventName": "スイカ、アイス - N01",
+        "eventPoint": "EPE00710202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710202",
+        "eventName": "スイカ、アイス - N02",
+        "eventPoint": "EPE00710203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,ID0041,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710203",
+        "eventName": "スイカ、アイス - N03",
+        "eventPoint": "EPE00710204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710204",
+        "eventName": "スイカ、アイス - N04",
+        "eventPoint": "EPE00710205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,ID0042,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710205",
+        "eventName": "スイカ、アイス - N05",
+        "eventPoint": "EPE00710301",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710301",
+        "eventName": "幽霊船 - N01",
+        "eventPoint": "EPE00710302",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710302",
+        "eventName": "幽霊船 - N02",
+        "eventPoint": "EPE00710303",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,ID0043,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710303",
+        "eventName": "幽霊船 - N03",
+        "eventPoint": "EPE00710304",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,ID0044,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710304",
+        "eventName": "幽霊船 - N04",
+        "eventPoint": "EPE00710305",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,ID0045,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00710305",
+        "eventName": "幽霊船 - N05",
+        "eventPoint": "EPE00720101",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE112",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720101",
+        "eventName": "一夜の海の伝説 - H01",
+        "eventPoint": "EPE00720102",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720102",
+        "eventName": "一夜の海の伝説 - H02",
+        "eventPoint": "EPE00720103",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720103",
+        "eventName": "一夜の海の伝説 - H03",
+        "eventPoint": "EPE00720104",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720104",
+        "eventName": "一夜の海の伝説 - H04",
+        "eventPoint": "EPE00720105",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720105",
+        "eventName": "一夜の海の伝説 - H05",
+        "eventPoint": "EPE00720201",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720201",
+        "eventName": "スイカ、アイス - H01",
+        "eventPoint": "EPE00720202",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6003,IC6004,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720202",
+        "eventName": "スイカ、アイス - H02",
+        "eventPoint": "EPE00720203",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720203",
+        "eventName": "スイカ、アイス - H03",
+        "eventPoint": "EPE00720204",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6003,IC6004,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720204",
+        "eventName": "スイカ、アイス - H04",
+        "eventPoint": "EPE00720205",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720205",
+        "eventName": "スイカ、アイス - H05",
+        "eventPoint": "EPE00720301",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720301",
+        "eventName": "幽霊船 - H01",
+        "eventPoint": "EPE00720302",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720302",
+        "eventName": "幽霊船 - H02",
+        "eventPoint": "EPE00720303",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720303",
+        "eventName": "幽霊船 - H03",
+        "eventPoint": "EPE00720304",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720304",
+        "eventName": "幽霊船 - H04",
+        "eventPoint": "EPE00720305",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00720305",
+        "eventName": "幽霊船 - H05",
+        "eventPoint": "EPE00730101",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE112",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00730101",
+        "eventName": "幽霊船 - Ex01",
+        "eventPoint": "EPE00730102",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00730102",
+        "eventName": "幽霊船 - Ex02",
+        "eventPoint": "EPE00730103",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00730103",
+        "eventName": "幽霊船 - Ex03",
+        "eventPoint": "EPE00730104",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00730104",
+        "eventName": "幽霊船 - Ex04",
+        "eventPoint": "EPE00730105",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00730105",
+        "eventName": "幽霊船 - Ex05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE112",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99982,IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    }
+]
