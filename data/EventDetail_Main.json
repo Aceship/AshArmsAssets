@@ -1891,11 +1891,21 @@
     {
         "eventID": "EVE110205",
         "eventName": "禁区周辺-05H",
-        "eventPoint": "",
+        "eventPoint": "EVE110206",
         "eventTypeCN": "第五节",
         "landEsid": "SE101",
         "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
         "EventDrop": "IM81028,IM3998,IM3114,IM3124,IM3134,II10002",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE110206",
+        "eventName": "禁区周辺-06H",
+        "eventPoint": "",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM82008,IM3998,IM3111,IM3121,IM3131,II10002",
         "bgm": "200_Battle_Wasteland"
     },
     {

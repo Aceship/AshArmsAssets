@@ -107,6 +107,66 @@
         "signedCode": "SC16"
     }]
 }, {
+    "dateBeginLong": "1603638000000",
+    "dateEndLong": "1605711600000",
+    "signedCode": "SC17",
+    "signedName": "周年2",
+    "signeds": [{
+        "charid": "",
+        "day": "1",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,150",
+        "signedCode": "SC17"
+    }, {
+        "charid": "",
+        "day": "2",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,150",
+        "signedCode": "SC17"
+    }, {
+        "charid": "",
+        "day": "3",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,150",
+        "signedCode": "SC17"
+    }, {
+        "charid": "",
+        "day": "4",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,150",
+        "signedCode": "SC17"
+    }, {
+        "charid": "",
+        "day": "5",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,150",
+        "signedCode": "SC17"
+    }, {
+        "charid": "",
+        "day": "6",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,150",
+        "signedCode": "SC17"
+    }, {
+        "charid": "",
+        "day": "7",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,150",
+        "signedCode": "SC17"
+    }, {
+        "charid": "",
+        "day": "8",
+        "itemReward": "",
+        "priceRewardStr": "0,0,0,0,0,150",
+        "signedCode": "SC17"
+    }, {
+        "charid": "",
+        "day": "9",
+        "itemReward": "ARM20339001,1",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "signedCode": "SC17"
+    }]
+}, {
     "dateBeginLong": "1581087600000",
     "dateEndLong": "32479714800000",
     "signedCode": "SC99",

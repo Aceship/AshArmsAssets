@@ -1,1 +1,56 @@
-[]
+[{
+    "criware": "1",
+    "endTimeT": "1605157199000",
+    "gachaboxs": [],
+    "homeButton": "",
+    "homeButtonIndex": "-1",
+    "phasedQuestRewards": [{
+        "itemRewardStr": "IM91127,10",
+        "priceRewardStr": "",
+        "questNum": "5",
+        "questType": "59",
+        "special": "0"
+    }, {
+        "itemRewardStr": "IM91127,15",
+        "priceRewardStr": "",
+        "questNum": "10",
+        "questType": "59",
+        "special": "0"
+    }, {
+        "itemRewardStr": "IM91127,15",
+        "priceRewardStr": "",
+        "questNum": "20",
+        "questType": "59",
+        "special": "0"
+    }, {
+        "itemRewardStr": "IM91127,20",
+        "priceRewardStr": "",
+        "questNum": "30",
+        "questType": "59",
+        "special": "0"
+    }, {
+        "itemRewardStr": "IM91127,20",
+        "priceRewardStr": "",
+        "questNum": "40",
+        "questType": "59",
+        "special": "0"
+    }, {
+        "itemRewardStr": "IM91127,30",
+        "priceRewardStr": "",
+        "questNum": "50",
+        "questType": "59",
+        "special": "1"
+    }, {
+        "itemRewardStr": "IM91127,30",
+        "priceRewardStr": "",
+        "questNum": "56",
+        "questType": "59",
+        "special": "1"
+    }],
+    "position": "ADV*59",
+    "startTimeT": "1591300740000",
+    "state": "1",
+    "type": "4",
+    "typeID": "59",
+    "vote": ""
+}]

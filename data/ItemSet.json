@@ -907,11 +907,11 @@
         "icon": "ARM10019001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM100101,ARM100102",
-        "shopad": "Skin_ARM10019001",
+        "shopad": "Cri_Skin_ARM10019001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10019002",
@@ -924,7 +924,7 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM100101,ARM100102",
-        "shopad": "Skin_ARM10019002",
+        "shopad": "Cri_Skin_ARM10019002",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10020101",
@@ -985,11 +985,11 @@
         "icon": "ARM10039001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM100301,ARM100302",
-        "shopad": "Skin_ARM10039001",
+        "shopad": "Cri_Skin_ARM10039001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10039002",
@@ -998,11 +998,11 @@
         "icon": "ARM10039002",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM100301,ARM100302",
-        "shopad": "Skin_ARM10039002",
+        "shopad": "Cri_Skin_ARM10039002",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10039003",
@@ -1015,7 +1015,7 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM100301,ARM100302",
-        "shopad": "Skin_ARM10039003",
+        "shopad": "Cri_Skin_ARM10039003",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10040101",
@@ -1054,7 +1054,7 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM100401,ARM100402",
-        "shopad": "Skin_ARM10049001",
+        "shopad": "Cri_Skin_ARM10049001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10049002",
@@ -1063,11 +1063,11 @@
         "icon": "ARM10049002",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM100401,ARM100402",
-        "shopad": "Skin_ARM10049002",
+        "shopad": "Cri_Skin_ARM10049002",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10050101",
@@ -1678,7 +1678,7 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM103701,ARM103702",
-        "shopad": "Skin_ARM10379001",
+        "shopad": "Cri_Skin_ARM10379001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10400101",
@@ -1739,11 +1739,11 @@
         "icon": "ARM10449001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM104401,ARM104402",
-        "shopad": "Skin_ARM10449001",
+        "shopad": "Cri_Skin_ARM10449001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10449002",
@@ -1756,7 +1756,7 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM104401,ARM104402",
-        "shopad": "Skin_ARM10449002",
+        "shopad": "Cri_Skin_ARM10449002",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10450101",
@@ -1791,11 +1791,11 @@
         "icon": "ARM10459001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM104501,ARM104502",
-        "shopad": "Skin_ARM10459001",
+        "shopad": "Cri_Skin_ARM10459001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10459002",
@@ -1804,11 +1804,11 @@
         "icon": "ARM10459002",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM104501,ARM104502",
-        "shopad": "Skin_ARM10459002",
+        "shopad": "Cri_Skin_ARM10459002",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10459003",
@@ -1860,7 +1860,20 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM104601,ARM104602",
-        "shopad": "Skin_ARM10469001",
+        "shopad": "Cri_Skin_ARM10469001",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10469002",
+        "name": "七日目の余暇",
+        "description": "M26パーシング·七日目の余暇",
+        "icon": "ARM10469002",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM104601,ARM104602",
+        "shopad": "Cri_Skin_ARM10469002",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10470101",
@@ -2263,7 +2276,7 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM106101,ARM106102",
-        "shopad": "Skin_ARM10619001",
+        "shopad": "Cri_Skin_ARM10619001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10620101",
@@ -2376,11 +2389,11 @@
         "icon": "ARM10659001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM106501,ARM106502",
-        "shopad": "Skin_ARM10659001",
+        "shopad": "Cri_Skin_ARM10659001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10660101",
@@ -2415,11 +2428,11 @@
         "icon": "ARM10669001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM106601,ARM106602",
-        "shopad": "Skin_ARM10669001",
+        "shopad": "Cri_Skin_ARM10669001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10690101",
@@ -2480,11 +2493,11 @@
         "icon": "ARM10709001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM107001,ARM107002",
-        "shopad": "Skin_ARM10709001",
+        "shopad": "Cri_Skin_ARM10709001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10750101",
@@ -2571,11 +2584,37 @@
         "icon": "ARM10799001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM107901,ARM107902",
-        "shopad": "Skin_ARM10799001",
+        "shopad": "Cri_Skin_ARM10799001",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10800101",
+        "name": "四式中戦車 チト",
+        "description": "四式中戦車 チト",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM108001,ARM108002",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10800201",
+        "name": "五式中戦車 チリ",
+        "description": "五式中戦車 チリ",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM108002",
+        "shopad": "",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10830101",
@@ -2685,7 +2724,7 @@
         "itemid": "ARM11189001",
         "name": "富士葵・オンステージ",
         "description": "(スキン)富士葵・オンステージ",
-        "icon": "",
+        "icon": "ARM11189001",
         "upicon": "",
         "rarity": "1",
         "dropFrom": "",
@@ -2835,7 +2874,7 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM200101,ARM200102",
-        "shopad": "Skin_ARM20019001",
+        "shopad": "Cri_Skin_ARM20019001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20020101",
@@ -2900,7 +2939,20 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM200601,ARM200602",
-        "shopad": "Skin_ARM20069001",
+        "shopad": "Cri_Skin_ARM20069001",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20069002",
+        "name": "君へのラプソディー",
+        "description": "Bf109E-4·君へのラプソディー",
+        "icon": "ARM20069002",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM200601,ARM200602",
+        "shopad": "Cri_Skin_ARM20069002",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20070101",
@@ -2966,6 +3018,19 @@
         "maxStack": "0",
         "armsids": "ARM200802",
         "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20089001",
+        "name": "ロイヤル・フォルテ",
+        "description": "スピットファイアMk.I-ロイヤル・フォルテ",
+        "icon": "ARM20089001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM200801,ARM200802",
+        "shopad": "Cri_Skin_ARM20089001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20130101",
@@ -3143,11 +3208,11 @@
         "icon": "ARM20219001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM202101,ARM202102",
-        "shopad": "Skin_ARM20219001",
+        "shopad": "Cri_Skin_ARM20219001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20219002",
@@ -3169,11 +3234,11 @@
         "icon": "ARM20219003",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM202101,ARM202102",
-        "shopad": "Skin_ARM20219003",
+        "shopad": "Cri_Skin_ARM20219003",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20230101",
@@ -3351,11 +3416,11 @@
         "icon": "ARM20319001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM203101,ARM203102",
-        "shopad": "Skin_ARM20319001",
+        "shopad": "Cri_Skin_ARM20319001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20320101",
@@ -3407,6 +3472,19 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM203302",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20339001",
+        "name": "紅のトップスタア",
+        "description": "La-5F·紅のトップスタア",
+        "icon": "ARM20339001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM203301,ARM203302",
         "shopad": "",
         "itemMiniType": "0"
     }, {
@@ -3507,11 +3585,11 @@
         "icon": "ARM20369002",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM203601,ARM203602",
-        "shopad": "Skin_ARM20369002",
+        "shopad": "Cri_Skin_ARM20369002",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20380101",
@@ -3572,11 +3650,11 @@
         "icon": "ARM20399001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM203901,ARM203902",
-        "shopad": "Skin_ARM20399001",
+        "shopad": "Cri_Skin_ARM20399001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20400101",
@@ -3637,11 +3715,11 @@
         "icon": "ARM20419001",
         "upicon": "",
         "rarity": "1",
-        "dropFrom": "",
+        "dropFrom": "SHOP*198",
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM204101,ARM204102",
-        "shopad": "Skin_ARM20419001",
+        "shopad": "Cri_Skin_ARM20419001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20420101",
@@ -3954,6 +4032,19 @@
         "maxStack": "0",
         "armsids": "ARM207702",
         "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20779001",
+        "name": "極東桜・浪漫の嵐",
+        "description": "試製震電-極東桜・浪漫の嵐",
+        "icon": "ARM20779001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM207701,ARM207702",
+        "shopad": "Cri_Skin_ARM20779001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20790101",
@@ -10219,6 +10310,32 @@
         "constructionGoldCost": "0",
         "bluePrintType": "3"
     }, {
+        "itemid": "IM19013",
+        "name": "マイク",
+        "description": "マルコニー学院が製造したマイク。収音効果がよく、音質の高さにも定評がある。City内では一部のプロしかこのような高級音響機器を所有していない。",
+        "icon": "IM19013",
+        "upicon": "IM19013",
+        "rarity": "4",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
+        "itemid": "IM19014",
+        "name": "ビデオカメラ",
+        "description": "サイメンス学院が製造した携帯式ビデオカメラ。軽量でサイズも程よく、災獣との様々な交戦記録の撮影で使用されている。",
+        "icon": "IM19014",
+        "upicon": "IM19014",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
         "itemid": "IM20",
         "name": "虹色硬貨",
         "description": "「<color=#00aab9>特別兵装限定召集</color>」から入手できる虹色に輝く特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます\\n人類への偉大なる貢献に感謝します。何やら深い意味合いが込められているようだ…",
@@ -10545,6 +10662,19 @@
         "bluePrintType": "3"
     }, {
         "itemid": "IM24",
+        "name": "虹色硬貨",
+        "description": "「<color=#00aab9>特別兵装限定召集</color>」から入手できる虹色に輝く特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます\\n人類への偉大なる貢献に感謝します。何やら深い意味合いが込められているようだ…",
+        "icon": "IM12",
+        "upicon": "IM12",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
+        "itemid": "IM25",
         "name": "虹色硬貨",
         "description": "「<color=#00aab9>特別兵装限定召集</color>」から入手できる虹色に輝く特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます\\n人類への偉大なる貢献に感謝します。何やら深い意味合いが込められているようだ…",
         "icon": "IM12",
@@ -11259,6 +11389,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "5"
     }, {
+        "itemid": "IM82008",
+        "name": "スピットファイアの圧縮情報構成体",
+        "description": "高密度の情報構成体。\\nスピットファイアの上級性能突破に使用可能。\\n数多くの実戦経験から得られる高密度な戦闘情報を逐一記録し、抽出する作業は気が遠くなる程のものだが、これも「エース」になる為の唯一の狭き門。",
+        "icon": "DOL2008",
+        "upicon": "DOL2008",
+        "rarity": "5",
+        "dropFrom": "SHOP*399#TXT*禁区周辺-06H",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "5"
+    }, {
         "itemid": "IM90001",
         "name": "初級偵察許可証",
         "description": "各学連が修繕会に発行する偵察指令書。\\n偵察機Fi156シュトルヒによる偵察作戦を実行する\\n航空偵察は多くの情報を得ることが可能\\nもちろん各学連が公にしたがらない「敏感」な情報も含む。",
@@ -11961,6 +12104,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "4"
     }, {
+        "itemid": "IM91080",
+        "name": "四式中戦車 チトの情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\n四式中戦車 チトの機体突破に使用可能。",
+        "icon": "DOL1080",
+        "upicon": "DOL1080",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
         "itemid": "IM91083",
         "name": "AT15の情報構成体",
         "description": "実戦経験に基いて開発した情報構造体。\\nAT15の機体突破に使用可能。",
@@ -12057,6 +12213,32 @@
         "description": "実戦経験に基いて開発した情報構造体。\\nT-26の機体突破に使用可能。",
         "icon": "DOL1124",
         "upicon": "DOL1124",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM91126",
+        "name": "アイリスディーナ MiG-21 バラライカの情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nアイリスディーナ MiG-21 バラライカの機体突破に使用可能。",
+        "icon": "DOL1126",
+        "upicon": "DOL1126",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM91127",
+        "name": "T-26の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nT-26の機体突破に使用可能。",
+        "icon": "DOL1127",
+        "upicon": "DOL1127",
         "rarity": "5",
         "dropFrom": "SHOP*399",
         "sellPriceStr": "0,0,0,0,0,0",
@@ -12597,6 +12779,58 @@
         "constructionFormula": "",
         "constructionGoldCost": "0",
         "bluePrintType": "4"
+    }, {
+        "itemid": "IM92084",
+        "name": "ハリファックスB MK.Ⅰの情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nハリファックスB MK.Ⅰの機体突破に使用可能。",
+        "icon": "DOL2084",
+        "upicon": "DOL2084",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM99978",
+        "name": "★3指名令状・空",
+        "description": "各学連が発行する特殊な令状。\\nラインナップ内の★3DOLLS(航空)の情報構成体×100と交換可能\\n「代理人法案」の条例に基づき、代理人は特殊な状況下で各学連のDOLLSを指名し戦列に加えさせる権限を有する。",
+        "icon": "IM99986",
+        "upicon": "IM99986",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
+        "itemid": "IM99979",
+        "name": "★3指名令状・陸",
+        "description": "各学連が発行する特殊な令状。\\nラインナップ内の★3DOLLS(陸上)の情報構成体×100と交換可能\\n「代理人法案」の条例に基づき、代理人は特殊な状況下で各学連のDOLLSを指名し戦列に加えさせる権限を有する。",
+        "icon": "IM99987",
+        "upicon": "IM99987",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
+        "itemid": "IM99980",
+        "name": "ピンク色のクッキー",
+        "description": "赤ん坊の拳程度の大きさの肉色の塊。中身は普通のクッキーそのものだが、一体何をしたらこのような名状し難い外見に仕上げてしまうのか・・・・・・周りの人を驚かさないよう、早めの回収が必要のようだ。",
+        "icon": "IM99980",
+        "upicon": "IM99980",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
     }, {
         "itemid": "IM99981",
         "name": "ドングリ",

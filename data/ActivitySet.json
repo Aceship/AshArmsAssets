@@ -272,6 +272,19 @@
     "returnNeedTime": "0",
     "startDatetimeT": "1602878400000"
 }, {
+    "activityContent": "「配信一周年記念」  ログインボーナス",
+    "activityId": "54",
+    "activityRealId": "1*SC17",
+    "activityType": "1",
+    "activityTypeId": "SC17",
+    "endDatetimeT": "1605729599000",
+    "imgIndex": "Event_Login1Y2",
+    "index": "3",
+    "position": "",
+    "returnDuration": "0",
+    "returnNeedTime": "0",
+    "startDatetimeT": "1603656000000"
+}, {
     "activityContent": "事前登録報酬",
     "activityId": "51",
     "activityRealId": "1*SC1",
