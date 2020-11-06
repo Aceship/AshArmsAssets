@@ -15082,6 +15082,11 @@
                 "Effect_ID": "shoot1"
             },
             {
+                "Skill_ID": "SP0181",
+                "Spine_Anim": "shoot1",
+                "Effect_ID": "shoot1"
+            },
+            {
                 "Skill_ID": "SJ1601",
                 "Spine_Anim": "bombC1",
                 "Effect_ID": ""
@@ -15143,6 +15148,11 @@
             },
             {
                 "Skill_ID": "SP0180",
+                "Spine_Anim": "shoot1",
+                "Effect_ID": "shoot1"
+            },
+            {
+                "Skill_ID": "SP0181",
                 "Spine_Anim": "shoot1",
                 "Effect_ID": "shoot1"
             },

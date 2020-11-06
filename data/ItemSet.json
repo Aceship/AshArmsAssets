@@ -1434,6 +1434,19 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10179101",
+        "name": "月下の夜想曲",
+        "description": "M8·月下の夜想曲",
+        "icon": "ARM10179101",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM101703",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10200101",
         "name": "Ⅱ号戦車C型",
         "description": "Ⅱ号戦車C型",
@@ -1874,6 +1887,19 @@
         "maxStack": "0",
         "armsids": "ARM104601,ARM104602",
         "shopad": "Cri_Skin_ARM10469002",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10469003",
+        "name": "菓子の魔女",
+        "description": "M26パーシング·菓子の魔女",
+        "icon": "ARM10469003",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM104601,ARM104602",
+        "shopad": "Cri_Skin_ARM10469003",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10470101",
@@ -2838,6 +2864,58 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM11260101",
+        "name": "月ノ美兎",
+        "description": "月ノ美兎",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM112601,ARM112602",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM11260201",
+        "name": "月ノ美兎 戦場ノ委員長",
+        "description": "月ノ美兎 戦場ノ委員長",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM112602",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM11270101",
+        "name": "静凛",
+        "description": "静凛",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM112701,ARM112702",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM11270201",
+        "name": "静凛 夜戦ノ型砲撃女子",
+        "description": "静凛 夜戦ノ型砲撃女子",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM112702",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM20010101",
         "name": "P-38F ライトニング",
         "description": "P-38F ライトニング",
@@ -3711,7 +3789,7 @@
     }, {
         "itemid": "ARM20419001",
         "name": "悪女の書初め",
-        "description": "B-24 リベレーター·悪女の書初め",
+        "description": "B-24リベレーター·悪女の書初め",
         "icon": "ARM20419001",
         "upicon": "",
         "rarity": "1",
@@ -3720,6 +3798,19 @@
         "maxStack": "0",
         "armsids": "ARM204101,ARM204102",
         "shopad": "Cri_Skin_ARM20419001",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20419002",
+        "name": "宵闇の誘い",
+        "description": "B-24リベレーター·宵闇の誘い",
+        "icon": "ARM20419002",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM204101,ARM204102",
+        "shopad": "Cri_Skin_ARM20419002",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20420101",
@@ -4096,6 +4187,32 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM208102",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20840101",
+        "name": "樋口楓",
+        "description": "樋口楓",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM208401,ARM208402",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20840201",
+        "name": "樋口楓 銀翼ノ飛翔奏者",
+        "description": "樋口楓 銀翼ノ飛翔奏者",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM208402",
         "shopad": "",
         "itemMiniType": "0"
     }],
@@ -10687,6 +10804,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "3"
     }, {
+        "itemid": "IM26",
+        "name": "JK組硬貨",
+        "description": "「<color=#00aab9>コラボ限定召集</color>」から入手できる特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます",
+        "icon": "IM99926",
+        "upicon": "IM99926",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
         "itemid": "IM3001",
         "name": "鉄鉱石",
         "description": "鉄を主成分とする鉱石。\\n陸上ユニットの改造に使用される。\\n\\n災獣が分解した後の物質から入手できるアイテムの一種で、計画的に災獣を殲滅することによって、多くの鉱物を回収できる。",
@@ -12222,8 +12352,8 @@
         "bluePrintType": "4"
     }, {
         "itemid": "IM91126",
-        "name": "アイリスディーナ MiG-21 バラライカの情報構成体",
-        "description": "実戦経験に基いて開発した情報構造体。\\nアイリスディーナ MiG-21 バラライカの機体突破に使用可能。",
+        "name": "月ノ美兎の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\n月ノ美兎の機体突破に使用可能。",
         "icon": "DOL1126",
         "upicon": "DOL1126",
         "rarity": "5",
@@ -12235,8 +12365,8 @@
         "bluePrintType": "4"
     }, {
         "itemid": "IM91127",
-        "name": "T-26の情報構成体",
-        "description": "実戦経験に基いて開発した情報構造体。\\nT-26の機体突破に使用可能。",
+        "name": "静凛の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\n静凛の機体突破に使用可能。",
         "icon": "DOL1127",
         "upicon": "DOL1127",
         "rarity": "5",
@@ -12781,8 +12911,8 @@
         "bluePrintType": "4"
     }, {
         "itemid": "IM92084",
-        "name": "ハリファックスB MK.Ⅰの情報構成体",
-        "description": "実戦経験に基いて開発した情報構造体。\\nハリファックスB MK.Ⅰの機体突破に使用可能。",
+        "name": "樋口楓の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\n樋口楓の機体突破に使用可能。",
         "icon": "DOL2084",
         "upicon": "DOL2084",
         "rarity": "5",

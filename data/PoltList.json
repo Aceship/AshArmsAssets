@@ -1,13 +1,5 @@
 [{
         "Index": 0,
-        "PlotKey": "VideoCG_00_01",
-        "PlotType": 1,
-        "EventID": "EVE000101",
-        "CheckPost": 1,
-        "CheckTag": 1
-    },
-    {
-        "Index": 1,
         "PlotKey": "Scenario_00_01",
         "PlotType": 0,
         "EventID": "EVE000101",
@@ -15,7 +7,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 2,
+        "Index": 1,
         "PlotKey": "CGAside_00_02",
         "PlotType": 0,
         "EventID": "EVE000102",
@@ -23,7 +15,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 3,
+        "Index": 2,
         "PlotKey": "CGAside_00_03",
         "PlotType": 0,
         "EventID": "EVE000103",
@@ -31,7 +23,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 4,
+        "Index": 3,
         "PlotKey": "CGAside_00_04",
         "PlotType": 0,
         "EventID": "EVE000104",
@@ -39,7 +31,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 5,
+        "Index": 4,
         "PlotKey": "CGAside_00_05",
         "PlotType": 0,
         "EventID": "EVE000105",
@@ -47,7 +39,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 6,
+        "Index": 5,
         "PlotKey": "CGAside_00_06",
         "PlotType": 0,
         "EventID": "EVE000106",
@@ -55,7 +47,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 7,
+        "Index": 6,
         "PlotKey": "CGAside_00_07",
         "PlotType": 0,
         "EventID": "EVE000107",
@@ -63,7 +55,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 8,
+        "Index": 7,
         "PlotKey": "CGAside_00_08",
         "PlotType": 0,
         "EventID": "EVE000108",
@@ -71,7 +63,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 9,
+        "Index": 8,
         "PlotKey": "CGAside_01_01",
         "PlotType": 0,
         "EventID": "EVE010101",
@@ -79,7 +71,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 10,
+        "Index": 9,
         "PlotKey": "CGAside_01_02",
         "PlotType": 0,
         "EventID": "EVE010102",
@@ -87,7 +79,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 11,
+        "Index": 10,
         "PlotKey": "Scenario_01_02",
         "PlotType": 0,
         "EventID": "EVE010102",
@@ -95,7 +87,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 12,
+        "Index": 11,
         "PlotKey": "CGAside_01_03",
         "PlotType": 0,
         "EventID": "EVE010103",
@@ -103,7 +95,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 13,
+        "Index": 12,
         "PlotKey": "CGAside_01_04",
         "PlotType": 0,
         "EventID": "EVE010104",
@@ -111,7 +103,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 14,
+        "Index": 13,
         "PlotKey": "CGAside_01_05",
         "PlotType": 0,
         "EventID": "EVE010105",
@@ -119,7 +111,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 15,
+        "Index": 14,
         "PlotKey": "CGAside_01_06",
         "PlotType": 0,
         "EventID": "EVE010106",
@@ -127,7 +119,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 16,
+        "Index": 15,
         "PlotKey": "Scenario_01_06",
         "PlotType": 0,
         "EventID": "EVE010106",
@@ -135,7 +127,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 17,
+        "Index": 16,
         "PlotKey": "CGAside_01_07",
         "PlotType": 0,
         "EventID": "EVE010107",
@@ -143,7 +135,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 18,
+        "Index": 17,
         "PlotKey": "Scenario_01_07",
         "PlotType": 0,
         "EventID": "EVE010107",
@@ -151,7 +143,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 19,
+        "Index": 18,
         "PlotKey": "CGAside_02_01",
         "PlotType": 0,
         "EventID": "EVE020101",
@@ -159,7 +151,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 20,
+        "Index": 19,
         "PlotKey": "CGAside_02_02",
         "PlotType": 0,
         "EventID": "EVE020102",
@@ -167,7 +159,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 21,
+        "Index": 20,
         "PlotKey": "CGAside_02_03",
         "PlotType": 0,
         "EventID": "EVE020103",
@@ -175,7 +167,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 22,
+        "Index": 21,
         "PlotKey": "CGAside_02_04",
         "PlotType": 0,
         "EventID": "EVE020104",
@@ -183,7 +175,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 23,
+        "Index": 22,
         "PlotKey": "CGAside_02_05",
         "PlotType": 0,
         "EventID": "EVE020105",
@@ -191,7 +183,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 24,
+        "Index": 23,
         "PlotKey": "CGAside_02_06",
         "PlotType": 0,
         "EventID": "EVE020106",
@@ -199,7 +191,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 25,
+        "Index": 24,
         "PlotKey": "CGAside_02_07",
         "PlotType": 0,
         "EventID": "EVE020107",
@@ -207,7 +199,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 26,
+        "Index": 25,
         "PlotKey": "CGAside_02_08",
         "PlotType": 0,
         "EventID": "EVE020108",
@@ -215,7 +207,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 27,
+        "Index": 26,
         "PlotKey": "CGAside_02_09",
         "PlotType": 0,
         "EventID": "EVE020109",
@@ -223,7 +215,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 28,
+        "Index": 27,
         "PlotKey": "CGAside_02_10",
         "PlotType": 0,
         "EventID": "EVE020110",
@@ -231,7 +223,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 29,
+        "Index": 28,
         "PlotKey": "CGAside_03_01",
         "PlotType": 0,
         "EventID": "EVE030101",
@@ -239,7 +231,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 30,
+        "Index": 29,
         "PlotKey": "CGAside_03_02",
         "PlotType": 0,
         "EventID": "EVE030102",
@@ -247,7 +239,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 31,
+        "Index": 30,
         "PlotKey": "CGAside_03_03",
         "PlotType": 0,
         "EventID": "EVE030103",
@@ -255,7 +247,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 32,
+        "Index": 31,
         "PlotKey": "CGAside_03_04",
         "PlotType": 0,
         "EventID": "EVE030104",
@@ -263,7 +255,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 33,
+        "Index": 32,
         "PlotKey": "CGAside_03_05",
         "PlotType": 0,
         "EventID": "EVE030105",
@@ -271,7 +263,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 34,
+        "Index": 33,
         "PlotKey": "CGAside_03_06",
         "PlotType": 0,
         "EventID": "EVE030106",
@@ -279,7 +271,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 35,
+        "Index": 34,
         "PlotKey": "CGAside_03_07",
         "PlotType": 0,
         "EventID": "EVE030107",
@@ -287,7 +279,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 36,
+        "Index": 35,
         "PlotKey": "CGAside_03_08",
         "PlotType": 0,
         "EventID": "EVE030108",
@@ -295,7 +287,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 37,
+        "Index": 36,
         "PlotKey": "CGAside_03_09",
         "PlotType": 0,
         "EventID": "EVE030109",
@@ -303,7 +295,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 38,
+        "Index": 37,
         "PlotKey": "CGAside_03_10",
         "PlotType": 0,
         "EventID": "EVE030110",
@@ -311,7 +303,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 39,
+        "Index": 38,
         "PlotKey": "CGAside_04_01",
         "PlotType": 0,
         "EventID": "EVE040101",
@@ -319,7 +311,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 40,
+        "Index": 39,
         "PlotKey": "CGAside_04_02",
         "PlotType": 0,
         "EventID": "EVE040102",
@@ -327,7 +319,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 41,
+        "Index": 40,
         "PlotKey": "CGAside_04_03",
         "PlotType": 0,
         "EventID": "EVE040103",
@@ -335,7 +327,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 42,
+        "Index": 41,
         "PlotKey": "CGAside_04_04",
         "PlotType": 0,
         "EventID": "EVE040104",
@@ -343,7 +335,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 43,
+        "Index": 42,
         "PlotKey": "CGAside_04_05",
         "PlotType": 0,
         "EventID": "EVE040105",
@@ -351,7 +343,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 44,
+        "Index": 43,
         "PlotKey": "CGAside_04_06",
         "PlotType": 0,
         "EventID": "EVE040106",
@@ -359,7 +351,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 45,
+        "Index": 44,
         "PlotKey": "CGAside_04_07",
         "PlotType": 0,
         "EventID": "EVE040107",
@@ -367,7 +359,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 46,
+        "Index": 45,
         "PlotKey": "CGAside_04_08",
         "PlotType": 0,
         "EventID": "EVE040108",
@@ -375,7 +367,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 47,
+        "Index": 46,
         "PlotKey": "CGAside_04_09",
         "PlotType": 0,
         "EventID": "EVE040109",
@@ -383,7 +375,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 48,
+        "Index": 47,
         "PlotKey": "CGAside_04_10",
         "PlotType": 0,
         "EventID": "EVE040110",
@@ -391,7 +383,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 49,
+        "Index": 48,
         "PlotKey": "CGAside_05_01",
         "PlotType": 0,
         "EventID": "EVE050101",
@@ -399,7 +391,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 50,
+        "Index": 49,
         "PlotKey": "CGAside_05_02",
         "PlotType": 0,
         "EventID": "EVE050102",
@@ -407,7 +399,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 51,
+        "Index": 50,
         "PlotKey": "CGAside_05_03",
         "PlotType": 0,
         "EventID": "EVE050103",
@@ -415,7 +407,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 52,
+        "Index": 51,
         "PlotKey": "CGAside_05_04",
         "PlotType": 0,
         "EventID": "EVE050104",
@@ -423,7 +415,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 53,
+        "Index": 52,
         "PlotKey": "CGAside_05_05",
         "PlotType": 0,
         "EventID": "EVE050105",
@@ -431,7 +423,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 54,
+        "Index": 53,
         "PlotKey": "CGAside_05_06",
         "PlotType": 0,
         "EventID": "EVE050106",
@@ -439,7 +431,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 55,
+        "Index": 54,
         "PlotKey": "CGAside_05_07",
         "PlotType": 0,
         "EventID": "EVE050107",
@@ -447,7 +439,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 56,
+        "Index": 55,
         "PlotKey": "CGAside_05_08",
         "PlotType": 0,
         "EventID": "EVE050108",
@@ -455,7 +447,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 57,
+        "Index": 56,
         "PlotKey": "CGAside_05_09",
         "PlotType": 0,
         "EventID": "EVE050109",
@@ -463,7 +455,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 58,
+        "Index": 57,
         "PlotKey": "CGAside_05_10",
         "PlotType": 0,
         "EventID": "EVE050110",
@@ -471,7 +463,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 59,
+        "Index": 58,
         "PlotKey": "Chapter001_1_悪夢ノ直角前哨戦",
         "PlotType": 0,
         "EventID": "EP001101",
@@ -479,7 +471,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 60,
+        "Index": 59,
         "PlotKey": "Chapter001_2_悪夢ノ直角前哨戦",
         "PlotType": 0,
         "EventID": "EP001102",
@@ -487,7 +479,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 61,
+        "Index": 60,
         "PlotKey": "Chapter001_3_悪夢ノ直角前哨戦",
         "PlotType": 0,
         "EventID": "EP001103",
@@ -495,7 +487,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 62,
+        "Index": 61,
         "PlotKey": "Chapter001_4_悪夢ノ直角前哨戦",
         "PlotType": 0,
         "EventID": "EPE00120101",
@@ -503,7 +495,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 63,
+        "Index": 62,
         "PlotKey": "Chapter001_5_悪夢ノ直角前哨戦",
         "PlotType": 0,
         "EventID": "EPE00110101",
@@ -511,7 +503,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 64,
+        "Index": 63,
         "PlotKey": "Chapter001_6_悪夢ノ直角前哨戦",
         "PlotType": 0,
         "EventID": "EPE00110201",
@@ -519,7 +511,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 65,
+        "Index": 64,
         "PlotKey": "Chapter001_7_悪夢ノ直角前哨戦",
         "PlotType": 0,
         "EventID": "EPE00110301",
@@ -527,7 +519,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 66,
+        "Index": 65,
         "PlotKey": "Chapter001_8_悪夢ノ直角前哨戦",
         "PlotType": 0,
         "EventID": "EPE00110310",
@@ -535,7 +527,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 67,
+        "Index": 66,
         "PlotKey": "Chapter001_9_悪夢ノ直角前哨戦",
         "PlotType": 0,
         "EventID": "EPE00120310",
@@ -543,7 +535,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 68,
+        "Index": 67,
         "PlotKey": "Chapter002_1_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210101",
@@ -551,7 +543,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 69,
+        "Index": 68,
         "PlotKey": "Chapter002_2_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210102",
@@ -559,7 +551,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 70,
+        "Index": 69,
         "PlotKey": "Chapter002_3_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210103",
@@ -567,7 +559,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 71,
+        "Index": 70,
         "PlotKey": "Chapter002_4_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210104",
@@ -575,7 +567,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 72,
+        "Index": 71,
         "PlotKey": "Chapter002_5_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210105",
@@ -583,7 +575,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 73,
+        "Index": 72,
         "PlotKey": "Chapter002_6_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210201",
@@ -591,7 +583,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 74,
+        "Index": 73,
         "PlotKey": "Chapter002_7_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210202",
@@ -599,7 +591,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 75,
+        "Index": 74,
         "PlotKey": "Chapter002_8_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210204",
@@ -607,7 +599,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 76,
+        "Index": 75,
         "PlotKey": "Chapter002_9_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210205",
@@ -615,7 +607,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 77,
+        "Index": 76,
         "PlotKey": "Chapter002_10_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210301",
@@ -623,7 +615,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 78,
+        "Index": 77,
         "PlotKey": "Chapter002_11_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210302",
@@ -631,7 +623,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 79,
+        "Index": 78,
         "PlotKey": "Chapter002_12_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210303",
@@ -639,7 +631,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 80,
+        "Index": 79,
         "PlotKey": "Chapter002_13_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210304",
@@ -647,7 +639,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 81,
+        "Index": 80,
         "PlotKey": "Chapter002_14_バレンタインより愛をこめて",
         "PlotType": 0,
         "EventID": "EPE00210305",
@@ -655,7 +647,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 82,
+        "Index": 81,
         "PlotKey": "Scenario_10_01",
         "PlotType": 0,
         "EventID": "EVE110101",
@@ -663,7 +655,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 83,
+        "Index": 82,
         "PlotKey": "Scenario_10_10",
         "PlotType": 0,
         "EventID": "EVE110110",
@@ -671,7 +663,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 84,
+        "Index": 83,
         "PlotKey": "Scenario_11_01",
         "PlotType": 0,
         "EventID": "EVE120101",
@@ -679,7 +671,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 85,
+        "Index": 84,
         "PlotKey": "Scenario_11_05",
         "PlotType": 0,
         "EventID": "EVE120105",
@@ -687,7 +679,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 86,
+        "Index": 85,
         "PlotKey": "Scenario_11_10",
         "PlotType": 0,
         "EventID": "EVE120110",
@@ -695,7 +687,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 87,
+        "Index": 86,
         "PlotKey": "Scenario_12_01",
         "PlotType": 0,
         "EventID": "EVE130101",
@@ -703,7 +695,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 88,
+        "Index": 87,
         "PlotKey": "Scenario_12_05",
         "PlotType": 0,
         "EventID": "EVE130105",
@@ -711,7 +703,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 89,
+        "Index": 88,
         "PlotKey": "Scenario_12_10",
         "PlotType": 0,
         "EventID": "EVE130110",
@@ -719,7 +711,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 90,
+        "Index": 89,
         "PlotKey": "Scenario_13_01",
         "PlotType": 0,
         "EventID": "EVE140101",
@@ -727,7 +719,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 91,
+        "Index": 90,
         "PlotKey": "Scenario_13_10",
         "PlotType": 0,
         "EventID": "EVE140110",
@@ -735,7 +727,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 92,
+        "Index": 91,
         "PlotKey": "Chapter003_01_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410101",
@@ -743,7 +735,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 93,
+        "Index": 92,
         "PlotKey": "Chapter003_02_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410105",
@@ -751,7 +743,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 94,
+        "Index": 93,
         "PlotKey": "Chapter003_03_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410105",
@@ -759,7 +751,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 95,
+        "Index": 94,
         "PlotKey": "Chapter003_04_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410201",
@@ -767,7 +759,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 96,
+        "Index": 95,
         "PlotKey": "Chapter003_05_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410203",
@@ -775,7 +767,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 97,
+        "Index": 96,
         "PlotKey": "Chapter003_06_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410205",
@@ -783,7 +775,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 98,
+        "Index": 97,
         "PlotKey": "Chapter003_07_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410301",
@@ -791,7 +783,7 @@
         "CheckTag": 2
     },
     {
-        "Index": 99,
+        "Index": 98,
         "PlotKey": "Chapter003_08_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410303",
@@ -799,7 +791,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 100,
+        "Index": 99,
         "PlotKey": "Chapter003_09_歌よ、戦場に響け！",
         "PlotType": 0,
         "EventID": "EPE00410305",
@@ -807,7 +799,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 101,
+        "Index": 100,
         "PlotKey": "Chapter004_001_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510101",
@@ -815,7 +807,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 102,
+        "Index": 101,
         "PlotKey": "Chapter004_002_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510102",
@@ -823,7 +815,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 103,
+        "Index": 102,
         "PlotKey": "Chapter004_003_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510103",
@@ -831,7 +823,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 104,
+        "Index": 103,
         "PlotKey": "Chapter004_011_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510104",
@@ -839,7 +831,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 105,
+        "Index": 104,
         "PlotKey": "Chapter004_012_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510104",
@@ -847,7 +839,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 106,
+        "Index": 105,
         "PlotKey": "Chapter004_013_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510105",
@@ -855,7 +847,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 107,
+        "Index": 106,
         "PlotKey": "Chapter004_014_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510105",
@@ -863,7 +855,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 108,
+        "Index": 107,
         "PlotKey": "Chapter004_015_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510201",
@@ -871,7 +863,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 109,
+        "Index": 108,
         "PlotKey": "Chapter004_016_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510202",
@@ -879,7 +871,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 110,
+        "Index": 109,
         "PlotKey": "Chapter004_017_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510203",
@@ -887,7 +879,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 111,
+        "Index": 110,
         "PlotKey": "Chapter004_021_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510204",
@@ -895,7 +887,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 112,
+        "Index": 111,
         "PlotKey": "Chapter004_022_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510204",
@@ -903,7 +895,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 113,
+        "Index": 112,
         "PlotKey": "Chapter004_023_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510205",
@@ -911,7 +903,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 114,
+        "Index": 113,
         "PlotKey": "Chapter004_024_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510205",
@@ -919,7 +911,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 115,
+        "Index": 114,
         "PlotKey": "Chapter004_031_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510301",
@@ -927,7 +919,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 116,
+        "Index": 115,
         "PlotKey": "Chapter004_032_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510302",
@@ -935,7 +927,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 117,
+        "Index": 116,
         "PlotKey": "Chapter004_033_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510303",
@@ -943,7 +935,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 118,
+        "Index": 117,
         "PlotKey": "Chapter004_034_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510303",
@@ -951,7 +943,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 119,
+        "Index": 118,
         "PlotKey": "Chapter004_035_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510304",
@@ -959,7 +951,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 120,
+        "Index": 119,
         "PlotKey": "Chapter004_036_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510304",
@@ -967,7 +959,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 121,
+        "Index": 120,
         "PlotKey": "Chapter004_037_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510305",
@@ -975,7 +967,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 122,
+        "Index": 121,
         "PlotKey": "Chapter004_041_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00510305",
@@ -983,7 +975,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 123,
+        "Index": 122,
         "PlotKey": "Chapter004_042_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00520101",
@@ -991,7 +983,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 124,
+        "Index": 123,
         "PlotKey": "Chapter004_043_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00520101",
@@ -999,7 +991,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 125,
+        "Index": 124,
         "PlotKey": "Chapter004_044_ゼノフロント",
         "PlotType": 0,
         "EventID": "EPE00520102",
@@ -1007,7 +999,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 126,
+        "Index": 125,
         "PlotKey": "Chapter005_01_紅茶に願いを",
         "PlotType": 0,
         "EventID": "EPE00610101",
@@ -1015,7 +1007,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 127,
+        "Index": 126,
         "PlotKey": "Chapter005_02_紅茶に願いを",
         "PlotType": 0,
         "EventID": "EPE00610105",
@@ -1023,7 +1015,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 128,
+        "Index": 127,
         "PlotKey": "Chapter005_03_紅茶に願いを",
         "PlotType": 0,
         "EventID": "EPE00610202",
@@ -1031,7 +1023,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 129,
+        "Index": 128,
         "PlotKey": "Chapter005_04_紅茶に願いを",
         "PlotType": 0,
         "EventID": "EPE00610205",
@@ -1039,7 +1031,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 130,
+        "Index": 129,
         "PlotKey": "Chapter006_00_幻想の海",
         "PlotType": 0,
         "EventID": "EPE00710101",
@@ -1047,7 +1039,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 131,
+        "Index": 130,
         "PlotKey": "Chapter006_01_幻想の海",
         "PlotType": 0,
         "EventID": "EPE00710103",
@@ -1055,7 +1047,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 132,
+        "Index": 131,
         "PlotKey": "Chapter006_02_幻想の海",
         "PlotType": 0,
         "EventID": "EPE00710105",
@@ -1063,7 +1055,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 133,
+        "Index": 132,
         "PlotKey": "Chapter006_03_幻想の海",
         "PlotType": 0,
         "EventID": "EPE00710201",
@@ -1071,7 +1063,7 @@
         "CheckTag": 1
     },
     {
-        "Index": 134,
+        "Index": 133,
         "PlotKey": "Chapter006_04_幻想の海",
         "PlotType": 0,
         "EventID": "EPE00710203",
@@ -1079,7 +1071,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 135,
+        "Index": 134,
         "PlotKey": "Chapter006_05_幻想の海",
         "PlotType": 0,
         "EventID": "EPE00710205",
@@ -1087,7 +1079,7 @@
         "CheckTag": 3
     },
     {
-        "Index": 136,
+        "Index": 135,
         "PlotKey": "Chapter006_06_幻想の海",
         "PlotType": 0,
         "EventID": "EPE00710301",
@@ -1095,10 +1087,50 @@
         "CheckTag": 3
     },
     {
-        "Index": 137,
+        "Index": 136,
         "PlotKey": "Chapter006_07_幻想の海",
         "PlotType": 0,
         "EventID": "EPE00710305",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 137,
+        "PlotKey": "Chapter007_01_三人の代理人",
+        "PlotType": 0,
+        "EventID": "EPE00810101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 138,
+        "PlotKey": "Chapter007_02_三人の代理人",
+        "PlotType": 0,
+        "EventID": "EPE00810105",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 139,
+        "PlotKey": "Chapter007_03_三人の代理人",
+        "PlotType": 0,
+        "EventID": "EPE00810203",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 140,
+        "PlotKey": "Chapter007_04_三人の代理人",
+        "PlotType": 0,
+        "EventID": "EPE00810301",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 141,
+        "PlotKey": "Chapter007_05_三人の代理人",
+        "PlotType": 0,
+        "EventID": "EPE00810305",
         "CheckPost": 2,
         "CheckTag": 3
     }

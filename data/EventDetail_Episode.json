@@ -2055,7 +2055,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2065,7 +2065,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,ID0041,IM3001,IM3011,II10002",
+        "EventDrop": "ID0041,IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2075,7 +2075,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2085,7 +2085,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,ID0042,IM3001,IM3011,II10002",
+        "EventDrop": "ID0042,IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2095,7 +2095,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2105,7 +2105,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2115,7 +2115,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,ID0043,IM3011,IC6003,II10002",
+        "EventDrop": "ID0043,IM3011,IC6003,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2125,7 +2125,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,ID0044,IM3001,IM3011,II10002",
+        "EventDrop": "ID0044,IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2135,7 +2135,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,ID0045,IM3011,IC6003,II10002",
+        "EventDrop": "ID0045,IM3011,IC6003,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2145,7 +2145,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE112",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2155,7 +2155,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2165,7 +2165,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2175,7 +2175,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IM3001,IM3011,II10002",
+        "EventDrop": "IM3001,IM3011,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2185,7 +2185,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IM3011,IC6003,II10002",
+        "EventDrop": "IM3011,IC6003,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2195,7 +2195,7 @@
         "eventTypeCN": "活动关卡EP1",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2205,7 +2205,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6003,IC6004,II10002",
+        "EventDrop": "IC6003,IC6004,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2215,7 +2215,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2225,7 +2225,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6003,IC6004,II10002",
+        "EventDrop": "IC6003,IC6004,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2235,7 +2235,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2245,7 +2245,7 @@
         "eventTypeCN": "活动关卡EP2",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC0100,IC0200,II10002",
+        "EventDrop": "IC0100,IC0200,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2255,7 +2255,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2265,7 +2265,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2275,7 +2275,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6004,IC6005,II10002",
+        "EventDrop": "IC6004,IC6005,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2285,7 +2285,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2295,7 +2295,7 @@
         "eventTypeCN": "活动关卡EP3",
         "landEsid": "SE112",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2305,7 +2305,7 @@
         "eventTypeCN": "活动关卡EP ex",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2315,7 +2315,7 @@
         "eventTypeCN": "活动关卡EP ex",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2325,7 +2325,7 @@
         "eventTypeCN": "活动关卡EP ex",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2335,7 +2335,7 @@
         "eventTypeCN": "活动关卡EP ex",
         "landEsid": "SE102",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC6005,IC6006,II10002",
+        "EventDrop": "IC6005,IC6006,II10002",
         "bgm": "202_Battle_Heat"
     },
     {
@@ -2345,7 +2345,357 @@
         "eventTypeCN": "活动关卡EP ex",
         "landEsid": "SE112",
         "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
-        "EventDrop": "IM99982,IC0100,IC0200,IC6005,IC6006,II10002",
+        "EventDrop": "IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810101",
+        "eventName": "出撃！楓の電撃戦！ - N01",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810102",
+        "eventName": "出撃！楓の電撃戦！ - N02",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810103",
+        "eventName": "出撃！楓の電撃戦！ - N03",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810104",
+        "eventName": "出撃！楓の電撃戦！ - N04",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810105",
+        "eventName": "出撃！楓の電撃戦！ - N05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE112",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810201",
+        "eventName": "凛の灰燼マラソン - N01",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810202",
+        "eventName": "凛の灰燼マラソン - N02",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810203",
+        "eventName": "凛の灰燼マラソン - N03",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810204",
+        "eventName": "凛の灰燼マラソン - N04",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810205",
+        "eventName": "凛の灰燼マラソン - N05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE113",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810301",
+        "eventName": "起立、気を付け、クソゲー乙 - N01",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810302",
+        "eventName": "起立、気を付け、クソゲー乙 - N02",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810303",
+        "eventName": "起立、気を付け、クソゲー乙 - N03",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810304",
+        "eventName": "起立、気を付け、クソゲー乙 - N04",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00810305",
+        "eventName": "起立、気を付け、クソゲー乙 - N05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE115",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820101",
+        "eventName": "出撃！楓の電撃戦！ - H01",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820102",
+        "eventName": "出撃！楓の電撃戦！ - H02",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820103",
+        "eventName": "出撃！楓の電撃戦！ - H03",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820104",
+        "eventName": "出撃！楓の電撃戦！ - H04",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE102",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IM3011,IC6003,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820105",
+        "eventName": "出撃！楓の電撃戦！ - H05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP1",
+        "landEsid": "SE112",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820201",
+        "eventName": "凛の灰燼マラソン - H01",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6003,IC6004,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820202",
+        "eventName": "凛の灰燼マラソン - H02",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820203",
+        "eventName": "凛の灰燼マラソン - H03",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6003,IC6004,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820204",
+        "eventName": "凛の灰燼マラソン - H04",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE103",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820205",
+        "eventName": "凛の灰燼マラソン - H05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP2",
+        "landEsid": "SE113",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC0100,IC0200,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820301",
+        "eventName": "起立、気を付け、クソゲー乙 - H01",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820302",
+        "eventName": "起立、気を付け、クソゲー乙 - H02",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820303",
+        "eventName": "起立、気を付け、クソゲー乙 - H03",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6004,IC6005,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820304",
+        "eventName": "起立、気を付け、クソゲー乙 - H04",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00820305",
+        "eventName": "起立、気を付け、クソゲー乙 - H05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP3",
+        "landEsid": "SE115",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC0100,IC0200,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00830101",
+        "eventName": "起立、気を付け、クソゲー乙 - Ex01",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00830102",
+        "eventName": "起立、気を付け、クソゲー乙 - Ex02",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00830103",
+        "eventName": "起立、気を付け、クソゲー乙 - Ex03",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00830104",
+        "eventName": "起立、気を付け、クソゲー乙 - Ex04",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE105",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC6005,IC6006,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EPE00830105",
+        "eventName": "起立、気を付け、クソゲー乙 - Ex05",
+        "eventPoint": "",
+        "eventTypeCN": "活动关卡EP ex",
+        "landEsid": "SE115",
+        "describe": "環境：砂漠\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99980,IC0100,IC0200,IC6005,IC6006,II10002",
         "bgm": "202_Battle_Heat"
     }
 ]

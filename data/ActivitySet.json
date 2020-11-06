@@ -51,6 +51,19 @@
     "returnNeedTime": "0",
     "startDatetimeT": "1593547199000"
 }, {
+    "activityContent": "「一周年記念迎撃」  ログインボーナス",
+    "activityId": "53",
+    "activityRealId": "1*SC16",
+    "activityType": "1",
+    "activityTypeId": "SC16",
+    "endDatetimeT": "1603655999000",
+    "imgIndex": "Event_Login1Y1",
+    "index": "0",
+    "position": "",
+    "returnDuration": "0",
+    "returnNeedTime": "0",
+    "startDatetimeT": "1602878400000"
+}, {
     "activityContent": "期間限定イベント    「零戦のうた」",
     "activityId": "18",
     "activityRealId": "3*65",
@@ -259,18 +272,18 @@
     "returnNeedTime": "30",
     "startDatetimeT": "1584433001000"
 }, {
-    "activityContent": "「一周年記念迎撃」  ログインボーナス",
-    "activityId": "53",
-    "activityRealId": "1*SC16",
+    "activityContent": "  「M8外装補完」    ログインボーナス",
+    "activityId": "55",
+    "activityRealId": "1*SC18",
     "activityType": "1",
-    "activityTypeId": "SC16",
-    "endDatetimeT": "1603655999000",
-    "imgIndex": "Event_Login1Y1",
+    "activityTypeId": "SC18",
+    "endDatetimeT": "1605815999000",
+    "imgIndex": "Event_LoginM8",
     "index": "3",
     "position": "",
     "returnDuration": "0",
     "returnNeedTime": "0",
-    "startDatetimeT": "1602878400000"
+    "startDatetimeT": "1604692800000"
 }, {
     "activityContent": "「配信一周年記念」  ログインボーナス",
     "activityId": "54",
@@ -279,7 +292,7 @@
     "activityTypeId": "SC17",
     "endDatetimeT": "1605729599000",
     "imgIndex": "Event_Login1Y2",
-    "index": "3",
+    "index": "4",
     "position": "",
     "returnDuration": "0",
     "returnNeedTime": "0",
@@ -292,7 +305,7 @@
     "activityTypeId": "SC1",
     "endDatetimeT": "0",
     "imgIndex": "Event_LoginBeginer",
-    "index": "4",
+    "index": "5",
     "position": "",
     "returnDuration": "0",
     "returnNeedTime": "0",
@@ -305,7 +318,7 @@
     "activityTypeId": "SC99",
     "endDatetimeT": "0",
     "imgIndex": "Event_LoginCB",
-    "index": "5",
+    "index": "6",
     "position": "",
     "returnDuration": "14",
     "returnNeedTime": "30",

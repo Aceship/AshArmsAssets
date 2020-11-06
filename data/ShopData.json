@@ -12,6 +12,19 @@
         "ResDes": ""
     },
     {
+        "TypeNum": "195",
+        "TypeName": "JK組硬貨",
+        "SkinShopAd": "",
+        "StoreType": 4,
+        "UseRes": "IM26",
+        "Lock": 0,
+        "ShowRes": 1,
+        "CanBuyMore": 0,
+        "TagName": "",
+        "ShowType": 1,
+        "ResDes": "「<color=#00aab9>コラボ限定召集</color>」から入手できる特殊な硬貨。\n※一定の期間が経過すると「記念硬貨」へ自動変換されます"
+    },
+    {
         "TypeNum": "196",
         "TypeName": "虹色硬貨",
         "SkinShopAd": "",
