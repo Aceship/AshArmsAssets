@@ -1616,6 +1616,19 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10289001",
+        "name": "図書館猟虎",
+        "description": "ヤークトティーガー(P)·図書館猟虎",
+        "icon": "ARM10289001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM102801,ARM102802",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10330101",
         "name": "ホイシュレッケ",
         "description": "ホイシュレッケ",
@@ -10809,6 +10822,19 @@
         "description": "「<color=#00aab9>コラボ限定召集</color>」から入手できる特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます",
         "icon": "IM99926",
         "upicon": "IM99926",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
+    }, {
+        "itemid": "IM27",
+        "name": "虹色硬貨",
+        "description": "「<color=#00aab9>特別兵装限定召集</color>」から入手できる虹色に輝く特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます\\n人類への偉大なる貢献に感謝します。何やら深い意味合いが込められているようだ…",
+        "icon": "IM12",
+        "upicon": "IM12",
         "rarity": "5",
         "dropFrom": "",
         "sellPriceStr": "0,0,0,0,0,0",

@@ -64,6 +64,32 @@
     "returnNeedTime": "0",
     "startDatetimeT": "1602878400000"
 }, {
+    "activityContent": "「配信一周年記念」  ログインボーナス",
+    "activityId": "54",
+    "activityRealId": "1*SC17",
+    "activityType": "1",
+    "activityTypeId": "SC17",
+    "endDatetimeT": "1605729599000",
+    "imgIndex": "Event_Login1Y2",
+    "index": "0",
+    "position": "",
+    "returnDuration": "0",
+    "returnNeedTime": "0",
+    "startDatetimeT": "1603656000000"
+}, {
+    "activityContent": "  「M8外装補完」    ログインボーナス",
+    "activityId": "55",
+    "activityRealId": "1*SC18",
+    "activityType": "1",
+    "activityTypeId": "SC18",
+    "endDatetimeT": "1605815999000",
+    "imgIndex": "Event_LoginM8",
+    "index": "0",
+    "position": "",
+    "returnDuration": "0",
+    "returnNeedTime": "0",
+    "startDatetimeT": "1604692800000"
+}, {
     "activityContent": "期間限定イベント    「零戦のうた」",
     "activityId": "18",
     "activityRealId": "3*65",
@@ -194,6 +220,19 @@
     "returnNeedTime": "0",
     "startDatetimeT": "1588622399000"
 }, {
+    "activityContent": "期間限定イベント    「放て！飴玉砲」",
+    "activityId": "19",
+    "activityRealId": "4*76",
+    "activityType": "4",
+    "activityTypeId": "76",
+    "endDatetimeT": "1604174399000",
+    "imgIndex": "Event_EQ20",
+    "index": "0",
+    "position": "",
+    "returnDuration": "0",
+    "returnNeedTime": "0",
+    "startDatetimeT": "1591300799000"
+}, {
     "activityContent": "期間限定イベント    「真夏の前哨戦」",
     "activityId": "15",
     "activityRealId": "4*77",
@@ -246,18 +285,18 @@
     "returnNeedTime": "0",
     "startDatetimeT": "1591300799000"
 }, {
-    "activityContent": "期間限定イベント    「放て！飴玉砲」",
-    "activityId": "19",
-    "activityRealId": "4*76",
+    "activityContent": "期間限定イベント    「図書館ぐらし」",
+    "activityId": "20",
+    "activityRealId": "4*71",
     "activityType": "4",
-    "activityTypeId": "76",
-    "endDatetimeT": "1604174399000",
-    "imgIndex": "Event_EQ20",
+    "activityTypeId": "71",
+    "endDatetimeT": "1607025599000",
+    "imgIndex": "Event_EQ21",
     "index": "1",
     "position": "",
     "returnDuration": "0",
     "returnNeedTime": "0",
-    "startDatetimeT": "1591300799000"
+    "startDatetimeT": "1605816000000"
 }, {
     "activityContent": "カムバック               キャンペーン",
     "activityId": "321",
@@ -271,32 +310,6 @@
     "returnDuration": "14",
     "returnNeedTime": "30",
     "startDatetimeT": "1584433001000"
-}, {
-    "activityContent": "  「M8外装補完」    ログインボーナス",
-    "activityId": "55",
-    "activityRealId": "1*SC18",
-    "activityType": "1",
-    "activityTypeId": "SC18",
-    "endDatetimeT": "1605815999000",
-    "imgIndex": "Event_LoginM8",
-    "index": "3",
-    "position": "",
-    "returnDuration": "0",
-    "returnNeedTime": "0",
-    "startDatetimeT": "1604692800000"
-}, {
-    "activityContent": "「配信一周年記念」  ログインボーナス",
-    "activityId": "54",
-    "activityRealId": "1*SC17",
-    "activityType": "1",
-    "activityTypeId": "SC17",
-    "endDatetimeT": "1605729599000",
-    "imgIndex": "Event_Login1Y2",
-    "index": "4",
-    "position": "",
-    "returnDuration": "0",
-    "returnNeedTime": "0",
-    "startDatetimeT": "1603656000000"
 }, {
     "activityContent": "事前登録報酬",
     "activityId": "51",
