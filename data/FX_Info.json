@@ -15204,6 +15204,116 @@
         ]
     },
     {
+        "ArmID": "ARM208501",
+        "EnginePath": "",
+        "Skill_Info": [{
+                "Skill_ID": "SJ1401",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1402",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1403",
+                "Spine_Anim": "shootC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1404",
+                "Spine_Anim": "shoot1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1405",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1501",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1502",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1503",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1504",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SS90116",
+                "Spine_Anim": "CI_b1",
+                "Effect_ID": "CI_b1"
+            }
+        ]
+    },
+    {
+        "ArmID": "ARM208502",
+        "EnginePath": "",
+        "Skill_Info": [{
+                "Skill_ID": "SJ1401",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1402",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1403",
+                "Spine_Anim": "shootC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1404",
+                "Spine_Anim": "shoot1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1405",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1501",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1502",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1503",
+                "Spine_Anim": "bombC1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SJ1504",
+                "Spine_Anim": "bomb1",
+                "Effect_ID": ""
+            },
+            {
+                "Skill_ID": "SS90116",
+                "Spine_Anim": "CI_b1",
+                "Effect_ID": "CI_b1"
+            }
+        ]
+    },
+    {
         "ArmID": "EMY12111",
         "EnginePath": "",
         "Skill_Info": [{

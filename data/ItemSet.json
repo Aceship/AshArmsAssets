@@ -4228,6 +4228,32 @@
         "armsids": "ARM208402",
         "shopad": "",
         "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20850101",
+        "name": "流星",
+        "description": "流星",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM208501,ARM208502",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20850201",
+        "name": "流星改",
+        "description": "流星改",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM208502",
+        "shopad": "",
+        "itemMiniType": "0"
     }],
     "itemequipments": [{
         "unlockLevels": "5,0,0,0,0",
@@ -12941,6 +12967,19 @@
         "description": "実戦経験に基いて開発した情報構造体。\\n樋口楓の機体突破に使用可能。",
         "icon": "DOL2084",
         "upicon": "DOL2084",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM92085",
+        "name": "流星の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\n流星の機体突破に使用可能。",
+        "icon": "DOL2085",
+        "upicon": "DOL2085",
         "rarity": "5",
         "dropFrom": "SHOP*399",
         "sellPriceStr": "0,0,0,0,0,0",

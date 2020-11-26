@@ -1174,7 +1174,7 @@
         "CharName": "M41D",
         "CharNameSh": "M41D",
         "ArmsNo": "41A52",
-        "FullName": "M41D",
+        "FullName": "M41D Light Tank",
         "Academy": "カーデーラルク学院",
         "BackData": "原型ARMSに基づき、機関砲や通信システム、走行駆動装置などを更新し、新型FCSを実装し、大幅に改修した結果はM41Dである。DOLLS本人の評価だと「元のARMSの操縦方法を全部忘れるぐらい便利である」。便利故の怠け癖を防ぐために、M41Dの訓練を必ず督促してください。",
         "PrototypeID": "ARM106501",
@@ -2714,5 +2714,31 @@
         "PrototypeID": "ARM208401",
         "ArmsType": "重爆撃機",
         "CV": "樋口楓"
+    },
+    {
+        "ArmsID": "ARM208501",
+        "ArmsName": "流星",
+        "CharName": "流星",
+        "CharNameSh": "流星",
+        "ArmsNo": "31N35",
+        "FullName": "Aichi B7A Ryusei",
+        "Academy": "愛知学联",
+        "BackData": "「愛知学院創設以来初の才女」と自称するものの、実戦でその実力を発揮する機会はあまりない。\n愛知学院はある日地盤沈下事故により宿舎もろとも損壊し、人員も一時的に極東重鋼学連傘下の他の学院に身を寄せるしかなかった。当然ながらARMSの開発にも深刻な遅れが生じた。\n彼女に体系維持のための鍛錬を促すと同時に、本人の自尊心を損なわぬよう細心の注意を払う必要がある。",
+        "PrototypeID": "ARM208501",
+        "ArmsType": "軽攻撃機",
+        "CV": "???"
+    },
+    {
+        "ArmsID": "ARM208502",
+        "ArmsName": "流星改",
+        "CharName": "流星改",
+        "CharNameSh": "流星改",
+        "ArmsNo": "31N36",
+        "FullName": "Aichi B7A2 Ryusei Kai",
+        "Academy": "愛知学联",
+        "BackData": "自身に重りを付けながら作戦に従事することで、鍛錬と作戦の遂行を両立させようとした。\n奇抜な考えではあるが、一石二鳥である。\nと、彼女はそう思った。",
+        "PrototypeID": "ARM208501",
+        "ArmsType": "軽攻撃機",
+        "CV": "???"
     }
 ]
