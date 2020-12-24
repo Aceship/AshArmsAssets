@@ -1558,4 +1558,64 @@
     "Texture_Get": "ARM208501_Get",
     "Texture_Offset": "18,52.99999",
     "Spine_Name": "ARM208502_SkeletonData"
+}, {
+    "ArmID": "ARM10339001",
+    "Texture_Normal": "ARM10339001_Normal",
+    "Texture_Get": "ARM103301_Get",
+    "Texture_Offset": "-11,-23",
+    "Spine_Name": "ARM10339001_SkeletonData"
+}, {
+    "ArmID": "ARM10529001",
+    "Texture_Normal": "ARM10529001_Normal",
+    "Texture_Get": "ARM105201_Get",
+    "Texture_Offset": "-26,3.000008",
+    "Spine_Name": "ARM10529001_SkeletonData"
+}, {
+    "ArmID": "ARM11280101",
+    "Texture_Normal": "ARM11280101_Normal",
+    "Texture_Get": "ARM112801_Get",
+    "Texture_Offset": "-35,12",
+    "Spine_Name": "ARM112801_SkeletonData"
+}, {
+    "ArmID": "ARM11280201",
+    "Texture_Normal": "ARM11280201_Normal",
+    "Texture_Get": "ARM112801_Get",
+    "Texture_Offset": "-35,12",
+    "Spine_Name": "ARM112802_SkeletonData"
+}, {
+    "ArmID": "ARM10159001",
+    "Texture_Normal": "ARM10159001_Normal",
+    "Texture_Get": "ARM101501_Get",
+    "Texture_Offset": "-28.00002,9",
+    "Spine_Name": "ARM10159001_SkeletonData"
+}, {
+    "ArmID": "ARM10569002",
+    "Texture_Normal": "ARM10569002_Normal",
+    "Texture_Get": "ARM105601_Get",
+    "Texture_Offset": "-22,3",
+    "Spine_Name": "ARM10569002_SkeletonData"
+}, {
+    "ArmID": "ARM11290101",
+    "Texture_Normal": "ARM11290101_Normal",
+    "Texture_Get": "ARM112901_Get",
+    "Texture_Offset": "-11,43.99998",
+    "Spine_Name": "ARM112901_SkeletonData"
+}, {
+    "ArmID": "ARM11290201",
+    "Texture_Normal": "ARM11290201_Normal",
+    "Texture_Get": "ARM112901_Get",
+    "Texture_Offset": "-11,43.99998",
+    "Spine_Name": "ARM112902_SkeletonData"
+}, {
+    "ArmID": "ARM20169001",
+    "Texture_Normal": "ARM20169001_Normal",
+    "Texture_Get": "ARM201601_Get",
+    "Texture_Offset": "122,-7.000001",
+    "Spine_Name": "ARM20169001_SkeletonData"
+}, {
+    "ArmID": "ARM20269001",
+    "Texture_Normal": "ARM20269001_Normal",
+    "Texture_Get": "ARM202601_Get",
+    "Texture_Offset": "-7.000001,8.999998",
+    "Spine_Name": "ARM20269001_SkeletonData"
 }]

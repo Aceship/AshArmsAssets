@@ -1133,5 +1133,53 @@
         "EventID": "EPE00810305",
         "CheckPost": 2,
         "CheckTag": 3
+    },
+    {
+        "Index": 142,
+        "PlotKey": "Chapter008_01_クリスマスシナリオ",
+        "PlotType": 0,
+        "EventID": "EPE00910101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 143,
+        "PlotKey": "Chapter008_02_クリスマスシナリオ",
+        "PlotType": 0,
+        "EventID": "EPE00910105",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 144,
+        "PlotKey": "Chapter008_03_クリスマスシナリオ",
+        "PlotType": 0,
+        "EventID": "EPE00910203",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 145,
+        "PlotKey": "Chapter008_04_クリスマスシナリオ",
+        "PlotType": 0,
+        "EventID": "EPE00910301",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 146,
+        "PlotKey": "Chapter008_05_クリスマスシナリオ",
+        "PlotType": 0,
+        "EventID": "EPE00910304",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 147,
+        "PlotKey": "Chapter008_06_クリスマスシナリオ",
+        "PlotType": 0,
+        "EventID": "EPE00910305",
+        "CheckPost": 2,
+        "CheckTag": 3
     }
 ]

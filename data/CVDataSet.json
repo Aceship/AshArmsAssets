@@ -9675,6 +9675,326 @@
         ]
     },
     {
+        "ARMSID": "ARM112801",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "せい！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "くらえ！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "用意が出来ました、このラムが動きを御覧くださいね。"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "ええ、ラムはこの地を固守いたしましょう。"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "あらぁ、これはこれは、困ったとこになるわね。"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "羊の群れが柵から出ました。でも心配しないで。牧羊犬のお守りなんて要りませんわ。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "うっ！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "チッ……"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "ラジャー。仰せのままに。"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "拒否。だって出来かねますわ。"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "お望みのままに。"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "チッチッチッ、ご命令とあらば。"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "新しい任務？わかりました、直ちに遂行しますね。"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "お初にお目にかかります。私はこちらへ新たに配属された戦車「ラム」。この「雄羊」を意味する名前を間違わないでいただきたいわ。でないと、とても失礼にあたるのですよ。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "出撃？それじゃ、敵たちに私の囁きを聞かせてあげられますわね、んふふふふっ……"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "代理人の意向に沿うかどうかがわかりませんが、こちらとしては、一つ提案があります……"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "貴方が望んだ勝利を手に入れなくて、申し訳ないわ。"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "これでもっと上手に戦えますわ。"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "新たなメールが届きましたわ。え？しっぽからこっそり持ってきたわけじゃないからね。"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "この程度のもの？貧弱なものよね。"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "改造完了。これからは、羊のリーダーになるチャンスをもっともっとくださらないかしら？"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "私がもっと強力な存在になれますわよ。ねぇ、試してみません？"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "ご覧の通り、此度の戦闘では、私の活躍が一番優れていますわ。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "んふふっ、羊の群れがまたこんなにも増えましたね。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "強化してからこそ、もっともっと優れた羊のリーダーになれるというもの。"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "これで、もっと戦闘にふさわしい姿になったわね。"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "これで最後の強化です。完全体の私にもっともっと惚れ惚れになってしまいましたか、代理人。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "おかえりなさい、随分と長い留守のようですね。"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "羊の群れが戻りましたね。どうやら色々と面白いものを持ち帰って来ましたようね。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "ただいま、本当に辛いと感じるくらい疲れますわね。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "敵として、よく頑張っていると思うわ。"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "もうこれ以上一片の悔いもないような気分を味わいたいのかしらねぇ？"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "もう飽き飽きしてましたよね、もう疲れ切ってしまいましたよね。さあ、目を閉じて、永遠（えいえん）の眠りにつきましょう。これでもう、永遠（とわ）に疲れたり、何もかもが嫌になったりしないのよ。"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "どうしてこんな格好をしているって？暖かくしていたいもの。綿羊にだってアツアツの毛皮でほかほかにしているのでしょう？"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "私はとりわけ強力なDOLLSではないのだから、代理人がお側に置いてくださることに、とっても感謝していますよ。"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "毛づくろい、なんて素敵なことでしょうね。"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "お気をつけなさいね、代理人。今貴方の手が触れているものは、「黄金の羊毛」なのですよ。"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "貴方のご意志に従い、勝利を納めるましたわ。それで？私めへの報酬は何処（いずこ）へ？"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM112901",
+        "CVDesArray": [{
+                "CVType": "Attack1",
+                "CVDetail": "やっ"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "食らえ"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "移動準備。場所を変えて砲丸を投げよっと。"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "迎撃準備。砲丸の用意は済んでるわ。"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "ちっ、ここまでか。"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "資源回収部隊が出発したわ。こんな仕事があるって分かってたら、私も途中で脱走してたのにさ。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "チッ。"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "いったぁ。"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "分かったわよ、とりあえずあんたの言う通りにするから。"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "余計なお世話だっつーの。"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "マジでイラつくわねこの頑固者。"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "ほんっとめんどくさい。"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "また任務？分かったわよ、行けばいいんでしょ行けば！"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "私は二式砲戦車、名前を憶えてくれればそれでいいわ。うるさいわね、まだ何か質問があるの。訊かれたって答えないわよ。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "出かけるわよ！大嫌いな森林でかくれんぼすることにならなきゃいいんだけどね。"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "もう、この上まだあんたにこんな当たり前なことまで言わないといけないわけ？"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "頑固者が招いた、ごく当然の失敗でしょ。"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "レベルアップ？あんた、それで戦闘が楽になるとでも思ってんの？"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "メールが来たわよ。何ですって？別にポストなんか特別気に留めてないわよ。"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "また外したわね、野獣なんてどこまでいっても野獣よ。"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "改造が終わったわ、今の私は本当の姿になったってわけ。あんたもさぞ失望したでしょ、あんたが考えてるような猛々しい様子じゃなくて。え？違う？ふん、やせ我慢に決まってるわ。"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "新しいARMSの改造が開放されたわよ、私としては改造されるに値するとは思ってないけどね。どうせあんたは私の意見なんて聞かないんでしょうけど。"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "MVPは私だけど、あんたの賞賛とか必要ないから。勘違いはやめてよね。"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "拡充した私の人形のため？あんたそれで私を買収できると思ってるわけ？ったく。"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "新しい強化ね？それって砲丸(鉛玉)をもっと遠くに投げられるようになるんでしょ？"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "また？これも私への好意だって？どうせあんたのために私を働かせようとしてるんでしょ。"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "ふん……気に入ったと言わざるを得ないわね……こういう強化の後の感覚はね。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "戻ったのね、あんたたち大人ってのは本当にダラダラしてんだから。"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "資源回収部隊が戻ったわよ。いくつか良い物を持ち帰ったみたいね。ふん、たぶん私の分はないんでしょうけど。"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "戻ったわ。いいえ、疲れてなんかないから、あんたの心配は無用よ。"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "死になさいよ、キモいわね。"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "私がどんだけキレてるか思い知るといいわ。"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "新しい技を味わってみなさい、この能無しの野獣ども！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "あんたの関心なんて私には必要ないんだから、自分のことだけ気を付けてなさいよ。"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "チッ、私になんか用なの？"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "なんで刀を持ってるのに接近戦をしないんだって？鹿の角だって威風堂々としているけど、人を傷付けるには向いてないでしょ──これは身分の証明であって、相手を傷付けるものではないってだけ。"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "何すんのよ、私を子供扱いしないで！"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "いつも通りの勝利でしょうが。"
+            }
+        ]
+    },
+    {
         "ARMSID": "ARM200101",
         "CVDesArray": [{
                 "CVType": "Attack1",

@@ -119,6 +119,18 @@
     "moveFlag": "1",
     "pose": "1"
 }, {
+    "actorid": "P_100101",
+    "buffList": "BJP011",
+    "describe": "前线小队*移动",
+    "moveFlag": "1",
+    "pose": "1"
+}, {
+    "actorid": "P_100101",
+    "buffList": "BJP012",
+    "describe": "前线小队*固守",
+    "moveFlag": "0",
+    "pose": "2"
+}, {
     "actorid": "P_9",
     "buffList": "BJP092",
     "describe": "阵地哨戒*固守",

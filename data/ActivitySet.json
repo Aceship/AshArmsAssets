@@ -285,6 +285,19 @@
     "returnNeedTime": "0",
     "startDatetimeT": "1591300799000"
 }, {
+    "activityContent": "期間限定イベント    「楓落つ牧羊の歌」",
+    "activityId": "21",
+    "activityRealId": "3*57",
+    "activityType": "3",
+    "activityTypeId": "57",
+    "endDatetimeT": "1608785999000",
+    "imgIndex": "Event_EQ22",
+    "index": "1",
+    "position": "",
+    "returnDuration": "0",
+    "returnNeedTime": "0",
+    "startDatetimeT": "1591300799000"
+}, {
     "activityContent": "期間限定イベント    「図書館ぐらし」",
     "activityId": "20",
     "activityRealId": "4*71",
@@ -292,7 +305,7 @@
     "activityTypeId": "71",
     "endDatetimeT": "1607025599000",
     "imgIndex": "Event_EQ21",
-    "index": "1",
+    "index": "2",
     "position": "",
     "returnDuration": "0",
     "returnNeedTime": "0",
@@ -305,7 +318,7 @@
     "activityTypeId": "73",
     "endDatetimeT": "0",
     "imgIndex": "Event_EQCB",
-    "index": "2",
+    "index": "3",
     "position": "",
     "returnDuration": "14",
     "returnNeedTime": "30",

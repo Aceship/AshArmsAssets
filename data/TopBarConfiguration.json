@@ -554,26 +554,26 @@
         "SceneName": "GaChaScene",
         "PanelName": "Default",
         "ShowTopBar": "1",
-        "DisplayName": "震える山",
+        "DisplayName": "イベント",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
         "ResSlot1": "",
         "HelpPPT": "NONE",
-        "BGM": "402_Tanabata"
+        "BGM": "402_Christmas_1"
     },
     {
 
         "SceneName": "GaChaScene",
         "PanelName": "GaChaPanel",
         "ShowTopBar": "1",
-        "DisplayName": "紅茶に願いを",
+        "DisplayName": "イベント",
         "ShowResModule": "0",
         "ResSlot3": "",
         "ResSlot2": "",
         "ResSlot1": "",
         "HelpPPT": "NONE",
-        "BGM": "402_Tanabata"
+        "BGM": "402_Christmas_1"
     },
     {
         "SceneName": "VoteScene",
