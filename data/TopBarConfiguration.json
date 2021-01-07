@@ -805,6 +805,30 @@
         "BGM": "Muvluv_1"
     },
     {
+        "SceneName": "PassScene",
+        "PanelName": "Default",
+        "ShowTopBar": "1",
+        "DisplayName": "カメルレンゴ",
+        "ShowResModule": "0",
+        "ResSlot3": "0,0,0",
+        "ResSlot2": "0,0,0",
+        "ResSlot1": "1,5,1",
+        "HelpPPT": "NONE",
+        "BGM": "NONE"
+    },
+    {
+        "SceneName": "PassScene",
+        "PanelName": "PassMainView",
+        "ShowTopBar": "1",
+        "DisplayName": "カメルレンゴ",
+        "ShowResModule": "0",
+        "ResSlot3": "0,0,0",
+        "ResSlot2": "0,0,0",
+        "ResSlot1": "1,5,1",
+        "HelpPPT": "NONE",
+        "BGM": "NONE"
+    },
+    {
         "SceneName": "AdvanceScene",
         "PanelName": "AdvanceView",
         "ShowTopBar": "1",

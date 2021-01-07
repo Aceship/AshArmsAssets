@@ -1213,6 +1213,19 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM10099002",
+        "name": "赤色羽根突き隊長",
+        "description": "T-34·赤色羽根突き隊長",
+        "icon": "ARM10099002",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM100901,ARM100902",
+        "shopad": "Cri_Skin_ARM10099002",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM10100101",
         "name": "T-70",
         "description": "T-70",
@@ -1289,6 +1302,19 @@
         "maxStack": "0",
         "armsids": "ARM101203",
         "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM10129001",
+        "name": "覇王花の咲く頃に",
+        "description": "M24 チャーフィー·覇王花の咲く頃に",
+        "icon": "ARM10129001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM101201,ARM101202",
+        "shopad": "Cri_Skin_ARM10129001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM10150101",
@@ -2929,6 +2955,32 @@
         "shopad": "",
         "itemMiniType": "0"
     }, {
+        "itemid": "ARM11250101",
+        "name": "AT-1",
+        "description": "AT-1",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM112501,ARM112502",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM11250201",
+        "name": "Pz.740",
+        "description": "Pz.740",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM112502",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
         "itemid": "ARM11260101",
         "name": "月ノ美兎",
         "description": "月ノ美兎",
@@ -3030,6 +3082,32 @@
         "sellPriceStr": "",
         "maxStack": "0",
         "armsids": "ARM112902",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM11310101",
+        "name": "サン・シャモン280mmTR",
+        "description": "サン・シャモン280mmTR",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM113101,ARM113102",
+        "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM11310201",
+        "name": "GPF194mm自走砲",
+        "description": "GPF194mm自走砲",
+        "icon": "",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM113102",
         "shopad": "",
         "itemMiniType": "0"
     }, {
@@ -3902,6 +3980,19 @@
         "maxStack": "0",
         "armsids": "ARM204002",
         "shopad": "",
+        "itemMiniType": "0"
+    }, {
+        "itemid": "ARM20409001",
+        "name": "きんいろジャスティス",
+        "description": "B-17E フライングフォートレス·きんいろジャスティス",
+        "icon": "ARM20409001",
+        "upicon": "",
+        "rarity": "1",
+        "dropFrom": "SHOP*198",
+        "sellPriceStr": "",
+        "maxStack": "0",
+        "armsids": "ARM204001,ARM204002",
+        "shopad": "Cri_Skin_ARM20409001",
         "itemMiniType": "0"
     }, {
         "itemid": "ARM20410101",
@@ -12585,6 +12676,19 @@
         "constructionGoldCost": "0",
         "bluePrintType": "4"
     }, {
+        "itemid": "IM91125",
+        "name": "AT-1の情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nAT-1の機体突破に使用可能。",
+        "icon": "DOL1125",
+        "upicon": "DOL1125",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
         "itemid": "IM91126",
         "name": "月ノ美兎の情報構成体",
         "description": "実戦経験に基いて開発した情報構造体。\\n月ノ美兎の機体突破に使用可能。",
@@ -12629,6 +12733,19 @@
         "description": "実戦経験に基いて開発した情報構造体。\\n二式砲戦車 ホイの機体突破に使用可能。",
         "icon": "DOL1129",
         "upicon": "DOL1129",
+        "rarity": "5",
+        "dropFrom": "SHOP*399",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "4"
+    }, {
+        "itemid": "IM91131",
+        "name": "サン・シャモン280mmTRの情報構成体",
+        "description": "実戦経験に基いて開発した情報構造体。\\nサン・シャモン280mmTRの機体突破に使用可能。",
+        "icon": "DOL1131",
+        "upicon": "DOL1131",
         "rarity": "5",
         "dropFrom": "SHOP*399",
         "sellPriceStr": "0,0,0,0,0,0",
@@ -13195,6 +13312,19 @@
         "constructionFormula": "",
         "constructionGoldCost": "0",
         "bluePrintType": "4"
+    }, {
+        "itemid": "IM99976",
+        "name": "投票券",
+        "description": "新年を迎える度に秘密裏に流通される投票券。\\n新年の人気投票に使用可能。\\n非正式な民間雑誌「月刊DOLLS」に付属するもの。本誌はあらゆるルートを経て各学連のDOLLSに関する情報、更には一部機密情報も盛りだくさん。灰燼教会に禁書と指定されて久しいものの、未だ密かに多くの支持者達が存在し、毎月大量に発行され続けている。",
+        "icon": "IM99993",
+        "upicon": "IM99993",
+        "rarity": "5",
+        "dropFrom": "",
+        "sellPriceStr": "0,0,0,0,0,0",
+        "maxStack": "2147483647",
+        "constructionFormula": "",
+        "constructionGoldCost": "0",
+        "bluePrintType": "3"
     }, {
         "itemid": "IM99977",
         "name": "聖夜配給箱",
